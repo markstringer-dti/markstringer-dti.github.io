@@ -1,2 +1,2 @@
-# markstringer-dti.github.io
-The github pages repository for this site
+# Delivering the impossiable
+[Delivering the Impossible - pdf](dti.pdf)
