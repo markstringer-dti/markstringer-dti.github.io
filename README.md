@@ -1,4 +1,4 @@
-# Delivering the impossible
+# Delivering the Impossible
 
 [Delivering the Impossible - pdf](dti.pdf)
 
