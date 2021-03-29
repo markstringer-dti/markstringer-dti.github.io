@@ -1,8 +1,10 @@
-***Delivering the Impossible***
-
-by 
-
-***Mark Stringer***
+![Front cover](cover.png)
+\thispagestyle{empty}
+\newpage
+\title{Delivering the Impossible}
+\author{Mark Stringer}
+\maketitle
+\thispagestyle{empty}
 \newpage
 
 ##  Introduction
@@ -158,6 +160,26 @@ Yes, that's right. The structure of this project was fundamentally wrong. This p
 
 If you do daily stand-ups with your team, if you do retrospectives and show and tells, even if you do these things *badly* - you will still find out what the problems are that are facing your project. Not having stand-ups, not having retrospectives and show and tells is the equivalent of shouting "Scrub the decks, don't look at the pirate ship!" at your team.
 
-### Conclusion
+So, what does understanding this notion of "agreed activity" mean for our overall aim of delivering the impossible?
+
+Well, it means something very basic. If you work to discover the problems that your project is facing and then work to solve those problems, you may well be able to transform seemingly impossible projects into projects that are not only possible, but actually get delivered.
+
+This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms rather than looking at the pirate ship and doing what needs to be done when it arrives, they are scrubbing the decks and in the process are making possible projects impossible.
+
+Why? Because problems are scary. Problems are humbling. Problems cause conflict. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of the job that they can't do? Maybe it means that someone hired the wrong people.
+
+Highlighting the problems that a project unearths can be threatening to the sponsors of a project. What if the problem that you unearth is something that they haven't though of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
+
+Too, too often, when someone on the stage shouts "Look a pirate ship." It's the director off stage that shouts something like "You're wrong, it's not there," or "I'm tired of this negativity" or "Maybe you're not up to the job if you think that's a pirate ship."
+
+And that's why people don't raise problems and instead just scrub the decks.
+
+Oh dear. Well. You probably picked this book up because you wanted to deliver (seemingly) impossible projects. I'm delivering on that promise. I'm not delivering on the promise that delivering these projects is a walk in the park or a day at the beach.
+
+Even though dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride, demanding tenacity, tact, diplomacy and a willingness to be called not very nice names, there are two reasons why you still should do it.
+
+Reason number one is that, despite the resistence you might encounter, solving these problems is still the best chance you've got of delivering this a seemingly impossible project. That's a really good, solid positive reason.  
+
+But reason number two is possibly for me, just as motivating: I know what happens when you don't.
 
 
