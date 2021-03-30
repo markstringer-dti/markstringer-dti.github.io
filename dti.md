@@ -6,8 +6,7 @@
 \maketitle
 \thispagestyle{empty}
 \newpage
-
-##  Introduction
+##  Chapter 1 - Introduction
 This book is called "Delivering the impossible." But of course. The only things that can be delivered are possible things. So I might ask you, and you might ask yourself, Why on earth did you pick up this book? It literally has a contradiction, an impossibility right on the front cover. 
 
 But if I did that, I would be being more difficult than you want the author of a book that promises to help with impossible things. Here are some reasons why I think you might pick up this book. 
@@ -35,7 +34,7 @@ Well, this is that book. And it tries to meet all of these expectations. This is
 
 If you read this book, you will definely learn, how to quickly identify seemingly impossible situations, how to manage and manipulate those situations so that's there's a chance, not just of delivery, but also of succees. You'll also get lots of advice about how to look after yourself and those around you while you're doing it.
 
-## Agreed activity
+## Chapter 2 - Agreed activity
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've repeatedly signed up for improvisation classes.  Why? Because my experience is that every time I go to an improvisation class, I learn something new, more specifically, I have new experience, and these often somehow or other, turn out to be useful in real life.
 
 One of the key ideas in improvisation is blocking. For example. If an improvised scene starts with someone knocking on a door. The scene might go something like this. 
@@ -149,7 +148,7 @@ After the minor victory of getting the business analyst to sit with the team, I 
 In that week, the team had been doing some work on the user interface for one of the very early screens in one of the fraud detection journeys. 
 
 One of the developers put up the login screen and then clicked through the first screen and started to talk it through. Even though most people who were on the conference call were on mute, I thought I detected some kind of change in the silence. Finally someone on the line with a cockney accent said:
-"Erm, I though we'd agreed that we were going to arrange cases by account name rather than by account number?"
+"Erm, I thought we'd agreed that we were going to arrange cases by account name rather than by account number?"
 The developer who was demoing the screen looked blank.
 The business analyst who we'd only just set eyes on and had only just joined the team started to look worried "No, it's in the requirements that cases should be arranged by account number."
 "But that makes no sense" someone with a Northern Irish accent joined in.
@@ -168,7 +167,7 @@ This seems so obvious as to be laughable. Why then, in project after project hav
 
 Why? Because problems are scary. Problems are humbling. Problems cause conflict. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of the job that they can't do? Maybe it means that someone hired the wrong people.
 
-Highlighting the problems that a project unearths can be threatening to the sponsors of a project. What if the problem that you unearth is something that they haven't though of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
+Highlighting the problems that a project unearths can be threatening to the sponsors of a project. What if the problem that you unearth is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
 
 Too, too often, when someone on the stage shouts "Look a pirate ship." It's the director off stage that shouts something like "You're wrong, it's not there," or "I'm tired of this negativity" or "Maybe you're not up to the job if you think that's a pirate ship."
 
@@ -183,3 +182,24 @@ Reason number one is that, despite the resistence you might encounter, solving t
 But reason number two is possibly for me, just as motivating: I know what happens when you don't.
 
 
+## Chapter 3 - Trench Warfare
+
+### Connections
+Two members of my team were supposed to be installing their software on a clients machine. They'd written an install script to run from a clean install. They'd tried the install on a practice machine. It had run without any problems. They kept trying to run the install script on the client's machine. It kept failing.
+
+They ran some diagnostic tests. The machine's that they were installing the software on were supposed to be clean. But running the diagnostics, it turned out that they already had other software installed. When the pointed this out to the people who were supplying the servers, they began to act very strangely.
+
+It was a Sunday afternoon. And I was in an emergency meeting. The topic of the emergency meeting had been what we were going to do about the failure of my team to install their software on the clients machine. The client was implying very strongly that the reason we'd failed was because our guys were incompetent. Just like the guys in the server room, when I brought up the subject of software already being installed on the servers he became evasive. He moved the topic of the emergency meeting onto what we should do about the fact that our three o'clock emergency meeting had overrun into our four o'clock emergency meeting.
+
+Ultimately the mystery of server installation failure was solved. The company that were providing the servers were in some kind of contractual dispute with the organisation that wanted the project. While they were in dispute, they were working to the letter of their contract - and so providing servers that already had some software installed, even though they knew it would break our software. That's part of why they were being so weird. But the other part is that the contract for the provision of the servers was officially secret. So even as they saw our guys failing, and they knew why, they felt they weren't legally allowed to tell us.
+
+Eventually we found out. Eventually it was admitted that there was no chance that the project could go live that week. I left the project the next week and never heard of it again, I'm certain it never delivered.
+
+### Concept
+I'm going to use the term "trench warfare" in this chapter. And I'm going to use it to mean any project which is almost definitely going to fail unless it is substantially reorganised and restructured. Why are we talking about trench warfare now? Because in the last chapter, we were talking about pirate ships. Yes, I know, I know, I'm mixing metaphors. 
+
+What I mean by trench warfare is any project that is hugely expensive in terms of money, materiel and human misery and doesn't get anywhere. A key cause of trench warfare is a refusal (or prevention) earlier in the project to deal with the problems that it faces and a key effect (aside from failure of the project) is that there is every more demand for the "agreed" activity which is an alternative to facing the problems to become ever more frantic, pointless and damaging.
+
+### Concrete Practice
+
+### Conclusion
