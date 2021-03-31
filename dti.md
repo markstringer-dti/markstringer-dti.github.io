@@ -198,8 +198,28 @@ Eventually we found out. Eventually it was admitted that there was no chance tha
 ### Concept
 I'm going to use the term "trench warfare" in this chapter. And I'm going to use it to mean any project which is almost definitely going to fail unless it is substantially reorganised and restructured. Why are we talking about trench warfare now? Because in the last chapter, we were talking about pirate ships. Yes, I know, I know, I'm mixing metaphors. 
 
-What I mean by trench warfare is any project that is hugely expensive in terms of money, materiel and human misery and doesn't get anywhere. A key cause of trench warfare is a refusal (or prevention) earlier in the project to deal with the problems that it faces and a key effect (aside from failure of the project) is that there is every more demand for the "agreed" activity which is an alternative to facing the problems to become ever more frantic, pointless and damaging.
+What I mean by trench warfare is any project that is hugely expensive in terms of money, materiel and human misery and doesn't get anywhere. A key cause of trench warfare is a refusal (or prevention) earlier in the project to deal with the problems that it faces and a key effect (aside from failure of the project) is that there is every more demand for the "agreed" activity which is an alternative to facing the problems to become ever more frantic, pointless and damaging. 
+
+Working late. Working weekends, holidays being cancelled or frowned on,  "a positive, can do attitude" are signs that you're working on a trench warfare project. As are high turnover of staff, staff being signed off long-term sick, or with stress.
+
+One of the things that personally I've found most upsetting about working on trench warfare projects is when senior management complain that the staff don't look stressed enough. 
 
 ### Concrete Practice
 
+A trench warfare project is a bad situation. And experience of working on one can be one of the best motivations for getting over your reluctance to tackle issues as soon as they arise - call out and then tack the pirate ship - on the next project that you work on. But every now and then you are going to find yourselves working on a project which is simulateously working towards a ridiculous, undeliverable deadline, whilst at the same time labouring under several other problems, meaning that it's undeliverable. This is in many ways, the archetypal undeliverable project. 
+
+I don't know if the real life Jerry Springer actually said this or not. But in "Jerry Springer the Opera" the character of Jerry Springer says something that has stuck with me ever since: "I don't solve people's problems, I televise them."
+
+If you're working on a trench warfare project, that's exactly what you should be doing. Sure, go one better than Jerry, and solve the problems that you can solve, but the problems that you can't solve? Televise them. Make sure everybody on the project knows what those problems are.
+
+Why? Because someone else may, if they really want to the project to succeed, be able to solve them. Another way to look at this is that some of the people who are browbeating you and your team, you complaining that you're team don't look worried or stressed enought (this really happens) or are complaining that your team lack commitment because they took the whole weekend off, some of those people may only be doing those things because they have no idea what else they can do to make the project more successful. At least by making clear what the problems are that are stopping you delivering, you're giving those people more chance of helping the project succeed.
+
+The second thing that you can do - and this isn't a second option, it should really be done at the same time as you're problem televising, is to deliver something to some of the people who want it. This probably won't be everything, or anywhere near everything that's been asked for by the deadline, but if you can find one bit of software that you can release to some people who really want it, you can completely change the nature of a project. Pull from outside a team that comes from demand from real users is a truly wonderful thing. 
+
+Thirdly, one of the most revolutionary things that you can do, is to come up with a way of tracking and showing the actual progress of the project relative to the project's needs and expectations. In a way this is just a more extreme version of the "Jerry Springer" principle. This is one of the most powerful maneouvres that I think an Agile project manager has in their toolbox, and I'll talk through in detail one particular way to do it in a later chapter.
+
+Demonstrating that a project can't possbility be delivered by a particular deadline can result in some sudden sensible dicussions about reduction of scope, which then again can result in the possiblity of delivering a small bit of working software to some of the people that want it. So, no matter, how, dug-in, going nowhere and doing nothing but enacting damage on the members of its team a project might be, by pushing on all of these three "fronts" and getting some kind of virtuous circle going, it might be that something good could come out of even the worst trench warfare project. 
+
 ### Conclusion
+It might be that something could be done to save any particular trench warfare project. But equally, it's important to remember that some projects simply cannot be saved. I don't think I've ever worked on a project that was being deliberately targetted to fail, but I have heard talk of such projects. 
+
