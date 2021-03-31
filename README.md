@@ -2,7 +2,8 @@
 
 [Delivering the Impossible - pdf](dti.pdf)
 
-![Delivering the Impossible](cover.png)
+<img src="cover.png" alt="HTML5 Icon" width="400">
+
 
 ## Update History
 Updated 31st March 2021 - "Changed the cover and added a section on when to apply the Jerry Springer principle"
