@@ -6,6 +6,8 @@
 
 
 ## Update History
+Updated 1st April 2021 - "Added a conclusion to chapter 2 - the Kenny Rogers principle - you gotta know when to hold em"
+
 Updated 31st March 2021 - "Changed the cover and added a section on when to apply the Jerry Springer principle"
 
 Updated 30th March 2021 - "Trench warfare and the stupidest thing I've ever come across at work"
