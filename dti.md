@@ -223,3 +223,7 @@ Demonstrating that a project can't possbility be delivered by a particular deadl
 ### Conclusion
 It might be that something could be done to save any particular trench warfare project. But equally, it's important to remember that some projects simply cannot be saved. I don't think I've ever worked on a project that was being deliberately targetted to fail, but I have heard talk of such projects. 
 
+It is quite important to understand that you don't need to stay on any project that is failing. The people in the real trenches had to stay. If they didn't they'd be shot for dessertion. You don't have to. Paul Simon point out that there are multiple ways to depart from a a lover. There might not be as many ways of getting off project, but there are certainly a good few.
+
+Of course, you can just find a new job. When you start to look you might be astounded to find that you're not the only person on that project who is looking. Recruiters have a unique handle on which projects are going badly.
+ 
