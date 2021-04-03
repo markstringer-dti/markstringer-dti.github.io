@@ -6,6 +6,8 @@
 
 
 ## Update History
+Updated 3rd April 2021 - "Start the chapter of flowers and fruit"
+
 Updated 1st April 2021 - "Added a conclusion to chapter 2 - the Kenny Rogers principle - you gotta know when to hold em"
 
 Updated 31st March 2021 - "Changed the cover and added a section on when to apply the Jerry Springer principle"
