@@ -26,13 +26,13 @@ So what you would really like and what you might expect to find in a book with a
 
 In such a book, you might expect to find methods for spotting potential issues that might make a project "impossible" as early as possible. You might then expect the book to go on to talk about what to do in these seemingly impossible situations to make a project reasonable and deliverable and give it a chance of success. 
 
-Finally, you might not be surprised if such a book also talked frankly about the things you might look for to satisfy yourself that a project is geninely impossible and gave advice on what to do in such circumstances, to keep ourselves and the people around us financially, physically and psychologically safe, so that you can walk away from a lost cause and move on to succeed on other projects, ride into the sunset to fight another day.
+Finally, you might not be surprised if such a book also talked frankly about the things you might look for to satisfy yourself that a project is genuinely impossible and gave advice on what to do in such circumstances, to keep ourselves and the people around us financially, physically and psychologically safe, so that you can walk away from a lost cause and move on to succeed on other projects, ride into the sunset to fight another day.
 
 If you're getting really demanding as a reader, you might also expect the book to talk about how deliver, not just on impossible projects, but also on impossible programmes, even in impossible organisations. Yes, if you're really demanding, you might want such a book to talk about how to deliver the impossible at scale.
 
 Well, this is that book. And it tries to meet all of these expectations. This is especially that book if your project, programme or organisation is in some part dependent on the development of software.
 
-If you read this book, you will definely learn, how to quickly identify seemingly impossible situations, how to manage and manipulate those situations so that's there's a chance, not just of delivery, but also of succees. You'll also get lots of advice about how to look after yourself and those around you while you're doing it.
+If you read this book, you will definitely learn, how to quickly identify seemingly impossible situations, how to manage and manipulate those situations so that's there's a chance, not just of delivery, but also of success. You'll also get lots of advice about how to look after yourself and those around you while you're doing it.
 
 ## Chapter 2 - Agreed activity
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've repeatedly signed up for improvisation classes.  Why? Because my experience is that every time I go to an improvisation class, I learn something new, more specifically, I have new experience, and these often somehow or other, turn out to be useful in real life.
@@ -222,3 +222,38 @@ It is quite important to understand that you don't need to stay on any project t
 
 Of course, you can just find a new job. When you start to look you might be astounded to find that you're not the only person on that project who is looking. Recruiters have a unique handle on which projects are going badly.
  
+## Chapter 4 - Flowers and Fruit
+### Concept
+This is a distinction that I picked up from reading about Taoism. Put bluntly, there are two ways that you can get paid.
+
+You can get paid for looking good and you can get paid for doing good. In Taoist terms. Getting paid for looking good is "Flowers" and getting paid for doing good is "Fruit."
+
+Don't get me wrong. It might seem as we go through this chapter that I'm down on flowers. I'm not down on flowers. Flowers are great. In project management terms, the equivalent of flowers are ideas. 
+
+People have ideas, those ideas get funding and that's how projects are born. Something that ideas and flowers have in common is that they appeal is immediate and unthinking. It doesn't take any thought to like a rose. Of course, some people might not like roses. But the people who do, don't have to work it out. 
+
+Something similar seems to happen with ideas, the kind of ideas that get funded as projects seem to have a common structure that gives them immediate appeal, so that, like flowers, those who are expose to them respond to them positively and unthinkingly.
+
+Often this is in terms of easy, fast, cheap, same and all.
+
+For example - "Does everything that the old system does, but cheaper and faster."
+
+"Deals with all customer enquiries, without the need for human involvement."
+
+"One stop shop for everybody who is trying to do this job."
+
+Just like flowers, ideas get paid for being attractive to people before they even think about it.
+
+What about fruit? What's the difference between fruit and flowers? It isn't that they difficult to grow. There's lots of effort involved in growing both. And although it might *look* easy to put together an attractive idea that can get funding. Clearly it isn't, otherwise everybody would have managed to get a project funded. 
+
+No, the difference between fruit and flowers isn't that one is easier to do that the other. The difference is that the fruit has to actually be eaten. The users of fruit interact with it in a completely different way to the users of flowers.
+
+Users eat fruit. The only look at flowers. Nobody ever died from looking at an unpleasant flower. A sour apple can give you bad indigestion and some fruit is actually poisonous. 
+
+Similarly, implemented, delivered projects have to actually give value to their users and this involve an interaction with users which is different from buying and selling flowers. User have to actually get some good, some value out of using a software product. What 'good' that value, is, is radically different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit, the process of "using" fruit for users is one were, if it doesn't taste right, they will spit it out, and if it isn't grown right, it could do them harm.
+
+### Connections
+
+### Concrete Practice
+
+### Conclusion
