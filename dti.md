@@ -253,6 +253,25 @@ Users eat fruit. The only look at flowers. Nobody ever died from looking at an u
 Similarly, implemented, delivered projects have to actually give value to their users and this involve an interaction with users which is different from buying and selling flowers. User have to actually get some good, some value out of using a software product. What 'good' that value, is, is radically different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit, the process of "using" fruit for users is one were, if it doesn't taste right, they will spit it out, and if it isn't grown right, it could do them harm.
 
 ### Connections
+To be honest, I wish I were able to cite some other reference in support of this idea of "flowers and fruit" than a 2000 year old religious text. 
+
+Because for me, moving a project from its "flowers" state to its "fruit state" is one of the most important things that anybody is doing when they are trying to deliver a project, it's also one of the hardest, and it's one that hardly anybody talks about.
+
+What makes this so hard? Well, one of the things that makes it so hard is the nature of project ideas that we talked about. What makes project ideas attractive - the kinds of things that get funded is there instant, unthinking appeal. Often what creates that unthinking appeal is that they suggest some of these features: easy, fast, cheap, same and all.
+
+The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using an iterative framework like Scrum. In Scrum the team meet at the beginning of every work day and talk about what they're going to do that day and anything that's stopping from doing what they want to do. They do this every working day. This is called the standup.
+
+Once a fortnight, the team demonstrates the work that it's been doing in the last two weeks to anybody in the organisation (sometimes also external users) who's interested - this is called the show and tell.
+
+The team also has a private meeting where they share what went well, what didn't go so well and what they might try differently.
+
+Can you see yet how problems might arise for the "Flowers" aspect of a project, the idea that has immediate appeal? The minute that a team starts to implement the idea of a project they will encounter problems and if the team is using an Agile approach like Scrum, those problems will start to be reported, literally on day one.
+
+So? What's the problem with problems? The problem with problems is that literally any problem that the team finds is like to take the shine off the idea. Any problem that the team finds is likely to make the idea look more difficult, slower, more expensive, different and partial.
+
+So, this is the paradox at the heart of project managment and project development that I wonder people don't talk about more.
+
+>> Nothing makes a project less attractive than actually starting to do it.  
 
 ### Concrete Practice
 
