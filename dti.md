@@ -271,7 +271,7 @@ So? What's the problem with problems? The problem with problems is that literall
 
 So, this is the paradox at the heart of project managment and project development that I wonder people don't talk about more.
 
->> Nothing makes a project less attractive than actually starting to do it.  
+>> Nothing makes a project appear less attractive than actually starting to do it.  
 
 ### Concrete Practice
 
