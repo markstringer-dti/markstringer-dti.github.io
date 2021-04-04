@@ -6,6 +6,8 @@
 
 
 ## Update History
+Updated 4th April 2021 - "The central challenge of project management. Why does nobody talk about this more?"
+
 Updated 3rd April 2021 - "Start the chapter of flowers and fruit"
 
 Updated 1st April 2021 - "Added a conclusion to chapter 2 - the Kenny Rogers principle - you gotta know when to hold em"
