@@ -273,7 +273,7 @@ So, this is the paradox at the heart of project management and project developme
 
 >> Nothing makes a project appear less attractive than actually starting to do it.  
 
-### Concrete Practice
+### Conclusion
 So what can be done? To solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine difficulties that the project is facing. That way failure or possibly trench warfare lies. 
 
 The project is entering a vulnerable, cold phase, where it is not support and value from the idea because we are starting to find out what is wrong with the idea, and the same time there is no support and value from the reality, because there is no reality.
@@ -294,3 +294,4 @@ But I can say this. You need a strategy for mapping the ecosystem of stakeholder
 
 At the same time, you need a strategy for getting working software that somehow addresses these needs and is attractive to the ecosystem of stakeholders as near to real users using real data as you possibly can. 
 
+### Concrete practice
