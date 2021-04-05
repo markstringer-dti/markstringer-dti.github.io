@@ -294,6 +294,3 @@ But I can say this. You need a strategy for mapping the ecosystem of stakeholder
 
 At the same time, you need a strategy for getting working software that somehow addresses these needs and is attractive to the ecosystem of stakeholders as near to real users using real data as you possibly can. 
 
-
-
-### Conclusion
