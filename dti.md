@@ -259,7 +259,7 @@ Because for me, moving a project from its "flowers" state to its "fruit state" i
 
 What makes this so hard? Well, one of the things that makes it so hard is the nature of project ideas that we talked about. What makes project ideas attractive - the kinds of things that get funded is there instant, unthinking appeal. Often what creates that unthinking appeal is that they suggest some of these features: easy, fast, cheap, same and all.
 
-The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using an iterative framework like Scrum. In Scrum the team meet at the beginning of every work day and talk about what they're going to do that day and anything that's stopping from doing what they want to do. They do this every working day. This is called the standup.
+The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using an iterative framework like Scrum. In Scrum the team meet at the beginning of every work day and talk about what they're going to do that day and anything that's stopping from doing what they want to do. They do this every working day. This is called the stand up.
 
 Once a fortnight, the team demonstrates the work that it's been doing in the last two weeks to anybody in the organisation (sometimes also external users) who's interested - this is called the show and tell.
 
@@ -269,10 +269,31 @@ Can you see yet how problems might arise for the "Flowers" aspect of a project, 
 
 So? What's the problem with problems? The problem with problems is that literally any problem that the team finds is like to take the shine off the idea. Any problem that the team finds is likely to make the idea look more difficult, slower, more expensive, different and partial.
 
-So, this is the paradox at the heart of project managment and project development that I wonder people don't talk about more.
+So, this is the paradox at the heart of project management and project development that I wonder people don't talk about more.
 
 >> Nothing makes a project appear less attractive than actually starting to do it.  
 
 ### Concrete Practice
+So what can be done? To solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine difficulties that the project is facing. That way failure or possibly trench warfare lies. 
+
+The project is entering a vulnerable, cold phase, where it is not support and value from the idea because we are starting to find out what is wrong with the idea, and the same time there is no support and value from the reality, because there is no reality.
+
+As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to hesitate to move a project through this phase, and this is what we talked about in Chapter two, when we talked about agreed activity and in Chapter three where we talked about the awful situations a project can get into if the problems with agreed activity aren't tackled. 
+
+So, someone who wants a project to succeed shouldn't do anything to stop it moving into this phase. At the same time, you should know where you're going and what kind of things can should be done to get you out the other side of this difficult phase.
+
+OK, here's where it gets even more tricky. There are two kinds of thing that you should be doing to get the project through this trick phase and on the road to success. And here's what makes this tricky. Both of the kinds of things that you should be dong are the kinds of things that the sponsors of a project are likely are either a pointless waste of time or are actually damaging to the project and should be stopped. 
+
+What are these two things? Stakeholder research, which I'll talk about in more detail in the next chapter, and working software.
+
+What do I mean by stakeholder research? I mean as a product team developing a good understanding of who is interested in the product and what their interest is. Notice here that I'm not saying "user research" that's because stakeholder research doesn't just include users, it include other individuals, organisations, interest groups that might be interested in the product.
+
+Also, as I'm writing this, I'm resisting from saying things like "find out as much as you can about the people who are funding this project" or "find out everything that you possibly can about your users." Why? Because as a seasoned and grizzled project manager I'm sensitive to statements that involve "all". 
+
+But I can say this. You need a strategy for mapping the ecosystem of stakeholders and you need a strategy for investigating the needs of users and using what you find from these investigations to inform what goes into working software.
+
+At the same time, you need a strategy for getting working software that somehow addresses these needs and is attractive to the ecosystem of stakeholders as near to real users using real data as you possibly can. 
+
+
 
 ### Conclusion
