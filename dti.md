@@ -294,4 +294,32 @@ But I can say this. You need a strategy for mapping the ecosystem of stakeholder
 
 At the same time, you need a strategy for getting working software that somehow addresses these needs and is attractive to the ecosystem of stakeholders as near to real users using real data as you possibly can. 
 
-### Concrete practice
+So how do we do this? How do we acheive this transition from the "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real thing, a real, working piece of software.
+## Chapter 4 - Working Software
+
+>>"sufficiently advanced technology is indistinguishable from magic" 
+>> Arthur C. Clarke
+
+### Concept
+In the Agile manifest, working software is mentions as the second key value.
+>> Working software over comprehensive documentation
+
+It's worth asking possibly, why? What was the experience of those guys who got together to talk about "lightweight" software methdologies that meant that in the final 93 word manifest, working software took up five of those words. 
+
+I don't know for sure, but my suspicion is that they had all had the unpleasant experience of being involved in projects where the production of working software was delayed for a long time while the specification was agreed.
+
+It's important to remember that for the first fourty or fifty years that software development existed, that's how people thought it should be done.  Software development was called software engineering and it was thought to be essentially an offshoot of other kinds of engineering. And in other kinds of engineering, nothing is built before the productions of meticulous plans. 
+
+But what is this second principle in the Agile manifesto saying? It's essentially saying the engineering "have a go at building a bridge and see how you get on."
+
+So why? Why would people who were experienced in the software development business and had got together for the express purpose of making the way that software developement happened better, why would they want something about working software to be in the manifesto.
+
+OK, let's make this about you for a minute. Think of something that you know a lot about. There will be something. It doesn't have to be anything to do with work. But think of something that you know how to do. OK now think of some aspect of that thing that someone who wasn't an expert would think was strange about how do this thing. Why do you do that thing?
+
+There are at least a couple of possible answers. Maybe you were taught to do this thing by whoever taught you. Maybe it's just a quirk or eccentricity that you've developed. But there's one answer which is very likely and very compelling. You do things in this way because you've seen what happens if you don't. You've learned the hard way.
+
+
+### Concrete Practice
+We've already talked about one example where working software - barely working software completely changed a project - remember the screen from the bank fraud project? 
+### Connections
+### Conclusion
