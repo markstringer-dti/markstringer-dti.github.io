@@ -223,7 +223,6 @@ It is quite important to understand that you don't need to stay on any project t
 Of course, you can just find a new job. When you start to look you might be astounded to find that you're not the only person on that project who is looking. Recruiters have a unique handle on which projects are going badly.
  
 ## Chapter 4 - Flowers and Fruit
-### Concept
 This is a distinction that I picked up from reading about Taoism. Put bluntly, there are two ways that you can get paid.
 
 You can get paid for looking good and you can get paid for doing good. In Taoist terms. Getting paid for looking good is "Flowers" and getting paid for doing good is "Fruit."
@@ -252,7 +251,6 @@ Users eat fruit. The only look at flowers. Nobody ever died from looking at an u
 
 Similarly, implemented, delivered projects have to actually give value to their users and this involve an interaction with users which is different from buying and selling flowers. User have to actually get some good, some value out of using a software product. What 'good' that value, is, is radically different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit, the process of "using" fruit for users is one were, if it doesn't taste right, they will spit it out, and if it isn't grown right, it could do them harm.
 
-### Connections
 To be honest, I wish I were able to cite some other reference in support of this idea of "flowers and fruit" than a 2000 year old religious text. 
 
 Because for me, moving a project from its "flowers" state to its "fruit state" is one of the most important things that anybody is doing when they are trying to deliver a project, it's also one of the hardest, and it's one that hardly anybody talks about.
@@ -273,7 +271,6 @@ So, this is the paradox at the heart of project management and project developme
 
 >> Nothing makes a project appear less attractive than actually starting to do it.  
 
-### Conclusion
 So what can be done? To solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine difficulties that the project is facing. That way failure or possibly trench warfare lies. 
 
 The project is entering a vulnerable, cold phase, where it is not support and value from the idea because we are starting to find out what is wrong with the idea, and the same time there is no support and value from the reality, because there is no reality.
@@ -295,7 +292,8 @@ But I can say this. You need a strategy for mapping the ecosystem of stakeholder
 At the same time, you need a strategy for getting working software that somehow addresses these needs and is attractive to the ecosystem of stakeholders as near to real users using real data as you possibly can. 
 
 So how do we do this? How do we acheive this transition from the "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real thing, a real, working piece of software.
-## Chapter 4 - Working Software
+
+## Chapter 5 - Working Software
 
 >>"sufficiently advanced technology is indistinguishable from magic" 
 >> Arthur C. Clarke
@@ -321,5 +319,7 @@ There are at least a couple of possible answers. Maybe you were taught to do thi
 
 ### Concrete Practice
 We've already talked about one example where working software - barely working software completely changed a project - remember the screen from the bank fraud project? 
+
 ### Connections
+
 ### Conclusion
