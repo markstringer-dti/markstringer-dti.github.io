@@ -302,24 +302,61 @@ So how do we do this? How do we acheive this transition from the "Flowers", wher
 In the Agile manifest, working software is mentions as the second key value.
 >> Working software over comprehensive documentation
 
-It's worth asking possibly, why? What was the experience of those guys who got together to talk about "lightweight" software methdologies that meant that in the final 93 word manifest, working software took up five of those words. 
+It's worth asking possibly, why? What was the experience of those guys who got together to talk about "lightweight" software methodologies that meant that in the final 93 word manifest, working software took up five of those words. 
 
 I don't know for sure, but my suspicion is that they had all had the unpleasant experience of being involved in projects where the production of working software was delayed for a long time while the specification was agreed.
 
-It's important to remember that for the first fourty or fifty years that software development existed, that's how people thought it should be done.  Software development was called software engineering and it was thought to be essentially an offshoot of other kinds of engineering. And in other kinds of engineering, nothing is built before the productions of meticulous plans. 
+It's important to remember that for the first forty or fifty years that software development existed, that's how people thought it should be done.  Software development was called software engineering and it was thought to be essentially an offshoot of other kinds of engineering. And in other kinds of engineering, nothing is built before the productions of meticulous plans. 
 
-But what is this second principle in the Agile manifesto saying? It's essentially saying the engineering "have a go at building a bridge and see how you get on."
+But what is this second principle in the Agile manifesto saying? It's essentially saying the engineering equivalent of "have a go at building a bridge and see how you get on."
 
-So why? Why would people who were experienced in the software development business and had got together for the express purpose of making the way that software developement happened better, why would they want something about working software to be in the manifesto.
+So why? Why would people who were experienced in the software development business and had got together for the express purpose of making the way that software development happened better, why would they want something about working software to be in the manifesto.
 
 OK, let's make this about you for a minute. Think of something that you know a lot about. There will be something. It doesn't have to be anything to do with work. But think of something that you know how to do. OK now think of some aspect of that thing that someone who wasn't an expert would think was strange about how do this thing. Why do you do that thing?
 
 There are at least a couple of possible answers. Maybe you were taught to do this thing by whoever taught you. Maybe it's just a quirk or eccentricity that you've developed. But there's one answer which is very likely and very compelling. You do things in this way because you've seen what happens if you don't. You've learned the hard way.
 
+And I totally think that that's the reason why "working software over detailed documentation" is in the Agile manifesto. And this is a very similar reason to one that we've discussed when we were talking about avoiding agreed activity. Why was I pushing to avoid agreed activity and work with the team to tackle whatever the difficult was that was looming on the horizon? Well, there are lots of good reasons, but one of the main ones, was that I've seen what happens when you don't do this - trench warfare.
+
+I think it's absolutely the same reason that working software is one of the four main things that are discussed in the Agile Manifesto. The people who put it there have seen what happens if you don't push for working software. But when it comes to working software, it might also be that they've seen the good things that can come from producing working software.
+
+### Conclusion
+I think there are three main reasons why any software development team should be trying to develop working software sooner rather than later. 
+
+The first reminds me of a joke.
+
+>> You will never be alone, if you take with you everywhere the ingredients and equipment to make a dry martini. Because, even if you think you are completely alone and stranded on a desert island, the minute that you start to make the dry martini, someone will jump out from behind a palm tree and say "that's not how you make a dry martini."
+
+Something like this is true of developing working software. The more you try to get working software loaded up on the environments where it's really going to be used, by real users, using real data, the more likely it is that people that you didn't even know existed are going to jump out from behind palm trees and say "you're doing it wrong."
+
+In my head, I always imagine the job of getting working software out in the world on a working environment like trying to escape from a prison camp. There's only one way to find out what all the security mechanism are that are out there in no man's land, and that's to try to trigger them. 
+
+I'm mixing metaphors again aren't I? Let's stick with the man behind a tree for a moment. Most of those things that the man who jumps out from behind a tree will mention are what are known as "non functional requirements." The software needs to be accessible. The software needs to be secure. The software is covered by some regulator in the industry that you have never heard of. 
+
+Of course, one way to tackle all the rules and regulation tripwires that your software might trigger is to try to cater for them in the specification before any software gets written. But in my experience (and I suspect in the experience of the people who wrote the Agile manifesto) it's very difficult to find out exactly what you can and can't do without trying to do something. When you're trying to list these requirements without a piece of working software, you're only really dealing with "known knowns". When you try to get some working software as far as you can through the barbed wire to the outside world, you suddenly start to find about "known unknowns" (you knew there would be other security measures out there in no man's land, but you didn't know what they were) but also known unknowns (like the guy jumping out from behind a tree). 
+
+OK. This metaphor is in a blender. But it still applies. Why try to do working software? Because if you do a man will jump out from behind a tree and tell you why you can't and the only way to find out what there is in no-man's land that's stopping you and your software from escaping is to get through it. Let's move on to the second reason why trying to create working software is a good idea.
+
+The second reason is this, we might call it the "there's only one way to find out." Reason. Sometimes it's really important to re-state very simple things. How do you find out if you can do something? By trying to do it.
+
+I'm teasing this out from the kind of non-functional requirements, rules and regulations reasons that might be stopping you from getting some software working. This is more basic than that. These are more basic questions that trying to get working software answers.
+
+Is your team capable of writing this software?
+
+Does your team have access to the tools and resources that they need to write this software?
+
+Does the technology that you've decided to use work?
+
+Is the organisation that you're working for capable and willing to pay for the servers and the infrastructure that you need to deploy this software.
+
+Well, really there's only one way to find out the answers to these questions and embarrassingly, the answer might not be the one that you're hoping for. I've worked on teams where the team members don't have access to the office, I've worked on teams that don't have access to the internet. Of course these are problems that can be solved, but only once they're uncovered. 
+
+So, this is the most basic reason why a team should be trying to develop software as soon as possible, because there really is only one way to find out.
+
+But there's a third reason. Software is magical.
 
 ### Concrete Practice
-We've already talked about one example where working software - barely working software completely changed a project - remember the screen from the bank fraud project? 
 
 ### Connections
 
-### Conclusion
+
