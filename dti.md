@@ -353,8 +353,35 @@ Well, really there's only one way to find out the answers to these questions and
 
 So, this is the most basic reason why a team should be trying to develop software as soon as possible, because there really is only one way to find out.
 
-But there's a third reason. Software is magical.
+But there's a third reason. Software is magical and the way that people respond to it is magical. Put simply, people don't respond to working software in the way that they respond to feature lists or specifications.
 
+Think about it. Think about the pieces of software that you interact with every day. Are you thinking about them in terms of lists of features? Most probably when you're using some piece of software, you have other things on your mind. A funny joke that you want to share, a report that you want to write, a podcast that you want to listen to.
+
+And this, final reason is the main reason that it's useful, important and clever, whenever you can, to try to move a project towards delivering working software earlier rather than later. By doing this, by putting working software in the hands of the people who will use it, you start to solve the flowers vs fruit problem that we talked about in the last chapter. 
+
+Because you move the discussion and the dynamic of the project away from flowers - a discussion about the list of things that a piece of software will do to fruit - something that is in people's hands that will do something that's useful for them.
+
+I worked on a project for an organisation that was still doing pretty much all of it's business using paper documents. This was a huge organisation, and it processed - literally - tons and tons of paper. The project that I was working on was trying to take just one of the processes that this organisation did and manage it using an electronic document management system. 
+
+And the project had a couple of good things going for it.  Firstly it was using an Agile approach. Secondly, the product owner was a former clerk of the company, she new all the other clerks and she knew their business very well.
+
+To start with the project had a tough time. We could get servers to put the software on. The document package we'd chosen wasn't as mature as we thought it would be. But we pushed on through some early design iterations and a load of technical difficulties until we got to one show and tell where the team finally had some working software that they could demonstrate.
+
+It was a weird, crunch point in the project. Because that first demonstration was terrible. We'd managed to pare down the minimum functionality to a view of a collection of documents and then a display of the document when its title was clicked.  In that first demonstration, when we clicked on the document label a dialog window came up that said "Do you want to veiw your document?" and when the user clicked "OK" an error message appeared.
+
+The look on the product owner's face! At this point were were about £500,000 into a £2 Million project. And all she had to show was a misspelled-spelled but that led to an error message. It was a difficult time for her and it was a difficult time for the team.
+
+But two weeks later it was a slightly different story. Now there was a list of documents, now when the document was clicked, the chance to open the document had a button that was spelled correctly and when it was clicked, the document was displayed.
+
+The product owner was still looking nervous, but the lines around the eyes and forehead seemed to be slightly fewer.
+
+Not too many show and tells after that the product owner had a question. "Can I get this on a laptop so I can show it to the clerks?"
+
+The short answer to that question was "no" because all of this nearly half a million pounds worth of software was deployed only on developer laptops. But the product owner wanting to have a version that she could take around the country and demonstrate provided a good extra reason to negotiate with the people who'd been supposed to be giving us server space.
+
+Once that was in place, the product owner went on the road with her laptop. The demo still wasn't much. The demo was still buggy. We still even had some spelling problems. But the demo by the product owner to her own kind was dynamite. She could wave past any user interface issues, or glitches and she could show her colleagues just the first sight of something that could really make their lives a lot easier.
+
+She came back with a list of problems she'd encountered using the demo, and a list of suggestions for features that had come from the clerks, but the main question that she came back with was really a demand "When will it be ready?"  
 ### Concrete Practice
 
 ### Connections
