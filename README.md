@@ -6,7 +6,7 @@
 
 
 ## Update History
-Updated 11th April 2021 - "Putting working softare in the hands of users changes your project completely - in a good way."
+Updated 11th April 2021 - "Putting working software in the hands of users changes your project completely - in a good way."
 
 Updated 10th April 2021 - "How are you gonna keep them down on the farm once they've seen the early demo of your document managment system."
 
