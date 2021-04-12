@@ -6,6 +6,9 @@
 
 
 ## Update History
+
+Updated 12th April 2021 - "Working software. Start with the tiniest thing that you can possibly imagine and then push it in the right direction."
+
 Updated 11th April 2021 - "Putting working software in the hands of users changes your project completely - in a good way."
 
 Updated 10th April 2021 - "How are you gonna keep them down on the farm once they've seen the early demo of your document management system."
