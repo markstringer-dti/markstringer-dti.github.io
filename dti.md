@@ -203,7 +203,7 @@ What I mean by trench warfare is any project that is hugely expensive in terms o
 
 Working late. Working weekends, holidays being cancelled or frowned on,  "a positive, can do attitude" are signs that you're working on a trench warfare project. As are high turnover of staff, staff being signed off long-term sick, or with stress.
 
-One of the things that personally I've found most upsetting about working on trench warfare projects is when senior management complain that the staff don't look stressed enough. 
+One of the things that personally I've found most upsetting about working on trench warfare projects is when senior management say that the staff don't look stressed enough. 
 
 A trench warfare project is a bad situation. And experience of working on one can be one of the best motivations for getting over your reluctance to tackle issues as soon as they arise - call out and then tack the pirate ship - on the next project that you work on. But every now and then you are going to find yourselves working on a project which is simultaneously working towards a ridiculous, undeliverable deadline, whilst at the same time labouring under several other problems, meaning that it's undeliverable. This is in many ways, the archetypal undeliverable project. 
 
@@ -211,7 +211,7 @@ I don't know if the real life Jerry Springer actually said this or not. But in "
 
 If you're working on a trench warfare project, that's exactly what you should be doing. Sure, go one better than Jerry, and solve the problems that you can solve, but the problems that you can't solve? Broadcast them. Make sure everybody on the project knows what those problems are.
 
-Why? Because someone else may, if they really want to the project to succeed, be able to solve them. Another way to look at this is that some of the people who are browbeating you and your team, you complaining that you're team don't look worried or stressed enough (this really happens) or are complaining that your team don't really care about the project because they took the whole weekend off. Some of those people may only be doing those things because they have no idea what else they can do to make the project more successful. At least by making clear what the problems are that are stopping you delivering, you're giving those people more chance of helping the project succeed.
+Why? Because someone else may, if they really want to the project to succeed, be able to solve them. Another way to look at this is that some of the people who are giving you and your team a hard time, saying that you're team don't look worried or stressed enough (this really happens) or are saying that your team don't really care about the project because they took the whole weekend off. Some of those people may only be doing those things because they have no idea what else they can do to make the project more successful. At least by making clear what the problems are that are stopping you delivering, you're giving those people more chance of helping the project succeed.
 
 The second thing that you can do - and this isn't a second option, it should really be done at the same time as you're problem televising, is to deliver something to some of the people who want it. This won't be everything, or anywhere near everything that's been asked for by the deadline, but if you can find one bit of software that you can release to some people who really want it, you can completely change the nature of a project. Pull from outside a team that comes from demand from real users is a truly wonderful thing. 
 
@@ -382,7 +382,7 @@ Not too many show and tells after that the product owner had a question. "Can I 
 
 The short answer to that question was "no" because all of this nearly half a million pounds worth of software was deployed only on developer laptops. But the product owner wanting to have a version that she could take around the country and demonstrate provided a good extra reason to negotiate with the people who'd been supposed to be giving us server space.
 
-Once that was in place, the product owner went on the road with her laptop. The demo still wasn't much. The demo was still buggy. We still even had some spelling problems. But the demo by the product owner to her own kind went over very well. She could wave past any user interface issues, or problems and she could show her colleagues the first sight of something that could really make their lives a lot easier.
+Once that was in place, the product owner went on the road with her laptop. The demo still wasn't much. The demo was still buggy. We still even had some spelling problems. But the demo by the product owner to her own kind went over very well. She could wave past any user interface issues, or problems and she could show her old work mates the first sight of something that could really make their lives a lot easier.
 
 She came back with a list of problems she'd encountered using the demo, and a list of suggestions for features that had come from the clerks, but the main question that she came back with was really a demand "When will it be ready?"
 
@@ -390,7 +390,7 @@ From that point on, the nature of the project changed. It wasn't about deliverin
 
 The other interesting thing about getting some working software in front of the people who might really use it, was that it both asked and then started to answer the other two questions that I mentioned. "Can we do this?" and "Who is going to jump out and stop us." 
 
-To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. Bean counters who were working on the project for the client had been arguing for a while that the price of providing and supporting the servers was included in the contract and they should have to either commission them, pay for them or support them. This became a much harder argument to make once people in their own company were asking for the software. Suddenly they were in the way, rather than helping the company by being tough on costs, they were stopping colleagues from getting at something that could make their lives easier. The servers appeared, and then money for staff to support them appeared and something resembling a professional roll-out of the software started to happen.
+To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. Bean counters who were working on the project for the client had been arguing for a while that the price of providing and supporting the servers was included in the contract and they should have to either commission them, pay for them or support them. This became a much harder argument to make once people in their own company were asking for the software. Suddenly they were in the way, rather than helping the company by being tough on costs, they were stopping people who worked for their organisation from getting at something that could make their lives easier. The servers appeared, and then money for staff to support them appeared and something resembling a professional roll-out of the software started to happen.
 
 To the second question "If we try to do this, is anybody going to jump out from behind a tree and stop me?" The answer was "yes." In fact two people jumped out. An accessibility guy and a security guy. The accessibility guy claimed the there was no way the software could be released until it met a extra set of requirements that would make it usable according to a yet another set of standards that try to make websites more accessible to people with disabilities. The client claimed that we should have know about these requirements right from the start and so we should pay for them. 
 
@@ -423,6 +423,33 @@ Even so, taking these two ideas - only deliver things which the user wants and d
 ### Concrete Practice
 So how do we do this? Every project is a little bit different. But I'm going to arbitrarily invent a rule of sixths. Which feels about right to me. If you think your project is about 6 months long. I'll give you a month to do some set up. But if after a month you and your team don't have *something* that works, you've waited to long. Buy the end of a sixth of the time, you need tiny piece of software that starts to do the thing that you're supposed to be doing in this project that you can demonstrate.
 
-And once you've got this tiny little thing, you should be looking to improve it's status in some way. And there are lots of ways to do this. Sure, add functionality. But if this is just a prototype that's running on a laptop, that's not the first way to do. Just as in the example that I gave. If you've got an example that works on a laptop, then one good move would be to show it to users. Another would be to move what's on the laptop to test servers. Another would be to move it to the live server where it will eventually be used.
+And once you've got this tiny little thing, you should be looking to improve its status in some way. And there are lots of ways to do this. Sure, add functionality. But if this is just a prototype that's running on a laptop, that's not the first way to go. Just as in the example that I gave. If you've got an example that works on a laptop, then one good move would be to show it to users. Another would be to move what's on the laptop to test servers and beyond that, to the live servers where it will eventually be used.
 
-### Criticism
+What's so important with working software, is not so much what you've got, but that you've got something and it's moving in all the right directions. Sure it needs to be increasing in terms of what it can do. But it also needs to be moving from developer environments, to test environments and onto live environments. And it needs to be moving from being tested by the team to being tested by "friendly" users to being tested by complete strangers. If it's a business application, it needs to move from using dummy data, to using data that looks like live data, to using real data. 
+
+I know nothing about rock climbing. But this is a little bit like if you're climbing a huge rock face. You climb a bit, then you put in one of those things that holds the rope to the rock. Then you pull on it, to make sure it's firm and would hold you if you fell, then you can climb a bit more.
+
+Yes, delivering software is a bit like that. It's a bit like climbing a rock face. The weird thing is how many people thing that you can get to the top without a rope - but also, without the climb!
+
+Gradually developing working software in all of those dimensions is the powerful careful, effective way to deliver something which seems impossible. And if the thing that you're doing is in any way useful or interesting to the people who will use it, at some point in that process, we hope sooner rather than later, you will start to get "pull". You will start to get demand for the software and demand for functionality from the software from the people who are likely to use it, rather than "push" from the people who got the funding for the project.
+
+Gradually developing software in these directions will also result in people jumping out from behind trees and helpfully providing you with extra rules and regulations that you need to follow before your software can finally escape and live free in the real world. It's (one of) the most powerful secrets to delivering things that seem impossible. And everybody, or nearly everybody, will try to stop you doing it.
+
+What? Yes, that's right. Incrementally delivering working software is the thing that you absolutely need to do to succeed and nearly everybody will try to stop you doing it. 
+
+How? Why?
+
+OK, let's deal with the how and the why, but separately.
+
+How? Developers will tell you that there's no point breaking big bits of functionality into smaller bits that could be demonstrated, released and tested. They'll say that it "only makes sense" to release some bit of functionality in one big chunk.
+
+How? Somebody will tell you that there's no point bothering users with small bits functionality which don't show the whole journey, that it's a waste of time and money. 
+
+How? Somebody possibly even some users will tell you that there's no point looking at the new system until it has their real data in it, or until when they press the "launch missile" button something actually happens.
+
+How? Somebody will tell you that test servers are expensive.
+
+How? Somebody will tell you that the live environment is only in the budget from the week before the project is about to finish?
+
+How? Nearly everybody (I've been privileged to work with some exceptions) who is responsible for product management will duck their responsibility for prioritising what the software should do. They will utter the magic tragic words "we need it all, so I don't think it's important what order it gets done in."
+

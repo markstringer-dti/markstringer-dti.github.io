@@ -7,6 +7,8 @@
 
 ## Update History
 
+Updated 13th April 2021 - "Incrementally improving working software is the secret of success in software development. Nearly nobody wants to do it."
+
 Updated 12th April 2021 - "Working software. Start with the tiniest thing that you can possibly imagine and then push it in the right direction."
 
 Updated 11th April 2021 - "Putting working software in the hands of users changes your project completely - in a good way."
