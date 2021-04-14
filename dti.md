@@ -36,7 +36,7 @@ If you read this book, you will definitely learn, how to quickly identify situat
 
 ## Chapter 2 - Agreed activity
 
-One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've repeatedly signed up for improvisation classes.  Why? Because my experience is that every time I go to an improvisation class, I learn something new, more specifically, I have new experience, and these often, in some way or other, turn out to be useful in real life.
+One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've repeatedly signed up for improvisation classes.  Why? Because my experience is that every time I go to an improvisation class, I learn something new. More specifically, I have new experience, and these often, in some way or other, turn out to be useful in real life.
 
 One of the key ideas in improvisation is blocking. For example. If an improvised scene starts with someone knocking on a door. The scene might go something like this. 
 
@@ -70,9 +70,9 @@ Person 1: Hello! I've brought you a cabbage.
 
 Person 2: Humph. Fine.
 
-Generally in improvisation these kinds of responses are not recommended? Why because they "block" the scene moving forward. They don't build on it and move it forward. The poodle response is completely trying to negate the "offer" of the cabbage, utterly ruining any chance unfolding of a couple who learn to fly on the wings of their own farts or another possible story of the dangers of living with Kimchi that becomes self-aware.
+Generally in improvisation these kinds of responses are not recommended? Why because they "block" the scene moving forward. They don't build on it and move it forward. The poodle response is completely trying to stopi the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. The story of a couple who learn to fly on the wings of their own farts. Or perhaps a story of the dangers of living with a pot of Kimchi that becomes self-aware.
 
-The second answer "Hmph. Fine." Is perhaps even more dangerous to a good story because it just goes nowhere, what's really happening in such a situation is that the person who is speaking is scared. They feel out of control, so they're doing that absolute minimum possible, even though the result of this is very boring to watch, not very nice to their fellow performers and kind of defeats the whole object of improv.
+The second answer is "Hmph. Fine." This is perhaps even more dangerous to a good story. It just goes nowhere. Again the story is stopped dead in its tracks. What's really happening in such a situation is that the person who is speaking is scared. They feel out of control, so they're doing that absolute minimum possible. The result is very boring to watch, not very nice to their fellow performers and kind of defeats the whole object of improv. But they feel safer than if they had accepted the offer of cabbage and allowed the story to progress.
 
 Here's another way of saying "Humph, fine."
 
@@ -106,11 +106,11 @@ But for inexperienced improvisers, the temptation to agree to wash the decks rat
 
 Why? In his books "Impro" and "Impro for storytellers" Keith Johnstone describes this kind behaviour as "agreed activity." Putting people on a stage in front of an audience makes them scared. And scared people try, instinctively to make themselves safe, even if what they're doing individually is making what the group are trying to do together - entertain people - less likely to succeed. Part of what constitutes the skill of being a good improviser is knowing how to avoid this basic need to stay safe and instead move the story forward. Accept that there's a pirate ship on the horizon and deal with what that means.
 
-What's fascinating about this kind of behaviour is that everybody, I mean all the improvisers on stage, seem to instinctively know that it's the right thing to do. There isn't a long discussion. It happens in a second. And that is in spite the fact that it's exactly the wrong thing to do. What this really shows is how good we are as individuals and in groups at shying away from things that we think might be dangerous, or difficult, or really just anything that will make us having to change our behaviour and our thinking.
+What's fascinating about this kind of behaviour is that everybody, I mean all the improvisers on stage, seem to instinctively know that it's the right thing to do. There isn't a long discussion. It happens in a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that we think might be dangerous. We instinctively avoid anything that will make us have to change our behaviour or our thinking.
 
-One way that Johnstone suggests to help the improvisers avoid "agreed activity" is to have a director who is watching the improvisers and can intervene during live shows. In this kind of set up, it's the job of the job of the director to spot which actions and suggestions by the improvisers will move the story forward - and even in desperate situations - suggest them herself. For example if a director were watching a scene where there'd been a suggestion of washing the decks, she might have allowed the crew 10 seconds of deck washing before shouting "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
+One way that Johnstone suggests to help the improvisers avoid "agreed activity" is to have a director who is watching the improvisers and can intervene during live shows. In this kind of set up, it's the job of the job of the director to spot which actions and suggestions by the improvisers will move the story forward. In desperate situations she might also make suggestions herself. Imaging that a director were watching a scene where there'd been a suggestion of washing the decksr She might allow the crew 10 seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
 
-Why am I telling you this? Because of course, this idea of concrete practice has usefulness in the context of project management. As with improvisers on stage, there's a temptation among people who work on a project to find some agreed activity as a way of avoiding having to think, or be changed by the realities of the problem that they're solving. 
+Why am I telling you this? Because of course, this idea of concrete practice has usefulness in the context of project management. As with improvisers on stage, there's a temptation among people who work on a project to find some agreed activity. Just like improvisers, they do this as a way of avoiding having to think, or be changed. Instinctively they shy away from the realities of the problem that they're solving. 
 
 Of course, if we pick up on what we talked about in the introduction. If we want to deliver the impossible, the first thing that we have to do is stop ignoring the bits that look like they might be impossible.
 
@@ -126,9 +126,9 @@ So, one place to spot the pirate ship is stand-up. Another is the retrospective.
 One of the strange things about project management is that very often everybody who is working on a project knows what's wrong with the project. If they're not saying, it's because they've tried to say or have said and have been either ignored, scolded, threatened or even disciplined for pointing it out. This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage shouting "Shut up about the pirate ship! Clean the decks!" 
 
 
-A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times before he gets one of the strangest recurring problems that I've seen - a highly skilled, highly paid team of professionals who've completely given up trying to think for themselves.
+A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once they've done it once or twice they will have already caused one of the strangest recurring problems that I've seen. And I've seen it repeatedly: highly skilled, highly paid team of professionals who've completely given up trying to think for themselves.
 
-But no matter how many times they've been beaten down. If you run retrospectives and help people to speak, listen to what they're telling you and do your best to raise their problems with the people who either need to know about them, or can fix them, sooner or later, they'll mention the pirate ship. And when they do, it might be difficult to keep your jaw off the floor. 
+No matter how many times they've been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think  you are listening. They will notice see and appreciate you doing your best to raise their problems with the people who need to know about them and can fix them. And sooner or later, they'll mention the pirate ship. When they do, it might be difficult to keep your jaw off the floor. 
 
 For example during the retrospective for one project that I worked on, it emerged that all of the requirements for the project were coming from a business analyst. They made no sense. One of the main struggles that the development team had on any day, was making sense of what the business analyst had put in the stories. What struck me straight away was that the business analyst wasn't in the retrospective. In an agile project, the business analyst is part of the team - they're not supposed to be outside throwing in requirements. Especially if those requirements turn out to be problematic. 
 
@@ -140,9 +140,9 @@ So my response to this problem being raised by the team was to suggest that they
 
 Yes it was crazy. Yes, it was right. I tried to talk to the business analyst. I emailed him asking for a meeting. I got a phone call from his boss saying I wasn't allowed to talk to him. 
 
-And of course, there was no way that the project was going to succeed until the team were at least allowed to talk to the person who was giving them the details of what they were supposed to do.
+And of course, there was no way that the project was going to succeed it its current state. The team needed to talk to the person who could tell them what the product was supposed to do.
 
-Side note: This project was crazier than it even sounds. It turns out there were two groups of business analysts. Technical business analysts (the business analyst that the team wasn't allowed to talk to was a technical business analyst) and then erm, business business analysts - these were the people who actually talked to the business, to the people who actually wanted the software to be built. These two groups of business analysts also weren't allowed to talk to each other - they were only supposed to communicate via emailed documents. A substantial part of making our project possible was to make sure that the business analyst who was working with us, sat with our team and was allowed to directly talk to the customer and to us. 
+Side note: This project was crazier than it even sounds. It turns out there were two groups of business analysts. Technical business analysts and business business analysts. The "business" business analysts were actually allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the technical business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed word documents. A substantial part of making this project possible was to make sure that we had just one business analyst. This person was allowed both to talk to the people who wanted the software and the people who were building the software. Things got a lot better after that.
 
 So we've talked about stand up meetings and we've talked about retrospectives. There's one more Agile meeting where the "Pirate Ships" that are on the horizon might be detected. And that's the "Show and Tell." The "Show and Tell" is a meeting where the development team show the outputs of what they've been working on in the last "Sprint" - typically two weeks. Who do they show it to? The product owner who is supposed to act as a representative of all the people who want the project to happen and any other interested stakeholders who want to come along. 
 
@@ -153,18 +153,19 @@ In that week, the team had been doing some work on the user interface for one of
 One of the developers put up the login screen and then clicked through the first screen and started to talk it through. Even though most people who were on the conference call were on mute, I thought I detected some kind of change in the silence. Finally someone on the line with a cockney accent said:
 "Erm, I thought we'd agreed that we were going to arrange cases by account name rather than by account number?"
 The developer who was demoing the screen looked blank.
-The business analyst who we'd only just set eyes on and had only just joined the team started to look worried "No, it's in the requirements that cases should be arranged by account number."
+The business analyst who we'd only just set eyes on and had only just joined the team started to look worried. 
+"No, it's in the requirements that cases should be arranged by account number."
 "But that makes no sense" someone with a Northern Irish accent joined in.
 "It's people who are victims of fraud, not just individual accounts"  added someone with a Glaswegian accent.
-"We need to see all the accounts that someone holds, and see the activity across all of them for this to make any senser," said someone with an accent I didn't recognise.
+"We need to see all the accounts that someone holds, and see the activity across all of them for this to make any sense," said someone with an accent I didn't recognise.
 
 Yes, that's right. The structure of this project was wrong from the very beginning. This problem hadn't been detected through months and months of analysis. But it took just five minutes of putting the working software (OK, I'll admit, it was only a front end) in front of the people who might use it had found the problem.  
 
-If you do stand-ups every working day with your team, if you do retrospectives and show and tells every sprint, even if you do these things *badly* - you will still find out what the problems are that are facing your project. Not having stand-ups, not having retrospectives and show and tells is just like shouting "Scrub the decks, don't look at the pirate ship!" at your team.
+If you do stand-ups every working day with your team, if you do retrospectives and show and tells every sprint, you will find out what the problems are. Even if you do these things *badly* - you will still find out what the problems are. Not having stand-ups, not having retrospectives and show and tells is just like shouting "Scrub the decks, don't look at the pirate ship!" at your team.
 
 So, what does understanding this notion of "agreed activity" mean for our overall aim of delivering the impossible?
 
-Well, it means something very basic. If you work to discover the problems that your project is facing and then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are not only possible, but actually get delivered.
+Well, it means something very basic. If you work to discover the problems that your project is facing you will find them. If you then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are possible. This gives you the best chance possible of actually delivering them.
 
 This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms rather than looking at the pirate ship and doing what needs to be done when it arrives, they are washing the decks and in the process are making possible projects impossible.
 
@@ -172,7 +173,8 @@ Why? Because problems are scary. Problems are humbling. Problems cause conflict.
 
 Highlighting the problems that a project unearths can be threatening to the sponsors of a project. What if the problem that you unearth is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
 
-Too, too often, when someone on the stage shouts "Look a pirate ship." It's the director off stage that shouts something like "You're wrong, it's not there," or "I'm tired of this negativity" or "Maybe you're not up to the job if you think that's a pirate ship."
+Too, too often, when someone on the stage shouts "Look a pirate ship," It's the director off stage that shouts something like "You're wrong, it's not there." 
+Other, equally toxic variants of this are "I'm tired of this negativity," or "Maybe you're not up to the job if you think that's a pirate ship."
 
 And that's why people don't raise problems and instead just wash the decks.
 
@@ -205,17 +207,17 @@ Working late. Working weekends, holidays being cancelled or frowned on,  "a posi
 
 One of the things that personally I've found most upsetting about working on trench warfare projects is when senior management say that the staff don't look stressed enough. 
 
-A trench warfare project is a bad situation. And experience of working on one can be one of the best motivations for getting over your reluctance to tackle issues as soon as they arise - call out and then tack the pirate ship - on the next project that you work on. But every now and then you are going to find yourselves working on a project which is simultaneously working towards a ridiculous, undeliverable deadline, whilst at the same time labouring under several other problems, meaning that it's undeliverable. This is in many ways, the archetypal undeliverable project. 
+A trench warfare project is a bad situation. Experience of working on one can be one of the best motivations for getting over your reluctance to tackle issues as soon as they arise. Once you've worked on a trench warfare project, you might be much keenr to call out problems the minute you see them on your next project. But every now and then you are going to find yourselves working on a project which is working towards a ridiculous, undeliverable deadline. At the same time this project will struggling with several other problems. This is a very common kind of undeliverable project. 
 
 I don't know if the real life Jerry Springer actually said this or not. But in "Jerry Springer the Opera" the character of Jerry Springer says something that has stuck with me ever since: "I don't solve people's problems, I televise them."
 
 If you're working on a trench warfare project, that's exactly what you should be doing. Sure, go one better than Jerry, and solve the problems that you can solve, but the problems that you can't solve? Broadcast them. Make sure everybody on the project knows what those problems are.
 
-Why? Because someone else may, if they really want to the project to succeed, be able to solve them. Another way to look at this is that some of the people who are giving you and your team a hard time, saying that you're team don't look worried or stressed enough (this really happens) or are saying that your team don't really care about the project because they took the whole weekend off. Some of those people may only be doing those things because they have no idea what else they can do to make the project more successful. At least by making clear what the problems are that are stopping you delivering, you're giving those people more chance of helping the project succeed.
+Why? Because someone else may, if they really want to the project to succeed, be able to solve them. Another way to look at this is to look at some of the people who are giving you and your team a hard time. Those people who are saying that you're team don't look worried or stressed enough. Those people who are saying that your team don't really care about the project because they took the whole weekend off. It might be that some of those people are only doing those things because they have no idea what else they can do. They want to make the pproject more successful, they just don't know how. At least by making clear what the problems are that are stopping you delivering, you're giving those people more chance of to help the project if they really do want to help.
 
-The second thing that you can do - and this isn't a second option, it should really be done at the same time as you're problem televising, is to deliver something to some of the people who want it. This won't be everything, or anywhere near everything that's been asked for by the deadline, but if you can find one bit of software that you can release to some people who really want it, you can completely change the nature of a project. Pull from outside a team that comes from demand from real users is a truly wonderful thing. 
+The second thing that you can do is to deliver something to some of the people who want it. This might not be anywhere near everything that's been asked for by the deadline. But if you can find one bit of software that you can release to some people who really want it, you can completely change the nature of a project. Pull from outside a team that comes from demand from real users is a truly wonderful thing. 
 
-Thirdly, one of the most revolutionary things that you can do, is to come up with a way of tracking and showing the actual progress of the project relative to the project's needs and expectations. In a way this is just a more extreme version of the "Jerry Springer" principle. This is one of the most powerful manoeuvres that I think an Agile project manager has in their toolbox, and I'll talk through in detail one way to do it in a later chapter.
+Thirdly, one of the most revolutionary things that you can do, is to track and show the actual progress. This might be tough, but few things are as powerful as showing actual progress relative to the project's needs and expectations. In a way this is just a more extreme version of the "Jerry Springer" principle. This is one of the most powerful manoeuvres that I think an Agile project manager has in their toolbox. We'll go through it in  detail, well at least one way to do it, in a later chapter.
 
 Demonstrating that a project can't possibility be delivered by a deadline can result quickly in some sensible discussions about reduction of scope. This can then, sometimes, result in the possibility of delivering a small bit of working software to some of the people that want it. It may well seem that a project is dug-in, going nowhere and doing nothing but damage to the members of its team. Still, by pushing on all of these three "fronts" and getting some kind of virtuous circle going, it might be that something good can come out of even the worst trench warfare project. 
 
@@ -252,21 +254,21 @@ No, the difference between fruit and flowers isn't that one is easier to do that
 
 Users eat fruit. The only look at flowers. Nobody ever died from looking at a flower. A sour apple can give you bad indigestion and some fruit is actually poisonous. 
 
-Similarly, implemented, delivered projects have to actually give value to their users and this involve an interaction with users which is different from buying and selling flowers. User have to actually get some good, some value out of using a software product. What 'good' that value, is, is radically different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit, the process of "using" fruit for users is one where, if it doesn't taste right, they will spit it out, and if it isn't looked after properly, it could do them harm.
+Similarly, implemented, delivered projects have to actually give value to their users. This involves an interaction with users which is different from buying and selling flowers. User have to actually get some good, some value out of using a software product. What 'good' that value, is, is radically different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit, the process of "using" software for users is one where, if it doesn't taste right, they will spit it out. Also like fruit, if software isn't looked after properly, it could do them harm.
 
 To be honest, I wish I were able to cite some other reference in support of this idea of "flowers and fruit" than a 2000 year old religious text. 
 
-Because for me, moving a project from its "flowers" state to its "fruit state" is one of the most important things that anybody is doing when they are trying to deliver a project, it's also one of the hardest, and it's one that hardly anybody talks about.
+Because for me, moving a project from its "flowers" state to its "fruit state" is one of the most important things that anybody is doing when they are trying to deliver a project. It's also one of the hardest, and it's one that hardly anybody talks about.
 
 What makes this so hard? Well, one of the things that makes it so hard is the nature of project ideas that we talked about. What makes project ideas attractive - the kinds of things that get money -  is that what makes them liked doesn't require conscious thought. Often what makes people like things straight away is that they don't require much thought, but they do suggest some of these features: easy, fast, cheap, same and all.
 
 The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using an iterative framework like Scrum. In Scrum the team meet at the beginning of every work day and talk about what they're going to do that day and anything that's stopping from doing what they want to do. They do this every working day. This is called the stand up.
 
-Once a fortnight, the team demonstrates the work that it's been doing in the last two weeks to anybody in the organisation (sometimes also external users) who's interested - this is called the show and tell.
+Once a fortnight, the team demonstrates the work that it's been doing in the last two weeks.  The audience is made up of people in the organisation and also sometimes also external users who are interested. This is called the show and tell.
 
 The team also has a private meeting where they share what went well, what didn't go so well and what they might try differently.
 
-Can you see yet how problems might arise for the "Flowers" aspect of a project, the idea that people liked without thinking to much about it? The minute that a team starts to implement the idea of a project they will encounter problems and if the team is using an Agile way of doing things, like Scrum, those problems will start to be reported. Right away. On day one.
+Can you see yet how problems might arise for the "Flowers" aspect of a project? This idea that people liked without thinking to much about it? The minute that a team starts to implement the idea of a project they will encounter problems. And if the team is using an Agile way of doing things, like Scrum, those problems will start to be reported. Right away. On day one.
 
 So? What's the problem with problems? The problem with problems is that any problem that the team finds is like to take the shine off the idea. Any problem that the team finds is likely to make the idea look more difficult, slower, more expensive, different and partial.
 
@@ -276,25 +278,23 @@ So, this is the paradox at the heart of project management and project developme
 
 So what can be done? To solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine difficulties that the project is facing. That way failure or possibly trench warfare lies. 
 
-The project is entering a vulnerable, cold phase, where it is not support and value from the idea because we are starting to find out what is wrong with the idea, and the same time there is no support and value from the reality, because there is no reality.
+The project is entering a vulnerable, cold phase, where it is not supported and valued for the appeal of the idea. This because we are starting to find out what is wrong with that idea. At the same time there is no support and value for the reality, because there is no reality. We don't have anything to show yet.
 
-As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to hesitate to move a project through this phase, and this is what we talked about in Chapter two, when we talked about agreed activity and in Chapter three where we talked about the awful situations a project can get into if the problems with agreed activity aren't tackled. 
+As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to hesitate to move a project through this phase. This is what we talked about in Chapter two, when we talked about agreed activity. It's also what we talked about in Chapter three. A project can get into an awful state if the problems that agreed activity is there to avoid aren't tackled. 
 
 So, someone who wants a project to succeed shouldn't do anything to stop it moving into this phase. At the same time, you should know where you're going and what kind of things can should be done to get you out the other side of this difficult phase.
 
-OK, here's where it gets even harder. There are two kinds of thing that you should be doing to get the project through this difficult phase and on the road to success. And here's what makes this difficult. Both of the kinds of things that you should be dong are the kinds of things that the sponsors of a project are likely are either a pointless waste of time or are actually damaging to the project and should be stopped. 
+OK, here's where it gets even harder. There are two kinds of thing that you should be doing to get the project through this difficult phase and on the road to success. And here's what makes this difficult. Both of the kinds of things that you should be doing aren't often popular or well-recevied. They are the kinds of things that the sponsors of a project are likely to think of as either a pointless waste of time or the kind of thing that should be stopped. 
 
 What are these two things? Stakeholder research, which I'll talk about in more detail in the next chapter, and working software.
 
 What do I mean by stakeholder research? I mean as a product team developing a good understanding of who is interested in the product and what their interest is. Notice here that I'm not saying "user research" that's because stakeholder research doesn't just include users, it include other individuals, organisations, interest groups that might be interested in the product.
 
-Also, as I'm writing this, I'm resisting from saying things like "find out as much as you can about the people who are paying for this project" or "find out everything that you possibly can about your users." Why? Because as a seasoned and grizzled project manager I'm very careful of statements that involve "all". 
+I'm resisting saying things like "find out as much as you can about the people who are paying for this project" or "find out everything that you possibly can about your users." Why? Because as a seasoned and grizzled project manager I'm very careful of statements that involve "all". 
 
-But I can say this. You need a strategy for mapping the ecosystem of stakeholders and you need a strategy for investigating the needs of users and using what you find from these investigations to inform what goes into working software.
+But I can say this. You need a strategy for mapping the ecosystem of stakeholders. You need a strategy for investigating the needs of users. You need a way of taking what you find and using it to inform what goes into working software.
 
-At the same time, you need a strategy for getting working software that addresses these needs and is attractive to the ecosystem of stakeholders as near to real users using real data as you possibly can. 
-
-So how do we do this? How do we acheive this shift from the "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real thing, a real, working piece of software.
+So how do we do this? How do we acheive this shift? From "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real working piece of software.
 
 ## Chapter 5 - Working Software
 
