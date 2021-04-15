@@ -7,6 +7,8 @@
 
 ## Update History
 
+Updated 15th April 2021 - "Delivering working software, early, frequently and often - why you have to do it and why it is so very hard."
+
 Updated 14th April 2021 - "Small edits to improve readability."
 
 Updated 13th April 2021 - "Incrementally improving working software is the secret of success in software development. Nearly nobody wants to do it."
