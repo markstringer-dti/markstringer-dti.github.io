@@ -7,6 +7,8 @@
 
 ## Update History
 
+Updated 16th April 2021 - "What's the best theoretical response to your working software? Delight is good, disgust and rage might be better. 'Meh' is the absolute worst."
+
 Updated 15th April 2021 - "Delivering working software, early, frequently and often - why you have to do it and why it is so very hard."
 
 Updated 14th April 2021 - "Small edits to improve readability."
