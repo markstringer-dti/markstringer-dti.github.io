@@ -497,7 +497,8 @@ What's important as you move through these choppy waters, is to keep in mind the
 But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting feedback from users and stakeholders and dealing with the people who jump out from behind trees and tell you that you can't do what you're doing. 
 
 You need to move carefully along along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp. 
-## Driving a Car - The Empirical Process
+
+## Chapter 6 - Driving a Car or The Empirical Process
 
 "Empirical" isn't a common word. But empirical process refers to something that we're all doing all day every day. All day every day we change what we're doing in response to what we see and experience through our other senses. And that's what the word "empirical" means. It means relating to experience in the real world. But it's an odd word that doesn't sound as down to earth and practical as it is. 
 
