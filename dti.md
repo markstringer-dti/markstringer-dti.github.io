@@ -304,6 +304,7 @@ So how do we do this? How do we acheive this move? From "Flowers", where value a
 
 ### Concept
 In the Agile manifest, working software is talked about as the second key value.
+
 >> Working software over comprehensive documentation
 
 It's worth asking possibly, why? What was the experience of those guys who got together to talk about "lightweight" software methodologies that meant that in the final 93 word manifest, working software took up five of those words. 
