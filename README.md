@@ -6,6 +6,8 @@
 
 
 ## Update History
+Update 18th April 2021 - "The story of 2"
+
 Update 17th April 2021 - "~~Imperial progress~~ empirical process."
 
 Updated 16th April 2021 - "What's the best theoretical response to your working software? Delight is good, disgust and rage might be better. 'Meh' is the absolute worst."
