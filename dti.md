@@ -34,6 +34,13 @@ Well, this is that book. And it tries to meet all of these expectations. This is
 
 If you read this book, you will learn, how to identify situations that seem impossible and how to distiguish them from those situations that are impossible. You'll learn how to manage these situations so that's there's a chance, not just of delivery, but also of success. You'll also get lots of advice about how to look after yourself and those around you while you're doing it.
 
+### Why this?
+
+### Why now?
+
+### Why me?
+
+### Why you?
 ## Chapter 2 - Agreed activity
 
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've repeatedly signed up for improvisation classes.  Why? Because my experience is that every time I go to an improvisation class, I learn something new. More specifically, I have new experience, and these often, in some way or other, turn out to be useful in real life.
@@ -542,12 +549,9 @@ I don't know how dramatic he was at this point. I don't know if he asked anybody
 This is brutal transparency. Any it probably came out of desparation. Having worked on that project I can guess that promises had been made to the bosses in New York that the project would be finished by some date. Nobody had mentioned to the bosses the problems that were being encountered that were slowing progress to a crawl.
 
 The main result of that number 2 was that Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communication progress across the Atlantic. After that, guess what? The news was always good.
-## Chapter N - The Swamp
+
 ## Chapter 7 - Two Bad Metaphors for Software Development
 
 ### Project Management as Keeping Promises
 
 ### Work as Widgets
-## Chapter N - The Swamp
-## Chapter N - Everything
-## Chapter N - Lean 
