@@ -521,4 +521,33 @@ We're focusing here on the visual aspects of driving. But we all know that when 
 
 So inspection isn't just a visual thing. It's paying attention with all the senses. And talking about slowing down and speeding up brings us to the third pillar of empirical process - adaptation. What we're doing when we slow down, or speed up, or swerve to avoid something, or put the fog lights on, is we're changing what we're doing because of what we see, hear and feel.
 
-We couldn't do this without transparency - if the windscreen were covered in mud, we would see the obstacle that we needed to avoid. We couldn't do it without inspection - if we didn't look up from our texting and see the obstacle we wouldn't feel the need to swerve. And finally we wouldn't be swerving if it weren't for adaptation. Because that's what adaptation is, it's swerving to avoid the things that can see due to inspection, that's possible because of transparency. And that's all we're talking about when we're talking about empirical process. 
+We couldn't do this without transparency - if the windscreen were covered in mud, we would see the obstacle that we needed to avoid. We couldn't do it without inspection - if we didn't look up from our texting and see the obstacle we wouldn't feel the need to swerve. And finally we wouldn't be swerving if it weren't for adaptation. Because that's what adaptation is, it's swerving, or slowing down, or even stopping, to avoid the things that you can see due to inspection. That's possible because of transparency. And that's all we're talking about when we're talking about empirical process. 
+
+At this point, I might mention that I've crashed two cars, OK three. I'm far from an expert on driving. But I am an expert on what this principle of empirical process means for software development teams. What does transparency mean for software development teams. Well, there are at least three meetings where there's opportunity for transparency.
+
+Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that they're encountering. This gives everybody in the team the opportunity for to know what's going on around them.
+
+In retrospectives, the teams gets to look in the rear view mirror at the road behind them and talk about what obstacles could have been negotiated better, what things they've got the hang of, that the might be able to tackle more quickly now and that things they still have no way of tackling at all.
+
+And in show and tells, demonstations of working software show exactly how it's going. And of course, that can really be a problem.
+
+I didn't witness this for myself. So this story may be entirely made up. The first ever Agile software development project that I worked on was for a publishing company. When I joined the project it had been going for over a year and had cost many millions of pounds. The way that I heard the story, a few months before I joined, there's been a show and tell meeting. The publishing company was international and had offices in London and in New York. There were people with American accents dialling in on a conference call.
+
+I don't know much about what happened in that meeting apart from this - at some point one of the Scrum Masters said that he was going to share with everybody on the project the progress that had been made through the backlog. The backlog is the Agile way of saying the list of requirements for the project. 
+
+He had a presentation with some slides. And there was a bit messing about setting up the presentation - and then making sure that it was shared with the office in New York. Finally The Scrum Master was set up and could move to the slide that showed progress of the project through the requirements. He clicked on to the slide. In the middle of the slide was a giant "2".
+
+I don't know how dramatic he was at this point. I don't know if he asked anybody in the room or on the phone if they could guess what the two meant? 2 weeks to finish? 2 Months? 2 Years? But I know that at some point he did get the point across. The 2 was percent. Progress on the project, after six months and many millions of pounds was 2 percent of all the work that was in the backlog.  
+
+This is brutal transparency. Any it probably came out of desparation. Having worked on that project I can guess that promises had been made to the bosses in New York that the project would be finished by some date. Nobody had mentioned to the bosses the problems that were being encountered that were slowing progress to a crawl.
+
+The main result of that number 2 was that Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communication progress across the Atlantic. After that, guess what? The news was always good.
+## Chapter N - The Swamp
+## Chapter 7 - Two Bad Metaphors for Software Development
+
+### Project Management as Keeping Promises
+
+### Work as Widgets
+## Chapter N - The Swamp
+## Chapter N - Everything
+## Chapter N - Lean 
