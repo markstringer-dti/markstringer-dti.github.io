@@ -579,9 +579,3 @@ Everybody in the room knew that "Mr 2" was right. The bosses in New York heard w
 By starting to talk about the rather jolly metaphor of driving a car as a way of thinking about empirical process, we've ended up right at the absolute nitty-gritty of project management.
 
 In order to manage a project, you need transparency. When you achieve that transparency, you get bad news. You have to do something with the bad news. What do you do with the bad news?
-
-## Chapter 7 - Two Bad Metaphors for Software Development
-
-### Project Management as Keeping Promises
-
-### Work as Widgets
