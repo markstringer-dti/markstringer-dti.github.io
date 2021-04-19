@@ -115,11 +115,11 @@ Why? In his books "Impro" and "Impro for storytellers" Keith Johnstone describes
 
 What's fascinating about this kind of behaviour is that everybody, I mean all the improvisers on stage, seem to just know, without thinking, that it's the right thing to do. There isn't a long discussion. It happens in a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that we think might be dangerous. We tend to avoid anything that will make us change our behaviour or our thinking.
 
-One way that Johnstone suggests to help the improvisers avoid "agreed activity" is to have a director who is watching the improvisers and can intervene during live shows. In this kind of set up, it's the job of the job of the director to spot which actions and suggestions by the improvisers will move the story forward. In desperate situations she might also make suggestions herself. Imaging that a director were watching a scene where there'd been a suggestion of washing the decksr She might allow the crew 10 seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
+One way that Johnstone suggests to help the improvisers avoid "agreed activity" is to have a director who is watching the improvisers and can speak out and direct the actors during the show. In this kind of set up, it's the job of the job of the director to spot which actions and suggestions by the improvisers will move the story forward. In desperate situations she might also make suggestions herself. Imaging that a director were watching a scene where there'd been a suggestion of washing the decksr She might allow the crew 10 seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
 
 Why am I telling you this? Because of course, this idea of concrete practice has usefulness in the context of project management. As with improvisers on stage, there's a temptation among people who work on a project to find some agreed activity. Just like improvisers, they do this as a way of avoiding having to think, or be changed. Instinctively they shy away from the realities of the problem that they're solving. 
 
-Of course, if we pick up on what we talked about in the introduction. If we want to deliver the impossible, the first thing that we have to do is stop ignoring the bits that look like they might be impossible.
+Of course, if we pick up on what we talked about in the introduction. If we want to deliver the impossible the first thing that we have to do is stop ignoring the bits that look like they might be impossible.
 
 In iterative, Agile, ways of doing project management there are lots of opportunities for the team and the team manager to spot the pirate ship. Typically, every day there's a "stand-up" meeting where the team talk about what they did the day before, what they're going to do today, and, most importantly, if there's anything blocking their progress. 
 
@@ -176,7 +176,7 @@ Well, it means something simple. If you work to discover the problems that your 
 
 This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms rather than looking at the pirate ship and doing what needs to be done when it arrives, they are washing the decks and in the process are making possible projects impossible.
 
-Why? Because problems are scary. Problems are humbling. Problems cause conflict. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of the job that they can't do? Maybe it means that someone hired the wrong people.
+Why? Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of the job that they can't do? Maybe it means that someone hired the wrong people.
 
 Highlighting the problems that starting to do a project shows up can be threatening to the sponsors of a project. What if the problem that you find is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
 
@@ -186,7 +186,7 @@ Other ways of saying this that are just as bad are "I'm tired of this negativity
 
 And that's why people don't raise problems and instead just wash the decks.
 
-Oh dear. Well. There is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm delivering on that promise. I'm not delivering on the promise that delivering these projects is a walk in the park or a day at the beach.
+Oh dear. Well. There is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping that promise. But notice I'm not keeping the promise that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
 Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you not very nice names. But there there are two very goodreasons why you still should do it.
 
@@ -211,7 +211,7 @@ I'm going to use the term "trench warfare" in this chapter. And I'm going to use
 
 What I mean by trench warfare is any project that is hugely expensive in terms of money, effort and human suffering and doesn't get anywhere. A main cause of trench warfare is a refusal (or active prevention) earlier in the project to deal with the problems that it faces. The main effect, besides project failure, is that there is more demand for the "agreed" activity which is just a way to avoid the problems to become more frantic, pointless and damaging. 
 
-Working late. Working weekends, holidays being cancelled or frowned on,  "a positive, can do attitude" are signs that you're working on a trench warfare project. Other signs are lots of staff leaving drinks and staff being signed off long-term sick, or with stress. If you can't have a meeting with a manager because he has to give evidence in a law suit former employees are bringing against the company, this is also a bad sign.
+Working late. Working weekends, holidays being cancelled or frowned on,  "a positive, can do attitude" are signs that you're working on a trench warfare project. Other signs are lots of staff leaving drinks and staff being signed off long-term sick, or with stress. If you can't have a meeting with a manager because he has to give evidence in a law suit that people who use to work for the project are bringing against the company, this is also a bad sign.
 
 One of the things that personally I've found most upsetting about working on trench warfare projects is when senior management say that the staff don't look stressed enough. 
 
@@ -264,7 +264,7 @@ Users eat fruit. The only look at flowers. Nobody ever died from looking at a fl
 
 Similarly, implemented, delivered projects have to actually give value to their users. This involves an interaction with users which is different from buying and selling flowers. User have to actually get some good, some value out of using a software product. What 'good' that value, is, is different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit, the process of "using" software for users is one where, if it doesn't taste right, they will spit it out. Also like fruit, if software isn't looked after properly, it could do them harm.
 
-To be honest, I wish I were able to cite some other reference in support of this idea of "flowers and fruit" than a 2000 year old religious text. 
+To be honest, I wish I were able to cite some other reference in support of this idea of "flowers and fruit" than a 2000 year old text. 
 
 Because for me, moving a project from its "flowers" state to its "fruit state" is one of the most important things that anybody is doing when they are trying to deliver a project. It's also one of the hardest, and it's one that hardly anybody talks about.
 
@@ -337,9 +337,9 @@ I think there are three main reasons why any software development team should be
 
 The first reminds me of a joke.
 
->> You will never be alone, if you take with you everywhere the ingredients and equipment to make a dry martini. Because, even if you think you are completely alone and stranded on a desert island, the minute that you start to make the dry martini, someone will jump out from behind a palm tree and say "that's not how you make a dry martini."
+>> You will never be alone, if you take with you everywhere the ingredients and equipment to make a dry martini. Because, even if you think you are completely alone and stranded on a desert island, the minute that you start to make the dry martini, someone will jump out from behind a tree and say "that's not how you make a dry martini."
 
-Something like this is true of developing working software. The more you try to get working software loaded up on the environments where it's going to be used, by real users, using real data, the more likely it is that people that you didn't even know existed are going to jump out from behind palm trees and say "you're doing it wrong."
+Something like this is true of developing working software. The more you try to get working software loaded up on the environments where it's going to be used, by real users, using real data, the more likely it is that people that you didn't even know existed are going to jump out from behind trees and say "you're doing it wrong."
 
 In my head, I always imagine the job of getting working software out in the world on a working environment like trying to escape from a prison camp. There's only one way to find out what all the traps are that are out there in no man's land, and that's to try to set them off. 
 
@@ -361,7 +361,7 @@ Does the technology that you've decided to use work?
 
 Is the organisation that you're working for capable and willing to pay for the servers, people and set-up that you need to deploy this software?
 
-Well, there's only one way to find out the answers to these questions and embarrassingly, the answer might not be the one that you're hoping for. I've worked on teams where the team members don't have access to the office, I've worked on teams that don't have access to the internet. Of course these are problems that can be solved, but only once they're uncovered. 
+Well, there's only one way to find out the answers to these questions and answers might not be the one that you're hoping for. I've worked on teams where the team members don't have access to the office, I've worked on teams that don't have access to the internet - "To make internets, you need internets," one developer was forced to explain. Of course these are problems that can be solved, but only once they're uncovered. 
 
 So, this is the most straight-forward reason why a team should be trying to develop software as soon as possible, because there is only one way to find out.
 
@@ -399,7 +399,7 @@ From that point on, the nature of the project changed. It wasn't about deliverin
 
 The other interesting thing about getting some working software in front of the people who might use it, was that it both asked and then started to answer the other two questions that I've already talked about. "Can we do this?" and "Who is going to jump out and stop us." 
 
-To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. Bean counters who were working on the project for the client had been arguing for a while that the price of providing and supporting the servers was included in the contract and they should have to either commission them, pay for them or support them. This became a much harder argument to make once people in their own company were asking for the software. Suddenly they were in the way, rather than helping the company by being tough on costs, they were stopping people who worked for their organisation from getting at something that could make their lives easier. The servers appeared, and then money for staff to support them appeared and a real roll-out of the software started to happen.
+To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. This was blocked because of a dispute. The price of providing and supporting the servers was included in the contract, the client was arguing, and the client shouldn't have to either commission them, pay for them or support them. But this became a much harder argument to make once people in their own company were asking for the software. Suddenly they were in the way, rather than helping the company by being tough on costs, they were stopping people who worked for their organisation from getting at something that could make their lives easier. The servers appeared, and then money for staff to support them appeared and a real roll-out of the software started to happen.
 
 To the second question "If we try to do this, is anybody going to jump out from behind a tree and stop me?" The answer was "yes." In fact two people jumped out. An accessibility guy and a security guy. The accessibility guy claimed the there was no way the software could be released until it met a extra set of requirements that would make it usable according to a yet another set of standards that try to make websites more accessible to people with disabilities. The client claimed that we should have know about these requirements right from the start and so we should pay for them. 
 
@@ -480,7 +480,7 @@ So, when you start to feel these reasons for not doing working software, when yo
 
 1. You're going to have to do it sooner or later.
 
-And sooner, is much better that later? Why because all of those problems that you encounter when you start to deliver small amounts of software, problems with the technology, problems with environments, regulatory problems. There is no way around all of those problems. If you start to deliver something early, then you can deal with these problems in bite size pieces. If you put off dealing with these problems until later, you'll be forced to try to deal with them all at once.
+And sooner, is much better that later. Why? Because of all those problems that you encounter when you start to deliver small amounts of software, problems with the technology, problems with environments, regulatory problems. There is no way around all of those problems. If you start to deliver something early, then you can deal with these problems in bite size pieces. If you put off dealing with these problems until later, you'll be forced to try to deal with them all at once.
 
 2. Working software teaches you things about the problem that you're solving.
 
@@ -500,7 +500,7 @@ Once you've done this, once you've found something that users want that you thin
 
 All of a sudden, they're not as in control of the project as they were, the project has been let out in to the wild world. It isn't just their baby any more. People may not act to this positively or rationally. It may feel that you've deliberately pushed you and your team into a storm, when they could have stayed in calmer waters. And that is exactly what you've done. This may feel like a very stupid thing to do, so it's important to remember why you've done it. You've done it because staying "safe" not being changed won't get you where you, your team and your project need to be.
 
-What's important as you move through these choppy waters, is to keep in mind the the direction that you need to keep pushing the working software.If what you're doing is adding functionality to the software that can then be tested with users, then you're going in the right direction. If what you're doing is making the software fit better with non-functional requirements, that's moving in the right direction. If what you're doing is moving the software nearer to being live with live data and really being used by real users, then you're moving the software in the right direction.
+What's important as you move through these difficult waters, is to keep in mind the the direction that you need to keep pushing the working software. If what you're doing is adding functionality to the software that can then be tested with users, then you're going in the right direction. If what you're doing is making the software fit better with non-functional requirements, that's moving in the right direction. If what you're doing is moving the software nearer to being live with live data and really being used by real users, then you're moving the software in the right direction.
 
 But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting feedback from users and stakeholders and dealing with the people who jump out from behind trees and tell you that you can't do what you're doing. 
 
@@ -510,7 +510,7 @@ You need to move carefully along along all of these dimensions. Carefully, chang
 
 "Empirical" isn't a common word. But empirical process refers to something that we're all doing all day every day. All day every day we change what we're doing in response to what we see and experience through our other senses. And that's what the word "empirical" means. It means relating to experience in the real world. But it's an odd word that doesn't sound as down to earth and practical as it is. 
 
-For years I've run training courses to introduce people to Agile ideas. Because "Empirical" is such a strange word, there's an exercise that I often do where I get people too look up the word, to discuss it's definition. Then we do exercises. These exercises probably involve Lego and not being able to build as many models as the team initially thought. So half way through the exercise they have to do something different, based on this experience. At the end of exercise, I come back to this word "Empirical." Based on experience.
+For years I've run training courses to introduce people to Agile ideas. Because "Empirical" is such a strange word, there's an exercise that I often do where I get people too look up the word, to discuss what it means. Then we do exercises. These exercises probably involve Lego and not being able to build as many models as the team initially thought. So half way through the exercise they have to do something different, based on this experience. At the end of exercise, I come back to this word "Empirical." Based on experience.
 
 To make sure that my own performance can be improved based on experience, I get feedback at the end of the courses I run. One of the questions that I ask is "What's the most important thing that you think you've learned from this course?"
 
@@ -520,7 +520,7 @@ Yup. Clearly, it's a tricky concept with a funny name. Which is kind of strange,
 
 What are we doing that's so vital? What we're doing is honouring the three pillars of empirical process - transparency, inspection and adaptation.When are we doing this? All the time, but one time when we're especially doing it, is when we're driving a car. 
 
-Just think about it, when you're driving a car down the road, you definitely need transparency. You need to be able to see out of the windscreen. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong very quickly.
+Just think about it, when you're driving a car down the road, you need transparency. You need to be able to see out of the windscreen. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong very quickly.
 
 But transparency isn't enough. If you're driving, it isn't enough for the windscreen to be clear, you need to actually look out of it. If you're not looking out of the windscreen and checking your mirrors, if instead, say you're checking messages on your phone, or distract and desperately trying to brush scalding hot coffee out of you lap, this is also not good. Transparency isn't enough. You need inspection. 
 
@@ -532,11 +532,11 @@ We couldn't do this without transparency - if the windscreen were covered in mud
 
 At this point, I might mention that I've crashed two cars, OK three. I'm far from an expert on driving. But I am an expert on what this principle of empirical process means for software development teams. What does transparency mean for software development teams. Well, there are at least three meetings where there's opportunity for transparency.
 
-Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that they're encountering. This gives everybody in the team the opportunity for to know what's going on around them.
+Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that are finding. This gives everybody in the team the opportunity for to know what's going on around them.
 
 In retrospectives, the teams gets to look in the rear view mirror at the road behind them and talk about what obstacles could have been negotiated better, what things they've got the hang of, that the might be able to tackle more quickly now and that things they still have no way of tackling at all.
 
-And in show and tells, demonstations of working software show exactly how it's going. And of course, that can really be a problem.
+And in show and tells, demonstrations of working software show exactly how it's going. And of course, that can really be a problem.
 
 I didn't witness this for myself. So this story may be entirely made up. The first ever Agile software development project that I worked on was for a publishing company. When I joined the project it had been going for over a year and had cost many millions of pounds. The way that I heard the story, a few months before I joined, there's been a show and tell meeting. The publishing company was international and had offices in London and in New York. There were people with American accents dialling in on a conference call.
 
@@ -546,9 +546,39 @@ He had a presentation with some slides. And there was a bit messing about settin
 
 I don't know how dramatic he was at this point. I don't know if he asked anybody in the room or on the phone if they could guess what the two meant? 2 weeks to finish? 2 Months? 2 Years? But I know that at some point he did get the point across. The 2 was percent. Progress on the project, after six months and many millions of pounds was 2 percent of all the work that was in the backlog.  
 
-This is brutal transparency. Any it probably came out of desparation. Having worked on that project I can guess that promises had been made to the bosses in New York that the project would be finished by some date. Nobody had mentioned to the bosses the problems that were being encountered that were slowing progress to a crawl.
+This is brutal transparency. Any it probably came out of desperation. Having worked on that project I can guess that promises had been made to the bosses in New York that the project would be finished by some date. Nobody had mentioned to the bosses the problems that were being found. Problems that were slowing progress to a crawl.
 
 The main result of that number 2 was that Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communication progress across the Atlantic. After that, guess what? The news was always good.
+
+This is what one reader said about this story:
+
+>> I was there and I remember this meeting very well. It is all true. And it was followed by an explosion of anger over the phone where the entire team (50+ people) were dressed down and told to get on with it or heads will roll.
+
+So this story that I'd heard really is true. But what does it tell us? What does it tell us about empirical process, transparency and adaptation? And in the end, what does that tell us about delivering the impossible.
+
+OK. Let's start here. I'm going to put on my magic fortune teller's hat and I'm going to look into your project. Mmmmm. Ahhh. Mmmm. Actually, I don't need a funny, and I don't need the strange noises. If you have a project, and this project has yet to deliver it's first live release and that release has a deadline, I already know one thing about it.
+
+> Your project is supposed to deliver N times as much work by the than it can do.
+
+What's N? On a "good" project N is two or three. I've seen lots of projects where N is 7 or 8. On the project that I just told you about where the Scrum Master brought up the "2" on the screen, N was somewhere between 25 and 50!
+
+Maybe I'm wrong. Maybe your project is fine. Maybe you're reading a book called "Delivering the Impossible" out of curiosity of what it would be like to work on one of those projects that seems impossible. Maybe.
+
+But if your project isn't fine, what are you going to do about it? Telling it like it is as the Scrum Master in the story tried to doesn't seem to work that well - in fact it resulted in the hiring of someone to specifically stop the bosses in New York being told the truth. 
+
+The first thing to understand is that if your project has over-promised, it's never a bad thing for the team that's delivering that to know it. If you're in charge of that team, you should making sure that all of the chances to keep everything transparent (stand ups, retrospectives and show and tells) are happening. 
+
+The second thing is to understand that shouting out bad news in front of fifty people might not be the best way of communicating it.
+
+Here is where you might be a lot better at this than me. Like the guy in the "2" story, I'm not very diplomatic. Like the guy in the "2" story, I've nearly gotten fired for telling it like it is in front of the wrong audience. You might be more diplomatic, you might have a better way of dressing up bad news. 
+
+But here are some other things that it's important to understand.
+
+Everybody in the room knew that "Mr 2" was right. The bosses in New York heard what he said. Unfortunately, the way that "Mr Two" said it was so confrontational that their reaction was exactly the wrong one. They literally hired someone to stop him telling them the truth ever again.
+
+By starting to talk about the rather jolly metaphor of driving a car as a way of thinking about empirical process, we've ended up right at the absolute nitty-gritty of project management.
+
+In order to manage a project, you need transparency. When you achieve that transparency, you get bad news. You have to do something with the bad news. What do you do with the bad news?
 
 ## Chapter 7 - Two Bad Metaphors for Software Development
 

@@ -6,6 +6,9 @@
 
 
 ## Update History
+
+Update 19th April 2021 - "In order to manage a project, you need transparency. When you achieve that transparency, you get bad news. You have to do something with the bad news. What do you do with the bad news?"
+
 Update 18th April 2021 - "The story of 2"
 
 Update 17th April 2021 - "~~Imperial progress~~ empirical process."
