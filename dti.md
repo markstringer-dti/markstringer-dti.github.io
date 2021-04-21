@@ -7,43 +7,82 @@
 \thispagestyle{empty}
 \newpage
 ##  Chapter 1 - Introduction
-This book is called "Delivering the impossible." But of course. The only things that can be delivered are possible things. So I might ask you, and you might ask yourself, Why on earth did you pick up this book? It has a contradiction, an impossibility right on the front cover. 
+The title of this book is "Delivering the impossible." But of course you, or anyone, can only deliver possible things. So might ask yourself, "Why on earth did I pick up this book?" It has a contradiction, an impossibility right on the front cover. 
 
-But if I did that, I would be being less straight forward than you want the author of a book that promises to help with impossible things. Here are some reasons why I think you might pick up this book. 
+Here are some reasons why you might have picked up this book. 
 
-How about this? You are working on a project, maybe you're a member of the project team, maybe you're the manager, and you feel stuck. It seems like the project is impossible. What's being promised can't be delivered, nobody knows what's being promised, or what's being promised can't be delivered on time.
+How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone promised something. You know that your team can't deliver it. Or you don't know what they promised. Or you do know what they promised, but you're certain that your team can 't deliver it on time.
 
-Every direction that you look in there seem to be problems that can't be solved. You have found this book. You think it might be worth a read.
+Every direction that you look in there seem to be problems that can't solve. You have found this book. You think it might be worth a read.
 
-You have a group of people working on a project for you, and you've got this uncomfortable feeling that the project isn't going well.  But, for the sake of the company or for the sake of your career, you need this project to succeed. You wonder if there any useful tips in this book that you can pass on to the team or maybe anything that *you* could do differently.
+Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  Gor the sake of the company or for the sake of your career, or both, you need this project to succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project succeed?
 
+Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been stopped, abandoned, killed? Put to sleep. Why would anybody carry on with it? 
 
-Even though we think the project is impossible, you haven't just given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it be stopped, abandoned, killed? Put to sleep. Why would anybody carry on with it? 
+Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done., given the right skills and expertise. You know this from other parts of your life. If you can only change your point of view, things can improve dramatically. If you look at things in the right way  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be to a success.
 
-Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible, are actually possible, give the right skills and expertise. You know from other parts of your life, that if you can only change your point of view, things can dramatically improvie. If you learn to look at things in the right way and do the right things at the right time, things that used to seem impossible can turn out ok.
+What you would like and expect from a book titled "Delivering the Impossible" is some kind of guide.  You'd expect some kind of handbook for dealing with projects that seem impossible.
 
-So what you would like and what you might expect to find in a book with a title like "Delivering the Impossible" is some kind of guide.  You expect some kind of handbook for dealing with projects that seem impossible.
+You might expect to find methods for spotting issues make a project "impossible".  You might then expect the book to go on to talk about what to do in these situations. How to make a project reasonable and deliverable and give it the best chance of success. 
 
-In such a book, you might expect to find methods for spotting issues that might make a project "impossible" as early as possible. You might then expect the book to go on to talk about what to do in these situations that seem impossible. How to make a project reasonable and deliverable and give it a chance of success. 
+What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. Is should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to succeed on other projects. How to ride into the sunset to fight another day.
 
-What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. How to keep yourself and the people around you financially, physically and psychologically safe. How to walk safely away from a lost cause and move on to succeed on other projects, ride into the sunset to fight another day.
+Let's imagine you're a demanding reader. You might not just want advice on impossible projects. You might also want to know how to deal impossible programmes. Or even in impossible organisations. Yes, if you're demanding, you might want such a book to talk about how to deliver the impossible at scale.
 
-If you're getting demanding as a reader, you might also expect the book to talk about how deliver, not just on impossible projects, but also on impossible programmes, even in impossible organisations. Yes, if you're demanding, you might want such a book to talk about how to deliver the impossible at scale.
+Well, this is that book. And it tries to meet all these expectations. This is especially that book if what you do involves the development of software.
 
-Well, this is that book. And it tries to meet all of these expectations. This is especially that book if your project, programme or organisation is in some part dependent on the development of software.
+If you read this book, you will learn, how to identify situations that seem impossible. You'll learn how to distinguish them from those situations that are impossible. You'll learn how to improve your  management of impossible seeming situations. Things might look really bad. But there are often some very simple things you can do to turn projects around and help them succeed.
 
-If you read this book, you will learn, how to identify situations that seem impossible and how to distiguish them from those situations that are impossible. You'll learn how to manage these situations so that's there's a chance, not just of delivery, but also of success. You'll also get lots of advice about how to look after yourself and those around you while you're doing it.
+### Why This
+OK - so this book is about delivering the impossible. So why is it subtitled "Seven metaphors for successful project managment delivery." Well that's because the main thing that I'm going to do in this book is talk about different ways of seeing project management and software devleopment. 
 
-### Why this?
+The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. What I try and do in this book is provide the reader with a number of different ways of seeing the business of project managment, especially of software development. The aim of providing these different ways of seeing is to make you much smarter.
+
+What it's really important to understand is that I'm not doing this because I think there's anything wrong with the idea that in order to be more successful with software development projects, teams should use Agile methods, and in order to make those methods most effective, at least at first they need help from people who've made it work in other places - they need coaching. I believe both of those this are needed.
+
+The trouble is, I don't think they're enough. It's true that following an Agile method like Scrum is a good way of improving your chances of a software development project's success. It's what I would almost aloways do if I were put in charge of delivering a software development project. It's true that if you add into this mix some extreme programming engineering practices like continuous integration, pair programming, test first development, then you're make success even more likely. 
+
+It's also true that if you haven't done this before as a team, you are going to need some outside help and coaching from somebody who has done it before.
+
+But unfortunately, this just isn't enough. You need to do more than this if your project has any realistic chance of succeeding.
+
+So for example. In the first chapter, you need to be able to notice when you and your team are quietly agreeing to ignore the big issues that need to be tackled. Using the metaphor that I talk about in the first chapter, you need to stop you team from looking down at their feet and mopping the decks and get them to look at the horizon and face the approaching pirate ship.
+
+Why is it really important that you tackle "pirate ship" issues as soon as you see them? Because if you don't you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project to succeed.
+
+Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why do you need to put working sofware in the hands of people who might genuninely benefit from using it as soon as you possibly can? I try to explain this using the metaphor of flowers which are instantly appealing, but ultimately unsustaining and fruit, which is difficult to grow and even more difficult to make palatable but can ultimately feed people.
+
+By doing this, by providing this different ways of looking at software development, the promise of this book is to provide its readers with something, solid, nutritious and sustaining. The genuin possibility of knowing what they're doing when they are project managing sofware development. And once you know what you're doing, a lot of things that previous seemed impossible can seem a lot less so.
 
 ### Why now?
+Well another way of thinking about this is why not *then*? Why haven't we been trying to find better ways of thinking about software developent since the very beginning.
 
+We've certainly been in need of better ways of thinking about software development since it became a thing that people did in the 40's. I remember listening to a description of a "Waterfall" approach to managing software development in the early 90's in my first jobs as a software developer and thinking "That'll never work." And it didn't. 
+
+The first two projects that I worked on, one for big oil company and one for the military, had both been developed using what was then the accepted metaphor for software development - the waterfall approach. The project was tackled in stages. In a first stage, all the requirements for the project were carefully written down to produce a huge requirements specfication. In a second stage, these were developed into first high level and then detailed designs. Following this, finally software was developed against the designs before final stages of first internal and then external testing. Then and only then did the software go live.
+
+Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch - litigation.  When the customers finally got to see what they'd asked for months, if not years earlier, it really wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible (very possible) that the specifications that were written in the specification hadn't quite captured exactly what the users wanted. It's also possible (very possible) that the users hadn't really been capable of saying in one long fluid document, exactly what it was that they wanted. By the time what the users had asked for had got through the systems designers, the developers, the interal testers and then the external testers, it's hardly a suprise that things had gone astray.
+
+One intriguing thing, that I barely noticed about those first few projects that I was involved in, was that when it got to the crunch phase, when the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The project would call in a guy who's entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most. He would then negotiate some room for maneouvre. A bit of time and a bit of money from the client so that bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valauble enough to them that they would drop the threat of a law suit. 
+
+And what those guys were doing, well it kind of sounds like iterative, Agile software development.
+
+So, one answer to the question - "Why now?" Is well, well not ages ago? We could and should (and kind of were) doing this right from the beginning."
+
+But there's another answer to this why now question. Why now? Because being good at writing software, being good at doing it in a timely manner, being good at putting software that people want to use in the hands of users, is become more and more important.
+
+As Marc Andreessen pointed out more than a decade ago now, software is eating everything. Since he wrote that article, software has taken huge bites out of sex and dating, politics, social life music and television. Some of the companies that are good at developing software (Amazon, facebook, Google, aliba) are very arguably more powerful that governments.
+
+So if you're interested in being good at something and even slightly susceptible to megalomania, getting good at developing and delivering software is worth a look.
+
+But ironically, the craft of managing software delivery doesn't seem to be so susceptible to being eaten by software.
 ### Why me?
 
 ### Why you?
+
 ## Chapter 2 - Agreed activity
 
-One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've repeatedly signed up for improvisation classes.  Why? Because my experience is that every time I go to an improvisation class, I learn something new. More specifically, I have new experience, and these often, in some way or other, turn out to be useful in real life.
+One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've signed up for improvisation classes over and over again.  Why? Because my experience is that every time I go to an improvisation class, I learn something new. I have new experiences, and these often, in some way or other, turn out to be useful in real life.
 
 One of the key ideas in improvisation is blocking. For example. If an improvised scene starts with someone knocking on a door. The scene might go something like this. 
 
@@ -77,19 +116,21 @@ Person 1: Hello! I've brought you a cabbage.
 
 Person 2: Humph. Fine.
 
-In improvisation, it's generally agreed, these aren't the kind of answers that result in an fun scene. Why because they "block" the scene moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. The story of a couple who learn to fly on the wings of their own farts. Or perhaps a story of the dangers of living with a pot of Kimchi that brews for so long that it becomes self aware.
+In improvisation classes, they teach that these aren't the kind of answers that result in an fun scene. Why? Because they "block" the scene moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. 
 
-The second answer is "Hmph. Fine." This is perhaps even more dangerous to a good story. It just goes nowhere. Again the story is stopped dead in its tracks. What's happening in such a situation is that the person who is speaking is scared. They feel out of control, so they're doing the least that they think they can get away with. The result is very boring to watch, not very nice to the other performers and kind of defeats the whole object of improv. But they feel safer than if they had accepted the offer of cabbage and allowed the story to progress.
+What could be an interesting cabbage story? The story of two people that learn to fly on the wings of their own farts. Or a story of the dangers of living with a pot of Kimchi that brews for so long that it becomes self aware.
+
+The second answer is "Hmph. Fine." This is even more dangerous to a good story. It goes nowhere. Again the story stops dead in its tracks. What's happening in such a situation is that the person who is speaking is feeling fear. They feel out of control, so they're doing the least that they think they can get away with. The result is very boring to watch. Also it is not very nice to the other performers and defeats the whole object of improv. The whole object of improv is to create an interesting story. But even so, the performer feels safer than if they had accepted the offer of cabbage. Because they didn't know where the cabbage might lead.
 
 Here's another way of saying "Humph, fine."
 
-Imagine that instead of just two performers on stage for an improvised scene, there are a group, let's say seven, give or take a few.  As is often the way with improvised performances, the actors get a suggestion for a setting for the scene from the audience and get "The deck of a tall sailing ship."
+Imagine tha there are a group of performers on stage for an improvised scene.  Often to start a scene,  the actors will ask for a suggestiong from the audience. Someone in the audience suggests "The deck of a tall sailing ship."
 
 Here's what might happen.
 
 Person 1: [Putting mimed fake telescope to their eye] Look over there! On the horizon? There's a ship, and a flag! Is that a skull and cross bones?
 
-As with the first scene that we talked about, the other performers have a decision to make. One obvious decision here is to totally "yes and" the Pirate ship.
+As with the first scene that we talked about, the other performers have a decision to make. One obvious decision here is to "yes and" the Pirate ship.
 
 Person 2: Oh my God the Pirates are coming. Haul up the sails, let's try to outrun him.
 
@@ -97,36 +138,45 @@ Person 3: Oh my God the Pirates are coming. The cannons! Load the cannons!
 
 Person 4: Oh my God the Pirate are coming. Quick hide in the lifeboats.
 
-And all of these are good selections (as long as trying to hide in the life boats doesn't actually work and result in comedy).
+All these are good selections. Of course the audience hope that hiding in the lifeboats won't work, but will result in lots of comedy.
 
-But what can often happen in such a situation is that instead of saying one of the things above, that might move the story forward, someone says something like this:
+But what happens in such situations is a different kind of suggestion. Something like this:
 
 Person 5: Hey! Let's wash the decks!
 
 Persons 6, 7, 8, 9 and 10: Yes! Let's!
 
-For some of the performers on the stage, this can seem like an attractive thing to do. But of course, for the audience, it's a very bad idea. Once the Pirate ship has been talked about, they want to see the pirate ship arrive. They want to see what a chase between this ship and a pirate ship looks like? They want to see if this crew can load a cannon, point it in the right direction and fire it. They want to see the pirate king and see what he'll do to the crew members who are hiding in the lifeboats.
+For some of the performers on the stage, this can seem like an attractive thing to do. But of course, for the audience, it's a very bad idea. Once somebody mentioned the pirate ship, they want to see it arrive. They want to see what a chase between this ship and a pirate ship looks like. They want to see if this crew can load a cannon, point it in the right direction and fire it. They want to see the pirate king and see what he'll do to the crew members who are hiding in the lifeboats.
 
-They don't want to be treated to the sight of everyone on the stage miming mopping the floor. 
+They don't want to see everyone on the stage miming mopping the floor. 
 
-But for inexperienced improvisers, the temptation to agree to wash the decks rather than wrestle with the implications of the pirate ship which is coming closer and closer, is extremely tempting.
+For inexperienced improvisers, the temptation to agree to wash the decks is strong. It is much attractive than dealing with the implications of the pirate ship. 
 
-Why? In his books "Impro" and "Impro for storytellers" Keith Johnstone describes this kind behaviour as "agreed activity." Putting people on a stage in front of an audience makes them scared. And scared people try to make themselves safe, even if what they're doing individually is making what the group are trying to do together - entertain people - less likely to succeed. Part of what constitutes the skill of being a good improviser is knowing how to avoid this strong need to stay safe and instead move the story forward. Accept that there's a pirate ship on the horizon and deal with what that means.
+Why? Keither Johnstone invented his own style of improvised theatre in the 1950's. He also wrote several books: "Impro" and "Impro for storytellers." In these Johnstone describes this kind behaviour as "agreed activity." 
 
-What's fascinating about this kind of behaviour is that everybody, I mean all the improvisers on stage, seem to just know, without thinking, that it's the right thing to do. There isn't a long discussion. It happens in a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that we think might be dangerous. We tend to avoid anything that will make us change our behaviour or our thinking.
+He explains that putting people on a stage in front of an audience makes them scared. Scared people try to make themselves safe, even if what they're doing is making group as a whole less safe.
 
-One way that Johnstone suggests to help the improvisers avoid "agreed activity" is to have a director who is watching the improvisers and can speak out and direct the actors during the show. In this kind of set up, it's the job of the job of the director to spot which actions and suggestions by the improvisers will move the story forward. In desperate situations she might also make suggestions herself. Imaging that a director were watching a scene where there'd been a suggestion of washing the decksr She might allow the crew 10 seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
+ Part of what the skill of being a good improviser is knowing how to avoid this need to stay safe. Instead good improvisers have the courage to move the story forward. When they hear the suggestion, good improvisers accept there's a pirate ship. They make the story intersesting and move it forward by dealing with what that means.
 
-Why am I telling you this? Because of course, this idea of concrete practice has usefulness in the context of project management. As with improvisers on stage, there's a temptation among people who work on a project to find some agreed activity. Just like improvisers, they do this as a way of avoiding having to think, or be changed. Instinctively they shy away from the realities of the problem that they're solving. 
+What's fascinating is that all novice improvisers seem to know that it's the "right" thing to do. There isn't a long discussion. It happens in a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that might be dangerous. Especially, we tend to avoid anything that will make us change our behaviour or our thinking.
 
-Of course, if we pick up on what we talked about in the introduction. If we want to deliver the impossible the first thing that we have to do is stop ignoring the bits that look like they might be impossible.
+ Johnstone has one suggestion to help the improvisers avoid this "agreed activity". This is to have a director who is watching the improvisers and can speak out and direct them during the show.  The director spots which suggestions will move the story forward. They also see which are "agreed activity" and tell the actors to avoid them. In desperate situations she might also make suggestions herself. 
 
-In iterative, Agile, ways of doing project management there are lots of opportunities for the team and the team manager to spot the pirate ship. Typically, every day there's a "stand-up" meeting where the team talk about what they did the day before, what they're going to do today, and, most importantly, if there's anything blocking their progress. 
+Let's say a director is watching a scene where there'd been a suggestion of washing the decks. She might allow the crew ten seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
 
-Of course, it's in the nature of agreed activity that if there's one big thing that's blocking progress, that might be the very things that no-one talks about at all in the stand up meeting. So the signs, that there is a pirate ship that needs tackling might very well not be the sight of a Jolly Roger and the sound of "Arrrrr!" Rather it might well be reports of agreed activity.
-Very often, the same report with mild variations for days and days. 
+Why am I telling you this? Because, of course, this idea of agreed actity is useful in project management. People who work on a project can prefer agreed activity to moving the action forward. Like improvisers, they do this as a way of avoiding having to think, or needing to change. Instinctively they shy away from the realities of the problem that they're solving. 
 
-Another sign of agreed activity and pirate ship avoidance is when a task or "Story" as they're often called in Agile, gets planned and then just doesn't get done. Nobody on the team decides to pick it up. It may well be that no discussion has been had within the team about why they don't want to pick up this story and tackle it. As with the crew on the improvisational stage, they just agreed, possibly tacitly, not to tackle it. Of course, in these situations, it's the job of the project manager to hold up with story and ask what it is about this story that means everyone is avoiding it.
+We can start to deliver the impossible by avoiding agreed activity. We can start to deliver the impossible by spotting the pirate ships on the horizon. 
+
+In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up team members talk about any problems they have that  blocking their progress. This is the most important bit. These problems are the pirate ships. 
+
+Of course, if there's one big thing that's blocking progress, that might be the thing that no-one talks about. The signs that there is a pirate ship that needs tackling might not be obvious at first. There might not be an obvious Jolly Roger flying and the sound of "Arrrrr!" 
+
+Agreed activity might be a sign there's there's something everyone is ignoring.
+
+If some members of the team have the same update with no variation for days and days. That's a sign of agreed activity. Another sign is when the the team plans a task and then it doesn't get done. 
+
+Nobody on the team decides to pick it up. It may well be that no discussion has been had within the team about why they don't want to pick up this story and tackle it. As with the crew on the improvisational stage, they agreed, they might not have talked about it, not to tackle it. Of course, in these situations, it's the job of the project manager to hold up with story and ask what it is about this story that means everyone is avoiding it.
 
 So, one place to spot the pirate ship is stand-up. Another is the retrospective. That's a meeting that happens, typically every two weeks where the team talks about how the previous sprint went. What went well, what didn't go so well, what could be done better. 
 
