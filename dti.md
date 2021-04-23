@@ -6,7 +6,9 @@
 \maketitle
 \thispagestyle{empty}
 \newpage
-﻿##  Chapter 1 - Introduction
+
+##  Chapter 1 - Introduction
+
 The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility right on the front cover." 
 
 Here are some reasons why you might have picked up this book. 
@@ -50,7 +52,7 @@ So, for example. In the first chapter, you need to be able to notice when you an
 
 Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project to succeed.
 
-Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why do you need to put working software in the hands of people who might genuinely benefit from using it as soon as you possibly can? I try to explain this using the metaphor of flowers which are appealing, but ultimately un-sustaining and fruit, which is difficult to grow and even more difficult to make palatable but can ultimately feed people.
+Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why do you need to put working software in the hands of people who might genuinely benefit from using it as soon as you possibly can? I try to explain this using the metaphor of flowers which are appealing, but ultimately not sustaining-sustaining and fruit, which is difficult to grow and even more difficult to make palatable but can ultimately feed people.
 
 By doing this, by providing these different ways of looking at software development, the promise of this book is to provide its readers with something, solid, nutritious, and sustaining. The genuine possibility of knowing what they're doing when they are project managing software development. And once you know what you're doing, a lot of things that previous seemed impossible can seem a lot less so.
 
@@ -82,11 +84,11 @@ So why should you list to me? Well, I've been working in the software developmen
 
 Working for Xerox gave me my first experience of project management. I think they gave me the project management job because they'd seen how well I could write code. I managed a couple of German guys who were writing code for the first "smart" phone - the Nokia 9000. This was a really dumb phone. It had the same operating system as some sewing machines and it was a nightmare to write anything for it. 
 
-Working for Cambridge University gave me my first experience of using iterative, user centred design. We designed a system to help school kids put toegether discursive arugments. The funding was for an interface that was tangible, an interface that you could touch, pick up. This project taught me a lot. 
+Working for Cambridge University gave me my first experience of using iterative, user centred design. We designed a system to help school kids put together discursive arguments. The funding was for an interface that was tangible, an interface that you could touch, pick up. This project taught me a lot. 
 
 Ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface that used cards with statements like "People don't like graffiti," to search the internet.
 
-Whatever you're building needs to fit in a particular situation. The situation that we were designing for was English schools. They were at the time cosely regulated. Any activity that we were going to get the kids to do with our fancy new interface would have to fit in a lesson plan. But because this was a research project, we were also trying to please our other research partners and ultimately, our funders. I didn't think of it then like this, but that project was definitely a swamp.
+Whatever you're building needs to fit in a particular situation. The situation that we were designing for was English schools. They were at the time closely regulated. Any activity that we were going to get the kids to do with our fancy new interface would have to fit in a lesson plan. But because this was a research project, we were also trying to please our other research partners and ultimately, our funders. I didn't think of it then like this, but that project was definitely a swamp.
 
 Look this is all very well, but it's starting to sound a bit "I was born at an early age."
 
@@ -109,9 +111,11 @@ Let's say you and your team get lucky and you do admit to yourselves that there'
 
 If you haven't read about the swamp in Chapter 4, there's a good chance that you won't have hired the best user research team you can find and yo won't have a detailed map of the user and stakeholder ecosystem. If you haven't, even if you tackled the pirate ship the minute you saw it, and even if you pushed working software as far as you could along the right dimensions, your project might still be as much of a success as it could be. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
 
-Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. Oh, wow, I just through of this, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
+Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. Oh, wow, I just thought of this, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
 
-Why because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project managment as keeping a promise" really is and what you can do to escape its evil clutches.
+Why? because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project management as keeping a promise" really is and what you can do to escape its evil clutches.
+
+
 ## Chapter 2 - Agreed activity
 
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've signed up for improvisation classes over and over again.  Why? Because my experience is that every time I go to an improvisation class, I learn something new. I have new experiences, and these often, in some way or other, turn out to be useful in real life.
