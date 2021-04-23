@@ -6,8 +6,8 @@
 \maketitle
 \thispagestyle{empty}
 \newpage
-##  Chapter 1 - Introduction
-The title of this book is "Delivering the impossible." But of course you, or anyone, can only deliver possible things. So might ask yourself, "Why on earth did I pick up this book?" It has a contradiction, an impossibility right on the front cover. 
+﻿##  Chapter 1 - Introduction
+The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility right on the front cover." 
 
 Here are some reasons why you might have picked up this book. 
 
@@ -15,11 +15,11 @@ How about this? You are working on a project. You're a member of the project tea
 
 Every direction that you look in there seem to be problems that can't solve. You have found this book. You think it might be worth a read.
 
-Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  Gor the sake of the company or for the sake of your career, or both, you need this project to succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project succeed?
+Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project succeed?
 
 Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been stopped, abandoned, killed? Put to sleep. Why would anybody carry on with it? 
 
-Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done., given the right skills and expertise. You know this from other parts of your life. If you can only change your point of view, things can improve dramatically. If you look at things in the right way  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be to a success.
+Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done., given the right skills and expertise. You know this from other parts of your life. If you can only change your point of view, things can improve dramatically. If you look at things in the right way,  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be to a success.
 
 What you would like and expect from a book titled "Delivering the Impossible" is some kind of guide.  You'd expect some kind of handbook for dealing with projects that seem impossible.
 
@@ -31,39 +31,39 @@ Let's imagine you're a demanding reader. You might not just want advice on impos
 
 Well, this is that book. And it tries to meet all these expectations. This is especially that book if what you do involves the development of software.
 
-If you read this book, you will learn, how to identify situations that seem impossible. You'll learn how to distinguish them from those situations that are impossible. You'll learn how to improve your  management of impossible seeming situations. Things might look really bad. But there are often some very simple things you can do to turn projects around and help them succeed.
+If you read this book, you will learn, how to identify situations that seem impossible. You'll learn how to distinguish them from those situations that are impossible. You'll learn how to improve your  management of impossible seeming situations. Things might look bad. But there are often some quite simple things you can do to turn projects around and help them succeed.
 
 ### Why This
-OK - so this book is about delivering the impossible. So why is it subtitled "Seven metaphors for successful project managment delivery." Well that's because the main thing that I'm going to do in this book is talk about different ways of seeing project management and software devleopment. 
+OK - so this book is about delivering the impossible. So why is it subtitled "Seven metaphors for successful project management delivery." Well, that's because the main thing that I'm going to do in this book is talk about different ways of seeing project management and software development. 
 
-The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. What I try and do in this book is provide the reader with a number of different ways of seeing the business of project managment, especially of software development. The aim of providing these different ways of seeing is to make you much smarter.
+The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. What I try and do in this book is provide the reader with several different ways of seeing the business of project management, especially of software development. The aim of providing these different ways of seeing is to make you much smarter.
 
-What it's really important to understand is that I'm not doing this because I think there's anything wrong with the idea that in order to be more successful with software development projects, teams should use Agile methods, and in order to make those methods most effective, at least at first they need help from people who've made it work in other places - they need coaching. I believe both of those this are needed.
+What it's important to understand is that I'm not doing this because I think there's anything wrong with the idea that in order to be more successful with software development projects, teams should use Agile methods, and in order to make those methods most effective, at least at first, they need help from people who've made it work in other places - they need coaching. I believe both of those this are needed.
 
-The trouble is, I don't think they're enough. It's true that following an Agile method like Scrum is a good way of improving your chances of a software development project's success. It's what I would almost aloways do if I were put in charge of delivering a software development project. It's true that if you add into this mix some extreme programming engineering practices like continuous integration, pair programming, test first development, then you're make success even more likely. 
+The trouble is, I don't think they're enough. It's true that following an Agile method like Scrum is a good way of improving your chances of a software development project's success. It's what I would almost always do if I were put in charge of delivering a software development project. It's true that if you add into this mix some extreme programming engineering practices like continuous integration, pair programming, test first development, then you're make success even more likely. 
 
 It's also true that if you haven't done this before as a team, you are going to need some outside help and coaching from somebody who has done it before.
 
 But unfortunately, this just isn't enough. You need to do more than this if your project has any realistic chance of succeeding.
 
-So for example. In the first chapter, you need to be able to notice when you and your team are quietly agreeing to ignore the big issues that need to be tackled. Using the metaphor that I talk about in the first chapter, you need to stop you team from looking down at their feet and mopping the decks and get them to look at the horizon and face the approaching pirate ship.
+So, for example. In the first chapter, you need to be able to notice when you and your team are quietly agreeing to ignore the big issues that need to be tackled. Using the metaphor that I talk about in the first chapter, you need to stop you team from looking down at their feet and mopping the decks and get them to look at the horizon and face the approaching pirate ship.
 
-Why is it really important that you tackle "pirate ship" issues as soon as you see them? Because if you don't you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project to succeed.
+Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project to succeed.
 
-Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why do you need to put working sofware in the hands of people who might genuninely benefit from using it as soon as you possibly can? I try to explain this using the metaphor of flowers which are instantly appealing, but ultimately unsustaining and fruit, which is difficult to grow and even more difficult to make palatable but can ultimately feed people.
+Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why do you need to put working software in the hands of people who might genuinely benefit from using it as soon as you possibly can? I try to explain this using the metaphor of flowers which are appealing, but ultimately un-sustaining and fruit, which is difficult to grow and even more difficult to make palatable but can ultimately feed people.
 
-By doing this, by providing this different ways of looking at software development, the promise of this book is to provide its readers with something, solid, nutritious and sustaining. The genuin possibility of knowing what they're doing when they are project managing sofware development. And once you know what you're doing, a lot of things that previous seemed impossible can seem a lot less so.
+By doing this, by providing these different ways of looking at software development, the promise of this book is to provide its readers with something, solid, nutritious, and sustaining. The genuine possibility of knowing what they're doing when they are project managing software development. And once you know what you're doing, a lot of things that previous seemed impossible can seem a lot less so.
 
 ### Why now?
-Well another way of thinking about this is why not *then*? Why haven't we been trying to find better ways of thinking about software developent since the very beginning.
+Well, another way of thinking about this is – "Why not *then*?" Why haven't we been trying to find better ways of thinking about software development since the very beginning.
 
-We've certainly been in need of better ways of thinking about software development since it became a thing that people did in the 40's. I remember listening to a description of a "Waterfall" approach to managing software development in the early 90's in my first jobs as a software developer and thinking "That'll never work." And it didn't. 
+We've certainly needed better ways of thinking about software development since it became a thing that people did in the 40's. I remember listening to a description of a "Waterfall" approach to managing software development in the early 90's in my first jobs as a software developer and thinking "That'll never work." And it didn't.
 
-The first two projects that I worked on, one for big oil company and one for the military, had both been developed using what was then the accepted metaphor for software development - the waterfall approach. The project was tackled in stages. In a first stage, all the requirements for the project were carefully written down to produce a huge requirements specfication. In a second stage, these were developed into first high level and then detailed designs. Following this, finally software was developed against the designs before final stages of first internal and then external testing. Then and only then did the software go live.
+The first two projects that I worked on, one for big oil company and one for the military, had both been developed using what was then the accepted metaphor for software development - the waterfall approach. The project was tackled in stages. In a first stage, all the requirements for the project were carefully written down to produce a huge requirements specification. In a second stage, these were developed into first high level and then detailed designs. Following this, finally software was developed against the designs before final stages of first internal and then external testing. Then and only then did the software go live.
 
-Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch - litigation.  When the customers finally got to see what they'd asked for months, if not years earlier, it really wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible (very possible) that the specifications that were written in the specification hadn't quite captured exactly what the users wanted. It's also possible (very possible) that the users hadn't really been capable of saying in one long fluid document, exactly what it was that they wanted. By the time what the users had asked for had got through the systems designers, the developers, the interal testers and then the external testers, it's hardly a suprise that things had gone astray.
+Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch - litigation.  When the customers finally got to see what they'd asked for months, if not years earlier, it really wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible (very possible) that the specifications that were written in the specification hadn't quite captured exactly what the users wanted. It's also possible (very possible) that the users hadn't really been capable of saying in one long fluid document, exactly what it was that they wanted. By the time what the users had asked for had got through the systems designers, the developers, the internal testers and then the external testers, it's hardly a surprise that things had gone astray.
 
-One intriguing thing, that I barely noticed about those first few projects that I was involved in, was that when it got to the crunch phase, when the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The project would call in a guy who's entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most. He would then negotiate some room for maneouvre. A bit of time and a bit of money from the client so that bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valauble enough to them that they would drop the threat of a law suit. 
+One intriguing thing, that I barely noticed about those first few projects that I was involved in, was that when it got to the crunch phase, when the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The project would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
 
 And what those guys were doing, well it kind of sounds like iterative, Agile software development.
 
@@ -71,15 +71,47 @@ So, one answer to the question - "Why now?" Is well, well not ages ago? We could
 
 But there's another answer to this why now question. Why now? Because being good at writing software, being good at doing it in a timely manner, being good at putting software that people want to use in the hands of users, is become more and more important.
 
-As Marc Andreessen pointed out more than a decade ago now, software is eating everything. Since he wrote that article, software has taken huge bites out of sex and dating, politics, social life music and television. Some of the companies that are good at developing software (Amazon, facebook, Google, aliba) are very arguably more powerful that governments.
+As Marc Andreessen pointed out more than a decade ago now, software is eating everything. Since he wrote that article, software has taken huge bites out of sex and dating, politics, social life music and television. Some of the companies that are good at developing software (Amazon, Facebook, Google, Alibaba) are very arguably more powerful that governments.
 
-So if you're interested in being good at something and even slightly susceptible to megalomania, getting good at developing and delivering software is worth a look.
+So, if you're interested in being good at something and even slightly susceptible to megalomania, getting good at developing and delivering software is worth a look.
 
 But ironically, the craft of managing software delivery doesn't seem to be so susceptible to being eaten by software.
+
 ### Why me?
+So why should you list to me? Well, I've been working in the software development industry since 1994. First as a developer, writing software for oil companies, the military and then a new-fangled thing called the internet. Then I worked as a researcher, first for Xerox, then for Cambridge University. 
+
+Working for Xerox gave me my first experience of project management. I think they gave me the project management job because they'd seen how well I could write code. I managed a couple of German guys who were writing code for the first "smart" phone - the Nokia 9000. This was a really dumb phone. It had the same operating system as some sewing machines and it was a nightmare to write anything for it. 
+
+Working for Cambridge University gave me my first experience of using iterative, user centred design. We designed a system to help school kids put toegether discursive arugments. The funding was for an interface that was tangible, an interface that you could touch, pick up. This project taught me a lot. 
+
+Ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface that used cards with statements like "People don't like graffiti," to search the internet.
+
+Whatever you're building needs to fit in a particular situation. The situation that we were designing for was English schools. They were at the time cosely regulated. Any activity that we were going to get the kids to do with our fancy new interface would have to fit in a lesson plan. But because this was a research project, we were also trying to please our other research partners and ultimately, our funders. I didn't think of it then like this, but that project was definitely a swamp.
+
+Look this is all very well, but it's starting to sound a bit "I was born at an early age."
+
+You should listen to me because I know how to deliver software projects. I've been doing it now for more than ten years. Mostly I've been successful. The projects that weren't successful were either trench warfare projects when I arrived or they turned out to be things that nobody wanted, or people wanted but nobody could make pay. Turns out that users are quite keen on personal loan websites, but most of the people who want a personal loan are exactly the kind of people that you probably should be loaning money. People need to keep re-learning that user research is a good idea.
+
+Some of the projects that were successful made millions of pounds for their owners. Some of them weren't about money, they were literally about making the world a better place by helping their users do scientific research or helping their users make justice in courtrooms work more smoothly.
+
+And I really believe that some of those projects wouldn't have succeeded, or might not have been so successful, if I hadn't been involved.
+
+And I learned from all of them. By working on so many projects, good and bad, my thinking about what project management was and how to do it well, changed. 
+
+And part of the reason why I've helped these projects is that I think about them in the ways I'm going to talk about in this book.
 
 ### Why you?
+Why you? Why should you read this book? Well, here's what's going to happen to you if you try to deliver a project and you haven't read this book.
 
+If you try to deliver a project and you haven't read this book. There's a good chance that you won't spot the pirate ship (Chapter 2) until it's too late. If that happens, there's a very good chance that you'll end up in a trench warfare project (Chapter 3) and it will take you way to long to realise that there's nothing you can do about it, and you need to leave. 
+
+Let's say you and your team get lucky and you do admit to yourselves that there's a pirate ship coming. If you haven't read this book and you don't know about flowers and fruit, you'll be really tempted to put off trying to put working software in the hands of users until way too late.
+
+If you haven't read about the swamp in Chapter 4, there's a good chance that you won't have hired the best user research team you can find and yo won't have a detailed map of the user and stakeholder ecosystem. If you haven't, even if you tackled the pirate ship the minute you saw it, and even if you pushed working software as far as you could along the right dimensions, your project might still be as much of a success as it could be. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
+
+Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. Oh, wow, I just through of this, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
+
+Why because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project managment as keeping a promise" really is and what you can do to escape its evil clutches.
 ## Chapter 2 - Agreed activity
 
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've signed up for improvisation classes over and over again.  Why? Because my experience is that every time I go to an improvisation class, I learn something new. I have new experiences, and these often, in some way or other, turn out to be useful in real life.

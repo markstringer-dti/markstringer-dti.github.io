@@ -7,6 +7,8 @@
 
 ## Update History
 
+Update 23rd April 2021 - "TL:DR; You should read this book."
+
 Update 21st April 2021 - "Trying to answer Richard Toye's questions in the introduction - 'Why this?' and 'Why now?'"
 
 Update 19th April 2021 - "In order to manage a project, you need transparency. When you achieve that transparency, you get bad news. You have to do something with the bad news. What do you do with the bad news?"
