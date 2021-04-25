@@ -19,7 +19,7 @@ Every direction that you look in there seem to be problems that can't solve. You
 
 Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project succeed?
 
-Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been stopped, abandoned, killed? Put to sleep. Why would anybody carry on with it? 
+Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been stopped, given up, killed? Put to sleep? Why would anybody carry on with it? 
 
 Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done., given the right skills and expertise. You know this from other parts of your life. If you can only change your point of view, things can improve dramatically. If you look at things in the right way,  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be to a success.
 
@@ -35,33 +35,51 @@ Well, this is that book. And it tries to meet all these expectations. This is es
 
 If you read this book, you will learn, how to identify situations that seem impossible. You'll learn how to distinguish them from those situations that are impossible. You'll learn how to improve your  management of impossible seeming situations. Things might look bad. But there are often some quite simple things you can do to turn projects around and help them succeed.
 
-### Why This
-OK - so this book is about delivering the impossible. So why is it subtitled "Seven metaphors for successful project management delivery." Well, that's because the main thing that I'm going to do in this book is talk about different ways of seeing project management and software development. 
+### Why This?
+OK - so this book is about delivering the impossible. So why is it subtitled "Seven metaphors for successful project management delivery." Well, that's because metaphors are different ways of seeing things. And the main thing I'm going to do in this book is talk about different ways of seeing project management. 
 
-The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. What I try and do in this book is provide the reader with several different ways of seeing the business of project management, especially of software development. The aim of providing these different ways of seeing is to make you much smarter.
+The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. In this book I try show the reader several different points of view. Different ways of seeing project management. Especially the project management of software development. 
 
-What it's important to understand is that I'm not doing this because I think there's anything wrong with the idea that in order to be more successful with software development projects, teams should use Agile methods, and in order to make those methods most effective, at least at first, they need help from people who've made it work in other places - they need coaching. I believe both of those this are needed.
+The aim of providing these different points of view is to make good on Alan Kay's claim. The aim is to make you much smarter when it comes to managing projects.
 
-The trouble is, I don't think they're enough. It's true that following an Agile method like Scrum is a good way of improving your chances of a software development project's success. It's what I would almost always do if I were put in charge of delivering a software development project. It's true that if you add into this mix some extreme programming engineering practices like continuous integration, pair programming, test first development, then you're make success even more likely. 
+This isn't like most books do that promise to improve your success  project management. Most books that do that suggest a particular Agile method. Like Scrum, or Extreme Programming. Other books talk about how coach teams in the use of these methods. Other books talk about a part of the process. It could be writing stories or running retrospectives. It could be setting up a continuous delivery  
 
-It's also true that if you haven't done this before as a team, you are going to need some outside help and coaching from somebody who has done it before.
+Some of those books are brilliant. But they're not enough. 
 
-But unfortunately, this just isn't enough. You need to do more than this if your project has any realistic chance of succeeding.
+Following an Agile method like Scrum is a good way of improving your chances of project success. It's what I almost always do if I'm in charge of delivering a software development project.
 
-So, for example. In the first chapter, you need to be able to notice when you and your team are quietly agreeing to ignore the big issues that need to be tackled. Using the metaphor that I talk about in the first chapter, you need to stop you team from looking down at their feet and mopping the decks and get them to look at the horizon and face the approaching pirate ship.
+And Scrum works best when it's combined with XP engineering practices.
+
+If you haven't done this before as a team, you are going to need some outside help.  Agile coaching from somebody who has done it before will improve your chances of success.
+
+But unfortunately, this isn't enough. You need to do more than this if your project has any realistic chance of succeeding. You need to see things from different points of view. 
+
+In this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. Issues that need tackling. 
+
+Pushing this sailing metaphor I talk about you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
 
 Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project to succeed.
 
-Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why do you need to put working software in the hands of people who might genuinely benefit from using it as soon as you possibly can? I try to explain this using the metaphor of flowers which are appealing, but ultimately not sustaining-sustaining and fruit, which is difficult to grow and even more difficult to make palatable but can ultimately feed people.
+Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some good from using it as soon as you can? 
 
-By doing this, by providing these different ways of looking at software development, the promise of this book is to provide its readers with something, solid, nutritious, and sustaining. The genuine possibility of knowing what they're doing when they are project managing software development. And once you know what you're doing, a lot of things that previous seemed impossible can seem a lot less so.
+I explain this using the metaphor of flowers and fruit. Flowers appearl to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But can feeds people.
+
+This book promises to provide its readers with something, solid, nutritious, and sustaining. It sets out seven way of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previous seemed impossible can seem a lot less so.
 
 ### Why now?
-Well, another way of thinking about this is – "Why not *then*?" Why haven't we been trying to find better ways of thinking about software development since the very beginning.
+Well, another way of thinking about this is – "Why not *then*?" Why haven't we found to find better ways to think about software development since the start.
 
-We've certainly needed better ways of thinking about software development since it became a thing that people did in the 40's. I remember listening to a description of a "Waterfall" approach to managing software development in the early 90's in my first jobs as a software developer and thinking "That'll never work." And it didn't.
+We've needed better ways of thinking about software projects since the 40's. 
 
-The first two projects that I worked on, one for big oil company and one for the military, had both been developed using what was then the accepted metaphor for software development - the waterfall approach. The project was tackled in stages. In a first stage, all the requirements for the project were carefully written down to produce a huge requirements specification. In a second stage, these were developed into first high level and then detailed designs. Following this, finally software was developed against the designs before final stages of first internal and then external testing. Then and only then did the software go live.
+I remember listening to an explanation of a "Waterfall" approach to project management. This was the mid 90's fifty years after anybody wrote the first software. I remember thinking "this will never work." And it didn't.
+
+In my first two years as a software developer I worked on two projects. One was for big oil company. One  was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
+
+Stage one: all the requirements for the project were carefully written down. This produced a huge requirements specification. 
+
+Stage two: we turned these requirements into a specification.  First high level specification and then detailed designs. 
+
+After these stages, which might take months, we started to write software.  Again, that might take months. against the designs before final stages of first internal and then external testing. Then and only then did the software go live.
 
 Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch - litigation.  When the customers finally got to see what they'd asked for months, if not years earlier, it really wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible (very possible) that the specifications that were written in the specification hadn't quite captured exactly what the users wanted. It's also possible (very possible) that the users hadn't really been capable of saying in one long fluid document, exactly what it was that they wanted. By the time what the users had asked for had got through the systems designers, the developers, the internal testers and then the external testers, it's hardly a surprise that things had gone astray.
 
@@ -73,7 +91,7 @@ So, one answer to the question - "Why now?" Is well, well not ages ago? We could
 
 But there's another answer to this why now question. Why now? Because being good at writing software, being good at doing it in a timely manner, being good at putting software that people want to use in the hands of users, is become more and more important.
 
-As Marc Andreessen pointed out more than a decade ago now, software is eating everything. Since he wrote that article, software has taken huge bites out of sex and dating, politics, social life music and television. Some of the companies that are good at developing software (Amazon, Facebook, Google, Alibaba) are very arguably more powerful that governments.
+As Marc Andreessen pointed out more than ten years ago now, software is eating everything. Since he wrote that article, software has taken huge bites out of sex and dating, politics, social life music and television. Some of the companies that are good at developing software (Amazon, Facebook, Google, Alibaba) are very arguably more powerful that governments.
 
 So, if you're interested in being good at something and even slightly susceptible to megalomania, getting good at developing and delivering software is worth a look.
 
@@ -313,7 +331,7 @@ The second thing that you can do is to deliver something to some of the people w
 
 Thirdly, one of the most revolutionary things that you can do, is to track and show the actual progress. This might be tough, but few things are as powerful as showing actual progress relative to the project's needs and expectations. In a way this is just a more extreme version of the "Jerry Springer" principle. This is one of the most powerful manoeuvres that I think an Agile project manager has in their toolbox. We'll go through it in  detail, well at least one way to do it, in a later chapter.
 
-Demonstrating that a project can't possibility be delivered by a deadline can result quickly in some sensible discussions about reduction of scope. This can then, sometimes, result in the possibility of delivering a small bit of working software to some of the people that want it. It may well seem that a project is dug-in, going nowhere and doing nothing but damage to the members of its team. Still, by pushing on all of these three "fronts" and getting some kind of virtuous circle going, it might be that something good can come out of even the worst trench warfare project. 
+Demonstrating that a project can't possibility be delivered by a deadline can result in sensible discussions about reduction of scope. This can then, sometimes, result in delivery of a small bit of working software to some of the people that want it. It may well seem that a project is dug-in, going nowhere and doing nothing but damage to the members of its team. Still, by pushing on all of these three "fronts" and getting some kind of virtuous circle going, it might be that something good can come out of even the worst trench warfare project. 
 
 It might be that something could be done to save a trench warfare project. But equally, it's important to remember that some projects cannot be saved. I don't think I've ever worked on a project that was being deliberately targeted to fail, but I have heard talk of such projects. 
 
@@ -356,9 +374,9 @@ Because for me, moving a project from its "flowers" state to its "fruit state" i
 
 What makes this so hard? Well, one of the things that makes it so hard is the nature of project ideas that we talked about. What makes project ideas attractive - the kinds of things that get money -  is that what makes them liked doesn't require conscious thought. Often what makes people like things straight away is that they don't require much thought, but they do suggest some of these features: easy, fast, cheap, same and all.
 
-The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using an iterative framework like Scrum. In Scrum the team meet at the beginning of every work day and talk about what they're going to do that day and anything that's stopping from doing what they want to do. They do this every working day. This is called the stand up.
+The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using an iterative set up like Scrum. In Scrum the team meet at the beginning of every work day and talk about what they're going to do that day and anything that's stopping from doing what they want to do. They do this every working day. This is called the stand up.
 
-Once a fortnight, the team shows the work that it's been doing in the last two weeks.  The audience is made up of people in the organisation and also sometimes also external users who are interested. This is called the show and tell.
+Once every two weeks, the team shows the work that it's been doing in the last two weeks.  The audience is made up of people in the organisation and also sometimes also external users who are interested. This is called the show and tell.
 
 The team also has a private meeting where they share what went well, what didn't go so well and what they might try differently.
 
@@ -431,7 +449,7 @@ In my head, I always imagine the job of getting working software out in the worl
 
 I'm mixing metaphors again aren't I? Let's stick with the man behind a tree for a moment. Most of those things that the man who jumps out from behind a tree will bring up what are known as "non functional requirements." The software needs to be accessible. The software needs to be secure. The software is covered by some regulator in the industry that you have never heard of. 
 
-Of course, one way to tackle all the rules and regulation man traps that your software might set off is to try to take care of them in the specification before any software gets written. But in my experience (and I suspect in the experience of the people who wrote the Agile manifesto) it's very hard to find out exactly what you can and can't do without trying to do something. When you're trying to list these requirements without a piece of working software, you're only dealing with "known knowns". When you try to get some working software as far as you can through the barbed wire to the outside world, you quickly start to find about "known unknowns" (you knew there would be other security measures out there in no man's land, but you didn't know what they were) but also known unknowns (like the guy jumping out from behind a tree). 
+Of course, one way to tackle all the rules and regulation man traps that your software might set off is to try to take care of them in the specification before any software gets written. But in my experience (and I suspect in the experience of the people who wrote the Agile manifesto) it's very hard to find out exactly what you can and can't do without trying to do something. When you're trying to list these requirements without a piece of working software, you're only dealing with "known knowns". When you try to get some working software as far as you can through the barbed wire to the outside world, you soon start to find about "known unknowns" (you knew there would be other security measures out there in no man's land, but you didn't know what they were) but also known unknowns (like the guy jumping out from behind a tree). 
 
 OK. This metaphor is in a blender. But it still applies. Why try to do working software? Because if you do a man will jump out from behind a tree and tell you why you can't and the only way to find out what there is in no-man's land that's stopping you and your software from escaping is to get through it. Let's move on to the second reason why trying to create working software is a good idea.
 
@@ -584,7 +602,7 @@ Of course, there's another response that you're hoping for if you put small amou
 
 Once you've done this, once you've found something that users want that you think you're software can provide, you have moved a long way down the road of shifting a project from being impossible, to being possible. But by doing that you've also made the problem a lot more complicated. By trying to get software out into the real world, you will probably have had people jump out from behind trees and tell you that you're not allowed to put software out into the real world. There people are now on the list of people that you have to please. By putting working software in front of users, if you're lucky you'll have created demand and expectation from them which it's obvious to you, you need to satisfy if this project is going to be a success. But at the same time. What about the people who got this project funded? And what about the people who funded it? 
 
-All of a sudden, they're not as in control of the project as they were, the project has been let out in to the wild world. It isn't just their baby any more. People may not act to this positively or rationally. It may feel that you've deliberately pushed you and your team into a storm, when they could have stayed in calmer waters. And that is exactly what you've done. This may feel like a very stupid thing to do, so it's important to remember why you've done it. You've done it because staying "safe" not being changed won't get you where you, your team and your project need to be.
+All of a sudden, they're not as in control of the project as they were, the project has been let out in to the wild world. It isn't just their baby any more. People may not act to this well. It may feel that you've deliberately pushed you and your team into a storm, when they could have stayed in calmer waters. And that is exactly what you've done. This may feel like a very stupid thing to do, so it's important to remember why you've done it. You've done it because staying "safe" not being changed won't get you where you, your team and your project need to be.
 
 What's important as you move through these difficult waters, is to keep in mind the the direction that you need to keep pushing the working software. If what you're doing is adding functionality to the software that can then be tested with users, then you're going in the right direction. If what you're doing is making the software fit better with non-functional requirements, that's moving in the right direction. If what you're doing is moving the software nearer to being live with live data and really being used by real users, then you're moving the software in the right direction.
 
@@ -606,7 +624,7 @@ Yup. Clearly, it's a tricky concept with a funny name. Which is kind of strange,
 
 What are we doing that's so vital? What we're doing is honouring the three pillars of empirical process - transparency, inspection and adaptation.When are we doing this? All the time, but one time when we're especially doing it, is when we're driving a car. 
 
-Just think about it, when you're driving a car down the road, you need transparency. You need to be able to see out of the windscreen. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong very quickly.
+Just think about it, when you're driving a car down the road, you need transparency. You need to be able to see out of the windscreen. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong fast.
 
 But transparency isn't enough. If you're driving, it isn't enough for the windscreen to be clear, you need to actually look out of it. If you're not looking out of the windscreen and checking your mirrors, if instead, say you're checking messages on your phone, or distract and desperately trying to brush scalding hot coffee out of you lap, this is also not good. Transparency isn't enough. You need inspection. 
 
@@ -620,7 +638,7 @@ At this point, I might mention that I've crashed two cars, OK three. I'm far fro
 
 Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that are finding. This gives everybody in the team the opportunity for to know what's going on around them.
 
-In retrospectives, the teams gets to look in the rear view mirror at the road behind them and talk about what obstacles could have been negotiated better, what things they've got the hang of, that the might be able to tackle more quickly now and that things they still have no way of tackling at all.
+In retrospectives, the teams gets to look in the rear view mirror at the road behind them and talk about what obstacles could have been negotiated better, what things they've got the hang of, that they might be able to tackle faster. They also get to talk about the things that they still have no idea how to handle at all.
 
 And in show and tells, demonstrations of working software show exactly how it's going. And of course, that can really be a problem.
 
@@ -660,8 +678,42 @@ Here is where you might be a lot better at this than me. Like the guy in the "2"
 
 But here are some other things that it's important to understand.
 
-Everybody in the room knew that "Mr 2" was right. The bosses in New York heard what he said. Unfortunately, the way that "Mr Two" said it was so confrontational that their reaction was exactly the wrong one. They literally hired someone to stop him telling them the truth ever again.
+Everybody in the room knew that "Mr Two" was right. The bosses in New York heard what he said. Unfortunately, the way that "Mr Two" said it was so confrontational that their reaction was exactly the wrong one. They literally hired someone to stop him telling them the truth ever again.
 
 By starting to talk about the rather jolly metaphor of driving a car as a way of thinking about empirical process, we've ended up right at the absolute nitty-gritty of project management.
 
 In order to manage a project, you need transparency. When you achieve that transparency, you get bad news. You have to do something with the bad news. What do you do with the bad news?
+
+### OK, Let's talk about Mr Two 
+
+#### What was bad about what he did?
+
+What was bad about what he did was that he upset the bosses. He made them feel stupid in front of the whole team. And the result of that was that they made very sure that they didn't hear any news from him again. They appointed a "project manager" who never ever told them any bad news. Please note that this didn't mean that there was never any bad news. 
+
+What was bad about the situation was that it had reached such a bad point. I don't know for sure, but I'm guessing that this wasn't the first time that "Mr Two" had tried to point out actual progress, and what that meant for when the project would "finish." Mr Two's outburst was a result of a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
+
+#### What was good about what Mr Two did?
+
+Well, he managed to get a message to the bosses. And even if the result was that they made sure that they never heard from him again, there's no doubt that they heard it. 
+
+#### What's interesting about what Mr Two did? 
+
+What's interesting about what Mr Two did, is to ask ourselves if there was anything else that he could have done that would have made the situation better. It seems that everybody in the organisation didn't want to hear what he was saying. So what could he have done?
+
+Well here are a few things he could have done. All of them are partial. But they're all powerful.
+
+He could, and should have continued to keep track of the projects progress. Even when the bosses had ignored him. Why? Because this is still useful information. Actual progress tells you not only when a project is likely to "Finish" but also how long any particular piece of work should take.
+
+He could have pushed more to promote working software - to get it into the hands of real users. Because real users were the people that the bosses had to listen to. 
+
+And he shouldn't have taken it personally. It's easy to say that. From my experience, it's difficult to do it.
+
+Mmph. Right now I'm feeling like an impostor. I think I've managed to persuade you that I'm an authority on this problem, this contradiction. But I'm not sure I convince you I'm an authority on the solution.
+
+Let's go back to the car metaphor and see if it can give us any help. This is essentially what happened with "Mr Two." Mr Two turned around and told the people in the back seat that they were moving very slowly and weren't likely to get where they needed to go for years.  Here's what the people in the back seat did. They rolled up that divide that you see in limousines.
+
+Well, in terms of this metaphor, what he needs to do is to keep his windscreen clean - maintain transparency. He also needs to keep looking out of it. He needs to keep inspecting. And yes, he needs to keep adapting to the road conditions. 
+
+But do you know what he really needs? He needs yet another metaphor. He needs someone to tell him about the swamp.
+
+

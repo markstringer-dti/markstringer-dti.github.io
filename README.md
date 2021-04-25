@@ -7,6 +7,8 @@
 
 ## Update History
 
+Update 25th April 2021 - "When you start paying attention, you will get bad news. What do you with that bad news? Let me tell you about the swamp."
+
 Update 23rd April 2021 - "TL:DR; You should read this book."
 
 Update 21st April 2021 - "Trying to answer Richard Toye's questions in the introduction - 'Why this?' and 'Why now?'"
