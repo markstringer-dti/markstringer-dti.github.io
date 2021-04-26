@@ -717,3 +717,20 @@ Well, in terms of this metaphor, what he needs to do is to keep his windscreen c
 But do you know what he really needs? He needs yet another metaphor. He needs someone to tell him about the swamp.
 
 
+
+## The Swamp - Chapter 7
+
+### Concept
+Imagine that you've been given money to develop houses in a swamp. How would you go about doing that? Would you just start work? Or would you feel the need to do a little bit of exploration first? Wouldn't it be a good idea to know what's in the swamp first? Wouldn't it be a good idea to know the geology of the swamp? 
+
+What if I told you that there were people who already live in the swamp? And that there's no way that you're going to be able to build without disturbing them? There are also people who are keen to move into the swamp when you have built some houses. They've already given the property developer money. They want you to build in the swamp fast, so they can move in. 
+
+But they aren't the only people interested in the swamp. There are people who care about building regulations. There are people who you need to talk to about getting a road to come up the swamp, and power and sewarage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp.
+
+### Concrete Practice
+
+### Connections 
+
+### Conclusions
+
+### Criticism
