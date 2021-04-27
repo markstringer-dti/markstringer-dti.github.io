@@ -718,16 +718,39 @@ But do you know what he really needs? He needs yet another metaphor. He needs so
 
 
 
-## The Swamp - Chapter 7
+## Chapter 7 - The Swamp
 
 ### Concept
 Imagine that you've been given money to develop houses in a swamp. How would you go about doing that? Would you just start work? Or would you feel the need to do a little bit of exploration first? Wouldn't it be a good idea to know what's in the swamp first? Wouldn't it be a good idea to know the geology of the swamp? 
 
-What if I told you that there were people who already live in the swamp? And that there's no way that you're going to be able to build without disturbing them? There are also people who are keen to move into the swamp when you have built some houses. They've already given the property developer money. They want you to build in the swamp fast, so they can move in. 
+What if I told you that there were people who already live in the swamp? And that there's no way that you're going to be able to build without disturbing them? They don't want you to build there, they're quite happy just the way they are.
 
-But they aren't the only people interested in the swamp. There are people who care about building regulations. There are people who you need to talk to about getting a road to come up the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp.
+There are also people who are keen to move into the swamp when you have built some houses. They've already given the property developer money. They want you to build in the swamp fast, so they can move in. 
+
+But they aren't the only people interested in the swamp. There are people who care about building regulations, local government, national government. There are people who you need to talk to about getting a road to come up the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp. They people might be eco activists. They might be political activists. The swamp might be on an ancient burial ground. It might be the site of an ancient temple.
+
+So there are the people who interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold. 
 
 ### Concrete Practice
+
+Why am I babbling about swamps? This is a book about project management. This is a book about delivering the impossible. The reason I'm talking about swamps is because there are similarities between starting work on a new software development project and starting work in a swamp. 
+
+There are lot of people who have an interest in what you're doing. Some of those are directly associated with the project, some of those will directly benefit from the project. But there are also a lot of other people who are only distantly associated with your particular project, but they're still important. It may still be really good to keep those people happy and it might be a really bad idea to piss them off. 
+
+At the same time, when you start work in the swamp, it's not obvious what value you can get out of it by doing work there. Yes, maybe houses, yes maybe factories. Maybe it's best as a garden. 
+
+I didn't really get it until I worked on one project. On this project I worked with a woman who did research with users. She really did research with users. As soon as the project started, she was starting to contact potential users for the product and arrange meetings. She was running workshops with users, first to understand their "pain points" and then to start to sketch, on pen and paper, interfaces that might start to address this pain. 
+
+Then the designers made realistic-looking interfaces. These were taken out to be tested with users. If there were serious problems with them, they were modified and then tried again, with different users.
+
+This kept going. She hired another researcher, they both did research on users. I worked on this project for over three years. It never stopped. It didn't stop when we had working software that we could test with users. It didn't stop when we had a version of the software that had a copy of the user's sensitive data running on our software. It certainly didn't stop when we went live. 
+
+I learned a lot from watching this happen. And there were a couple of things that were surprising about it for me. If you do this much research on your users, not only will you get to know a lot about your users - I mean, that's pretty obvious. But you'll get to know a lot about other people who are "interested in the swamp" who aren't actually users. On the project there were various other, committees, regulatory groups that our users needed to please and our product had to some degree to support. 
+
+Do enough research on your users and you end up with "stakeholder map" do even more research on your users and you end with a "stakeholder ecology." You start to understand not only who all the people are you have some interest in the swamp, but also you start to understand how these stakeholders interact. 
+
+
+
 
 ### Connections 
 

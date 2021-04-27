@@ -7,6 +7,8 @@
 
 ## Update History
 
+Update 27th April 2021 - "You see things differently if you talk to everyone who cares."
+
 Update 26th April 2021 - "It's time to talk about the swamp"
 
 Update 25th April 2021 - "When you start paying attention, you will get bad news. What do you with that bad news? Let me tell you about the swamp."
