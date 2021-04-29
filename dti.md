@@ -612,6 +612,8 @@ You need to move carefully along along all of these dimensions. Carefully, chang
 
 ## Chapter 6 - Driving a Car or The Empirical Process
 
+>> “Seeking what is true is not seeking what is desirable.” - Albert Camus
+
 "Empirical" isn't a common word. But empirical process refers to something that we're all doing all day every day. All day every day we change what we're doing in response to what we see and experience through our other senses. And that's what the word "empirical" means. It means relating to experience in the real world. But it's an odd word that doesn't sound as down to earth and practical as it is. 
 
 For years I've run training courses to introduce people to Agile ideas. Because "Empirical" is such a strange word, there's an exercise that I often do where I get people too look up the word, to discuss what it means. Then we do exercises. These exercises probably involve Lego and not being able to build as many models as the team initially thought. So half way through the exercise they have to do something different, based on this experience. At the end of exercise, I come back to this word "Empirical." Based on experience.
@@ -747,13 +749,34 @@ This kept going. She hired another researcher, they both did research on users. 
 
 I learned a lot from watching this happen. And there were a couple of things that were surprising about it for me. If you do this much research on your users, not only will you get to know a lot about your users - I mean, that's pretty obvious. But you'll get to know a lot about other people who are "interested in the swamp" who aren't actually users. On the project there were various other, committees, regulatory groups that our users needed to please and our product had to some degree to support. 
 
-Do enough research on your users and you end up with "stakeholder map" do even more research on your users and you end with a "stakeholder ecology." You start to understand not only who all the people are you have some interest in the swamp, but also you start to understand how these stakeholders interact. 
-
-
-
+Do enough research on your users and you end up with "stakeholder map". Do even more research on your users and you end with a "stakeholder ecology." You start to understand not only who all the people are you have some interest in the swamp, but also you start to understand how these stakeholders interact. You start to see what's really going on in the swamp.
 
 ### Connections 
 
-### Conclusions
+"What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. They all seemed sceptical. 
+
+It was a European Union funded project. The purpose of the project was to design an application that used tangible (touchable, pick-up-able) interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the funding bid. Still a substantial number of the software developers and search engine experts were sceptical about the idea that we should be talking to users. But still we did it.
+
+And what we found was really interesting. 
+
+One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For instance they understood that there was a contradiction between statements like:
+
+>> People should be able to express themselves freely
+
+and 
+
+>> It's against the law to paint messages on (most) outdoor building.
+
+What they did need was help putting the bits of evidence that they found into some kind of structure that worked like a persuasive argument. 
+
+So we found that out about the residents of this particular swamp - through talking to its residents. They didn't need any help understand logic, they needed help and support gathering evidence and putting it in a structure that sounded like a persuasive argument.
+
+But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp, but really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." This meant that pretty much every lesson that the kids did had to be designed to be satisfying some part of it. 
 
 ### Criticism
+
+### Confession
+
+I've worked on lots of projects where we either haven't done any user research, or haven't done anywhere near enough. Even though earlier in my career, when I was working at Cambridge, I worked on a project that was all about "iterative user centred design," I didn't really put together how absolutely important it was. 
+
+Now that I've seen it really work, I'm convinced that it's one of the best ways of reducing the risk on a project. But I'm also certain that if I work on more projects in the future, it's still going to be very hard to persuade the people who are paying for that project that they need one, or two full time user researchers on the project all the way through. It's even harder than persuading the people who fund a project that they should support efforts to develop working software and to promote it as close being live the the hands of users as soon as possible. 
