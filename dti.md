@@ -222,7 +222,7 @@ Why am I telling you this? Because, of course, this idea of agreed activity is u
 
 We can start to deliver the impossible by avoiding agreed activity. We can start to deliver the impossible by spotting the pirate ships on the horizon. 
 
-In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up team members talk about any problems they have that  blocking their progress. This is the most important bit. These problems are the pirate ships. 
+In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up team members talk about any problems they have that ar  blocking their progress. Reporting these "blockers" is the most important bit of the stand up. These blockers are the project's pirate ships. v
 
 Of course, if there's one big thing that's blocking progress, that might be the thing that no-one talks about. The signs that there is a pirate ship that needs tackling might not be obvious at first. There might not be an obvious Jolly Roger flying and the sound of "Arrrrr!" 
 
@@ -232,9 +232,9 @@ If some members of the team have the same update with no variation for days and 
 
 Nobody on the team decides to pick it up. It may well be that no discussion has been had within the team about why they don't want to pick up this story and tackle it. As with the crew on the improvisational stage, they agreed, they might not have talked about it, not to tackle it. Of course, in these situations, it's the job of the project manager to hold up with story and ask what it is about this story that means everyone is avoiding it.
 
-So, one place to spot the pirate ship is stand-up. Another is the retrospective. That's a meeting that happens, typically every two weeks where the team talks about how the previous sprint went. What went well, what didn't go so well, what could be done better. 
+So, one place to spot the pirate ship is stand-up. Another is the retrospective. That's a meeting that happens, typically every two weeks where the team talks about how the previous sprint went. In the retrospective, the team asks these questions: what went well? what didn't go so well? what could be done better? 
 
-One of the strange things about project management is that very often everybody who is working on a project knows what's wrong with the project. If they're not saying, it's because they've tried to say or have said and have been either ignored, told to back off, threatened or even disciplined for pointing it out. This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage shouting "Shut up about the pirate ship! Clean the decks!" 
+One of the strange things about project management is that very often everybody who is working on a project knows what's wrong with the project. If they're not saying, it's because they've tried to say or have said and have been either ignored, told to back off, threatened or even disciplined for pointing it out. This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks!" 
 
 
 A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once they've done it once or twice they will have already caused one of the strangest problems that I've seen. And I've seen it repeatedly: highly skilled, highly paid team who've given up trying to think for themselves.
@@ -729,7 +729,7 @@ What if I told you that there were people who already live in the swamp? And tha
 
 There are also people who are keen to move into the swamp when you have built some houses. They've already given the property developer money. They want you to build in the swamp fast, so they can move in. 
 
-But they aren't the only people interested in the swamp. There are people who care about building regulations, local government, national government. There are people who you need to talk to about getting a road to come up the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp. They people might be eco activists. They might be political activists. The swamp might be on an ancient burial ground. It might be the site of an ancient temple.
+But they aren't the only people interested in the swamp. There are people who care about building regulations, local government, national government. There are people who you need to talk to about getting a road to come right up to the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp. These people might be eco activists. They might be political activists. The swamp might be on an ancient burial ground. It might be the site of an ancient temple.
 
 So there are the people who interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold.
 
@@ -749,13 +749,13 @@ This kept going. She hired another researcher, they both did research on users. 
 
 I learned a lot from watching this happen. And there were a couple of things that were surprising about it for me. If you do this much research on your users, not only will you get to know a lot about your users - I mean, that's pretty obvious. But you'll get to know a lot about other people who are "interested in the swamp" who aren't actually users. On the project there were various other, committees, regulatory groups that our users needed to please and our product had to some degree to support. 
 
-Do enough research on your users and you end up with "stakeholder map". Do even more research on your users and you end with a "stakeholder ecology." You start to understand not only who all the people are you have some interest in the swamp, but also you start to understand how these stakeholders interact. You start to see what's really going on in the swamp.
+Do enough research on your users and you end up with a "stakeholder map". Do even more research on your users and you end with a "stakeholder ecology." You start to understand not only who all the people are who have some interest in the swamp, but also how these stakeholders interact. You start to see what's really going on in the swamp. You start to see opportunities to do good and be a success, but you also see where there are dangers and problems and unhappy people.
 
 ### Connections 
 
 "What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. They all seemed sceptical. 
 
-It was a European Union funded project. The purpose of the project was to design an application that used tangible (touchable, pick-up-able) interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the funding bid. Still a substantial number of the software developers and search engine experts were sceptical about the idea that we should be talking to users. But still we did it.
+It was a European Union funded project. The purpose of the project was to design an application that used tangible (touchable, pick-up-able) interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the funding bid. Still a substantial number of the software developers and search engine experts were sceptical about the idea that we should be talking to users - in this case, schoolchildren. But still we did it.
 
 And what we found was really interesting. 
 
@@ -769,19 +769,25 @@ and
 
 What the kids did seem to need help with was putting the bits of evidence that they found into some kind of structure that worked like a persuasive argument. 
 
-So we found that out about the residents of this particular swamp - through talking to its residents. They didn't need any help understand logic, they needed help and support gathering evidence and putting it in a structure that sounded like a persuasive argument.
+So we found that out about the residents of this particular swamp - through doing direct research with them. They didn't need any help understanding logic, they needed help and support gathering evidence and putting it in a structure that sounded like a persuasive argument.
 
-But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp, but really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." This meant that pretty much every lesson that the kids did had to be designed to be satisfying some part of it. And this meant that, in the school where we were doing the research, the teachers found it a lot easier to support us running research sessions with the kids if we could also show that what we were doing was addressing some particuar aspect of the curriculum. 
+But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp, but really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." This meant that pretty much every lesson that the kids did had to be designed to be satisfying some specific part of a list of learning requirements for children of a particular age in a particular subject. And this meant that, in the school where we were doing the research, the teachers found it a lot easier to support us running research sessions with the kids if we could also show that what we were doing was addressing some particuar aspect of the curriculum.
+
+Fortunately we had an ex-teacher on our team. So we could craft our research sessions so that they also made sense as lessons.
 
 Of course, discovering that there are people who live far beyond the swamp, who never-the-less have opinions about the swamp by doing user research is closely related to what we talked about when we talked about people jumping out from behind trees when you try to develop working software and put in the hands of users. 
 
 Here are some examples of those people from other projects that I've worked on. Where it turned out that people who live well beyond the swamp still cared about what happened in the swamp.
 
-This was quite possibly the coolest project that I've every worked on. One of the guys who worked on the project was the ex-husband of a super model. I working with a startup in a disgusting warehouse in Shoreditch in London (very cool). Th project was to develop a website that would allow customers of a bank to upload the photographs that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. But then we find out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. Getting approved by these financial authorities was a big deal and it could take years. That was pretty much the end of the project.
+This was quite possibly the coolest project that I've every worked on. One of the guys who worked on the project was the ex-husband of a super model. 
 
-I was working with possibly the second coolest company I've ever worked with (I am seeing a pattern, here, I did not see this pattern before I just started writing this). This company was cool, successful, highly regarded in one business - mobile phones. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, they had got a long way down the road of developing this website before somebody pointed out that they needed to regulated by the same fincancial authorities that needed to regulate the uploading of photos if you were a bank.
+I working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website that would allow customers of a bank (not cool) to upload the photographs that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr.
 
-You may lift your eyebrows the full quarter inch at a company that didn't think it would need to talk to any regulators about starting up in the money lending business. But you might also see that research with different kinds of users, and an attempt to put together a stakeholder map very early in the project would have in both cases made it very clear, very quickly that these people who live miles from the swamp, very much cared what happened in it.
+We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. But then we find out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
+
+I was working with possibly the second coolest company I've ever worked with (I am seeing a pattern, here, I did not see this pattern before I just started writing this). This company was cool, successful, highly regarded in one business - mobile phone networks. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, they had got a long way down the road of developing this website before somebody pointed out that they needed to regulated by the same fincancial authorities that needed to regulate the uploading of photos if you were a bank.
+
+You may lift your eyebrows the full quarter inch at a company that didn't talk to regulators before starting up in the money lending business. You can also see that research with users and mapping of stakeholders would make something really important very clear. There were people who lived miles from the "swamp" who cared what went on in there. And if these people weren't happy, the project would die.
 
 ### Criticism
 
