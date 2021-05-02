@@ -9,27 +9,27 @@
 
 ##  Chapter 1 - Introduction
 
-The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility right on the front cover." 
+The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So you might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility right on the front cover." 
 
 Here are some reasons why you might have picked up this book. 
 
-How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone promised something. You know that your team can't deliver it. Or you don't know what they promised. Or you do know what they promised, but you're certain that your team can 't deliver it on time.
+How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone promised something. You know that your team can't deliver it. Or you don't know what they promised. Or you do know what they promised, but you're certain that your team can't deliver it on time.
 
-Every direction that you look in there seem to be problems that can't solve. You have found this book. You think it might be worth a read.
+Every direction that you look in, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
 
 Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project succeed?
 
 Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been stopped, given up, killed? Put to sleep? Why would anybody carry on with it? 
 
-Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done., given the right skills and expertise. You know this from other parts of your life. If you can only change your point of view, things can improve dramatically. If you look at things in the right way,  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be to a success.
+Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done, given the right skills and expertise. You know this from other parts of your life. If you can only change your point of view, things can improve dramatically. If you look at things in the right way,  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be a success.
 
 What you would like and expect from a book titled "Delivering the Impossible" is some kind of guide.  You'd expect some kind of handbook for dealing with projects that seem impossible.
 
-You might expect to find methods for spotting issues make a project "impossible".  You might then expect the book to go on to talk about what to do in these situations. How to make a project reasonable and deliverable and give it the best chance of success. 
+You might expect to find methods for spotting issues that make a project "impossible".  You might then expect the book to go on to talk about what to do in these situations. How to make a project reasonable and deliverable and give it the best chance of success. 
 
 What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. Is should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to succeed on other projects. How to ride into the sunset to fight another day.
 
-Let's imagine you're a demanding reader. You might not just want advice on impossible projects. You might also want to know how to deal impossible programmes. Or even in impossible organisations. Yes, if you're demanding, you might want such a book to talk about how to deliver the impossible at scale.
+Let's imagine you're a demanding reader. You might not just want advice on impossible projects. You might also want to know how to deal with impossible programmes. Or even in impossible organisations. Yes, if you're demanding, you might want such a book to talk about how to deliver the impossible at scale.
 
 Well, this is that book. And it tries to meet all these expectations. This is especially that book if what you do involves the development of software.
 
@@ -42,9 +42,9 @@ The software pioneer Alan Kay is often quoted as saying "Point of view is worth 
 
 The aim of providing these different points of view is to make good on Alan Kay's claim. The aim is to make you much smarter when it comes to managing projects.
 
-This isn't like most books do that promise to improve your success  project management. Most books that do that suggest a particular Agile method. Like Scrum, or Extreme Programming. Other books talk about how coach teams in the use of these methods. Other books talk about a part of the process. It could be writing stories or running retrospectives. It could be setting up a continuous delivery  
+This isn't like most books that promise to improve your success at project management. Most books that do that suggest a particular Agile method. Like Scrum, or Extreme Programming. Other books talk about how to coach teams in the use of these methods. Other books talk about a part of the process. It could be writing stories or running retrospectives. It could be setting up a continuous delivery pipeline so that software is available to used almost as soon as it's written.   
 
-Some of those books are brilliant. But they're not enough. 
+Some of those books are brilliant, I've refereneced some of my favourites. But I don't think they're enough. 
 
 Following an Agile method like Scrum is a good way of improving your chances of project success. It's what I almost always do if I'm in charge of delivering a software development project.
 
@@ -56,49 +56,49 @@ But unfortunately, this isn't enough. You need to do more than this if your proj
 
 In this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. Issues that need tackling. 
 
-Pushing this sailing metaphor I talk about you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
+Pushing this water-borne metaphor I talk about you how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
 
 Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project to succeed.
 
-Why do you need show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some good from using it as soon as you can? 
+Why do you need to show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some good from using it as soon as you can? 
 
-I explain this using the metaphor of flowers and fruit. Flowers appearl to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But can feeds people.
+I explain this using the metaphor of flowers and fruit. Flowers appeal to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But it feeds people.
 
-This book promises to provide its readers with something, solid, nutritious, and sustaining. It sets out seven way of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previous seemed impossible can seem a lot less so.
+This book promises to provide its readers with something, solid, nutritious, and sustaining. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
 
 ### Why now?
-Well, another way of thinking about this is – "Why not *then*?" Why haven't we found to find better ways to think about software development since the start.
+Well, another way of thinking about this is – "Why not *then*?" Why haven't we found better ways to think about software development since the start?
 
 We've needed better ways of thinking about software projects since the 40's. 
 
-I remember listening to an explanation of a "Waterfall" approach to project management. This was the mid 90's fifty years after anybody wrote the first software. I remember thinking "this will never work." And it didn't.
+I remember listening to an explanation of a "Waterfall" approach to project management. This was the mid nineties - fifty years after anybody wrote the first software. I remember thinking "this will never work." And it didn't.
 
-In my first two years as a software developer I worked on two projects. One was for big oil company. One  was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
+In my first two years as a software developer I worked on two projects. One was for a big oil company. One  was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
 
 Stage one: all the requirements for the project were carefully written down. This produced a huge requirements specification. 
 
-Stage two: we turned these requirements into a specification.  First high level specification and then detailed designs. 
+Stage two: we turned these requirements into a design.  First a high level design and then detailed designs. 
 
-After these stages, which might take months, we started to write software.  Again, that might take months. against the designs before final stages of first internal and then external testing. Then and only then did the software go live.
+After these stages, which might take months, we started to write software.  Again, that might take months or even years. Then came separate stages of first internal and then external testing. Then and only then did the software go live.
 
-Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch - litigation.  When the customers finally got to see what they'd asked for months, if not years earlier, it really wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible (very possible) that the specifications that were written in the specification hadn't quite captured exactly what the users wanted. It's also possible (very possible) that the users hadn't really been capable of saying in one long fluid document, exactly what it was that they wanted. By the time what the users had asked for had got through the systems designers, the developers, the internal testers and then the external testers, it's hardly a surprise that things had gone astray.
+Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch - litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible (very possible) that the specifications that were written in the specification hadn't quite captured exactly what the users wanted. It's also possible (very possible) that the users hadn't really been capable of saying in one long fluid document, exactly what it was that they wanted. By the time what the users had asked for had got through the systems designers, the developers, the internal testers and then the external testers, it's hardly a surprise that things had gone astray.
 
 One intriguing thing, that I barely noticed about those first few projects that I was involved in, was that when it got to the crunch phase, when the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The project would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
 
 And what those guys were doing, well it kind of sounds like iterative, Agile software development.
+y
+So, one answer to the question - "Why now?" Is well, why not ages ago? We could and should (and kind of were) doing this right from the beginning."
 
-So, one answer to the question - "Why now?" Is well, well not ages ago? We could and should (and kind of were) doing this right from the beginning."
+So, seventy five years ago, it would have been great for us to really get the hang of delivering softare projects. But still, better late than never. Because being good at writing software, being good at doing it in a timely manner, being good at putting software that people want to use in the hands of users, is become more and more important.
 
-But there's another answer to this why now question. Why now? Because being good at writing software, being good at doing it in a timely manner, being good at putting software that people want to use in the hands of users, is become more and more important.
-
-As Marc Andreessen pointed out more than ten years ago now, software is eating everything. Since he wrote that article, software has taken huge bites out of sex and dating, politics, social life music and television. Some of the companies that are good at developing software (Amazon, Facebook, Google, Alibaba) are very arguably more powerful that governments.
+As Marc Andreessen pointed out more than ten years ago, software is eating everything. Since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some of the companies that are good at developing software (Amazon, Facebook, Google, Alibaba) are very arguably more powerful than governments.
 
 So, if you're interested in being good at something and even slightly susceptible to megalomania, getting good at developing and delivering software is worth a look.
 
 But ironically, the craft of managing software delivery doesn't seem to be so susceptible to being eaten by software.
 
 ### Why me?
-So why should you list to me? Well, I've been working in the software development industry since 1994. First as a developer, writing software for oil companies, the military and then a new-fangled thing called the internet. Then I worked as a researcher, first for Xerox, then for Cambridge University. 
+So why should you listen to me? Well, I've been working in the software development industry since 1994. First as a developer, writing software for oil companies, the military and then a new-fangled thing called the internet. Then I worked as a researcher, first for Xerox, then for Cambridge University. 
 
 Working for Xerox gave me my first experience of project management. I think they gave me the project management job because they'd seen how well I could write code. I managed a couple of German guys who were writing code for the first "smart" phone - the Nokia 9000. This was a really dumb phone. It had the same operating system as some sewing machines and it was a nightmare to write anything for it. 
 
@@ -110,7 +110,7 @@ Whatever you're building needs to fit in a particular situation. The situation t
 
 Look this is all very well, but it's starting to sound a bit "I was born at an early age."
 
-You should listen to me because I know how to deliver software projects. I've been doing it now for more than ten years. Mostly I've been successful. The projects that weren't successful were either trench warfare projects when I arrived or they turned out to be things that nobody wanted, or people wanted but nobody could make pay. Turns out that users are quite keen on personal loan websites, but most of the people who want a personal loan are exactly the kind of people that you probably should be loaning money. People need to keep re-learning that user research is a good idea.
+You should listen to me because I know how to deliver software projects. I've been doing it now for more than ten years. Mostly I've been successful. The projects that weren't successful were either trench warfare projects when I arrived or they turned out to be things that nobody wanted, or people wanted but nobody could make pay. Turns out that users are quite keen on personal loan websites, but most of the people who want a personal loan are exactly the kind of people that you probably shouldn't be loaning money. People need to keep re-learning that user research is a good idea.
 
 Some of the projects that were successful made millions of pounds for their owners. Some of them weren't about money, they were literally about making the world a better place by helping their users do scientific research or helping their users make justice in courtrooms work more smoothly.
 
@@ -123,11 +123,11 @@ And part of the reason why I've helped these projects is that I think about them
 ### Why you?
 Why you? Why should you read this book? Well, here's what's going to happen to you if you try to deliver a project and you haven't read this book.
 
-If you try to deliver a project and you haven't read this book. There's a good chance that you won't spot the pirate ship (Chapter 2) until it's too late. If that happens, there's a very good chance that you'll end up in a trench warfare project (Chapter 3) and it will take you way to long to realise that there's nothing you can do about it, and you need to leave. 
+If you try to deliver a project and you haven't read this book. There's a good chance that you won't spot the pirate ship (Chapter 2) until it's too late. If that happens, there's a very good chance that you'll end up in a trench warfare project (Chapter 3) and it will take you way too long to realise that there's nothing you can do about it, and you need to leave. 
 
 Let's say you and your team get lucky and you do admit to yourselves that there's a pirate ship coming. If you haven't read this book and you don't know about flowers and fruit, you'll be really tempted to put off trying to put working software in the hands of users until way too late.
 
-If you haven't read about the swamp in Chapter 4, there's a good chance that you won't have hired the best user research team you can find and yo won't have a detailed map of the user and stakeholder ecosystem. If you haven't, even if you tackled the pirate ship the minute you saw it, and even if you pushed working software as far as you could along the right dimensions, your project might still be as much of a success as it could be. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
+If you haven't read about the swamp in Chapter 4, there's a good chance that you won't have hired the best user research team you can find and you won't have a detailed map of the user and stakeholder ecosystem. If you haven't, even if you tackled the pirate ship the minute you saw it, and even if you pushed working software as far as you could along the right dimensions, your project might still not be as much of a success as it could be. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
 
 Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. Oh, wow, I just thought of this, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
 
@@ -162,7 +162,7 @@ So for example, if we go back to what will forever now be known as the "Cabbage 
 
 Person 1: Hello! I've brought you a cabbage.
 
-Person 2: No you haven't that's a Pomeranion poodle.
+Person 2: No you haven't that's a Pomeranian poodle.
 
 or:
 
@@ -178,7 +178,7 @@ The second answer is "Hmph. Fine." This is even more dangerous to a good story. 
 
 Here's another way of saying "Humph, fine."
 
-Imagine tha there are a group of performers on stage for an improvised scene.  Often to start a scene,  the actors will ask for a suggestiong from the audience. Someone in the audience suggests "The deck of a tall sailing ship."
+Imagine that there are a group of performers on stage for an improvised scene.  Often to start a scene,  the actors will ask for a suggestion from the audience. Someone in the audience suggests "The deck of a tall sailing ship."
 
 Here's what might happen.
 
@@ -190,7 +190,7 @@ Person 2: Oh my God the Pirates are coming. Haul up the sails, let's try to outr
 
 Person 3: Oh my God the Pirates are coming. The cannons! Load the cannons!
 
-Person 4: Oh my God the Pirate are coming. Quick hide in the lifeboats.
+Person 4: Oh my God the Pirates are coming. Quick hide in the lifeboats.
 
 All these are good selections. Of course the audience hope that hiding in the lifeboats won't work, but will result in lots of comedy.
 
@@ -204,13 +204,13 @@ For some of the performers on the stage, this can seem like an attractive thing 
 
 They don't want to see everyone on the stage miming mopping the floor. 
 
-For inexperienced improvisers, the temptation to agree to wash the decks is strong. It is much attractive than dealing with the implications of the pirate ship. 
+For inexperienced improvisers, the temptation to agree to wash the decks is strong. It is much more attractive than dealing with the implications of the pirate ship. 
 
-Why? Keither Johnstone invented his own style of improvised theatre in the 1950's. He also wrote several books: "Impro" and "Impro for storytellers." In these Johnstone describes this kind behaviour as "agreed activity." 
+Why? Keith Johnstone invented his own style of improvised theatre in the 1950's. He also wrote several books: "Impro" and "Impro for storytellers." In these Johnstone describes this kind of behaviour - washing the decks rather than dealing with the Pirate ship - as "agreed activity." 
 
-He explains that putting people on a stage in front of an audience makes them scared. Scared people try to make themselves safe, even if what they're doing is making group as a whole less safe.
+He explains that putting people on a stage in front of an audience makes them scared. Scared people try to make themselves safe, even if what they're doing is making the group as a whole less safe. Even if what they do bores the audience.
 
- Part of what the skill of being a good improviser is knowing how to avoid this need to stay safe. Instead good improvisers have the courage to move the story forward. When they hear the suggestion, good improvisers accept there's a pirate ship. They make the story intersesting and move it forward by dealing with what that means.
+Part of the skill of being a good improviser is knowing how to avoid this need to stay safe. Instead good improvisers have the courage to move the story forward. When they hear the suggestion, good improvisers accept there's a pirate ship. They make the story interesting and move it forward by dealing with what that means.
 
 What's fascinating is that all novice improvisers seem to know that it's the "right" thing to do. There isn't a long discussion. It happens in a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that might be dangerous. Especially, we tend to avoid anything that will make us change our behaviour or our thinking.
 
@@ -218,7 +218,7 @@ What's fascinating is that all novice improvisers seem to know that it's the "ri
 
 Let's say a director is watching a scene where there'd been a suggestion of washing the decks. She might allow the crew ten seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
 
-Why am I telling you this? Because, of course, this idea of agreed actity is useful in project management. People who work on a project can prefer agreed activity to moving the action forward. Like improvisers, they do this as a way of avoiding having to think, or needing to change. Instinctively they shy away from the realities of the problem that they're solving. 
+Why am I telling you this? Because, of course, this idea of agreed activity is useful in project management. People who work on a project can prefer agreed activity to moving the action forward. Like improvisers, they do this as a way of avoiding having to think, or needing to change. Instinctively they shy away from the realities of the problem that they're solving. 
 
 We can start to deliver the impossible by avoiding agreed activity. We can start to deliver the impossible by spotting the pirate ships on the horizon. 
 
@@ -292,9 +292,9 @@ And that's why people don't raise problems and instead just wash the decks.
 
 Oh dear. Well. There is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping that promise. But notice I'm not keeping the promise that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
-Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you not very nice names. But there there are two very goodreasons why you still should do it.
+Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you not very nice names. But there there are two very good reasons why you still should do it.
 
-Reason number one is that, despite the resistence you might experience, solving these problems is still the best chance you've got of delivering this project that seems to be impossible. That's a solid reason.  
+Reason number one is that, despite the resistance you might experience, solving these problems is still the best chance you've got of delivering this project that seems to be impossible. That's a solid reason.  
 
 But reason number two is possibly for me, just as important: I know what happens when you don't.
 
@@ -731,7 +731,7 @@ There are also people who are keen to move into the swamp when you have built so
 
 But they aren't the only people interested in the swamp. There are people who care about building regulations, local government, national government. There are people who you need to talk to about getting a road to come up the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp. They people might be eco activists. They might be political activists. The swamp might be on an ancient burial ground. It might be the site of an ancient temple.
 
-So there are the people who interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold. 
+So there are the people who interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold.
 
 ### Concrete Practice
 
@@ -765,13 +765,23 @@ One thing that we found from talking to users (schoolchildren who were 10-11 yea
 
 and 
 
->> It's against the law to paint messages on (most) outdoor building.
+>> It's against the law to paint messages on (most) outdoor buildings.
 
-What they did need was help putting the bits of evidence that they found into some kind of structure that worked like a persuasive argument. 
+What the kids did seem to need help with was putting the bits of evidence that they found into some kind of structure that worked like a persuasive argument. 
 
 So we found that out about the residents of this particular swamp - through talking to its residents. They didn't need any help understand logic, they needed help and support gathering evidence and putting it in a structure that sounded like a persuasive argument.
 
-But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp, but really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." This meant that pretty much every lesson that the kids did had to be designed to be satisfying some part of it. 
+But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp, but really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." This meant that pretty much every lesson that the kids did had to be designed to be satisfying some part of it. And this meant that, in the school where we were doing the research, the teachers found it a lot easier to support us running research sessions with the kids if we could also show that what we were doing was addressing some particuar aspect of the curriculum. 
+
+Of course, discovering that there are people who live far beyond the swamp, who never-the-less have opinions about the swamp by doing user research is closely related to what we talked about when we talked about people jumping out from behind trees when you try to develop working software and put in the hands of users. 
+
+Here are some examples of those people from other projects that I've worked on. Where it turned out that people who live well beyond the swamp still cared about what happened in the swamp.
+
+This was quite possibly the coolest project that I've every worked on. One of the guys who worked on the project was the ex-husband of a super model. I working with a startup in a disgusting warehouse in Shoreditch in London (very cool). Th project was to develop a website that would allow customers of a bank to upload the photographs that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. But then we find out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. Getting approved by these financial authorities was a big deal and it could take years. That was pretty much the end of the project.
+
+I was working with possibly the second coolest company I've ever worked with (I am seeing a pattern, here, I did not see this pattern before I just started writing this). This company was cool, successful, highly regarded in one business - mobile phones. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, they had got a long way down the road of developing this website before somebody pointed out that they needed to regulated by the same fincancial authorities that needed to regulate the uploading of photos if you were a bank.
+
+You may lift your eyebrows the full quarter inch at a company that didn't think it would need to talk to any regulators about starting up in the money lending business. But you might also see that research with different kinds of users, and an attempt to put together a stakeholder map very early in the project would have in both cases made it very clear, very quickly that these people who live miles from the swamp, very much cared what happened in it.
 
 ### Criticism
 
