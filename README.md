@@ -7,6 +7,8 @@
 
 ## Update History
 
+Update 4th May 2021 - "I've driven before - I don't need to look at the road."
+
 Update 3nd May 2021 - "You may lift your eyebrows the full quarter inch at a company that started up in the money lending business without talking to the regulators."
 
 Update 2nd May 2021 - "The people who don't live in the swamp, don't own the swamp, but care what happens there."
