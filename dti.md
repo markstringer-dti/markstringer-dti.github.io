@@ -17,7 +17,7 @@ How about this? You are working on a project. You're a member of the project tea
 
 Every direction that you look in, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
 
-Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project succeed?
+Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to go well. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project do better, do well even?
 
 Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been stopped, given up, killed? Put to sleep? Why would anybody carry on with it? 
 
@@ -27,13 +27,13 @@ What you would like and expect from a book titled "Delivering the Impossible" is
 
 You might expect to find methods for spotting issues that make a project "impossible".  You might then expect the book to go on to talk about what to do in these situations. How to make a project reasonable and deliverable and give it the best chance of success. 
 
-What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. Is should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to succeed on other projects. How to ride into the sunset to fight another day.
+What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. Is should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to do well on other projects. How to ride into the sunset to fight another day.
 
 Let's imagine you're a demanding reader. You might not just want advice on impossible projects. You might also want to know how to deal with impossible programmes. Or even in impossible organisations. Yes, if you're demanding, you might want such a book to talk about how to deliver the impossible at scale.
 
 Well, this is that book. And it tries to meet all these expectations. This is especially that book if what you do involves the development of software.
 
-If you read this book, you will learn, how to identify situations that seem impossible. You'll learn how to distinguish them from those situations that are impossible. You'll learn how to improve your  management of impossible seeming situations. Things might look bad. But there are often some quite simple things you can do to turn projects around and help them succeed.
+If you read this book, you will learn, how to identify situations that seem impossible. You'll learn how to distinguish them from those situations that are impossible. You'll learn how to improve your  management of impossible seeming situations. Things might look bad. But there are often some quite simple things you can do to turn projects around and help them do well.
 
 ### Why This?
 OK - so this book is about delivering the impossible. So why is it subtitled "Seven metaphors for successful project management delivery." Well, that's because metaphors are different ways of seeing things. And the main thing I'm going to do in this book is talk about different ways of seeing project management. 
@@ -52,13 +52,13 @@ And Scrum works best when it's combined with XP engineering practices.
 
 If you haven't done this before as a team, you are going to need some outside help.  Agile coaching from somebody who has done it before will improve your chances of success.
 
-But unfortunately, this isn't enough. You need to do more than this if your project has any realistic chance of succeeding. You need to see things from different points of view. 
+But unfortunately, this isn't enough. You need to do more than this if your project has any realistic chance of doing well. You need to see things from different points of view. 
 
 In this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. Issues that need tackling. 
 
 Pushing this water-borne metaphor I talk about you how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
 
-Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project to succeed.
+Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project do well.
 
 Why do you need to show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some good from using it as soon as you can? 
 
@@ -114,7 +114,7 @@ You should listen to me because I know how to deliver software projects. I've be
 
 Some of the projects that were successful made millions of pounds for their owners. Some of them weren't about money at all. They were literally about making the world a better place. They helped their users do scientific research. They helped their users make justice in courtrooms work more smoothly.
 
-And I really believe that some of those projects wouldn't have succeeded, or might not have been so successful, if I hadn't been involved.
+And I really believe that some of those projects wouldn't have done well, or might not have done so well, if I hadn't been involved.
 
 And I learned from all of them. By working on so many projects, good and bad, my thinking about what project management was and how to do it well, changed. 
 
@@ -127,7 +127,7 @@ What might happen if you try to deliver a project and you haven't read this book
 
 Let's say you and your team gets lucky. It's members admit to themselves that there's a pirate ship coming. If you haven't read this book you won't know about flowers and fruit (Chapter 4). And not know about that, you might be tempted to put off trying to put working software in the hands of users until it's too late.
 
-If you haven't read about the swamp in Chapter 7, there's a good chance that you won't have hired the best user research team you can find. And so you won't have a detailed map of the user and stakeholder ecosystem. Even if you tackled the pirate ship the minute you saw it, and even if you pushed working software as far as you could along the right dimensions, your project might still not succeed. Without an map of the stakeholder ecosystem to influence decisions, the chances are, your project won't be as much of a success as it could be. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
+If you haven't read about the swamp in Chapter 7, there's a good chance that you won't have hired the best user research team you can find. And so you won't have a detailed map of the user and stakeholder ecosystem. Even if you tackled the pirate ship the minute you saw it there might still be trouble. Even if you pushed working software as far as you could along the right dimensions, your project might still not go well. Without a map of the stakeholder ecosystem to influence decisions, the chances are, your project won't do as well as it could. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
 
 Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. Oh, wow, I just thought of this, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
 
@@ -204,9 +204,9 @@ For some of the performers on the stage, this can seem like an attractive thing 
 
 They don't want to see everyone on the stage miming mopping the floor. 
 
-For inexperienced improvisers, the temptation to agree to wash the decks is strong. It is much more attractive than dealing with the implications of the pirate ship. 
+Improvisers who don't have a lot of experience are really tempted to just scrub the decks. It is much more attractive than dealing with the implications of the pirate ship. 
 
-Why? Keith Johnstone invented his own style of improvised theatre in the 1950's. He also wrote several books: "Impro" and "Impro for storytellers." In these Johnstone describes this kind of behaviour - washing the decks rather than dealing with the Pirate ship - as "agreed activity." 
+Why? Keith Johnstone invented his own style of improvised theatre in the 1950's. He also wrote several books: "Impro" and "Impro for storytellers." In his books, Johnstone talks about people who are new to improvisation. He describes them wanting to do safe, repetitive activities. Washing the decks is an example of this. He refers to this as "agreed activity." 
 
 He explains that putting people on a stage in front of an audience makes them scared. Scared people try to make themselves safe, even if what they're doing is making the group as a whole less safe. Even if what they do bores the audience.
 
@@ -247,13 +247,13 @@ So my response to this problem being raised by the team was to suggest that they
 
 "We're not allowed to talk to the business analyst."
 
-"What? That's crazy! I'm sure that can't be right."
+"What? That's mad! I'm sure that can't be right."
 
-Yes it was crazy. Yes, it was right. I tried to talk to the business analyst. I emailed him asking for a meeting. I got a phone call from his boss saying I wasn't allowed to talk to him. 
+Yes it was mad. Yes, it was right. I tried to talk to the business analyst. I emailed him asking for a meeting. I got a phone call from his boss saying I wasn't allowed to talk to him. 
 
-And of course, there was no way that the project was going to succeed it its current state. The team needed to talk to the person who could tell them what the product was supposed to do.
+And of course, there was no way that the project was going to get anywhere in its current state. The team needed to talk to the person who could tell them what the product was supposed to do.
 
-Side note: This project was crazier than it even sounds. It turns out there were two groups of business analysts. Technical business analysts and business business analysts. The "business" business analysts were actually allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the technical business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed word documents. A big part of making this project possible was to make sure that we had just one business analyst. This person was allowed both to talk to the people who wanted the software and the people who were building the software. Things got a lot better after that.
+Side note: This project was worse than it sounds. It turns out there were two groups of business analysts. Technical business analysts and business business analysts. The "business" business analysts were actually allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the technical business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed word documents. A big part of making this project possible was to make sure that we had just one business analyst. This person was allowed both to talk to the people who wanted the software and the people who were building the software. Things got a lot better after that.
 
 So we've talked about stand up meetings and we've talked about retrospectives. There's one more Agile meeting where the "Pirate Ships" that are on the horizon might be detected. And that's the "Show and Tell." The "Show and Tell" is a meeting where the development team show the outputs of what they've been working on in the last "Sprint" - typically two weeks. Who do they show it to? Definitely you should show it to the product owner who is supposed to act as a representative of all the people who want the project to happen. But you should also invite other people who are interested and who want to come along. 
 
@@ -315,7 +315,7 @@ I'm going to use the term "trench warfare" in this chapter. And I'm going to use
 
 What I mean by trench warfare is any project that is hugely expensive in terms of money, effort and human suffering and doesn't get anywhere. A main cause of trench warfare is a refusal (or active prevention) earlier in the project to deal with the problems that it faces. The main effect, besides project failure, is that there is more demand for the "agreed" activity which is just a way to avoid the problems to become more frantic, pointless and damaging. 
 
-Working late. Working weekends, holidays being cancelled or frowned on,  "a positive, can do attitude" are signs that you're working on a trench warfare project. Other signs are lots of staff leaving drinks and staff being signed off long-term sick, or with stress. If you can't have a meeting with a manager because he has to give evidence in a law suit that people who use to work for the project are bringing against the company, this is also a bad sign.
+Working late. Working weekends, holidays being cancelled or frowned on,  "a positive, can do attitude" are signs that you're working on a trench warfare project. Other signs are lots of staff leaving drinks and staff being signed off long-term sick, or with stress. Ex members of staff bringing lawsuits against the company, this is also a bad sign.
 
 One of the things that personally I've found most upsetting about working on trench warfare projects is when senior management say that the staff don't look stressed enough. 
 
@@ -394,7 +394,7 @@ The project is entering a vulnerable, cold phase, where it is not supported and 
 
 As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to avoid the move of a project through this phase. This is what we talked about in Chapter two, when we talked about agreed activity. It's also what we talked about in Chapter three. A project can get into an awful state if the problems that agreed activity is there to avoid aren't tackled. 
 
-So, someone who wants a project to succeed shouldn't do anything to stop it moving into this phase. At the same time, you should know where you're going and what kind of things can should be done to get you out the other side of this phase.
+So, someone who wants a project to do well shouldn't do anything to stop it moving into this phase. At the same time, you should know where you're going and what kind of things can should be done to get you out the other side of this phase.
 
 OK, here's where it gets even harder. There are two kinds of thing that you should be doing to get the project through this tough phase and on the road to success. And here's what makes this hard. Both of the kinds of things that you should be doing aren't often popular or well-recevied. They are the kinds of things that the sponsors of a project are likely to think of as either a pointless waste of time or the kind of thing that should be stopped. 
 
@@ -406,7 +406,7 @@ I'm resisting saying things like "find out as much as you can about the people w
 
 But I can say this. You need a strategy for mapping the ecosystem of stakeholders. You need a strategy for investigating the needs of users. You need a way of taking what you find and using it to inform what goes into working software.
 
-So how do we do this? How do we acheive this move? From "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real working piece of software.
+So how do we do this? How do we achieve this move? From "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real working piece of software.
 
 ## Chapter 5 - Working Software
 
@@ -420,13 +420,13 @@ In the Agile manifest, working software is talked about as the second key value.
 
 It's worth asking possibly, why? What was the experience of those guys who got together to talk about "lightweight" software methodologies that meant that in the final 93 word manifest, working software took up five of those words. 
 
-I don't know for sure, but my thought is that they had all had experience of being involved in projects where the production of working software was delayed for a long time while the specification was agreed.
+My guess is that they had all had experience of being involved in projects where the production of working software was delayed. They worked on projects where months or years could go by before the specification was agreed.
 
 It's important to remember that for the first forty or fifty years that software development existed, that's how people thought it should be done.  Software development was called software engineering and it was thought to be an offshoot of other kinds of engineering. And in other kinds of engineering, nothing is built before the production of detailed plans. 
 
 But what is this second principle in the Agile manifesto saying? It's saying the engineering equivalent of "have a go at building a bridge and see how you get on."
 
-So why? Why would people who were experienced in the software development business and had got together for the express purpose of making the way that software development happened better, why would they want something about working software to be in the manifesto.
+So why? Why would people who had got together for the express purpose of making the way that software development better, why would they want something about working software to be in the manifesto.
 
 OK, let's make this about you for a minute. Think of something that you know a lot about. There will be something. It doesn't have to be anything to do with work. But think of something that you know how to do. OK now think of some aspect of that thing that someone who wasn't an expert would think was strange about how do this thing. Why do you do that thing?
 
@@ -441,17 +441,19 @@ I think there are three main reasons why any software development team should be
 
 The first reminds me of a joke.
 
->> You will never be alone, if you take with you everywhere the ingredients and equipment to make a dry martini. Because, even if you think you are completely alone and stranded on a desert island, the minute that you start to make the dry martini, someone will jump out from behind a tree and say "that's not how you make a dry martini."
+>> You will never be alone, if you take with you everywhere the ingredients and equipment to make a dry martini. Even if you think you are completely alone and stranded on a desert island. The minute that you start to make the dry martini, someone will jump out from behind a tree and say "that's not how you make a dry martini."
 
-Something like this is true of developing working software. The more you try to get working software loaded up on the environments where it's going to be used, by real users, using real data, the more likely it is that people that you didn't even know existed are going to jump out from behind trees and say "you're doing it wrong."
+Something like this is true of developing working software. Ideally you want your software to be on the environments where it's going to end up. You want to be accessible by real users. You want them to able to use their real data, on the real software. But the nearer you get to doing that, the more likely it is that people that you didn't even know existed will jump out from behind trees. These people will tell you that "you're doing it wrong" and try to stop you getting working sofware in the hands of users.
 
 In my head, I always imagine the job of getting working software out in the world on a working environment like trying to escape from a prison camp. There's only one way to find out what all the traps are that are out there in no man's land, and that's to try to set them off. 
 
 I'm mixing metaphors again aren't I? Let's stick with the man behind a tree for a moment. Most of those things that the man who jumps out from behind a tree will bring up what are known as "non functional requirements." The software needs to be accessible. The software needs to be secure. The software is covered by some regulator in the industry that you have never heard of. 
 
-Of course, one way to tackle all the rules and regulation man traps that your software might set off is to try to take care of them in the specification before any software gets written. But in my experience (and I suspect in the experience of the people who wrote the Agile manifesto) it's very hard to find out exactly what you can and can't do without trying to do something. When you're trying to list these requirements without a piece of working software, you're only dealing with "known knowns". When you try to get some working software as far as you can through the barbed wire to the outside world, you soon start to find about "known unknowns" (you knew there would be other security measures out there in no man's land, but you didn't know what they were) but also known unknowns (like the guy jumping out from behind a tree). 
+One way to tackle all the rules and regulations that your software might contravene is to try to take care of them in the specification.  Before any software gets written you might try to think of everything that might possibly be required. But in my experience it's very hard to find out exactly what you can and can't do without trying to do something. We can guess that the framers of the Agile manifesto had had similar expereinces. 
 
-OK. This metaphor is in a blender. But it still applies. Why try to do working software? Because if you do a man will jump out from behind a tree and tell you why you can't and the only way to find out what there is in no-man's land that's stopping you and your software from escaping is to get through it. Let's move on to the second reason why trying to create working software is a good idea.
+When you're trying to list these requirements without a piece of working software, you're only dealing with "known knowns". When you try to get some working software as far as you can through the barbed wire to the outside world, you soon start to find about "known unknowns". You knew there would be other security measures out there in no man's land, but you didn't know what they were. But also when you start trying to put working software in the hands of users,  you find out "unknown unknowns" (like the guy jumping out from behind a tree). 
+
+OK. This metaphor is in a blender. But it still applies. Why try to do working software? Because if you do a man will jump out from behind a tree and tell you why you can't.  Because the only way to find out what there is in no-man's land that's stopping you and your software from escaping is to push your software through it. Let's move on to the second reason why trying to create working software is a good idea.
 
 The second reason is this, we might call it the "there's only one way to find out," reason. How do you find out if you can do something? By trying to do it.
 
@@ -465,7 +467,7 @@ Does the technology that you've decided to use work?
 
 Is the organisation that you're working for capable and willing to pay for the servers, people and set-up that you need to deploy this software?
 
-Well, there's only one way to find out the answers to these questions and answers might not be the one that you're hoping for. I've worked on teams where the team members don't have access to the office, I've worked on teams that don't have access to the internet - "To make internets, you need internets," one developer was forced to explain. Of course these are problems that can be solved, but only once they're uncovered. 
+Well, there's only one way to find out the answers to these questions and answers might not be the one that you're hoping for. I've worked on teams where the team members don't have access to the office. I've worked on teams that don't have access to the internet - "To make internets, you need internets," one developer was forced to explain. Of course these are problems that can be solved, but only once they're uncovered. 
 
 So, this is the most straight-forward reason why a team should be trying to develop software as soon as possible, because there is only one way to find out.
 
@@ -475,19 +477,19 @@ Think about it. Think about the pieces of software that you interact with every 
 
 And this, final reason is the main reason that it's useful, important and clever, whenever you can, to try to move a project towards delivering working software earlier rather than later. By doing this, by putting working software in the hands of the people who will use it, you start to solve the flowers vs fruit problem that we talked about in the last chapter. 
 
-Because you move the discussion and the dynamic of the project away from flowers - a discussion about the list of things that a piece of software will do to fruit - something that is in people's hands that will do something that's useful for them.
+When you put working software in the hands of users, you shift the discussion. You shift the discussion and the dynamic of the project away from flowers. The focus isn't any more about the shiny list of things that a piece of software might do. Now the discussion is about fruit. What does the software actually do? Now that it's in people's hands, does it do something that's useful for them.
 
 I worked on a project for an organisation that was still doing pretty much all of it's business using paper documents. This was a huge organisation, and it processed a lot of paper. The project that I was working on was trying to take just one of the processes that this organisation did and manage it using an electronic document management system. 
 
 And the project had a couple of good things going for it.  Firstly it was using an Agile way of doing things. Secondly, the product owner was a former clerk of the company, she new all the other clerks and she knew their business very well.
 
-To start with the project had a tough time. We could get servers to put the software on. The document package we'd chosen wasn't as mature as we thought it would be. But we pushed on through some early design iterations and a load of technical problems until we got to one show and tell where the team finally had some working software that they could show.
+To start with the project had a tough time. We could get servers to put the software on. The document package we'd chosen wasn't as mature as we thought it would be. But we pushed on through some early design iterations. We dealt with a load of technical problems. Finally, we got to one show and tell where the team had working software that they could show.
 
 It was an odd turning point in the project. Because that first demo was so terrible. We'd managed to pare down the what this demo did to a view of a collection of documents and then a display of the document when its title was clicked.  In that first demo, when we clicked on the document link, a window came up that said "Do you want to veiw your document?" Yes, with that spelling mistake.  And then when the user clicked "OK" an error message appeared.
 
 The look on the product owner's face! At this point were were about £500,000 into a £2 Million project. And all she had to show was a misspelled-spelled but that led to an error message. It was a hard time for her and it was a hard time for the team.
 
-But two weeks later it was a slightly different story. Now there was a list of documents, now when the document was clicked, the chance to open the document had a button that was spelled correctly and when it was clicked, the document was displayed.
+But two weeks later it was a slightly different story. Now there was a list of documents. Now when the document was clicked, the chance to open the document had a button that was spelled correctly. And when it was clicked, the document was displayed!
 
 The product owner seems a little bit more relaxed.
 
@@ -497,17 +499,17 @@ The short answer to that question was "no" because all of this nearly half a mil
 
 Once that was in place, the product owner went on the road with her laptop. The demo still wasn't much. The demo still had bugs. We still had some spelling problems. But the demo by the product owner to her own kind went over very well. She could wave past any user interface issues, or problems and she could show her old work mates the first sight of something that could make their lives a lot easier.
 
-She came back with a list of problems she'd come across while using the demo, and a list of suggestions for features that had come from the clerks, but the main question that she came back with was a demand "When will it be ready?"
+She came back with a list of problems she'd come across while using the demo. She also had a list of suggestions for features that had come from the clerks. But the main question that she came back with was: "When will it be ready?"
 
-From that point on, the nature of the project changed. It wasn't about delivering on a list of functions, it was about rolling out to the clerks all across the country the tiny bit of working software that the product owner had shown them and then adding to that the next obvious steps.
+From that point on, the nature of the project changed. It wasn't about delivering on a list of functions. It was about rolling out to the clerks all across the country the tiny bit of working software that the product owner had shown them. After that, being clear to everybody about what was needed next and when we could implement these next steps.
 
-The other interesting thing about getting some working software in front of the people who might use it, was that it both asked and then started to answer the other two questions that I've already talked about. "Can we do this?" and "Who is going to jump out and stop us." 
+There was another very interesting thing about getting some working software in front of the people who might use it. By doing this we both asked and then started to answer the two questions that I've already talked about. "Can we do this?" and "Who is going to jump out and stop us if we do?" 
 
-To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. This was blocked because of a dispute. The price of providing and supporting the servers was included in the contract, the client was arguing, and the client shouldn't have to either commission them, pay for them or support them. But this became a much harder argument to make once people in their own company were asking for the software. Suddenly they were in the way, rather than helping the company by being tough on costs, they were stopping people who worked for their organisation from getting at something that could make their lives easier. The servers appeared, and then money for staff to support them appeared and a real roll-out of the software started to happen.
+To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. This was blocked because of a dispute. The price of providing and supporting the servers was not included in the contract. But the client was arguing, that the client shouldn't have to either commission the servers, pay for them or support them. But this became a much harder argument to make once people in their own company were asking for the software. Suddenly they were in the way, rather than helping the company by being tough on costs. Suddenly they were stopping people who worked for their organisation from getting at something that could make their lives easier. Suddenly the servers appeared, and then money for staff to support them appeared. A real roll-out of the software started to happen.
 
-To the second question "If we try to do this, is anybody going to jump out from behind a tree and stop me?" The answer was "yes." In fact two people jumped out. An accessibility guy and a security guy. The accessibility guy claimed the there was no way the software could be released until it met a extra set of requirements that would make it usable according to a yet another set of standards that try to make websites more accessible to people with disabilities. The client claimed that we should have know about these requirements right from the start and so we should pay for them. 
+To the second question "If we try to do this, is anybody going to jump out from behind a tree and stop me?" The answer was "yes." In fact two people jumped out. An accessibility guy and a security guy. The accessibility guy claimed the there was no way the software could be released until it met a extra set of requirements. The client claimed that we should have know about these requirements right from the start and so we should pay for them. 
 
-And by the way. This guy was pretty much right. We should have built in accessibility right from the start. It takes no more effort in coding to make sure that a website is accessible and it actually makes the site much easier for all kinds of people who you might not think of as disabled to use your site. Do it. If in doubt, pay a blind guy to look at your site.
+And by the way. This guy was pretty much right. We should have built in accessibility right from the start. It takes no more effort in coding to make sure that a website is accessible.  And it actually makes the site much easier for all kinds of people to use. People who you might not think of as disabled? Do it. It makes sense. If in doubt, pay a blind guy to look at your site.
 
 Out from behind another tree jumped the security guy. He said that the project should never be allowed to go live until we could prove that it was secure. Just to leave us in no doubt about his effectiveness as an blocker, he also refused to tell us what it was we needed to change so that it would be secure. And of course, the costs of any changes we made needed to be born by us rather than the client.
 
@@ -518,10 +520,10 @@ But neither of these guys was a match for the clerks. There were a lot of clerks
 Putting bad, barely working software in front of real users completely changed the project.
 
 ### Connections
-Showing barely working software to the clerks had created this magical thing, which gets talked about when people talk about other ways of doing Agile - like Lean, which is a lot like Agile, but for manufacturing. What is this magical thing? It's called "pull".
+Showing barely working software to the clerks had created this magical thing. It's a thing that gets talked about when people talk about different ways of doing Agile. Ways of doing Agile like Lean, which is Agile, but for manufacturing. What is this magical thing? It's called "pull".
 
 You may have heard the saying "just in time." It's a strategy for managing supply chains in all kinds of industries. One industry that has perfected this approach to managing its work is the Japanese car industry, and particularly the Toyota car company.   
-The Toyota company succeeded because from the start it understood one thing: it just wasn't possible to make cars in Japan in the way they were being made in the 1920's in America? Why? Because Japan's economy at the time was tiny and it went in cycles of good and bad times. So from very early on, Toyota tried match the rate that it made cars to the pattern of demand for cars that it saw from the market. Over nearly a hundred years, that process has become so sophisticated that many different kinds of cars, with the many different extras that modern cars have, can roll off the production line of the same plant.
+The Toyota company succeeded because from the start it understood one thing. The realised it just wasn't possible to make cars in Japan in the way they were being made in the 1920's in America? Why? Because Japan's economy at the time was tiny. It went in cycles of good and bad times. So from very early on, Toyota matched the rate that it made cars to the level of demand for cars that it saw from the market. Over nearly a hundred years, that process has become very sophisticated. The result is that many different kinds of cars, with the many different extras that modern cars have, can roll off the production line of the same plant. The cars that come out of the factory almost precisely match the demand outside it.
 
 Each car is *pulled* off the production line by a specific request for a car which comes from a dealer, which ultimately comes from a customer.
 
@@ -534,7 +536,7 @@ It's important to point out that making cars is *very* different from making sof
 Even so, taking these two ideas - only deliver things which the user wants and don't do anything which isn't going to either directly benefit the user is powerful. These two ideas are two sides of the same coin. If taken seriously, they are a powerful way of making projects which seem impossible start to suddenly seem possible.
 
 ### Concrete Practice
-So how do we do this? Every project is a little bit different. But I'm going to arbitrarily invent a rule of sixths. Which feels about right to me. If you think your project is about 6 months long. I'll give you a month to do some set up. But if after a month you and your team don't have *something* that works, you've waited to long. By the end of a sixth of the time, you need tiny piece of software that starts to do the thing that you're supposed to be doing in this project that you can show.
+So how do we do this? Every project is a little bit different. But I'm going to arbitrarily invent a rule of sixths. This feels about right. If you think your project is about 6 months long. I'll give you a month to do some set up. If after a month you and your team don't have *something* that works, you've waited to long. By the end of a sixth of the time, you need tiny piece of working software. A small bit of software that starts to do the thing that it's supposed to be doing. And you need to be able to show this software to the people who will finally use it.
 
 And once you've got this tiny little thing, you should be looking to improve its status in some way. And there are lots of ways to do this. Sure, add functionality. But if this first working version will only run on a laptop, that's not the first way to go. Just as in the example that I gave. If you've got an example that works on a laptop, then one good move would be to show it to users. Another would be to move what's on the laptop to test servers and beyond that, to the live servers where it will eventually be used.
 
@@ -544,9 +546,9 @@ I know nothing about rock climbing. But this is a little bit like if you're clim
 
 Yes, delivering software is a bit like that. It's a bit like climbing a rock face. The odd thing is how many people think that you can get to the top without a rope - but also, without the climb!
 
-Gradually developing working software in all of those directions is the careful and effective way to deliver something which seems impossible. And if the thing that you're doing is in any way useful or interesting to the people who will use it, at some point in that process, we hope sooner rather than later, you will start to get "pull". You will start to get demand for the software and demand for functionality from the software from the people who are likely to use it, rather than "push" from the people who got the funding for the project.
+Gradually developing working software in all of those directions is the careful and effective way to deliver something. Especially if that something seems impossible. And if the thing that you're doing is in any way useful or interesting to the people who will use it, at some point you will start to get "pull". Obviously, you'd like this sooner rather than later. But at some point, you will start to get demand for the software. And then you will start to get emand for functionality from the software. Not from the people who sold the idea - push - but from the people who are likely to use it - magical "pull".
 
-Gradually developing software in these directions will also result in people jumping out from behind trees and helpfully providing you with extra rules and regulations that you need to follow before your software can finally escape and live free in the real world. It's (one of) the most powerful secrets to delivering things that seem impossible. And everybody, or nearly everybody, will try to stop you doing it.
+Gradually developing software in these directions will also result in people jumping out from behind trees.  They will helpfully provid you with extra rules and regulations that you need to follow. You will need to negotiate these before your software can finally escape and live free in the real world. Push working software as far as you can towards being live with real users. It's the most powerful secret to actually delivering things that seem impossible. And everybody, or nearly everybody, will try to stop you doing it.
 
 What? Yes, that's right. Incrementally delivering working software is the thing that you absolutely need to do to succeed and nearly everybody will try to stop you doing it. 
 
@@ -558,7 +560,7 @@ How? Developers will tell you that there's no point breaking big bits of functio
 
 How? Somebody will tell you that there's no point troubling users with small bits functionality which don't show the whole journey, that it's a waste of time and money. 
 
-How? Somebody possibly even some users will tell you that there's no point looking at the new system until it has their real data in it, or until when they press the "launch missile" button something actually happens.
+How? Some users will tell you that there's no point looking at the new system until it has their real data in it. Or they might not want to see ituntil when they press the "launch missile" (or commercial equivalent) button and something actually happens.
 
 How? Somebody will tell you that test servers are expensive.
 
@@ -568,7 +570,7 @@ How? Nearly everybody (I've been lucky to work with some exceptions) who is resp
 
 But why? Why don't people want working software?
 
-The reason people don't want working software is very similar to the reason that the improvisers that we talked about in Chapter 2 don't want to deal with the pirate ship and would much rather just scrub the decks. Without having to think about it, they know that dealing with working software will mean that they have to *change*. They will have to change their thinking. They also might have to change what they do.
+The reason people don't want working software is very similar to the reason that the improvisers that we talked about in Chapter 2 don't want to deal with the pirate ship. Without having to think about it, they know that dealing with working software or a pirate ship will mean that they have to *change*. They will have to change what they think. They also might have to change what they do.
 
 The other reason is that trying to get software working attacks the "Flower" of an idea - this is the aspect of the idea that people think is good, without having to think about it. Remember that ideas tend to be of the form "all", "same", "faster", "cheaper." 
 
@@ -594,13 +596,14 @@ Trying to do working software gives you enormous amounts of information about th
 
 Sometimes, when you put working software in the hands of users you get a response that you weren't expecting. "What the hell is this? This makes no sense at all."
 
-This may not be pleasant, but when that happens, you might want to be grateful that you found this out when you were a small percentage into the project, when you've spent just a small amount of your time, money and resources.
+This may not be pleasant. But when do you want to find out? You might be grateful that you found this out when you were a small percentage into the project. You've only spent a small amount of your time, money and resources. There's still time to change your mind, take account of the feedback and do some things differently.
 
 And having users object to your software, or even hate it, isn't actually the worst response they can give. The worst response is utter indifference. You show users your software and they really don't care. They don't like it, they don't not like it. They are just indifferent. This is the most difficult kind of feedback to deal with because it doesn't give the project any guidance about where to go next. But even such a non-response is useful earlier rather than later. Again, it's worth asking yourself, when would you, or your sponsors like to find out that nobody cares about your project? Now, when you've spent less than a quarter of the time and money that you'd budgeted? Or later?
 
-Of course, there's another response that you're hoping for if you put small amounts of working software in the hands of users. If you're lucky they will ask just one question - "When I can I have this?" And then, almost certainly, they will follow that up with "Could it do this? It would be really nice if also did this." This is what you're looking for from working software. You're looking for pull. You're looking for a way of prioritising the things that the software currently does and the things that the software could do that's based on actual value to the users (fruit) rather that superficial appeal to the internal sponsors and funders of a project (flowers). 
+Of course, there's another response that you're hoping for if you put small amounts of working software in the hands of users. If you're lucky they will ask just one question - "When I can I have this?" And then, almost certainly, they will follow that up with "Could it do this? It would be really nice if also did this." This is what you're looking for from working software. You're looking for pull. You're looking for a way of prioritising the things that the software currently does and the things that the software could do. And you want this based on actual value to the users (fruit) rather that superficial appeal to the internal sponsors and funders of a project (flowers). 
 
-Once you've done this, once you've found something that users want that you think you're software can provide, you have moved a long way down the road of shifting a project from being impossible, to being possible. But by doing that you've also made the problem a lot more complicated. By trying to get software out into the real world, you will probably have had people jump out from behind trees and tell you that you're not allowed to put software out into the real world. There people are now on the list of people that you have to please. By putting working software in front of users, if you're lucky you'll have created demand and expectation from them which it's obvious to you, you need to satisfy if this project is going to be a success. But at the same time. What about the people who got this project funded? And what about the people who funded it? 
+
+Once you've found something that users want that you think you're software can provide, you have moved a long way down the road of shifting a project from impossible, to possible. But by doing that you've also made the problem a lot more complicated. By trying to get software out into the real world, you will probably have had people jump out from behind trees.  They will have told you that you're not allowed to put software out into the real world. These people are now on the list of people that you have to please. By putting working software in front of users, if you're lucky, you'll have created demand and expectation. Now it's obvious to you, you need to satisfy some of these demands and expectations if this project is going to be a success. But at the same time. What about the people who got this project funded? And what about the people who actually funded it? 
 
 All of a sudden, they're not as in control of the project as they were, the project has been let out in to the wild world. It isn't just their baby any more. People may not act to this well. It may feel that you've deliberately pushed you and your team into a storm, when they could have stayed in calmer waters. And that is exactly what you've done. This may feel like a very stupid thing to do, so it's important to remember why you've done it. You've done it because staying "safe" not being changed won't get you where you, your team and your project need to be.
 
@@ -673,7 +676,7 @@ Maybe I'm wrong. Maybe your project is fine. Maybe you're reading a book called 
 
 But if your project isn't fine, what are you going to do about it? Telling it like it is,  as the Scrum Master in the story tried to, doesn't seem to work that well. In that case, it resulted in the hiring of someone to specifically stop the bosses in New York being told the truth. 
 
-Someone senior might have well promised something that is impossible to deliver. Getting them to deliver that might be a subtle process requiring careful handling. But for the team that's doing the work, it's almost never a bad thing for them to know the truth as soon as possible. If you're in charge of that team, you should making sure that all of the chances to keep everything transparent (stand ups, retrospectives and show and tells) are happening. 
+Someone senior might have well promised something that is impossible to deliver. Getting them to deliver anything near that might be a difficult process, requiring careful handling. But for the team that's doing the work, it's almost never a bad thing for them to know the truth as soon as possible. If you're in charge of that team, you should making sure that all of the chances to keep everything transparent (stand ups, retrospectives and show and tells) are happening. 
 
 The second thing is to understand that shouting out bad news in front of fifty people might not be the best way of communicating it.
 
@@ -790,16 +793,6 @@ I was working with possibly the second coolest company I've ever worked with. I 
 
 You may lift your eyebrows the full quarter inch at a company that didn't talk to regulators before starting up in the money lending business. You can also see that research with users and mapping of stakeholders would make something really important very clear. There were people who lived miles from the "swamp" who cared what went on in there. And if these people weren't happy, the project would die.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### Criticism
 
 You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road."
@@ -822,7 +815,7 @@ Now that I've seen it really work, I'm convinced that it's one of the best ways 
 
 The other thing that I should probably confess is that I don't know how to combine user research and the early development of working software without creating conflict. For the best chance of project success, user research and stakeholder research need to be brought together with all the other things that need to happen on a project. It's particularly important that they come together with the production of working software. And then that software needs to be put in the hands of users. But doing this just seems to result in conflict. I mean, fighting. Doors banging. Words exchanged, sulking, even people leaving the team. 
 
-I know that all of them need to be going on from almost the moment the project starts. User research, stakeholder research and the development of working software. And I know that doing them both at the same time gives the team - and the product - the best chance of success. Success that's acheived by mapping the users and mapping the stakeholders and then starting to see how all these people interact with the software. 
+I know that all of them need to be going on from almost the moment the project starts. User research, stakeholder research and the development of working software. And I know that doing them both at the same time gives the team - and the product - the best chance of success. Success that's achieved by mapping the users and mapping the stakeholders and then starting to see how all these people interact with the software. 
 
 In some ways I feel bad that I'm making product development using software sound like a nine dimensional Rubic's cube. But what can I do? It is. 
 
@@ -833,14 +826,50 @@ But of course, when you're driving, you don't pay attention to everything that y
  
 ## Chapter 8 - Project Management is Keeping Promises
 
+>> A foolish consistency is the hobgoblin of little minds
+>> Ralph Waldo Emerson
+
 ### Concept
+We like to keep our promises. When we say we're going to do something, we like to honour the commitment. We also prefer not to all over the place in our behaviour. If we tell people that we're vegetarian, we prefer not to be caught eating a chicken burger the size of our head. 
+
+This is actually one of the most powerful principles that controls our behaviour - it's known as commitment and consistency. We like to keep our promises - commitment. We like like to behave in a way that looks like it's in line with what we believe - consistency. 
+
+This is, on the whole a good thing. It's a good thing when people do what they say they're going to do. It's good thing when we behave in a way that fit with what they say they believe. On the whole.
+
+But project management isn't the whole. Project management is an unusual activity, not like the most of the rest of our life. And this is especially true of project management when it comes to software development? Why?
+
+### Connections
+
+Do you remember not long ago that we talked about the swamp? That's why? Think about it just for a second. What if I'm right about the swamp? What if I'm right that we don't really know what we're going to find in there until we actually go in there and start digging? And what about those people who care about what happens in the swamp, that live nowhere near it? Didn't admit to ourselves in the last chapter that the only way to understand what's going on in the swamp is to explore. Talk to people who might want to live there, talk to the people who already do live there, start to build up a picture (a map) of who the stakeholders are and how they relate to each other. 
+
+Didn't we also admit that the only way to understand what we can do in the swamp, and what might be of any value, is to actually do stuff. 
+
+Translated back into non-swamp languague, what this means for software development is that we aren't going to really know what's possible, valuable, legal and attractive in a new area until we've done user and stakeholder research and started to deliver some working software. 
+
+But guess what? Guess when as a team, as a project, we're often asked to say what our software is going to do, how long it's going to take get it to do that, and even how much it will cost? Not after we've done all that exploration of the swamp, oh no, but before we've even started. 
 
 ### Concrete Practice
 
-### Conclusion
+I think I must have just been reading Robert Cialdini's book "Influence: The Psychology of Persuasion." That was where the problem started. I hadn't been working for this company long. It was a small company with less than a dozen people working on that many projects. I'd been brought in as their Scrum Master. We were having a meeting on the phone, almost at the start of a new project. We'd discussed some of the things that needed doing to move the project further forward. 
 
-### Connections
+It wasn't the kind of meeting that I liked. It wasn't an Agile meeting. There wasn't just one kind of thing that we were talking about. It was more free-form and rambling than that. But it was with the chairman of the company, and this project was his baby, so I didn't feel I could interrupt too much. The meeting ran long. As meetings that don't have a single specified purpose and aren't timeboxed and aren't facilitated by someone who cares about these things are wont to do. But then, just when I was hoping that the meeting was going to be over. Just when the chairman gave me hope by saying "Right then!", he snatched it away. Instead he said "Let's go round the table and I want you to promise me that the actions that you've been given will be done in time for the next meeting."
+
+What? Promise? I could hear the other members of the team around the (virtual, phone) table solemnly commiting to do the actions that had been weritten down with their name against them. What was I going to do when he got around to me?
+
+I knew that the actions that had my name against them were vaugue. I knew that I could probably fudge and say that they were done by the next time we had a meeting. At the same time, I knew that some of the things that the other members of the team were commiting to, they either had no chance of doing by the next time we met, or simply no idea whether they could do them or not. 
+
+Also, in the back of my mind, were some things I'd been hearing about how this guy, Mr Chairman, was working with the rest of the team. He himself worked from home most of the time and got up at 4 am. I had vaguely heard discussions in the stand up that he'd been getting some of the other, younger members of the team to have meetings at 5 am and had also been encouraging people to work through the night to meet his deadlines. 
+
+You know what? Fuck that.
+
+So when my turn came I said "I'm sorry, I can't commit to doing my actions from this meeting. I'll do my best obviously. But some of those things, they're just too uncertain."
+
+And. Oh my god! Mr Chairman put the phone down! I really wonder what would have happened if it had been a face-to-face meeting.
+
+### Conclusion
 
 ### Criticism
 
 ### Confessions
+
+
