@@ -2,7 +2,8 @@
 
 # [Delivering the Impossible - pdf](dti.pdf)
 
-<img src="cover.png" alt="HTML5 Icon" width="400">
+<a href="dti.pdf"><img src="cover.png" alt="HTML5 Icon" width="400"></a>
+<br>
 
 
 ## Update History
