@@ -75,15 +75,15 @@ I remember listening to an explanation of a "Waterfall" approach to project mana
 
 In my first two years as a software developer I worked on two projects. One was for a big oil company. One  was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
 
-Stage one: all the requirements for the project were carefully written down. This produced a huge requirements specification. 
+Stage one: all the requirements for the project were carefully written down. So, at the end of this stage we had a huge requirements document. 
 
-Stage two: we turned these requirements into a design.  First a high level design and then detailed designs. 
+Stage two: we turned these requirements into a design.  First we produced a high level design. Then we wrote a detailed design. 
 
 After these stages, which might take months, we started to write software.  Again, that might take months or even years. Then came separate stages of first internal and then external testing. Then and only then did the software go live.
 
-Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch - litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification documented hadn't captured what the users wanted. It's also possible the users weren't capable of saying in one single document, exactly what it was that they wanted. What the users had asked for had gone through the systems designers, developers, internal testers and then external testers. By the time that it had got to the end of that pipe,  it's not surprising that things had gone a bit wrong.
+Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch. What was that extra stage? It was litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was probably for a whole bunch of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification documented hadn't captured what the users wanted. It's also possible the users weren't capable of saying in one single document, exactly what it was that they wanted. What the users had asked for had gone through the systems designers, developers, internal testers and then external testers. By the time that it had got to the end of that pipe,  it's not surprising that things had gone a bit wrong.
 
-There was one intriguing thing, that I barely noticed about those first few projects until later. When the customers finally saw the software, when they decided it wasn't what they wanted and threatened to sue, something interesting happened. The projects would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
+There was one intriguing thing, that I barely noticed about those first few projects until later. When the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The projects would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
 
 And what those guys were doing, well it kind of sounds like iterative, Agile software development.
 y
@@ -91,7 +91,7 @@ So, one answer to the question - "Why now?" Is well, why not ages ago? We could 
 
 So, seventy five years ago, it would have been great for us to really get the hang of delivering softare projects. But still, better late than never. Because being good at writing software has never been a more important competitive advantage. Being good at doing it in a timely manner has never been more valuable. Being good at putting software that people want to use in the hands of users, has become a way of, literally, conquering the world.
 
-As Marc Andreessen pointed out more than ten years ago, software is eating everything. Since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some of the companies that are good at developing software (Amazon, Facebook, Google, Alibaba) are now more powerful than some governments.
+As Marc Andreessen pointed out more than ten years ago, software is eating everything. Since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some of the companies are really good at developing software - Amazon, Facebook, Google, Alibaba. And some of those companies are now more powerful than some governments.
 
 So, if you're interested in being good at something getting good at developing and delivering software is worth a look.
 
@@ -253,7 +253,7 @@ Yes it was mad. Yes, it was right. I tried to talk to the business analyst. I em
 
 And of course, there was no way that the project was going to get anywhere in its current state. The team needed to talk to the person who could tell them what the product was supposed to do.
 
-Side note: This project was worse than it sounds. It turns out there were two groups of business analysts. Technical business analysts and business business analysts. The "business" business analysts were actually allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the technical business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed word documents. A big part of making this project possible was to make sure that we had just one business analyst. This person was allowed both to talk to the people who wanted the software and the people who were building the software. Things got a lot better after that.
+Side note: This project was worse than it sounds. It turns out there were two groups of business analysts. There were technical business analysts and there were business business analysts. The "business" business analysts were actually allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the technical business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed word documents. A big part of making this project possible was to make sure that we had just one business analyst. This person was allowed both to talk to the people who wanted the software and the people who were building the software. Things got a lot better after that.
 
 So we've talked about stand up meetings and we've talked about retrospectives. There's one more Agile meeting where the "Pirate Ships" that are on the horizon might be detected. And that's the "Show and Tell." The "Show and Tell" is a meeting where the development team show the outputs of what they've been working on in the last "Sprint" - typically two weeks. Who do they show it to? Definitely you should show it to the product owner who is supposed to act as a representative of all the people who want the project to happen. But you should also invite other people who are interested and who want to come along. 
 
@@ -867,6 +867,29 @@ So when my turn came I said "I'm sorry, I can't commit to doing my actions from 
 And. Oh my god! Mr Chairman put the phone down! I really wonder what would have happened if it had been a face-to-face meeting.
 
 ### Conclusion
+
+When I run Agile training courses I do an exercise at the start of the very first day, just to get people out of their seats, standing up and talking to each other.
+
+I ask the group to split themselves into smaller groups. I then give each group a pad of flip chart paper and some pens and ask them to draw a "stick person" in the middle of the piece of paper. Then I ask them to give that person a smiley face. Then I ask them to write down as many words and phrases as they can which they associate with a "happy" project - with a project that is going well.
+
+Almost always, the first thing that gets written down is "On time, to budget." Do you know what almost never gets written down? I might have seen it twice in ten years of running training courses? "Valuable to its customers." Do you know what gets written down even less often? I think I've seen it once in those 10 years. "Makes money." 
+
+Maybe this is because I'm asking the wrong question. Maybe if I talked about a happy product I would get better answers. But this very simple exercise shows something that when you're involved in project management, you run into again. People think that project management *is* almost entirely about keeping promises. They think it's about being on time and keeping to budget. They forget what's actually the important stuff - that whatever the project is producing needs to be valuable to somebody, and in a lot of cases, it would be good if it made money.
+
+For me, commitment and consistency is the electric cattle prod of project management. People who are inexperienced in delivering projects often think that keeping promises is the most important thing, if not the only thing. They forget about "valuable to customers" they forget about "makes money." But they also seem to think that it's the best and most powerful way of making the people involved in a project do their bidding. And, I really, really hate to admit it, but they're right.
+
+Commitment and consistency is such a powerful way of controlling people that it still has power, even when it's been used against people who didn't make a commitment and even in situations that aren't consistent. This is what I call "commitment and consistency jujitsu."
+
+For example. I was recently in a discussion about a new feature for an existing, successful, product. The owner of the product - the guy who paid the bills - wanted this new feature. He hadn't mentioned it before. But now he was saying that it was really important and that he'd promised it to clients at a meeting.
+
+The logic of what he was saying was this: "I've promised this - so you have to deliver it." But of course this is, in one sense, totally bogus. Just because somebody else has promised something, doesn't mean I'm on the hook for delivering it. Then again, this guy is my customer, he pays the bills, he's my boss, I want to help him if I can. And the force of this argument is "I've promised this, if I don't deliver it, I will appear to be untrustworthy, don't do that to your boss." 
+
+But unfortunately, as a project manager, I have another boss. Reality. 
+
+
+We don't know what this new feature really is, because we don't know what it is, we don't know what it involves. But we do know that in the three months before this new feature is supposed to be delivered, we were going to be doing some other things. 
+
+
 
 ### Criticism
 
