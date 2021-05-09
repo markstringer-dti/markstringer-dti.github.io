@@ -835,7 +835,7 @@ And in another way, I'm absolutely certain that the best chance any team has of 
 But of course, when you're driving, you don't pay attention to everything that you see through the windscreen equally. You're really on the look out for any obstacles on the road and you're also look for places where you have to make a decision - left? Right? Or straight on?
 
  
-## Chapter 8 - Project Management is Keeping Promises
+## Chapter 8 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
 >> Ralph Waldo Emerson

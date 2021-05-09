@@ -8,6 +8,8 @@
 
 ## Update History
 
+Update 10th May 2021 - "When you're moving from fruit to flowers, you're putting the second boss in charge"
+
 Update 9th May 2021 - "More on the misery of commitment and consistency. If you want a guarantee get a toaster. If you want to be always reliable, be a toaster."
 
 Update 8th May 2021 - "That second boss."
