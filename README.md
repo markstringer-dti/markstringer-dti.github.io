@@ -1,6 +1,8 @@
 # Delivering the Impossible
 
-# [Delivering the Impossible - pdf](dti.pdf)
+## [Delivering the Impossible - pdf](dti.pdf)
+
+## [Delivering the Impossible - raw text](dti.md)
 
 <a href="dti.pdf"><img src="cover.png" alt="HTML5 Icon" width="400"></a>
 <br>
