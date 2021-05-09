@@ -8,6 +8,8 @@
 
 ## Update History
 
+Update 9th May 2021 - "More on the misery of commitment and consistency. If you want a guarantee get a toaster. If you want to be always reliable, be a toaster."
+
 Update 8th May 2021 - "That second boss."
 
 Update 7th May 2021 - "He really was so angry that he slammed the phone down."
