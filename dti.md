@@ -820,19 +820,49 @@ Another criticism of my insistence on user research is what might be called the 
 
 ### Confession
 
-I've worked on lots of projects where we either haven't done any user research, or haven't done anywhere near enough. When I was working at Cambridge, I worked on a project that was all about "iterative user centred design." Buyt I still didn't really put together how absolutely important this was until much later. 
+I've worked on lots of projects where we either haven't done any user research, or haven't done anywhere near enough. When I was working at Cambridge, I worked on a project that was all about "iterative user centred design." But I still didn't really put together how absolutely important this was until much later. 
 
-Now that I've seen it really work, I'm convinced that it's one of the best ways of reducing the risk on a project. But it's still going to be very hard to persuade the people who are paying for that project that they need user researchers. And not just one, and not just at the beginning. But possibly several user researchers on the project all the way through. It's even harder than getting support for development of working software.
+Now that I've seen it really work, I'm convinced that it's one of the best ways of reducing the risk on a project. But it's still going to be very hard to persuade the people who are paying for that project that they need user researchers. And not just one, and not just at the beginning. They need people talking users and potential users all the way through. It's even harder than getting support for development of working software.
 
 The other thing that I should probably confess is that I don't know how to combine user research and the early development of working software. That is I don't know how to do it without creating conflict. For the best chance of project success, user research and stakeholder research needs to be brought together. And then it needs to be combined with all the other things that need to happen on a project. It's particularly important that it comes together with the production of working software. And then that software needs to be put in the hands of users. But doing this just seems to result in conflict. I mean, fighting. I mean, flouncing. I mean, people muttering. Doors banging. Words exchanged and sulking. Even people leaving the team. 
 
-I know that all of them need to be going on from almost the moment the project starts. User research, stakeholder research and the development of working software, they all need to happen. And I know that doing them both at the same time gives the team - and the product - the best chance of success. What is success? That's what's achieved first by mapping the users and mapping the stakeholders. But soon after that you need to start to see how all these people interact with the software. 
+I know that all of them need to be going on from almost the moment the project starts. User research, stakeholder research and the development of working software, they all need to happen. And I know that doing them all at the same time gives the team - and the product - the best chance of success. What is success? That's what's achieved first by mapping the users and mapping the stakeholders. But soon after that you need to start to see how all these people interact with the software. 
 
 In some ways I feel bad that I'm making product development using software sound like a nine dimensional Rubic's cube. But what can I do? It is. 
 
 And in another way, I'm absolutely certain that the best chance any team has of developing a product is to be able to see all these aspects of a project. Remember the car from the previous chapter? Nothing good happens if you don't look out of the window.
 
-But of course, when you're driving, you don't pay attention to everything that you see through the windscreen equally. You're really on the look out for any obstacles on the road and you're also look for places where you have to make a decision - left? Right? Or straight on?
+But of course, when you're driving, you don't pay attention to everything that you see through the windscreen equally. You're really on the look out for any obstacles on the road and you're also look for places where you have to make a decision - left? Right? Or straight on? There is intelligence and skill involved. Well of course, there doesn't *have* to be.
+
+## Feedback
+
+I decided to write this book in the open - as working software. And one of the joys of that is that I get feedback from real users. This feedback is from someone I've known years. I'm not sure what is title is these days. But he's a senior tech guy who still writes software. Interestingly, what he has to say "drives home" the point I was just making about driving. It's not enough to have a clean windscreen. You have to look out of it. It's not enough to look out of the windscreen. You need to change your behaviour depending on what you see. There is nothing that can protect you from your own stupidity.
+
+> I've been reading Chapter 7 (The Swamp) and I have some observations that you may wish to write about.
+> Currently I am working at \[Huge Organisation\], where there is a dedicated department that does user research - lots and lots of it. All compliant with best practices. But....
+> Recently they've been cutting costs, and so have been reducing the experience in their user research department. Most people there are now new graduates or apprentices, and are now guided by a 'user research manual' that is effectively a step-by-step instruction book on how to conduct user research sessions - nothing about gleaning anything useful.
+> Second, although user research is done; almost every project has some user research at some point; it gets ignored. It's all 'thank-you very much for this' and then they just go ahead and build crap.
+> So, maybe you want to write something about customers who pay lip service to UR and how you can still make progress when faced with such atrocities. And also, when the team KNOWS they are building crap but are told "we are paying for it so we can dictate how it should operate".
+
+Two things I'd say about this. Firstly, it's a really bad idea to have the user researchers working in a dedicated department. They need to be in the team. Yes, they might also need to regularly meet up with people of their own skillset. But they need to sit with the team and be part of the meetings that deliver transparency (standup, planning, show and tell, retro). My experience is that, at least initially nobody will like this. The user researchers would much rather just get on with doing their user research and then write a report. The developers don't want to have to change the flow of their UI, or change how a screen loads or totally rethink the logic of an application, because of research feedback from users (it happens). So both groups are much more comfortable sitting apart. Why do you think that is? Does this sound to you a lot like one group agreeing to mop the ship's floor and another group agreeing to stay in another corner polishing the woodwork? That's because that's exactly what this is. Doulbe agreed activity.
+
+If you want the project to be a success, you need to get user researchers in and amongst the developers. The more you do this, the better your chance will be. You might feel bad about this, because, if you know what you're doing, you will know that you're creating conflict. But the kind of conflict that you're creating is the kind that we talked about when we talked about the pirate ship in chapter 2. One way of getting the improvisers to do the interesting thing rather than the boring thing is to have a director at the side of the stage who shouts "deal with the pirate ship." What we're doing here is putting two points of view together and insisting that rather than just go off and do their own thing, they figure things out together.  
+
+A bit here about juniors.
+
+> A little story. I was on a User Research presentation for \[Big Org\] where they presented the user research. It was harrowing. Basically the entire user base said they wouldn't use the software (even though the law will make it mandatory soon). We had warnings before some of the recorded snippets of the language used by the users.
+> "If Big Org introduce this then I would just say "Fuck You Big Org" and I will rebel by doing everything on paper."
+> "I'm not doing this. I'm just not. What the actual fuck is this shit"
+> Yet, they are still building it - knowing full well that NO-ONE is going to use the software.
+
+Well, lets think about this in "Swamp terms." Yes, there are some people who are very rich and powerful, and, ultimately, if they want to build something in the swamp that nobody wants to live in, they probably have the power to do that. A good question to ask is if there is *any* group of stakeholders who could have some influence over these rich and powerful people. The more stakeholder research you do, the more chance you might have to discover who these people might be. For example, in this case, if a form is mandated by government, then there are MP's and Ministers who have some interest. For lots of regulations that are mandated by government that affect huge swathes of the population, there are also interest groups and pressure groups. You may think that the person on your project who is ignoring the user research is more important than God. The betting is that he is absolutely terrified of getting a call from a member of the board, who, in turn, is really not happy about getting a call from an MP, or even a minister.
+
+So user research isn't enough. You need to be mapping the stakeholders on your project and figuring out how to get to them. Maybe it's with user research, maybe it's with working software. I used to be very scared of ridiculous deadlines (I still don't love them). But what I've started to see is that they can be used as an opportunity to push working software further down the pipe. What if part of that process is getting the software working on a "live" test server? Obviously it wouldn't be using real data. But this could be the kind of thing that pressure groups could get a look at and have an opportunity to provide their - ahem - feedback.
+
+A bit here about you might not be able to do all, or *any* of that.
+ 
+A bit here about scared and stupid.
+
 
  
 ## Chapter 8 - Commitment and Consistency and Your Other Boss

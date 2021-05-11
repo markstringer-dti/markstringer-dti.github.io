@@ -10,6 +10,8 @@
 
 ## Update History
 
+Update 11th May 2021 - "Incorporating user feedback!"
+
 Update 10th May 2021 - "When you're moving from fruit to flowers, you're putting the second boss in charge"
 
 Update 9th May 2021 - "More on the misery of commitment and consistency. If you want a guarantee get a toaster. If you want to be always reliable, be a toaster."
@@ -77,3 +79,9 @@ Updated 29th March 2021 - "Solve the problems you find in your project for two r
 Updated 28th March 2021 - "Add the story about the show and tell"
 
 Updated 27th March 2021
+
+## Improvement backlog
+* Get the text to 50 pages
+* Listen to all the pages being read aloud - correct mistakes
+* Check the structure - introduction
+* Remove that annoying blank page from the pdf
