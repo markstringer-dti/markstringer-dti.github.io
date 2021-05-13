@@ -31,22 +31,22 @@ You might expect to find methods for spotting issues that make a project "imposs
 
 What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. Is should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to do well on other projects. How to ride into the sunset to fight another day.
 
-Let's imagine you're a demanding reader. You might not just want advice on impossible projects. You might also want to know how to deal with impossible programmes. Or even in impossible organisations. Yes, if you're demanding, you might want such a book to talk about how to deliver the impossible at scale.
-
 Well, this is that book. And it tries to meet all these expectations. This is especially that book if what you do involves the development of software.
 
-If you read this book, you will learn, how to identify situations that seem impossible. You'll learn how to distinguish them from those situations that are impossible. You'll learn how to improve your  management of impossible seeming situations. Things might look bad. But there are often some quite simple things you can do to turn projects around and help them do well.
+If you read this book, you'll learn how to improve your  management of impossible seeming situations. Things might look bad. But there are often some quite simple things you can do to turn projects around and help them do well. 
 
 ### Why This?
-OK - so this book is about delivering the impossible. So why is it subtitled "Seven metaphors for successful project management delivery." Well, that's because metaphors are different ways of seeing things. And the main thing I'm going to do in this book is talk about different ways of seeing project management. 
+What might be a shortened version of why you picked up this book? Because you're involved in a project and you don't know what you're doing. On the whole, in your life and your work, you would really like to feel that you *do* know what you're doing.
+
+My experience is that, literally knowing what you're doing, as opposed to having no idea what you're doing comes down to doing simple things, but being guided by the right metaphors. And that's why this book is subtitled "seven metaphors for software development." Metaphors are different ways of seeing things. And what I'm mainly going to do in this book is talk about different ways of seeing project management. 
 
 The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. In this book I try show the reader several different points of view. I talk about different ways of seeing project management. I talk about different ways seeing, and thinking about, managing software development. 
 
-The reason for describing these different points of view is to make good on Alan Kay's claim. The aim is to make you much smarter when it comes to managing projects.
+The reason for describing these different points of view is to make good on Alan Kay's claim. The aim is to make you much smarter, to make you feel like you "know what you're doing" when it comes to managing projects.
 
-This isn't like most books that offer to improve your success at project management. Most books that do that suggest a particular Agile method. Like Scrum, or Extreme Programming. Other books talk about how to coach teams in the use of these methods. Other books talk about a part of the process. It could be writing stories or running retrospectives. It could be setting up a continuous delivery pipeline so that software is available to used almost as soon as it's written.   
+This isn't like most books that offer to improve your success at project management. Most books that do that suggest a particular Agile method. Like Scrum, or Extreme Programming. Other books talk about how to coach teams in the use of these methods. Other books talk about a particular part of the process. It could be writing "user stories" or running retrospectives. And obviously, there are books that focus on the technical aspects of the process. 
 
-Some of those books are brilliant, I've refereneced some of my favourites. But I don't think they're enough. 
+I want to be clear here. I'm not in any way knocking those books. Some of those books are brilliant and I've referenced some of my favourites in the notes. But I don't think they're enough. 
 
 Following an Agile method like Scrum is a good way of improving your chances of project success. It's what I almost always do if I'm in charge of delivering a software development project.
 
@@ -56,24 +56,24 @@ If you haven't done this before as a team, you are going to need some outside he
 
 But unfortunately, this isn't enough. You need to do more than this if your project has any realistic chance of doing well. You need to see things from different points of view. 
 
-In this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. Issues that need tackling. 
+For example, in this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. These are issues that, if they aren't dealt with, will sink your project. 
 
-Pushing this water-based metaphor I talk about you how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
+Pushing this water-based metaphor, I talk about you how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
 
-Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although not impossible to help your project do well.
+Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although still not impossible, to help your project do well.
 
 Why do you need to show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some good from using it as soon as you can? 
 
 I explain this using the metaphor of flowers and fruit. Flowers appeal to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But it feeds people.
 
-This book provides its readers with something, solid, nutritious, and sustaining. Seven ways of knowing what you're doing. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
+You might think that, if you're software development project that's costing millions of pounds, is really in trouble, the last thing that you need is some dreamy guff about metaphors. But this book provides its readers with something, solid, nutritious, and sustaining. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
 
 ### Why now?
 Well, another way of thinking about this is – "Why not *then*?" Why haven't we found better ways to think about software development since the start?
 
-We've needed better ways of thinking about software projects since the 40's. 
+We've needed better ways of thinking about software projects since the 40's. The human race has been writing software for at least 75 years. We're still not very good at it, and that is because it's very hard.
 
-I remember listening to an explanation of a "Waterfall" approach to project management. This was the mid nineties - fifty years after anybody wrote the first software. I remember thinking "this will never work." And it didn't.
+I remember listening to an explanation of a "Waterfall" approach to project management. This was the mid nineteen nineties. I remember thinking "this will never work." And I soon saw that it didn't.
 
 In my first two years as a software developer I worked on two projects. One was for a big oil company. One  was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
 
