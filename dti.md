@@ -23,13 +23,13 @@ Even though you think the project is impossible, you haven't given up. And it's 
 
 Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done, given the right skills and expertise. You know this from other parts of your life. That it's not a good idea to give up immediately when things get difficult. Often things do get better if you persist. 
 
-You also know, from other problems that you've solved in your life, that often solution comes from seeing things in a different way. From looking at the problem from a different angle. If you can only change your point of view, things can improve dramatically. If you look at things in the right way,  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be a success.
+You also know, from other problems that you've solved in your life, that often a solution comes from seeing things in a different way. From looking at the problem from a different angle. If you can only change your point of view, things can improve dramatically. If you look at things in the right way,  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be a success.
 
 What you would like and expect from a book titled "Delivering the Impossible" is some kind of guide.  You'd expect some kind of handbook for dealing with projects that seem impossible.
 
 You might expect to find methods for spotting issues that make a project "impossible".  You might then expect the book to go on to talk about what to do in these situations. How to make a project reasonable and deliverable and give it the best chance of success. 
 
-What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. Is should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to do well on other projects. How to ride into the sunset to fight another day.
+What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. It should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to do well on other projects. How to ride into the sunset to fight another day.
 
 Well, this is that book. And it tries to meet all these expectations. This is especially that book if what you do involves the development of software.
 
@@ -40,7 +40,7 @@ What might be a shortened version of why you picked up this book? Because you're
 
 My experience is that, literally knowing what you're doing, as opposed to having no idea what you're doing comes down to doing simple things, but being guided by the right metaphors. And that's why this book is subtitled "seven metaphors for software development." Metaphors are different ways of seeing things. And what I'm mainly going to do in this book is talk about different ways of seeing project management. 
 
-The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. In this book I try show the reader several different points of view. I talk about different ways of seeing project management. I talk about different ways seeing, and thinking about, managing software development. 
+The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. In this book I try to show the reader several different points of view. I talk about different ways of seeing project management. I talk about different ways of seeing, and thinking about, managing software development. 
 
 The reason for describing these different points of view is to make good on Alan Kay's claim. The aim is to make you much smarter, to make you feel like you "know what you're doing" when it comes to managing projects.
 
@@ -58,7 +58,7 @@ But unfortunately, this isn't enough. You need to do more than this if your proj
 
 For example, in this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. These are issues that, if they aren't dealt with, will sink your project. 
 
-Pushing this water-based metaphor, I talk about you how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
+Pushing this water-based metaphor, I talk about how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
 
 Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although still not impossible, to help your project do well.
 
@@ -83,30 +83,32 @@ Stage two: we turned these requirements into a design.  First we produced a high
 
 After these stages, which might take months, we started to write software.  Again, that might take months or even years. Then came separate stages of first internal and then external testing. Then and only then did the software go live.
 
-Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch. What was that extra stage? It was litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was probably for a whole lot of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification documented hadn't captured what the users wanted. It's also possible the users weren't capable of saying in one single document, exactly what it was that they wanted. What the users had asked for had gone through the systems designers, developers, internal testers and then external testers. By the time that it had got to the end of that pipe,  it's not surprising that things had gone a bit wrong.
+Unfortunately, both of the first two projects that I worked on went through an extra stage between external testing and launch. What was that extra stage? It was litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was probably for a whole lot of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification document hadn't captured what the users wanted. It's also possible the users weren't capable of saying in one single document, exactly what it was that they wanted. What the users had asked for had gone through the systems designers, developers, internal testers and then external testers. By the time that it had got to the end of that pipe,  it's not surprising that things had gone a bit wrong. But also, of course, it's possible that what the users wanted had changed.
 
 There was one intriguing thing, that I barely noticed about those first few projects until later. When the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The projects would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
 
 And what those guys were doing, well it kind of sounds like iterative, Agile software development.
-y
-So, one answer to the question - "Why now?" Is well, why not ages ago? We could and should (and kind of were) doing this right from the beginning."
 
-So, seventy five years ago, it would have been great for us to really get the hang of delivering softare projects. But still, better late than never. Because being good at writing software has never been a more important competitive advantage. Being good at doing it in a timely manner has never been more valuable. Being good at putting software that people want to use in the hands of users, has become a way of, literally, conquering the world.
+So, one answer to the question - "Why now?" Is "Well, why not ages ago?" 
 
-As Marc Andreessen pointed out more than ten years ago, software is eating everything. Since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some of the companies are really good at developing software - Amazon, Facebook, Google, Alibaba. And some of those companies are now more powerful than some governments.
+We could and should have been doing this right from the beginning. And in the most extreme circumstances after a lot of time and expense, under threat of legal action, we kind of were.
 
-So, if you're interested in being good at something getting good at developing and delivering software is worth a look.
+So, seventy five years ago, it would have been great for us to really get the hang of delivering software projects. But still, better late than never. Because being good at writing software has never been a more important competitive advantage. Being good at doing it in a timely manner has never been more valuable. Being good at putting software that people want to use in the hands of users, has become a way of, literally, conquering the world.
+
+As Marc Andreessen pointed out more than ten years ago, software is eating everything. Since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some companies are really good at developing software - Amazon, Facebook, Google, Alibaba. And some of those companies are now more powerful than some governments.
+
+So, if you're interested in being good at something, or world domination, getting good at developing and delivering software is worth a look.
 
 But ironically, the craft of managing software delivery doesn't seem to be so susceptible to being eaten by software.
 
 ### Why me?
 So why should you listen to me? Well, I've been working in the software development industry since 1994. First as a developer, writing software for oil companies, the military and then a new-fangled thing called the internet. Then I worked as a researcher, first for Xerox, then for Cambridge University. 
 
-Working for Xerox gave me my first experience of project management. I think they gave me the project management job because they'd seen how well I could write code. I managed a couple of German guys who were writing code for the first "smart" phone - the Nokia 9000. This was a really dumb phone. It had the same operating system as some sewing machines and it was very difficult to write anything for it. 
+Working for Xerox gave me my first experience of project management. I think they gave me the project management job because they'd seen how well I could write code. I managed a couple of guys from former East Germant who were writing code for the first "smart" phone - the Nokia 9000. These guys were some of the only people prepared to put up with how awful it was to write for this phone. They'd learned to programme on Commodore 64's smuggled over the wall into the DDR. This was a really dumb phone. It had the same operating system as some sewing machines and it was very difficult to write anything for it. But we managed to get a working prototype of our document access application. And at one point during the craziness of the first internet bubble, rumours of our product was said to have put tens of dollars on the Xerox share price. Then the bubble burst.
 
-Working for Cambridge University gave me my first experience of using iterative, user centred design. We designed a system to help school kids put together discursive arguments. The funding was for an interface that was tangible, an interface that you could touch, pick up. This project taught me a lot. 
+The Xerox lab closed and I found myself working for Cambridge University. This gave me my first real experience of using iterative, user centred design. We designed a system to help school kids put together discursive arguments. The European union funding was for an interface that was tangible, an interface that you could touch, pick up. This project taught me a lot. 
 
-Ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface that used cards with statements like "People don't like graffiti," to search the internet.
+It taught me that ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface that used rfid-tagged cards with statements like "People don't like graffiti," to search the internet.
 
 Whatever you're building needs to fit in a particular situation. The situation that we were designing for was English schools. They were at the time closely regulated. Any activity that we were going to get the kids to do with our fancy new interface would have to fit in a lesson plan. But because this was a research project, we were also trying to please our other research partners and in the end, our funders. I didn't think of it then like this, but that project was definitely a swamp.
 
