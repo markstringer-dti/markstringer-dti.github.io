@@ -9,13 +9,13 @@
 
 ##  Chapter 1 - Introduction
 
-The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So you might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility right on the front cover." 
+The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So you might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility, right on the front cover." 
 
 Here are some reasons why you might have picked up this book. 
 
 How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone told someone that the project would be finished by a certain date. You know that your team can't deliver it. Or maybe you still don't know what needs to be delivered. Or you do know what should be delivered, but you're certain that your team can't deliver it on time.
 
-Every direction that you look in, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
+In evern direction, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
 
 Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to go well. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project do better, do well even?
 
@@ -66,7 +66,9 @@ Why do you need to show progress and call out problems as soon as you can in a p
 
 I explain this using the metaphor of flowers and fruit. Flowers appeal to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But it feeds people.
 
-Maybe you're thinking my software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about metaphors. But this book provides its readers with something, solid, nutritious, and sustaining. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
+Maybe you're thinking:"My software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about metaphors." 
+
+But this book provides its readers with something, solid, nutritious, and sustaining. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
 
 ### Why now?
 Well, another way of thinking about this is – "Why not *then*?" Why haven't we found better ways to think about software development since the start?
