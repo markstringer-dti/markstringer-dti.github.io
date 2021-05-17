@@ -38,7 +38,7 @@ If you read this book, you'll learn how to improve your  management of impossibl
 ### Why This?
 What might be a shortened version of why you picked up this book? Because you're involved in a project and you don't know what you're doing. On the whole, in your life and your work, you would really like to feel that you *do* know what you're doing.
 
-My experience is that, literally knowing what you're doing, as opposed to having no idea what you're doing comes down to doing simple things, but being guided by the right metaphors. And that's why this book is subtitled "seven metaphors for software development." Metaphors are different ways of seeing things. And what I'm mainly going to do in this book is talk about different ways of seeing project management. 
+My experience is that knowing what you're doing isn't that different from having no idea what you're doing. You're doing very similar, simple things, but being guided by the right metaphors. And that's why this book is subtitled "seven metaphors for software development." Metaphors are different ways of seeing things. What I'm mainly going to do in this book is talk about different ways of seeing project management. 
 
 The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. In this book I try to show the reader several different points of view. I talk about different ways of seeing project management. I talk about different ways of seeing, and thinking about, managing software development. 
 
@@ -66,7 +66,7 @@ Why do you need to show progress and call out problems as soon as you can in a p
 
 I explain this using the metaphor of flowers and fruit. Flowers appeal to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But it feeds people.
 
-You might think that, if you're software development project that's costing millions of pounds, is really in trouble, the last thing that you need is some dreamy guff about metaphors. But this book provides its readers with something, solid, nutritious, and sustaining. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
+Maybe you're thinking my software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about metaphors. But this book provides its readers with something, solid, nutritious, and sustaining. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
 
 ### Why now?
 Well, another way of thinking about this is – "Why not *then*?" Why haven't we found better ways to think about software development since the start?
@@ -108,7 +108,7 @@ Working for Xerox gave me my first experience of project management. I think the
 
 The Xerox lab closed and I found myself working for Cambridge University. This gave me my first real experience of using iterative, user centred design. We designed a system to help school kids put together discursive arguments. The European union funding was for an interface that was tangible, an interface that you could touch, pick up. This project taught me a lot. 
 
-It taught me that ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface that used rfid-tagged cards with statements like "People don't like graffiti," to search the internet.
+It taught me that ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface. It used rfid-tagged cards with statements like "People don't like graffiti," to search the internet.
 
 Whatever you're building needs to fit in a particular situation. The situation that we were designing for was English schools. They were at the time closely regulated. Any activity that we were going to get the kids to do with our fancy new interface would have to fit in a lesson plan. But because this was a research project, we were also trying to please our other research partners and in the end, our funders. I didn't think of it then like this, but that project was definitely a swamp.
 
@@ -137,6 +137,13 @@ Finally, if you don't read this book, there's a good chance you're going to feel
 
 Why? because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project management as keeping a promise" really is and what you can do to escape its evil clutches.
 
+Ok - you might ask, so what would be so much better if I *did* read this book? Well, if you read this book, you would know about pirate ship that we talk about in chapter 2. This means that in the early stages of the project, as you and your team start to encounter problems, you would try to "televise" those problems. So that whoever is in the best position to solve them would be given the best opportunity. If you've read this book, you would also know about the swamp (chapter 7). So you'd have involved in your team some people who were doing not only user research, but stakeholder research. 
+
+If you'd read this book, you would understand the importance of working software and the difference between flowers and fruit. You and your team would have been trying to "promote" working software, to get it as near as it could possibly get to hands of real users. 
+
+In chapter 2 you would read about the pirate ship and the dangers of avoiding it. That means when you do come across a big problem that the team is ignoring, there's a good chance you would tackle it. By tackling problems early, there's a much better chance that you'll avoid the pain and misery of trench warfare. If you've read this book, you'll know about the dodgy metaphor of project management as keeping of promises. You'll be able to avoid the feeling bad when what your team delivered isn't what was initially discussed. 
+
+And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
 
 ## Chapter 2 - Ignoring the Pirate Ship - Agreed activity
 
@@ -901,7 +908,7 @@ Didn't we also admit that the only way to understand what we can do in the swamp
 
 Translated back into non-swamp language, what does this mean for software development? It means that we need to user and stakeholder research and we need to deliver working software. We won't really know what's possible, valuable, legal and attractive in a new area until we've done that kind of exploration. 
 
-But guess what? Guess when as a team, as a project, we're often asked to say what our software is going to do, how long it's going to take get it to do that, and even how much it will cost? Not after we've done all that exploration of the swamp, oh no, but before we've even started. 
+But guess what? Guess when as a team, as a project, we're often asked to say what our software is going to do? Guess when we're asked, how long it's going to take?  When are we expect to even know how much it will cost? Not after we've done all that exploration of the swamp, but before we've even started. 
 
 ### Concrete Practice
 
