@@ -140,7 +140,7 @@ Finally, if you don't read this book, there's a good chance you're going to feel
 
 Why? because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project management as keeping a promise" really is and what you can do to escape its evil clutches.
 
-Ok - you might ask, so what would be so much better if I *did* read this book? Well, if you read this book, you would know about pirate ship that we talk about in chapter 2. This means that in the early stages of the project, as you and your team start to encounter problems, you would try to "televise" those problems. So that whoever is in the best position to solve them would be given the best opportunity. If you've read this book, you would also know about the swamp (chapter 7). So you'd have involved in your team some people who were doing not only user research, but stakeholder research. 
+Ok - you might ask, so what would be so much better if I *did* read this book? Well, if you read this book, you would know about "agreed activity" because we talk about in chapter 2. This means that in the early stages of the project, as you and your team start to encounter problems, you would try to "televise" those problems. So that whoever is in the best position to solve them would be given the best opportunity. If you've read this book, you would also know about the swamp (chapter 7). So you'd have involved in your team some people who were doing not only user research, but stakeholder research. 
 
 If you'd read this book, you would understand the importance of working software and the difference between flowers and fruit. You and your team would have been trying to "promote" working software, to get it as near as it could possibly get to hands of real users. 
 
@@ -184,7 +184,7 @@ Person 1: Hello! I've brought you a cabbage.
 
 Person 2: Humph. Fine.
 
-In improvisation classes, they teach that these aren't the kind of answers that result in an fun scene. Why? Because they "block" the scene moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. 
+In improvisation classes, they teach that these aren't the kind of answers that result in a fun scene. Why? Because they "block" the scene moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. 
 
 What could be an interesting cabbage story? The story of two people that learn to fly on the wings of their own farts. Or a story of the dangers of living with a pot of Kimchi that brews for so long that it becomes self aware.
 
@@ -236,7 +236,7 @@ Why am I telling you this? Because, of course, this idea of agreed activity is u
 
 We can start to deliver the impossible by avoiding agreed activity. We can start to deliver the impossible by spotting the pirate ships on the horizon. 
 
-In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up team members talk about any problems they have that ar  blocking their progress. Reporting these "blockers" is the most important bit of the stand up. These blockers are the project's pirate ships. v
+In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up team members talk about any problems they have that ar  blocking their progress. Reporting these "blockers" is the most important bit of the stand up. These blockers are the project's pirate ships.
 
 Of course, if there's one big thing that's blocking progress, that might be the thing that no-one talks about. The signs that there is a pirate ship that needs tackling might not be obvious at first. There might not be an obvious Jolly Roger flying and the sound of "Arrrrr!" 
 
