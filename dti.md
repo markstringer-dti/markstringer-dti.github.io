@@ -15,7 +15,7 @@ Here are some reasons why you might have picked up this book.
 
 How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone told someone that the project would be finished by a certain date. You know that your team can't deliver it. Or maybe you still don't know what needs to be delivered. Or you do know what should be delivered, but you're certain that your team can't deliver it on time.
 
-In evern direction, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
+In every direction, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
 
 Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to go well. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project do better, do well even?
 
