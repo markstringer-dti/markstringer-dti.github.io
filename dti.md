@@ -240,7 +240,7 @@ In Agile project management there are lots of opportunities for the team to spot
 
 Of course, if there's one big thing that's blocking progress, that might be the thing that no-one talks about. The signs that there is a pirate ship that needs tackling might not be obvious at first. There might not be an obvious Jolly Roger flying and the sound of "Arrrrr!" 
 
-Agreed activity might be a sign there's there's something everyone is ignoring.
+Agreed activity might be a sign that there's something everyone is ignoring.
 
 If some members of the team have the same update with no variation for days and days. That's a sign of agreed activity. Another sign is when the the team plans a task and then it doesn't get done. 
 
