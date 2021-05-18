@@ -477,7 +477,9 @@ One way to tackle all the rules and regulations that your software might contrav
 
 When you're trying to list these requirements without a piece of working software, you're only dealing with "known knowns". When you try to get some working software as far as you can through the barbed wire to the outside world, you soon start to find about "known unknowns". You knew there would be other security measures out there in no man's land, but you didn't know what they were. But also when you start trying to put working software in the hands of users,  you find out "unknown unknowns" (like the guy jumping out from behind a tree). 
 
-OK. This metaphor is in a blender. But it still applies. Why try to do working software? Because if you do a man will jump out from behind a tree and tell you why you can't.  Because the only way to find out what there is in no-man's land that's stopping you and your software from escaping is to push your software through it. Let's move on to the second reason why trying to create working software is a good idea.
+OK. This metaphor is getting very mixed. And it's got a lot of trees in it. 
+
+But this is the slightly counter-intuitive thing I'm trying to tell you. You should try to get working software as near as you can to live? Why? Because if you do a man will jump out from behind a tree and tell you why you can't.  The only real way to find out what there is in no-man's land that's stopping you and your software from escaping is to push your software through it. Let's move on to the second reason why trying to create working software is a good idea.
 
 The second reason is this, we might call it the "there's only one way to find out," reason. How do you find out if you can do something? By trying to do it.
 
