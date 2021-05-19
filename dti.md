@@ -200,7 +200,7 @@ Person 1: [Putting mimed fake telescope to their eye] Look over there! On the ho
 
 As with the first scene that we talked about, the other performers have a choice to make. One obvious choice here is to "yes and" the Pirate ship.
 
-Person 2: Oh my God the Pirates are coming. Haul up the sails, let's try to outrun him.
+Person 2: Oh my God the Pirates are coming. Haul up the sails, let's try to outrun them.
 
 Person 3: Oh my God the Pirates are coming. The cannons! Load the cannons!
 
