@@ -226,7 +226,7 @@ He explains that putting people on a stage in front of an audience makes them sc
 
 Part of the skill of being a good improviser is knowing how to avoid this need to stay safe. Instead good improvisers have the courage to move the story forward. When they hear the suggestion, good improvisers accept there's a pirate ship. They make the story interesting and move it forward by dealing with what that means.
 
-What's fascinating is that all novice improvisers seem to know that it's the "right" thing to do. There isn't a long discussion. It happens in a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that might be dangerous. Especially, we tend to avoid anything that will make us change our behaviour or our thinking.
+What's fascinating is that all novice improvisers seem to know that mopping the decks is the "right" thing to do. There isn't a long discussion. It happens in less than a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that might be dangerous. Especially, we tend to avoid anything that will make us change our behaviour or our thinking.
 
  Johnstone has one suggestion to help the improvisers avoid this "agreed activity". This is to have a director who is watching the improvisers and can speak out and direct them during the show.  The director spots which suggestions will move the story forward. They also see which are "agreed activity" and tell the actors to avoid them. In desperate situations she might also make suggestions herself. 
 
