@@ -172,7 +172,7 @@ The thing about both of these responses is that they move the action forward. Th
 
 In improvisation, this is known as "Yes and." Accepting whatever your partner gives you and amplifying it. The opposite of "Yes and" is called blocking.
 
-So for example, if we go back to what will forever now be known as the "Cabbage scene." and get Person 1 to knock again on the imaginary door. Person 2 could respond to the "offer" (as it's called) of the cabbage with some kind of bizarre argument.
+So for example, if we go back to what will forever now be known as the "Cabbage scene," and get Person 1 to knock again on the imaginary door. Person 2 could respond to the "offer" (as it's called) of the cabbage with some kind of bizarre argument.
 
 Person 1: Hello! I've brought you a cabbage.
 
