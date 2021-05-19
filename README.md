@@ -83,7 +83,8 @@ Updated 28th March 2021 - "Add the story about the show and tell"
 Updated 27th March 2021
 
 ## Improvement backlog
-* Get the text to 50 pages
+* <s>Get the text to 50 pages</s>
 * Listen to all the pages being read aloud - correct mistakes
-* Check the structure - introduction
+	* <s>Introduction</s>
+* Check the structure of chapters 
 * Remove that annoying blank page from the pdf
