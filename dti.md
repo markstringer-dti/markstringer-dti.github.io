@@ -238,7 +238,7 @@ Why am I telling you this? Because, of course, this idea of agreed activity is u
 
 We can start to deliver the impossible by avoiding agreed activity. We can start to deliver the impossible by spotting the pirate ships on the horizon. 
 
-In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up team members talk about any problems they have that ar  blocking their progress. Reporting these "blockers" is the most important bit of the stand up. These blockers are the project's pirate ships.
+In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up, team members talk about any problems they have that ar  blocking their progress. Reporting these "blockers" is the most important bit of the stand up. These blockers are the project's pirate ships.
 
 Of course, if there's one big thing that's blocking progress, that might be the thing that no-one talks about. The signs that there is a pirate ship that needs tackling might not be obvious at first. There might not be an obvious Jolly Roger flying and the sound of "Arrrrr!" 
 
