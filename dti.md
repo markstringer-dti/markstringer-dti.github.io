@@ -253,7 +253,7 @@ So, one place to spot the pirate ship is stand-up. Another is the retrospective.
 * What didn't go so well? 
 * What could be done better? 
 
-Here's one of the many strange things about project management. Very often everybody who is working on a project knows what's wrong with the project. So why aren't they saying what they know? Maybe it's because they've tried to say or have said and have been ignored. Maybe they've been told to back off. Maybe they've been threatened with disciplinary action, or even disciplined for pointing the problem. 
+Here's one of the many strange things about project management. Very often everybody who is working on a project knows what's wrong with the project. So why aren't they saying what they know? Maybe it's because they've tried to say or have said and have been ignored. Maybe they've been told to back off. Maybe they've been threatened with disciplinary action, or even disciplined for pointing out the problem. 
 
 This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks! Any more talk of a pirate ship and you're off the show." 
 
