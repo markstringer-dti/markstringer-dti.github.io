@@ -208,7 +208,7 @@ Person 4: Oh my God the Pirates are coming. Quick hide in the lifeboats.
 
 All these are good selections. Of course the audience hope that hiding in the lifeboats won't work, but will result in lots of comedy.
 
-But what happens in such situations is a different kind of suggestion. Something like this:
+Sometimes in this kind of situation, someone makes a different kind of suggestion. Something like this:
 
 Person 5: Hey! Let's wash the decks!
 
