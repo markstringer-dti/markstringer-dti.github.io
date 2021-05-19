@@ -228,9 +228,7 @@ Part of the skill of being a good improviser is knowing how to avoid this need t
 
 What's fascinating is that all novice improvisers seem to know that mopping the decks is the "right" thing to do. There isn't a long discussion. It happens in less than a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that might be dangerous. Especially, we tend to avoid anything that will make us change our behaviour or our thinking.
 
- Johnstone has one suggestion to help the improvisers avoid this "agreed activity". This is to have a director who is watching the improvisers and can speak out and direct them during the show.  The director spots which suggestions will move the story forward. She also sees which are suggestions are invitations to "agreed activity" and tell the actors to avoid them.
-
-\[Read through got to here\]
+Johnstone has one suggestion to help the improvisers avoid this "agreed activity". This is to have a director who is watching the improvisers and can speak out and direct them during the show.  The director spots which suggestions will move the story forward. She also sees which are suggestions are invitations to "agreed activity" and tell the actors to avoid them.
 
 Let's say a director is watching a scene where there'd been a suggestion of washing the decks. She might allow the crew ten seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
 
@@ -258,6 +256,8 @@ Here's one of the many strange things about project management. Very often every
 This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks! Any more talk of a pirate ship and you're off the show." 
 
 A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once they've done it once or twice they will have already caused one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
+
+\[To here - but this section needs re-structuring\]
 
 I saw this phenomenon so many times when I was working as an Agile coach that I gave it a name "the beaten down team." Often I would have been asked to give them an Agile training course. The idea being that a course, by itself would magically improve the performance of the team, or the performance of the project. 
 
