@@ -257,13 +257,15 @@ Here's one of the many strange things about project management. Very often every
 
 This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks! Any more talk of a pirate ship and you're off the show." 
 
-A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once they've done it once or twice they will have already caused one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to think for themselves.
+A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once they've done it once or twice they will have already caused one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
 
-No matter how many times they've been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think  you are listening. They will notice see and appreciate you doing your best to raise their problems with the people who need to know about them and can fix them. And sooner or later, they'll talk about the pirate ship. When they do, it might be hard to keep your jaw off the floor. 
+I saw this phenomenon so many times when I was working as an Agile coach that I gave it a name "the beaten down team." Often I would have been asked to give them an Agile training course. The idea being that a course, by itself would magically improve the performance of the team, or the performance of the project. 
+
+No matter how many times they've been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think  you are listening. They will see and appreciate you doing your best to raise their problems with the people who need to know about them and can fix them. And sooner or later, they'll talk about the pirate ship. When they do, it might be hard to keep your jaw off the floor. 
 
 I worked on a project that was really struggling. We had a retrospective. 
 
-One big problem emerged. All of the requirements for the project were written by a single business analyst. They didn't amake any sense to the team. The team's main struggle was making sense of what the business analyst had written in the requirements document. 
+One big problem emerged. All of the requirements for the project were written by a single business analyst. They didn't amake any sense to the team. The team's main struggle was making sense of what the business analyst had written in a requirements document. 
 
 What struck me straight away was that the business analyst wasn't in the retrospective. In an agile project, the business analyst is part of the team - they're not supposed to be outside of the team throwing in requirements.
 
