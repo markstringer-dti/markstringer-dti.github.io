@@ -265,7 +265,7 @@ No matter how many times they've been beaten down, a team will still respond to 
 
 I worked on a project that was really struggling. We had a retrospective. 
 
-One big problem emerged. All of the requirements for the project were written by a single business analyst. They didn't amake any sense to the team. The team's main struggle was making sense of what the business analyst had written in a requirements document. 
+One big problem emerged. All of the requirements for the project were written by a single business analyst. They didn't amake any sense to the team. Their main difficult was that they couldn't understand what the business analyst had written in the requirements document. 
 
 What struck me straight away was that the business analyst wasn't in the retrospective. In an agile project, the business analyst is part of the team - they're not supposed to be outside of the team throwing in requirements.
 
