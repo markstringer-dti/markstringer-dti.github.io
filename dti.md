@@ -256,63 +256,62 @@ Here's one of the many strange things about project management. Very often every
 This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks! Any more talk of a pirate ship and you're off the show." 
 
 A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once they've done it once or twice they will have already caused one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
+I saw this phenomenon so many times when I was working as an Agile coach that I gave it a name "the beaten down team." Often, I would have been asked to give them an Agile training course. The idea being that a course, by itself would magically improve the performance of the team, or the performance of the project. 
 
-\[To here - but this section needs re-structuring\]
+No matter how many times they have been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think you are listening. They will see and appreciate you doing your best to raise their problems with the people who need to know about them and can fix them. And sooner or later, they will talk about the pirate ship. Whatever it is that is the main problem that is preventing the project from succeeding. The thing that no one is talking about. 
 
-I saw this phenomenon so many times when I was working as an Agile coach that I gave it a name "the beaten down team." Often I would have been asked to give them an Agile training course. The idea being that a course, by itself would magically improve the performance of the team, or the performance of the project. 
+When they do, it might be hard to keep your jaw off the floor. 
 
-No matter how many times they've been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think  you are listening. They will see and appreciate you doing your best to raise their problems with the people who need to know about them and can fix them. And sooner or later, they'll talk about the pirate ship. When they do, it might be hard to keep your jaw off the floor. 
-
-I worked on a project that was really struggling. We had a retrospective. 
+I worked as a coach on a project that was really struggling. We had a retrospective. 
 
 One big problem emerged. All of the requirements for the project were written by a single business analyst. They didn't make any sense to the team. Their main difficulty was that they couldn't understand what the business analyst had written in the requirements document. 
 
-What struck me straight away was that the business analyst wasn't in the retrospective. In an agile project, the business analyst is part of the team - they're not supposed to be outside of the team throwing in requirements.
+What struck me straight away was that the business analyst wasn't in the retrospective. In an agile project, the business analyst is part of the team - they're not supposed to be outside of the team throwing in requirements. Especially ones that cannot be understood.
 
-So my response to this problem was to suggest that they business analyst should be invited to stand-up meetings, and the planning meetings. And retrospectives and show and tells. This was where the developers looked at each other sideways - this is always a sign that you're finally getting to the real issue.
+So my response to this problem was to suggest that the business analyst should be invited to stand-up meetings, and the planning meetings. And retrospectives and show and tells. This was where the developers looked at each other sideways - this is always a sign that you are finally getting to the real issue.
 
 "We're not allowed to talk to the business analyst."
 
 "What? That's mad! I'm sure that can't be right."
 
-Yes it was mad. Yes, it was right. Well, it was what was actually happening. 
+Yes, it was mad. Yes, it was right. Well, it was what was actually happening. Of course, it was very wrong. 
 
 I tried to talk to the business analyst. I emailed him asking for a meeting. I got a phone call from his boss saying I wasn't allowed to talk to him. 
 
-And of course, there was no way that the project was going to get anywhere in its current state. The team needed to talk to the person who could tell them what the product was supposed to do.
+And of course, there was no way that the project was going to get anywhere in its current state. The team needed, at the very least, to talk to the person who could tell them what the product was supposed to do.
 
-Side note: This project was worse than it sounds. It turns out there were *two* groups of business analysts. There were "technical" business analysts. But there were also "business" business analysts. The "business" business analysts were actually allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the "technical" business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed word documents. A big part of making this project possible was to make sure that we had just one business analyst. I don't know whether in the end we designated them as business or technical. I'm certain I was asked. This person was allowed both to talk to the people who wanted the software and the people who were building the software. And sit with the team who was doing the work. So they could ask him questions. I mean imagine.Things got a lot better after that.
+Side note: This project was worse than it sounds. It turns out there were *two* groups of business analysts. There were "technical" business analysts. But there were also "business" business analysts. The "business" business analysts were allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the "technical" business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed documents. A big part of making this project possible was to make sure that we had just one business analyst. I don't know whether in the end we designated them as business or technical. I am certain I was asked. This person was allowed both to talk to the people who wanted the software and the people who were building the software. And they sat with the team who was doing the work. So they could ask him questions. I mean imagine! Things got a lot better after that.
 
-So we've talked about stand up meetings and we've talked about retrospectives. There's one more Agile meeting where the "Pirate Ships" that are on the horizon might be detected. And that's the "Show and Tell." The "Show and Tell" is a meeting where the development team show the outputs of what they've been working on in the last "Sprint" - typically two weeks. Who do they show it to? Definitely you should show it to the product owner who is supposed to act as a representative of all the people who want the project to happen. But you should also invite other people who are interested and who want to come along. 
+So, we've talked about stand up meetings and we've talked about retrospectives. There's one more Agile meeting where the "Pirate Ships" that are on the horizon might be detected. And that's the "Show and Tell." The "Show and Tell" is a meeting where the development team show the outputs of what they have been working on in the last "Sprint" - typically two weeks. Who do they show it to? Definitely, you should show it to the product owner who is supposed to act as a representative of all the people who want the project to happen. But you should also invite other people who are interested and who want to come along. 
 
-After the minor victory of getting the business analyst to sit with the team, I then suggested that we start to have show and tell meetings. Fraud was an issue that affected  people who worked for the bank all over the world. So for the first phone conference I could hear just from the accents the geographical spread of interest. There were Northern Irish accents, Scottish accents. But there were also Cockney-sounding Southend accents and Indian accents from the offshore call centres in India.
+After the minor victory of getting the business analyst to sit with the team, I then suggested that we start to have show and tell meetings. This was a fraud detection project. Fraud was an issue that affected people who worked for the bank all over the world. So, for the first phone conference, I could hear just from the accents, the geographical spread of interest. There were Northern Irish accents, Scottish accents. But there were also Cockney-sounding Southend accents and Indian accents from the offshore call centres in India.
 
 In that week, the team had been doing some work on the user interface for one of the very early screens in one of the fraud detection journeys. 
 
-One of the developers put up the login screen and then clicked through the first screen and started to talk it through. Even though most people who were on the conference call were on mute, I thought I detected some kind of change in the silence. Finally someone on the line with a cockney accent said:
+One of the developers put up the login screen and then clicked through to the first screen and started to talk it through. Even though most people who were on the conference call were on mute, I thought I detected some kind of change in the silence. Finally someone on the line with a cockney accent said:
 "Erm, I thought we'd agreed that we were going to arrange cases by account name rather than by account number?"
-The developer who was demoing the screen looked blank.
+The developer who was demo-ing the screen looked blank.
 The business analyst who we'd only just set eyes on and had only just joined the team started to look worried. 
 "No, it's in the requirements that cases should be arranged by account number."
 "But that makes no sense" someone with a Northern Irish accent joined in.
-"It's people who are victims of fraud, not just individual accounts"  added someone with a Glaswegian accent.
+"It's people who are victims of fraud, not just individual accounts,"  added someone with a Glaswegian accent.
 "We need to see all the accounts that someone holds, and see the activity across all of them for this to make any sense," said someone with an accent I didn't recognise.
 
-Yes, that's right. The structure of this project was wrong from the very beginning. This problem hadn't been detected through months and months of analysis. But it took just five minutes of putting the working software (OK, I'll admit, it was only a front end) in front of the people who might use it had found the problem.  
+Yes, that's right. The structure of this project was wrong from the very beginning. This problem hadn't been detected through months and months of analysis. But it took just five minutes of putting the working software (OK, I'll admit, it was only a front end) in front of the people who might use it to find the problem.  
 
 If you do stand-ups every working day with your team, if you do retrospectives and show and tells every sprint, you will find out what the problems are. Even if you do these things *badly* - you will still find out what the problems are. Not having stand-ups, not having retrospectives and show and tells is just like shouting "Scrub the decks, don't look at the pirate ship!" at your team.
 
 So, what does understanding this idea of "agreed activity" mean for our overall aim of delivering the impossible?
 
-Well, it means something simple. If you work to discover the problems that your project is facing you will find them. If you then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are possible. This gives you the best chance possible of actually delivering them.
+Well, it means something simple. If you work to discover the problems that your project is facing you will find them. If you then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are possible. This gives you the best chance possible of delivering them.
 
-This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before it arrives? Why are they washing the decks? Why are they making potentially entertaining improve shows boring? It's the same impulse that makes diffiucult but possible software projects impossible.
+This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improve shows boring? It's the same impulse that makes difficult but possible software projects impossible.
 
 Why? It's simple. Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of the job that they can't do? Maybe it means that someone hired the wrong people.
 
-Highlighting the problems that starting to do a project shows up can be threatening to the sponsors of a project. What if the problem that you find is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
+Highlighting the problems that a project throws up can be threatening to the sponsors of a project. What if the problem that you find is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
 
-Too, too often, when someone on the stage shouts "Look a pirate ship," It's the director off stage that shouts something like "You're wrong, it's not there." 
+Too, too often, in software development, when someone on the stage shouts "Look a pirate ship," It's the director off stage that shouts something like "You're wrong, it's not there." 
 
 Other ways of saying this that are just as bad are "I'm tired of this negativity," or "Maybe you're not up to the job if you think that's a pirate ship."
 
@@ -320,9 +319,9 @@ And that's why people don't raise problems and instead just wash the decks.
 
 Oh dear. Well. There is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
-Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you not very nice names. But there there are two very good reasons why you still should do it.
+Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you not very nice names. But there are two very good reasons why you still should do it.
 
-Reason number: solving these problems is still the best chance you've got of delivering this project that seems to be impossible. That's a solid and compelling reason.  
+Reason number one is that solving these problems is still the best chance you've got of delivering this project that seems to be impossible. That's a solid and compelling reason.  
 
 But reason number two is possibly for me, just as important: I know what happens when you don't.
 
