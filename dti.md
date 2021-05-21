@@ -1025,3 +1025,9 @@ I would dearly like to avoid this "commitment and consistency" dance. I would de
 
 But I've realised that it can't be avoided. Most projects simply won't get off the ground and won't be approved unless some kind of promise is extracted from the people who are going to deliver. And it's in the nature of ideas, of "Flowers" that will have to immediately sound like the bosses are getting a lot for their money.
 
+## References
+
+Impro for Storytellers - Keith Johnstone
+Impro: Improvisation and the Theatre - Keith Johnstone
+The Psychology of Military Incompetence -  Norman F. Dixon.
+Death March  - Edward Yourdon
