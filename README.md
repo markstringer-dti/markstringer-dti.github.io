@@ -10,6 +10,8 @@
 
 ## Update History
 
+Update 21st May 2021 - "Read through the 'Trench Warfare' chapter."
+
 Update 14th May 2021 - "More on user feedback."
 
 Update 11th May 2021 - "Incorporating user feedback!"
