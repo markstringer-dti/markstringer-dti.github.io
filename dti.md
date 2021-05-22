@@ -486,8 +486,9 @@ But before we move on I just want to say a bit more about bad news.
 
 ### Contradiction
 
-
+Some project aren't dreams in the beginning - they're realistic. 
 ﻿
+
 ## Chapter 5 - Working Software
 
 >>"sufficiently advanced technology is indistinguishable from magic" 
