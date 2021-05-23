@@ -695,22 +695,23 @@ Of course, there's another response that you're hoping for if you put small amou
 
 Once you've found something that users want that you think you're software can provide you will have made substantial progress. You will have moved a long way down the road of moving a project from impossible, to possible. But by doing that you've also made the problem a lot more complicated. By trying to get software out into the real world, you will probably have had people jump out from behind trees.  They will have told you that you're not allowed to put software out into the real world. These people are now on the list of people that you have to please. By putting working software in front of users, if you're lucky, you'll have created demand and expectation. Now it's obvious to you, you need to satisfy some of these demands and expectations if this project is going to be a success. But at the same time. What about the people who got this project funded? And what about the people who actually funded it? 
 
-[To here]
 All of a sudden, they're not as in control of the project as they were, the project has been let out in to the wild world. It isn't just their baby any more. People may not react to this well. It may feel that you've deliberately pushed you and your team into a storm, when they could have stayed in calmer waters. Because that is exactly what you've done. This may feel like a very stupid thing to do, so it's important to remember why you've done it. You've done it because staying "safe" not being changed won't get you where you, your team and your project need to be.
 
-What's important as you move through these difficult waters, is to keep in mind the direction that you need to be travelling. You need to keep pushing the working software in the direction of the real world, real users and real data. If what you're doing is adding functionality to the software that can then be tested with users, then good, you're going in the right direction. If what you're doing is making the software fit better with non-functional requirements, that's moving in the right direction. If what you're doing is moving the software nearer to live with live data and being used by real users, then you're starting to make this project look possible.
+What's important as you move through these difficult waters, is to keep in the direction that you need to be travelling. You need to keep pushing the working software in the direction of the real world, real users and real data. If what you're doing is adding functionality to the software that can then be tested with users, then good, you're going in the right direction. If what you're doing is making the software fit better with non-functional requirements, that's moving in the right direction. If what you're doing is moving the software nearer to live with live data and being used by real users, then you're starting to make this project look possible.
 
-But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting you're getting feedback from users and stakeholders. And when people jump out from behind trees and tell you that you can't do what you're doing, you're ready for them. Actually you're never ready for the reasons that people will find to stop your software for going live. But at least you're finding out earlier rather than later.
+But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting you're getting feedback from users and stakeholders. And when people jump out from behind trees and tell you that you can't do what you're doing, you're ready for them. Actually you're never ready for the reasons that people will find to stop your software from going live. But at least you're finding out earlier rather than later.
 
-You need to move carefully along along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp. 
-
+You need to move carefully along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp. 
+﻿
 ## Chapter 6 - Driving a Car or The Empirical Process
 
 >> “Seeking what is true is not seeking what is desirable.” - Albert Camus
 
 "Empirical" isn't a common word. But empirical process refers to something that we're all doing all day every day. All day every day we change what we're doing in response to what we see and experience through our other senses. And that's what the word "empirical" means. It means relating to experience in the real world. But it's an odd word that doesn't sound as down to earth and practical as it is. 
 
-For years I've run training courses to introduce people to Agile ideas. Because "Empirical" is such a strange word, there's an exercise that I often do where I get people too look up the word, to discuss what it means. Then we do exercises. These exercises probably involve Lego and not being able to build as many models as the team initially thought. So half way through the exercise they have to do something different, based on this experience. At the end of exercise, I come back to this word "Empirical." Based on experience.
+For years I've run training courses to introduce people to Agile ideas. Because "Empirical" is such a strange word, there's an exercise that I often do where I get people too look up the word, to discuss what it means. Then we do exercises. These exercises often involve Lego. They also often not being able to build as many models in the time available as the team estimated they could build. 
+
+So half-way through the exercise this forces the teams to do something different, based on this new experience. Either they reduce their estimates of the number of models they can build or, possibly simplify the models. At the end of the exercise, I come back to this word "Empirical." Based on experience.
 
 To make sure that my own performance can be improved based on experience, I get feedback at the end of the courses I run. One of the questions that I ask is "What's the most important thing that you think you've learned from this course?"
 
@@ -718,37 +719,37 @@ In that box, someone had written "The importance of Imperial Progress."
 
 Yup. Clearly, it's a tricky concept with a funny name. Which is kind of strange, because it's also something that we all do every day of our lives, and it we didn't we wouldn't get very far, or live very long.
 
-What are we doing that's so vital? What we're doing is honouring the three pillars of empirical process - transparency, inspection and adaptation.When are we doing this? All the time, but one time when we're especially doing it, is when we're driving a car. 
+What are we doing that's so vital? What we're doing is honouring the three pillars of empirical process - transparency, inspection and adaptation. When are we doing this? All the time, but one time when we're especially doing it, is when we're driving a car. 
 
 Just think about it, when you're driving a car down the road, you need transparency. You need to be able to see out of the windscreen. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong fast.
 
 But transparency isn't enough. If you're driving, it isn't enough for the windscreen to be clear, you need to actually look out of it. You have to look out of the windscreen and check your mirrors. If instead, say you're checking messages on your phone, or distracted and trying to brush scalding hot coffee out of your lap, that's no good. Transparency isn't enough. You need inspection. 
 
-We're focusing here on the visual aspects of driving. But we all know that when you're driving, you're also really checking with your other senses. If you feel an unusual vibration accompanied by a dull thudding noise. There's a good chance that you'll slow down. If you smell petrol, or burning. You'll probably slow down. If you hear police sirens, you'll check in your rear view mirror and check if the police seem to be interested in you. If they are, you'll probably speed up, if in you're in the middle of committing a back robbery. If you aren't, you'll probably slow down.
+We're focusing here on the visual aspects of driving. But we all know that when you're driving, you're also really checking with your other senses. If you feel an unusual vibration accompanied by a dull thudding noise. There's a good chance that you'll slow down. If you smell petrol, or burning. You'll probably slow down. If you hear police sirens, you'll check in your rear view mirror and check if the police seem to be interested in you. If they are, you'll probably speed up, if you're in the middle of committing a bank robbery. If you aren't, you'll probably slow down.
 
 So inspection isn't just a visual thing. It's paying attention with all the senses. Talking about slowing down and speeding up brings us to the third pillar of empirical process - adaptation. What we're doing when we slow down, is adapting. That's also what we're doing when we speed up because we see the road is clear. It's also what we do when we swerve to avoid something, or put the fog lights on. Adaptation is when we change what we're doing because of what we see, hear and feel.
 
-We couldn't do this without transparency - if the windscreen were covered in mud, we would not see the things that we needed to avoid. We couldn't do it without inspection. If we didn't look up from our texting and see the thing we were about to hit, we wouldn't feel the need to swerve. And finally we wouldn't be swerving if it weren't for adaptation. Because that's what adaptation is. Adaptation is swerving,slowing down, even stopping, even speeding up, to avoid the things that you can see due to inspection. This is only possible because of transparency. And that's all we're talking about when we're talking about empirical process. 
+We couldn't do this without transparency - if the windscreen were covered in mud, we would not see the things that we needed to avoid. We couldn't do it without inspection. If we didn't look up from our texting and see the thing we were about to hit, we wouldn't feel the need to swerve. And finally, we wouldn't be swerving if it weren't for adaptation. Because that's what adaptation is. Adaptation is swerving, slowing down, even stopping, or speeding up, to avoid the things that you can see due to inspection. This is only possible because of transparency. These three things – transparency, inspection, adaptation – that’s all we're talking about when we're talking about empirical process. 
 
-At this point, I might mention that I've crashed two cars, OK three. I'm far from an expert on driving. But I am an expert on what this principle of empirical process means for software development teams. What does transparency mean for software development teams. Well, there are at least three meetings where there's opportunity for transparency.
+At this point, I might mention that I've crashed two cars, OK three. I'm far from an expert on driving. But I am an expert on what this principle of empirical process means for software development teams. What does transparency mean for software development teams? Well, there are at least three meetings where there's opportunity for transparency.
 
-Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that are finding. This gives everybody in the team the opportunity for to know what's going on around them.
+Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that they are finding. This gives everybody in the team the opportunity to know what's going on around them.
 
-In retrospectives, the teams gets to look in the rear view mirror.  They get to look at the road behind them and talk about what things blocked our path. They get to talk about how they could have got around them more easily. What things they've got the hang of now,  that next time they might be able to tackle them faster. They also get to talk about the things that they still have no idea how to handle at all.
+In retrospectives, the teams get to look in the rear view mirror.  They get to look at the road behind them and talk about what things blocked our path. They get to talk about how they could have got around them more easily. What things they've got the hang of now, that means that next time they might be able to tackle them faster. They also get to talk about the things that they still have no idea how to handle at all.
 
 And in show and tells, demonstrations of working software show exactly how it's going. And of course, that can really be a problem.
 
-I didn't witness this for myself. So this story may be entirely made up. The first ever Agile software development project that I worked on was for a publishing company. When I joined the project it had been going for over a year and had cost many millions of pounds. The way that I heard the story, a few months before I joined, there's been a show and tell meeting. The publishing company was international and had offices in London and in New York. There were people with American accents dialling in on a conference call.
+I didn't witness this for myself. But people who were there have confirmed that this really happened. The first ever Agile software development project that I worked on was for a publishing company. When I joined the project it had been going for over a year and had cost many millions of pounds. The way that I heard the story, a few months before I joined, there had been a show and tell meeting. The publishing company was international and had offices in London and in New York. There were people with American accents dialling in on a conference call.
 
-I don't know much about what happened in that meeting.  I do know that at some point one of the Scrum Masters said that he was going to share project progress. This was progress through that had been made through "the backlog." The backlog is the Agile way of saying the list of all the requirements for the project. 
+I don't know much about what happened in that meeting.  I do know that at some point one of the Scrum Masters said that he was going to share project progress. This was progress that had been made through "the backlog." The backlog is the Agile way of saying the list of all the requirements for the project. 
 
-He had a presentation with some slides. And there was a bit messing about setting up the presentation - and then making sure that it was shared with the office in New York. Finally The Scrum Master was set up and could move to the slide that showed progress of the project through the requirements. He clicked on to the slide. In the middle of the slide was a giant "2".
+He had a presentation with some slides. And there was a bit of messing about setting up the presentation - and then making sure that it was shared with the office in New York. Finally, the Scrum Master was set up and could move to the slide that showed progress of the project through the requirements. He clicked on to the slide. In the middle of the slide was a giant "2".
 
 I don't know how dramatic he was at this point. I don't know if he asked anybody in the room or on the phone if they could guess what the two meant? 2 weeks to finish? 2 Months? 2 Years? But I know that at some point he did get the point across. The 2 was percent. Progress on the project, after six months and many millions of pounds was 2 percent of all the work that was in the backlog.  
 
 This is brutal transparency. Any it probably came out of desperation. Having worked on that project I can guess that someone had told the bosses in New York that the project would be finished by a certain date. Nobody had mentioned to the bosses the problems that were being found. Problems that were slowing progress to a crawl.
 
-The main result of that number 2 was that Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communication progress across the Atlantic. After that, guess what? The news was always good.
+The main result of that number 2 was that that particular Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communicate progress across the Atlantic. After that, guess what? The news was always good.
 
 This is what one reader said about this story:
 
@@ -756,7 +757,7 @@ This is what one reader said about this story:
 
 So this story that I'd heard really is true. But what does it tell us? What does it tell us about empirical process, transparency and adaptation? And in the end, what does that tell us about delivering the impossible.
 
-OK. Let's start here. I'm going to put on my magic fortune teller's hat and I'm going to look into your project. Mmmmm. Ahhh. Mmmm. Actually, I don't need a funny, and I don't need the strange noises. If you have a project, and this project has yet to deliver it's first live release and that release has a deadline, I already know one thing about it.
+OK. Let's start here. I'm going to put on my magic fortune teller's hat and I'm going to look into your project. Mmmmm. Ahhh. Mmmmm. Actually, I don't need a funny hat and a cloak, and I don't need the strange noises. If you have a project, and this project has yet to deliver its first live release and that release has a deadline, I already know one thing about it.
 
 > Your project is supposed to deliver N times as much work by the than it can do.
 
@@ -766,7 +767,9 @@ Maybe I'm wrong. Maybe your project is fine. Maybe you're reading a book called 
 
 But if your project isn't fine, what are you going to do about it? Telling it like it is,  as the Scrum Master in the story tried to, doesn't seem to work that well. In that case, it resulted in the hiring of someone to specifically stop the bosses in New York being told the truth. 
 
-Someone senior might have well promised something that is impossible to deliver. Getting them to deliver anything near that might be a difficult process, requiring careful handling. But for the team that's doing the work, it's almost never a bad thing for them to know the truth as soon as possible. If you're in charge of that team, you should keep the windscreen clean. You should take every chance  to make sure things are transparent. This means making sure that the meetings which aid transparency are happening. It means that people feel free to talk in the stand-up about any problems that they're coming across. It means people feel comfortable speaking out in retrospectives about anything else that might be bothering them. It means that show and tells are honest about progress and show working software. 
+Someone senior might have well promised something that is impossible to deliver. Getting them to deliver anything near that might be a difficult process, requiring careful handling. Yes, that’s for the bosses. Diplomacy, tact, careful handling and an understanding of the politics maybe well be required.
+
+But for the team that's doing the work? It's never a bad thing for the team to know the truth as soon as possible. If you're in charge of that team, you should keep the windscreen clean. You should take every chance  to make sure things are transparent. This means making sure that the meetings which aid transparency are happening. It means that people feel free to talk in the stand-up about any problems that they're coming across. It means people feel comfortable speaking out in retrospectives about anything else that might be bothering them. It means that show and tells are honest about progress and show working software. 
 
 The second thing is to understand that shouting out bad news in front of fifty people might not be the best way of communicating it.
 
@@ -776,7 +779,7 @@ But here are some other things that it's important to understand.
 
 Everybody in the room knew that "Mr Two" was right. The bosses in New York heard what he said. Unfortunately, the way that "Mr Two" said it was so confrontational that their reaction was exactly the wrong one. They literally hired someone to stop him telling them the truth ever again.
 
-We started to talk about the rather jolly metaphor of driving a car as a way of thinking about empirical processr. And by doing that, we've ended up right at the absolute nitty-gritty of project management.
+We started to talk about the rather jolly metaphor of driving a car as a way of thinking about empirical process. And by doing that, we've ended up right at the absolute nitty-gritty of project management.
 
 In order to manage a project, you need transparency. When you achieve that transparency, you get bad news. You have to do something with the bad news. What do you do with the bad news?
 
@@ -786,7 +789,7 @@ In order to manage a project, you need transparency. When you achieve that trans
 
 What was bad about what he did was that he upset the bosses. He made them feel stupid in front of the whole team. And the result of that was that they made very sure that they didn't hear any news from him again. They appointed a "project manager" who never ever told them any bad news. Please note that this didn't mean that there was never any bad news. 
 
-What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what that meant for when the project would "finish." Mr Two's outburst was a result of a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
+What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what measures of actual progress meant for when the project would finish. Mr Two's outburst was a reaction against a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
 
 #### What was good about what Mr Two did?
 
@@ -800,11 +803,11 @@ Well here are a few things he could have done. All of them are partial. But they
 
 He could, and should have continued to keep track of the projects progress. Even when the bosses had ignored him. Why? Because this is still useful information. Actual progress tells you not only when a project is likely to "Finish" but also how long any particular piece of work should take.
 
-He could have pushed more to get working software to where it finally needs to do. He could have done more to get it into the hands of real users. Because real users were the people that the bosses had to listen to. 
+He could have pushed more to get working software to where it finally needs to go. He could have done more to get it into the hands of real users. Because real users were the people that the bosses had to listen to. 
 
 And he shouldn't have taken it personally. It's easy to say that. From my experience, it's difficult to do it.
 
-Mmph. Right now I'm feeling like an impostor. I think I've managed to persuade you that I'm an authority on this problem, this contradiction. But I'm not sure I convince you I'm an authority on the solution.
+Mmph. Right now I'm feeling like an impostor. I think I've managed to persuade you that I'm an authority on this problem, this contradiction. But I'm not sure I can convince you I'm an authority on the solution.
 
 Let's go back to the car metaphor and see if it can give us any help. This is essentially what happened with "Mr Two." Mr Two turned around and told the people in the back seat that they were moving very slowly and weren't likely to get where they needed to go for years.  Here's what the people in the back seat did. They rolled up that divide that you see in cars that have drivers. 
 
@@ -825,35 +828,35 @@ There are also people who are keen to move into the swamp when you have built so
 
 But they aren't the only people interested in the swamp. There are people who care about building regulations everywhere. There are local government, national government and even global bodies that care about this stuff. There are people who you need to talk to about getting a road to come right up to the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp. These people might be eco activists. They might be political activists. The swamp might be on an ancient burial ground. It might be the site of an ancient temple.
 
-So there are the people who interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold.
+So, there are the people who are interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold.
 
 ### Concrete Practice
 
 Why am I babbling about swamps? This is a book about project management. This is a book about delivering the impossible. The reason I'm talking about the swamp is because it works as a metaphor for software development. There are strong similarities between starting work on a new software development project and starting work in a swamp. 
 
-There are lot of people who have an interest in what you're doing. Some of those are directly associated with the project, some of those will directly benefit from the project. But there are also a lot of other people who are only distantly associated with your particular project, but they're still important. It may still be really good to keep those people happy and it might be a really bad idea to piss them off. 
+There are lot of people who have an interest in what you're doing. Some of those are directly associated with the project, some of those will directly benefit from the project. But there are also a lot of other people who are only distantly associated with your particular project, but they're still important. It may still be really good to keep those people happy and it might be a really bad idea to piss them off. Maybe you can�t avoid pissing them off, it would still be good to know that you�re doing it.
 
 At the same time, when you start work in the swamp, it's not obvious what value you can get out of it by doing work there. Yes, maybe houses, yes maybe factories. Maybe it's best as a garden. 
 
-I didn't really get it until I worked on one project. On this project I worked with a woman who did research with users. She really did research with users. As soon as the project started, she was starting to contact potential users for the product and arrange meetings. She was running workshops with users. First she got to understand their "pain points." Then she got them to start to sketch, on pen and paper, interfaces that might start to address their pain. 
+I didn't really get it until I worked on one project. On this project I worked with a woman who did research with users. She really did research with users. As soon as the project started, she was starting to contact potential users of the product and arrange meetings. She was running workshops with users. First, she got to understand their "pain points." Then she got them to start to sketch, on pen and paper, interfaces that might start to address their pain. 
 
 Then the designers made interfaces. They looked real, but at this stage they were still only models. These were taken out to be tested with users. If there were serious problems with them, they were modified and then tried again, with different users.
 
-This kept going. She hired another researcher, they both did research on users. I worked on this project for over three years. It never stopped. It didn't stop when we had working software that we could test with users. It didn't stop when we had a version of the software that had a copy of the user's sensitive data running on our software. It certainly didn't stop when we went live. 
+This kept going. She hired another researcher, they both did research on users. I worked on this project for over three years. It never stopped. It didn't stop when we had working software that we could test with users. It didn't stop when we had a version of the software that had a copy of the user's sensitive data running on it. It certainly didn't stop when we went live. 
 
-I learned a lot from watching this happen. And there were a couple of things that were surprising about it for me. If you do this much research on your users, not only will you get to know a lot about your users - I mean, that's pretty obvious. But you'll get to know a lot about other people who are "interested in the swamp" who aren't actually users. There were various other committees. We found other regulatory groups that our users needed to please and our product had to support. 
+I learned a lot from watching this happen. And there were a couple of things that were surprising about it for me. If you do this much research on your users, not only will you get to know a lot about your users - I mean, that's pretty obvious. But you'll get to know a lot about other people who are interested in the swamp, who aren't actually users. There were various other committees. We found other regulatory groups that our users needed to please and our product had to support. 
 
-Do enough research on your users and you end up with a "stakeholder map". Do even more research on your users and you end with a "stakeholder ecology." You start to understand not only who all the people are who have some interest in the swamp, but also how these stakeholders interact. You start to see what's really going on in the swamp. You start to see opportunities to do good and be a success, but you also see where there are dangers and problems and unhappy people.
+Do enough research on your users and you end up with a "stakeholder map". Do even more research on your users and you get a "stakeholder ecology." You start to understand not only who all the people are who have some interest in the swamp, but also how these stakeholders interact. You start to see what's really going on in the swamp. You start to see opportunities to do good and be a success, but you also see where there are dangers and problems and unhappy people.
 
 ### Connections 
 
 "What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. They all seemed sceptical. 
 
-It was a European Union funded project. The first aim of the project was to design an application that used tangible user interfaces. These are interfaces that you can get hold of, pick up and move around. The second aim of the project was to use these interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the funding bid. Still most of the software developers and search engine experts on the team were sceptical.  They didn't see the point of talking to users, especially since, in this case, our users were schoolchildren. But still we did it.
+It was a European Union funded project. The first aim of the project was to design an application that used tangible user interfaces. These are interfaces that you can get hold of, pick up and move around. The second aim of the project was to use these interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the title of the funding bid. Still, most of the software developers and search engine experts on the team were sceptical.  They didn't see the point of talking to users, especially since, in this case, our users were schoolchildren. But still we did it.
 
 And what we found was really interesting. 
 
-One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For instance they understood that there was a contradiction between statements like:
+One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For instance, they understood that there was a contradiction between statements like:
 
 >> People should be able to express themselves freely
 
@@ -863,25 +866,27 @@ and
 
 What the kids did seem to need help with was putting the bits of evidence that they found into some kind of structure that worked like a persuasive argument. 
 
-So we found that out about the residents of this particular swamp - through doing direct research with them. They didn't need any help understanding logic at all. What they needed help and support with was gathering evidence and putting it in a structure that sounded like a persuasive argument.
+So, we found that out about the residents of this particular swamp - through doing direct research with them. They didn't need any help understanding logic at all. What they needed help and support with was gathering evidence and putting it in a structure that sounded like a persuasive argument.
 
-But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp. Even so, they really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." This meant that pretty much every lesson that the kids did had to be designed to be satisfying some specific learning requirements.  
+But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp. Even so, they really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." Pretty much every lesson that the kids did had to show that it satisfied a specific learning requirement.  
 
-We realised something after these early sessions. We needed to design our future research sessions so that they directly addressed something mentioned on the curriculum. And we needed to make it obvious to the teachers that that was what we doing. This made it much easier for the teachers to support us.
+We realised something after these early sessions. We needed to design our future research sessions so that they directly addressed something mentioned on the curriculum. And we needed to make it obvious to the teachers that that was what we were doing. Why? Because the teachers were also swamp residents. If we did this, it made it much easier for the teachers to support us. We made their lives just a little bit easier.
 
-Fortunately we had an ex-teacher on our team. So we could craft our research sessions so that they also made sense as lessons.
+Fortunately, we had an ex-teacher on our team. So, we could craft our research sessions so that they also made sense as curriculum focused lessons.
 
-We can discover that there are people who live far beyond the swamp who never-the-less have opinions about the swamp. We can do that by doing user research. And we've already talked about having people jump out from behind trees. We do that by developing working software and putting it in the hands of users. 
+We can discover that there are people who live far beyond the swamp who never-the-less have opinions about the swamp. We can do that by doing user research. And we've already talked about how we find people who jump out from behind trees. We do that by developing working software and putting it in the hands of users. 
 
-Here are some examples of those people from other projects that I've worked on. These are situations where it turned out that people who live far beyond the swamp still cared about what happened in the swamp.
+Here are some examples from other projects that I've worked on. These are situations where it turned out that people who live far beyond the swamp still cared about what happened in the swamp.
 
-This was quite possibly the coolest project that I've every worked on. One of the guys who worked on the project was the ex-husband of a super model. 
+This was quite possibly the coolest project that I've ever worked on. One of the guys who worked on the project was the ex-husband of a super model. 
 
 I was working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website. A website that would allow customers of a bank (not cool) to upload the photographs. Pictures that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. It seemed new and exciting.
 
-We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. But then we find out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
+We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. 
 
-I was working with possibly the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a person loan website. Then somebody pointed out something awkward. Actually it was a potential customer in a business meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
+But then some people jumped out from behind some trees.  We found out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. I mean who would have thought? Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
+
+I was working with, possibly, the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. Actually, it was a potential business partner, in a business meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
 
 You may lift your eyebrows the full quarter inch at a company that didn't talk to regulators before starting up in the money lending business. You can also see that research with users and mapping of stakeholders would make something really important very clear. There were people who lived miles from the "swamp" who cared what went on in there. And if these people weren't happy, the project would die.
 
@@ -889,15 +894,17 @@ You may lift your eyebrows the full quarter inch at a company that didn't talk t
 
 You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road."
 
-Yes, controlling the car, and managing the team might be very similar from project to project. But outside of the car, or the team, the environment can be very different. And my main point in using this metaphor of the swamp is that if you look out of the windscreen, you may well find that there isn't a road.  
+Yes, controlling the car, and managing the team might be similar from project to project. But outside of the car, or the team, the environment can be very different. And my main point in using this metaphor of the swamp is that if you look out of the windscreen, you may well find that there isn't a road.  
 
 Lots of people will say that user research is a waste of time, or isn't needed on this project. Actually, they won't even bother saying it, they just won't put any budget for it in their projects and they won't hire people to do it. Lots of people will see a software development project as merely that - a matter of software development.
 
-Do you know what you should do if you're managing a team in this kind of situation? You should do it anyway. If you don't have somebody on the team who's a dedicated user researcher, you should still do some user research. You should do user research with the people in the team that you have. OK, it won't be anywhere near as good as user research done by professionals. But one of the main aims of doing this research should be to find out surprising stuff.  Then you can take back to whoever is paying for the project and use it as a case for more user and stakeholder research. 
+Do you know what you should do if you're managing a team in this kind of situation? You should do user research anyway. If you don't have somebody on the team who's a dedicated user researcher, you should still do some user research. You should do user research with the people in the team that you have. OK, it won't be anywhere near as good as user research done by professionals. But one of the main aims of doing this research should be to find out surprising stuff.  Then you can take what you find back to whoever is paying for the project. You can show them what you found and use it as a case for more user and stakeholder research. 
 
 And of course, generally the best way for team members with development skills to explore the swamp is with working software.
 
-Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford famously said something like "If I'd give the people what they want, I'd have given them a faster horse." When I talk about the swamp,  I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
+[To here]
+
+Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford famously said something like "If I'd given the people what they want, I'd have given them a faster horse." When I talk about the swamp,  I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
 
 ### Confession
 
