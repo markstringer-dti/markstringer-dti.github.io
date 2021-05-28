@@ -10,6 +10,8 @@
 
 ## Update History
 
+Update 28th May 2021 - Added a bit about chicken soup.
+
 Update 21st May 2021 - "Read through the 'Trench Warfare' chapter."
 
 Update 14th May 2021 - "More on user feedback."
@@ -86,7 +88,8 @@ Updated 27th March 2021
 
 ## Improvement backlog
 * <s>Get the text to 50 pages</s>
-* Listen to all the pages being read aloud - correct mistakes
-	* <s>Introduction</s>
+* <s>Listen to all the pages being read aloud - correct mistakes</s>
 * Check the structure of chapters 
+	* Chapter 2 - Agreed activity
+	* Introduction
 * Remove that annoying blank page from the pdf
