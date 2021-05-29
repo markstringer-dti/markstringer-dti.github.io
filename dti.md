@@ -515,7 +515,7 @@ Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll
 
 ## Chapter TBD - The Hole
 
-The write Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small misteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
+The writer Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small missteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
 
 But this of course, is exactly what a project manager does. This is exactly what a project *is*. If you're a project manager, you have to jump in the hole. A project is a hole.  A project is the gap between an idea and a reality. If you're going to spend your career being a project manager, it isn't that you're going to spend your life avoiding holes. It isn't that you're going to occasionally fall into holes by accident. If you're a project manager, you're suppose to be in the hole. That's where you live.
 
@@ -523,27 +523,27 @@ What's the precise nature of the hole? The hole is the gap between the dream of 
 
 It's like this. In order to get out of the hole - to the side that has a working product that provides value, you and your team need to solve the problems that you've identified with the dream. But when you start to identify the problems with the dream you make the people who came up with the dream and the people who are funding the dream scared and angry. 
 
-To get out of the hole, you need time, and resources, and a clear-eyed view of the problems are that need to be solved to get out you of the hole. But all of those things upset the people who came up with the idea. 
+To get out of the hole, you need time, and resources, and a clear-eyed view of the problems that need to be solved to get out you of the hole. But all those things upset the people who came up with the dream. 
 
 I'm a project manager, it's how I make my living. So, I want to be totally honest with myself. I'm going to spend a lot of time in holes. I'm writing a book for other project managers, I want to be totally honest with them as well. If they're going to do this for a living. Or if they've found themselves doing it right now, although they're swearing never again, I want them to admit to themselves that managing a project is deciding to jump into this hole. 
 
-What's the solution? Well, one solution is to never get in the hole, but set up a stall next to it. People who sell project managment methodology training - they've set up a stand next to the hole. All manner of business coaches. They've also set up a stand next to the hole. You're getting paid to do stuff. It's a nice living. And you're not in the hole!
+What's the solution? Well, one solution is to never get in the hole, but set up a stall next to it. People who sell project management methodology training - they've set up a stand next to the hole. All manner of business coaches. They've also set up a stand next to the hole. You're getting paid to do stuff. It's a nice living. And you're not in the hole!
 
 But of course, if nobody is ever prepared to get in the hole, all of the stalls around it are out of business. Also, let's say that you're in the hole. Advice that you shouldn't have got in there, isn't exactly the most helpful kind of advice.
 
 A great, disreputable (he has a book which consists of his letters from open prison) advertising copywriter Gary Halbert tells a story that gives a clue to the answer. 
 
-He talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He garantees them, that his hamburger stand is going to be more successul than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Kangaroo burgers. Kobe beef. 
+He talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He guarantees them, that his hamburger stand is going to be more successful than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Vegan burgers. Kangaroo burgers. Kobe beef.
 
-Finally Gary Halbert tells them what he wants for his burger stand. A hungry crowd.
+Finally, Gary Halbert tells them what he wants for his burger stand. Something that will beat anything they have come up with. A hungry crowd. They might even eat the vegan burgers.
 
 The way out of the hole of project management is similar. The answer only partially lies in what you do at the bottom of the hole. Because the best way out of the project management hole is to be pulled out by the people on the "reality" side. If you have something that they want, they will pull you out.
 
-Remember in the introduction where I said that the value of metaphors is that they can help you know what you're doing? This is most definitely the value of the "hole" metaphor. 
+Remember in the introduction where I said that the value of metaphors is that they can help you know what you're doing? This is most definitely the value of the "hole/hungry crowd" metaphor. 
 
 If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea without pissing them off so much that they just abandon you and let you starve - or fill in the hole.
 
-What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and also, as soon as possible, give them samples. 
+What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples. 
 
 
 ﻿
