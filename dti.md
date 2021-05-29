@@ -476,7 +476,7 @@ So? What's the problem with problems? The problem with problems is that they tak
 
 Seems to me, this is the difficulty, right at the heart of project management and project development. It's one that I wonder people don't talk about more. Nothing makes a project appear less attractive than actually starting to do it. 
 
-In the middle of a chapter about fruit and flowers, I'm going to tell you a story about chicken soup. I was reading a book a while back by Robert Dilts. It was a book about how to persuade others of your opinion. Early in the book he explains that one of the things that it's important to understand is the mechanisms that we each have for understanding the difference between ideas and reality. He points out that this might be different for different people. But the first person we should understand is ourselves. How do we understand the difference between ideas and reality.  Robert Dilts suggests an exercise.
+In the middle of a chapter about fruit and flowers, I'm going to tell you a story about chicken soup. I was reading a book a while back by Robert Dilts. It was a book about how to persuade others of your opinion. Early in the book he explains that one of the things that it's important to understand is the mechanisms that we each have for understanding the difference between ideas and reality. He points out that this might be different for different people. But the first person we should understand is ourselves. How do we understand the difference between ideas and reality.  Dilts suggests an exercise.
 
 1. Think of something that you did yesterday - a everyday thing like going to the shop or going for a walk.
 2. Think of something that you could have done yesterday, but you didn't.
@@ -492,25 +492,19 @@ This is the fundamental problem with doing things. When you do things, things go
 
 The same principle is working when you manage a project. 
 
-So what can be done? To solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine problems that the project is facing. That way failure or possibly trench warfare lies. And trench warfare is just slow, expensive and psychologically damaging.
+So what can be done to solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine problems that the project is facing. That way failure or possibly trench warfare lies. And trench warfare is just slow, expensive and psychologically damaging.
 
 The project is entering a vulnerable, cold phase, where it is not supported and valued for the appeal of the idea. This is because we are starting to find out what is wrong with that idea. At the same time there is no support and value for the reality, because there is no reality. We don't have anything to show yet.
 
-As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to avoid the move of a project through this phase. This is what we talked about in Chapter two, when we talked about agreed activity. It's also what we talked about in Chapter three. A project can get into an awful state if the problems that agreed activity is there to avoid aren't tackled. 
+As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to stop. In order to be a success, the project needs to push through this phase. This is what we talked about in Chapter two. We need to identify agreed activity and avoid it. We need to tackle the problems that we identify. It's also what we talked about in Chapter three. A project can get into an awful state if the problems that agreed activity is there to avoid aren't tackled. 
 
 So, someone who wants a project to do well shouldn't do anything to stop it moving into this phase. At the same time, you should know where you're going and what kind of things can - and should - be done to get you out the other side of this phase.
 
-OK, here's where it gets even harder. There are two kinds of thing that you should be doing to get the project through this tough phase and on the road to success. And here's what makes this hard. Both of the kinds of things that you should be doing aren't often popular or well-received. They are the kinds of things that the sponsors of a project are likely to think of as either a pointless waste of time or the kind of thing that should be stopped. 
+There are two kinds of thing that you should be doing to get the project through this tough phase and on the road to success. And here's what makes this hard. Both of the kinds of things that you should be doing aren't often popular or well-received. They are the kinds of things that the sponsors of a project are likely to think of as either a pointless waste of time or the kind of thing that should be stopped. 
 
-What are these two things? Stakeholder research, which I'll talk about in more detail in the next chapter, and working software.
+What are these two things? Working software, which I'll talk about in the next chapter and stakeholder research which I'll talk about in the chapter after that.
 
 What do I mean by stakeholder research? I mean developing a good understanding of who is interested in the product and what their interest is. Notice here that I'm not saying "user research." That's because stakeholder research doesn't just include users. It also includes other individuals, organisations and interest groups that might be interested in the product.
-
-As a seasoned and grizzled project manager I'm very careful of statements that involving or implying "all".
-
-So I won't say "find out as much as you can about the people who are paying for this project." But your project will probably benefit from you knowing more than you would if you didn't do any research. Similarly I won't say "find out everything that you possibly can about your users." But you should certainly be doing enough that you start to hear things that you've already heard from multiple users.
-
-I can say this. You need a strategy for mapping the ecosystem of stakeholders. You need a strategy for investigating the needs of users. You need a way of taking what you find and using it to inform what goes into working software.
 
 So how do we do this? How do we achieve this move? From "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real working piece of software.
 
@@ -518,13 +512,40 @@ This is what we're going to talk about in the next couple of chapters. First we'
 
 Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about conducting it so that it gives your project the maximum chance of success.
 
-But before we move on I just want to say a bit more about bad news. 
 
-### Criticism
+## Chapter TBD - The Hole
 
-### Contradiction
+The write Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small misteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
 
-Some project aren't dreams in the beginning - they're realistic. 
+But this of course, is exactly what a project manager does. This is exactly what a project *is*. If you're a project manager, you have to jump in the hole. A project is a hole.  A project is the gap between an idea and a reality. If you're going to spend your career being a project manager, it isn't that you're going to spend your life avoiding holes. It isn't that you're going to occasionally fall into holes by accident. If you're a project manager, you're suppose to be in the hole. That's where you live.
+
+What's the precise nature of the hole? The hole is the gap between the dream of a project and the reality. The dream is a shiny idea that got funding based on its superficial, unthinking attractiveness. The reality is a partial realisation of that idea that is in the world and delivers value. 
+
+It's like this. In order to get out of the hole - to the side that has a working product that provides value, you and your team need to solve the problems that you've identified with the dream. But when you start to identify the problems with the dream you make the people who came up with the dream and the people who are funding the dream scared and angry. 
+
+To get out of the hole, you need time, and resources, and a clear-eyed view of the problems are that need to be solved to get out you of the hole. But all of those things upset the people who came up with the idea. 
+
+I'm a project manager, it's how I make my living. So, I want to be totally honest with myself. I'm going to spend a lot of time in holes. I'm writing a book for other project managers, I want to be totally honest with them as well. If they're going to do this for a living. Or if they've found themselves doing it right now, although they're swearing never again, I want them to admit to themselves that managing a project is deciding to jump into this hole. 
+
+What's the solution? Well, one solution is to never get in the hole, but set up a stall next to it. People who sell project managment methodology training - they've set up a stand next to the hole. All manner of business coaches. They've also set up a stand next to the hole. You're getting paid to do stuff. It's a nice living. And you're not in the hole!
+
+But of course, if nobody is ever prepared to get in the hole, all of the stalls around it are out of business. Also, let's say that you're in the hole. Advice that you shouldn't have got in there, isn't exactly the most helpful kind of advice.
+
+A great, disreputable (he has a book which consists of his letters from open prison) advertising copywriter Gary Halbert tells a story that gives a clue to the answer. 
+
+He talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He garantees them, that his hamburger stand is going to be more successul than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Kangaroo burgers. Kobe beef. 
+
+Finally Gary Halbert tells them what he wants for his burger stand. A hungry crowd.
+
+The way out of the hole of project management is similar. The answer only partially lies in what you do at the bottom of the hole. Because the best way out of the project management hole is to be pulled out by the people on the "reality" side. If you have something that they want, they will pull you out.
+
+Remember in the introduction where I said that the value of metaphors is that they can help you know what you're doing? This is most definitely the value of the "hole" metaphor. 
+
+If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea without pissing them off so much that they just abandon you and let you starve - or fill in the hole.
+
+What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and also, as soon as possible, give them samples. 
+
+
 ﻿
 
 ## Chapter 5 - Working Software
