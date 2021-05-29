@@ -1135,3 +1135,5 @@ Edward Yourdon. Death March
 Robert B. Cialdini. Influence: The Psychology of Persuasion.
 
 Robert Dilts. Sleight of Mouth.
+
+Gary Halbert. The Boron Letters.
