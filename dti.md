@@ -151,7 +151,7 @@ And if you've read this book. Do you know what? At some point, you might just ge
 
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've signed up for improvisation classes over and over again.  Why? Because my experience is that every time that I go to an improvisation class, I learn something new. I have new experiences, and these often, in some way or other, turn out to be useful in real life.
 
-One of the key ideas in improvisation is blocking. For example. If an improvised scene starts with someone knocking on a door. The scene might go something like this. 
+One of the key ideas in improvisation is that you should avoid what's called "blocking". For example. If an improvised scene starts with someone knocking on a door. The scene might go something like this. 
 
 Person 1: [Knocks]
 
@@ -165,17 +165,17 @@ Person 1: Oh you remembered that this is the week that I make all my Kimchi! Oh 
 
 Or they can be angry that Person 2 has brought a cabbage.
 
-Person 1: And that's dinner is it? You know cabbage doesn't agree with me! Remember what happened last time. You're such an ass-hole Kevin.
+Person 1: And that's dinner is it? You know cabbage doesn't agree with me! Remember what happened last time? You're such an ass-hole Kevin.
 
 The thing about both of these responses is that they move the action forward. They take someone's first idea, no matter how humble, and move it forward.
 
 In improvisation, this is known as "Yes and." Accepting whatever your partner gives you and amplifying it. The opposite of "Yes and" is called blocking.
 
-So for example, if we go back to what will forever now be known as the "Cabbage scene," and get Person 1 to knock again on the imaginary door. Person 2 could respond to the "offer" (as it's called) of the cabbage with some kind of bizarre argument.
+So, for example, if we go back to what will forever now be known as the "Cabbage scene," and get Person 1 to knock again on the imaginary door. Person 2 could respond to the "offer" (as it's called) of the cabbage with some kind of bizarre argument.
 
 Person 1: Hello! I've brought you a cabbage.
 
-Person 2: No you haven't that's a Pomeranian poodle.
+Person 2: No, you haven't, that's a Pomeranian poodle.
 
 or:
 
@@ -183,15 +183,15 @@ Person 1: Hello! I've brought you a cabbage.
 
 Person 2: Humph. Fine.
 
-In improvisation classes, they teach that these aren't the kind of answers that result in a fun scene. Why? Because they "block" the scene moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. 
+In improvisation classes, these are the kind of responses that are regarded as blockers. And they teach that these aren't the kind of answers that result in a fun scene. Why? Because they "block" the scene from moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. 
 
 What could be an interesting cabbage story? The story of two people that learn to fly on the wings of their own farts. Or a story of the dangers of living with a pot of Kimchi that brews for so long that it becomes self aware.
 
-The second answer is "Humph. Fine." This is even more dangerous to a good story. It goes nowhere. Again the story stops dead in its tracks. What's happening in such a situation is that the person who is speaking is feeling fear. They feel out of control, so they're doing the least that they think they can get away with. The result is very boring to watch. Also it is not very nice to the other performers and defeats the whole object of improv. The whole object of improv is to create an interesting story. But even so, the performer feels safer than if they had accepted the offer of cabbage. Because they didn't know where the cabbage might lead.
+The second blocker answer here is "Humph. Fine." This is even more dangerous to a good story. It goes nowhere. Again, the story stops dead in its tracks. What's happening in such a situation is that the person who is speaking is feeling fear. They feel out of control, so they're doing the least that they think they can get away with. The result is very boring to watch. Also, it is not good for the other performers and defeats the whole object of improv. The whole object of improv is to create an interesting story. But even so, the performer who blocks feels safer than if they had accepted the offer of cabbage. Because they didn't know where the cabbage might lead.
 
 Here's another way of saying "Humph, fine."
 
-Imagine that there are a group of performers on stage for an improvised scene.  Often to start a scene,  the actors will ask for a suggestion from the audience. Someone in the audience suggests "The deck of a tall sailing ship."
+Imagine that there are a group of performers on stage for an improvised scene.  Often to start a scene, the actors will ask for a suggestion from the audience. Someone in the audience suggests "The deck of a tall sailing ship."
 
 Here's what might happen.
 
@@ -203,9 +203,9 @@ Person 2: Oh my God the Pirates are coming. Haul up the sails, let's try to outr
 
 Person 3: Oh my God the Pirates are coming. The cannons! Load the cannons!
 
-Person 4: Oh my God the Pirates are coming. Quick hide in the lifeboats.
+Person 4: Oh my God the Pirates are coming. Quick! Hide in the lifeboats!
 
-All these are good selections. Of course the audience hope that hiding in the lifeboats won't work, but will result in lots of comedy.
+All these are good selections. Of course, the audience hope that hiding in the lifeboats won't work but will result in lots of comedy.
 
 Sometimes in this kind of situation, someone makes a different kind of suggestion. Something like this:
 
@@ -213,7 +213,7 @@ Person 5: Hey! Let's wash the decks!
 
 Persons 6, 7, 8, 9 and 10: Yes! Let's!
 
-For some of the performers on the stage, this can seem like an attractive thing to do. But of course, for the audience, it's a very bad idea. Once somebody mentioned the pirate ship, they want to see it arrive. They want to see what a chase between this ship and a pirate ship looks like. They want to see if this crew can load a cannon, point it in the right direction and fire it. They want to see the pirate king and see what he'll do to the crew members who are hiding in the lifeboats.
+For some of the performers on the stage, this can seem like an attractive thing to do. But of course, for the audience, it's a very bad idea. Once somebody mentions the pirate ship, the audience wants to see it arrive. The audience wants to see what a chase between this ship and a pirate ship looks like. They want to see if this crew can load a cannon, point it in the right direction and fire it. They want to see the pirate king and see what he'll do to the crew members who are hiding in the lifeboats.
 
 They don't want to see everyone on the stage miming mopping the floor. 
 
@@ -223,13 +223,13 @@ Why? Keith Johnstone invented his own style of improvised theatre in the 1950's.
 
 He explains that putting people on a stage in front of an audience makes them scared. Scared people try to make themselves safe, even if what they're doing is making the group as a whole less safe. Even if what they do bores the audience.
 
-Part of the skill of being a good improviser is knowing how to avoid this need to stay safe. Instead, good improvisers have the courage to move the story forward. When they hear the suggestion, good improvisers accept there's a pirate ship. They make the story interesting and move it forward by dealing with what that means.
+Part of the skill of being a good improviser is knowing how to avoid this need to stay safe. Instead, good improvisers have the courage to move the story forward. When they hear the suggestion, good improvisers accept that there's a pirate ship. They make the story interesting and move it forward by dealing with what that means.
 
-What's fascinating is that all novice improvisers seem to know that mopping the decks is the "right" thing to do. There isn't a long discussion. It happens in less than a second. This is in spite of the fact that, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that might be dangerous. Especially, we tend to avoid anything that will make us change our behaviour or our thinking.
+What's fascinating is that all novice improvisers seem to know that mopping the decks is the "right" thing to do. There isn't a long discussion. It happens in less than a second. Even though, from the point of view of the audience, it's exactly the wrong thing to do. What this shows is how good we are at shying away from things that might be dangerous. Especially, we tend to avoid anything that will make us change our behaviour or our thinking.
 
-Johnstone has one suggestion to help the improvisers avoid this "agreed activity". This is to have a director who is watching the improvisers and can speak out and direct them during the show.  The director spots which suggestions will move the story forward. She also sees which suggestions are invitations to "agreed activity" and tell the actors to avoid them.
+Johnstone has one suggestion to help the improvisers avoid this "agreed activity". This is to have a director who is watching the improvisers and can speak out and direct them during the show.  The director spots which suggestions will move the story forward. She also sees which suggestions are invitations to "agreed activity" and tells the actors to avoid them.
 
-Let's say a director is watching a scene where there'd been a suggestion of washing the decks. She might allow the crew ten seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer and nearer! Deal with the Pirate ship!"
+Let's say a director is watching a scene where there'd been a suggestion of washing the decks. She might allow the crew ten seconds of deck washing without advancing the action. But then she might shout "The deck's clean! The pirate ship is getting nearer! Deal with the Pirate ship!"
 
 Often improv classes take the form of a set of games. The purpose of the games isn't only to have fun (although of course that's important). Good improv games are also drills, exercises to improve one aspect of the improviser's abilities. 
 
@@ -237,115 +237,174 @@ There is one game that helps get improvisers out of the habit of agreed activity
 
 It can be used as guard rails, or stabilisers, to help improvisers avoid blocking and agreed activity and move the action of a scene forward. 
 
-The way that the "new choice" game is set up often is that two improvisers get involved in a dialogue. A third improviser acts as a referee. The two improvisers start a dialogue. If the referee isn't happy with one of the responses that the improvisers give, she can shout "new choice" and the improviser has to say something else.
+The way that the "new choice" game works is that two improvisers get involved in a dialogue. A third improviser acts as a referee. The two improvisers start a dialogue. If the referee isn't happy with one of the responses that the improvisers give, she can shout "new choice" and the improviser has to say something else.
 
 With this simple exercise, an improviser can make sure that a scene keeps moving forward and avoids blocking. Also, the improvisers involved in the scene get to hear the suggestions that are rejected. They start to get a sense of what "good" suggestions and responses look like. They start to get better at making them first time.
 
-Coming back to the ship example that we've been using, with three improvisers: Jane, Kate and Lisa. If Lisa is the referee, a scene might go like this:
+Coming back to the ship example that we've been using, with three improvisers: Kate, Leena and Mei - if Mei is the referee, a scene might go like this:
 
-Jane: Look! A pirate ship!
+Leena: Look! A pirate ship!
 Kate: Oh no, we'd better be ship shape if the pirates visit. Let's scrub the decks.
-Lisa: New choice!
+Mei: New choice!
 Kate: Let's polish the brass handles!
-Lisa: New choice!
+Mei: New choice!
 Kate: Let's hide in the life boats.
-Lisa: Nods - that's fine.
-Jane: Here we are. The lifeboat.
-Lisa: New choice!
-Kate: OMG where are the lifeboats?
+Mei: Nods - that's fine.
+Leena: Here we are. The lifeboat.
+Mei: New choice!
+Leena: OMG where are the lifeboats?
 
 And so on.
 
-Why am I telling you this? Because, of course, this idea of agreed activity is useful in project management. As a first reaction, people who work on a project will prefer agreed activity to moving the action forward. Like improvisers, they do this as a way of avoiding having to think or needing to change. Instinctively they shy away from the realities of the problem that they're solving. 
+Why am I telling you this? Because, of course, this idea of agreed activity is useful, not just in improvised theatre, but also in project management. On a software development project, when a team comes across something that's the equivalent of a pirate ship, there's a strong tendency to avoid it. 
 
-By encouraging teams to do the opposite, to avoid agreed activity and tackle the pirate ships, we can move the "action" on a project forward. We can start to deliver the impossible. But how?
+People who work on a software development project will often prefer agreed activity to moving the action forward by tackling big, obvious problems. Like improvisers, they do this as a way of avoiding having to think or needing to change. And like improvisers, often the "decision" to avoid tackling the problems is taken without much discussion, or even conscious thinking. It's instinctive.
 
-In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before, what they're going to do today. And in stand up, team members talk about any problems they have that are  blocking their progress. Reporting these "blockers" is the most important bit of the stand up. These blockers are the project's pirate ships.
+You might think what I'm saying here is that it's the nature of software development teams to be lazy and cowardly. I am not saying that. Not at all.
+
+The important thing to understand about agreed activity is that we all fall prey to it in new, uncomfortable and unpredictable situations. But, as in improv, there are things that we can do to help get us out of the deck mopping rut and move us on to tackling the pirate ship. 
+
+In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before and what they're going to do today. And in stand-up, team members also talk about any problems they have that are blocking their progress. Reporting these "blockers" is the most important bit of the stand up. Because these blockers are the project's pirate ships.
 
 Of course, if there's one big thing that's blocking progress, that might be the thing that no-one talks about. The signs that there is a pirate ship that needs tackling might not be obvious at first. There might not be an obvious Jolly Roger flying and the sound of "Arrrrr!" 
 
-Agreed activity might be a sign that there's something everyone is ignoring.
+Rather, the way to find the pirate ship might be to look for agreed activity. If some members of the team have the same update with no variation for days and days. That's a sign of agreed activity. Another sign is when the team plans a task and then it doesn't get done. 
 
-If some members of the team have the same update with no variation for days and days. That's a sign of agreed activity. Another sign is when the team plans a task and then it doesn't get done. 
+Nobody on the team decides to pick it up. It may well be that no discussion has been had within the team about why they don't want to pick up this task and tackle it. As with the crew on the improvisational stage, they made an agreement. They might not have talked about it. But they all agreed not to tackle that task. Of course, in these situations, it's the job of the project manager to point to that task and ask what it is about it that means everyone is avoiding it.
 
-Nobody on the team decides to pick it up. It may well be that no discussion has been had within the team about why they don't want to pick up this task and tackle it. As with the crew on the improvisational stage, they made an agreement. They might not have talked about it. But they all agreed not to tackle that task. Of course, in these situations, it's the job of the project manager to point to that task and ask what it is about this story that means everyone is avoiding it.
-
-In this situation, the project manager is acting as the director. They are sitting "off stage" and instructing the team to tackle something that they've all quietly agreed to ignore. Sometimes, the project manager has to take on this role. But of course, it's much better, and much more powerful if the team can lean to do this themselves.
+When they do that, the project manager is acting as the director. They are sitting "off stage" and encouraging the team to tackle something that they've all quietly agreed to ignore. Sometimes, the project manager must take on this role. But of course, it's much better, and much more powerful if the team to do this for themselves.
 
 So, one place to spot the pirate ship is stand-up. Another is the retrospective. That's a meeting that happens, typically every two weeks where the team talks about how the previous sprint went. In the retrospective, the team asks these questions: 
 * What went well? 
 * What didn't go so well? 
 * What could be done better? 
 
-Here's one of the many strange things about project management. Very often everybody who  is working on a project knows what's wrong with the project. So why aren't they saying what they know? Maybe it's because they've tried to say or have said and have been ignored. Maybe they've been told to back off. Maybe they've been threatened with disciplinary action, or even disciplined for pointing out the problem. 
+Here's one of the many strange things about project management. Very often everybody who is working on a project knows what's wrong with the project. They know what the pirate ship is. So why aren't they saying what they know? Maybe it's because they've tried to say or have said and have been ignored. Maybe it's because they've been told to back off. Maybe they've been threatened with disciplinary action, or even disciplined for pointing out the problem.
 
 This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks! Any more talk of a pirate ship and you're off the show." 
 
-A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once they've done it once or twice they will have already caused one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
-I saw this phenomenon so many times when I was working as an Agile coach that I gave it a name "the beaten down team." Often, I would have been asked to give them an Agile training course. The idea being that a course, by itself would magically improve the performance of the team, or the performance of the project. 
+A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once will be enough. The leadership response to reports of problems isn't positive and helpful. The leaders will already - in just one instance be on their way to creating one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. 
 
-No matter how many times they have been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think you are listening. They will see and appreciate you doing your best to raise their problems with the people who need to know about them and can fix them. And sooner or later, they will talk about the pirate ship. Whatever it is that is the main problem that is preventing the project from succeeding. The thing that no one is talking about. 
+The team identified some problems. They explained to the leadership what those problems were. The leadership ignored them, or got angry, or suggested that if the team knew how to do their jobs, there wouldn't be a problem. The team noticed this. They understood. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
+
+I saw this phenomenon so many times when I was working as an Agile coach that I gave it very depressing name - "the beaten down team." Often, I would have been asked by the leaders to give this team an Agile training course. The idea being that a course, all by itself, would magically improve the performance of the team, or the performance of the project. 
+
+No matter how many times they have been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think you are listening. They will see and appreciate you doing your best to raise their problems with the people who need to know about them. And sooner or later, they will talk about the pirate ship. Whatever it is that is the main problem that is preventing the project from succeeding. The thing that no one is talking about. 
 
 When they do, it might be hard to keep your jaw off the floor. 
 
 I worked as a coach on a project that was really struggling. We had a retrospective. 
 
-One big problem emerged. All of the requirements for the project were written by a single business analyst. They didn't make any sense to the team. Their main difficulty was that they couldn't understand what the business analyst had written in the requirements document. 
+One big problem emerged. All of the requirements for the project were written by a single business analyst. The team's main difficulty was that they couldn't understand what the business analyst had written. 
 
-What struck me straight away was that the business analyst wasn't in the retrospective. In an agile project, the business analyst is part of the team - they're not supposed to be outside of the team throwing in requirements. Especially ones that cannot be understood.
+What struck me straight away was that the business analyst wasn't in the retrospective. In an agile project, the business analyst is part of the team - they're not supposed to be outside of the team sending in requirements. Especially ones that cannot be understood.
 
-So my response to this problem was to suggest that the business analyst should be invited to stand-up meetings, and the planning meetings. And retrospectives and show and tells. This was where the developers looked at each other sideways - this is always a sign that you are finally getting to the real issue.
+So, my response to this problem was to suggest that the business analyst should be invited to stand-up meetings, and the planning meetings. And retrospectives and show and tells. This was where the developers looked at each other sideways - this is always a sign that you are finally getting to the real issue.
 
 "We're not allowed to talk to the business analyst."
 
 "What? That's mad! I'm sure that can't be right."
 
-Yes, it was mad. Yes, it was right. Well, it was what was actually happening. Of course, it was very wrong. 
+Yes, it was mad. Yes, it was right. Well, it was what was happening. Of course, it was very wrong. 
 
 I tried to talk to the business analyst. I emailed him asking for a meeting. I got a phone call from his boss saying I wasn't allowed to talk to him. 
 
 And of course, there was no way that the project was going to get anywhere in its current state. The team needed, at the very least, to talk to the person who could tell them what the product was supposed to do.
 
-Side note: This project was worse than it sounds. It turns out there were *two* groups of business analysts. There were "technical" business analysts. But there were also "business" business analysts. The "business" business analysts were allowed to talk to the "business" - the people who wanted the product. The technical team was only allowed to talk to the "technical" business analysts. And these two groups of business analysts - technical and business -  also weren't allowed to talk to each other. They were only supposed to communicate via emailed documents. A big part of making this project possible was to make sure that we had just one business analyst. I don't know whether in the end we designated them as business or technical. I am certain I was asked. This person was allowed both to talk to the people who wanted the software and the people who were building the software. And they sat with the team who was doing the work. So they could ask him questions. I mean imagine! Things got a lot better after that.
+My suggestion was that we get the business analyst to sit with the team and to attend stand ups and retrospectives. When this finally happened, progress on the project started to improve.
 
-So, we've talked about stand up meetings and we've talked about retrospectives. There's one more Agile meeting where the "Pirate Ships" that are on the horizon might be detected. And that's the "Show and Tell." The "Show and Tell" is a meeting where the development team show the outputs of what they have been working on in the last "Sprint" - typically two weeks. Who do they show it to? Definitely, you should show it to the product owner who is supposed to act as a representative of all the people who want the project to happen. But you should also invite other people who are interested and who want to come along. 
+We've talked about stand up meetings and we've talked about retrospectives. There's one more Agile meeting where the "Pirate Ships" that are on the horizon might be detected. And that's the "Show and Tell." The "Show and Tell" is a meeting where the development team show the outputs of what they have been working on in the last "Sprint" - typically two weeks. Who do they show it to? At the very least, they show it to the product owner who acts as a representative of all the people who want the project to happen. But they also invite other people who are interested. Pretty much anyone who is allowed to see it should be able to come along. 
 
-After the minor victory of getting the business analyst to sit with the team, I then suggested that we start to have show and tell meetings. This was a fraud detection project. Fraud was an issue that affected people who worked for the bank all over the world. So, for the first phone conference, I could hear just from the accents, the geographical spread of interest. There were Northern Irish accents, Scottish accents. But there were also Cockney-sounding Southend accents and Indian accents from the offshore call centres in India.
+After the minor victory of getting the business analyst to sit with the team, I then suggested that we start to have "show and tell" meetings. This was a fraud detection project. Fraud was an issue that affected people who worked for the bank all over the world. So, for the first phone conference, I could hear just from the accents, the geographical spread of interest. We were sitting in an office in central London. But on the phone, there were Northern Irish accents and Scottish accents. There were also Cockney-sounding Southend accents and accents from the offshore call centres in India.
 
 In that week, the team had been doing some work on the user interface for one of the very early screens in one of the fraud detection journeys. 
 
-One of the developers put up the login screen and then clicked through to the first screen and started to talk it through. Even though most people who were on the conference call were on mute, I thought I detected some kind of change in the silence. Finally someone on the line with a cockney accent said:
+A developer put up the first screen in the journey. She started to talk it through. Even though most people who were on the conference call were on mute, I thought I detected a change in the silence. Finally, someone on the line with a cockney accent said:
 "Erm, I thought we'd agreed that we were going to arrange cases by account name rather than by account number?"
-The developer who was demo-ing the screen looked blank.
+The developer who was demonstrating the screen looked blank.
 The business analyst who we'd only just set eyes on and had only just joined the team started to look worried. 
 "No, it's in the requirements that cases should be arranged by account number."
 "But that makes no sense" someone with a Northern Irish accent joined in.
-"It's people who are victims of fraud, not just individual accounts,"  added someone with a Glaswegian accent.
-"We need to see all the accounts that someone holds, and see the activity across all of them for this to make any sense," said someone with an accent I didn't recognise.
+"It's people who are victims of fraud, not just individual accounts," added someone with a Glaswegian accent.
+"We need to see all the accounts that a customer has and see the activity across all of them for this to make any sense," said another voice with an accent I didn't recognise.
 
 Yes, that's right. The structure of this project was wrong from the very beginning. This problem hadn't been detected through months and months of analysis. But it took just five minutes of putting the working software (OK, I'll admit, it was only a front end) in front of the people who might use it to find the problem.  
 
 If you do stand-ups every working day with your team, if you do retrospectives and show and tells every sprint, you will find out what the problems are. Even if you do these things *badly* - you will still find out what the problems are. Not having stand-ups, not having retrospectives and show and tells is just like shouting "Scrub the decks, don't look at the pirate ship!" at your team.
 
-So, what does understanding this idea of "agreed activity" mean for our overall aim of delivering the impossible?
+So, what does this idea of "agreed activity" mean for our overall aim of delivering the impossible?
 
-Well, it means something simple. If you work to discover the problems that your project is facing you will find them. If you then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are possible. This gives you the best chance possible of delivering them.
+Well, it means something simple. If you work to discover the problems that your project is facing you will find them. If you then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are possible. This gives you the best chance of delivering them.
 
-This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improve shows boring? It's the same impulse that makes difficult but possible software projects impossible.
+This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improv shows boring? It's the same impulse that makes difficult but possible software projects impossible.
 
-Why? It's simple. Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of the job that they can't do? Maybe it means that someone hired the wrong people.
+Why? It's simple. Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of a job that they can't do? Maybe it means that someone hired the wrong people.
 
-Highlighting the problems that a project throws up can be threatening to the sponsors of a project. What if the problem that you find is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for even daring to raise the issue. 
+Highlighting the problems that a project throws up can be threatening to the sponsors of a project. What if the problem that you find is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for daring to raise the issue. 
 
-In software development people do the equivalent of shouting "Look a pirate ship," all the time. But unfortunately the response of the directors is mostly something like "You're wrong, it's not there." 
+In software development people do the equivalent of shouting "Look a pirate ship," all the time. But unfortunately, the response of the directors is mostly something like "You're wrong, it's not there." 
 
-Other ways of saying this that are just as bad are "I'm tired of this negativity," or "Maybe you're not up to the job if you think that's a pirate ship."
+Other ways of saying this that are just as bad are "I'm tired of this negativity," or "Maybe you're not up to the job if you think that's a pirate ship." And that's the main reason that ships and projects sink.
 
 And that's why people don't raise problems and instead just wash the decks.
 
+In recent years, the concept of psychological safety has been developed.  Putting in a more formal way something that we already really knew. Safety isn't just about physical safety. We also need psychological safety and when we don't have it, we will change our position and behaviour until we do. 
+
+Psychological safety imagines that there are four basic levels of safety that sit one on the top of the other.
+
+Level 1 is being allowed in the group - inclusion safety.
+
+Level 2 is being allowed to learn in the group - learning safety.
+
+Level 3 is being allowed to contribute in the group - contribution safety.
+
+Level 4 is being allowed to challenge what the group are doing - challenger safety. 
+
+These levels, one to four, move in a diagonal line across a chart that has the axes of permission and respect. On each side of this diagonal line are two "gutters". 
+
+A lot of respect but no permission results in paternalism. "That's nice dear, but we know what's good for you." In software development this often shows itself as one or many "product prevention" departments. There seems to be an endless list of people who can say no, and very, few, possibly none who can say yes.
+
+Too much permission and no respect results in exploitation. Cough, cough. Facebook and well, all of capitalism.
+
+The idea that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are very useful for explaining the steps that need to be built one on the other before someone can get to the point where they feel comfortable to shout out "Hey look! A pirate ship." 
+
+Another idea that comes out of Clark's book that I am particularly impressed with the idea that providing psychological safety in creative teams is about increasing intellectual friction, while decreasing social friction.
+
+This is something that I've been struggling with since I've been a project manager. I find myself very often in the situation when I'm working with teams of having to point out that there are disagreements in the team, and that that is OK. 
+
+But there are two issues I have with psychological safety as a full solution. Firstly, real creative situations often aren't psychologically safe - and they never are going to be. There is always going to be a potential conflict between doing the right thing in terms of pointing out the pirate ship and being safe. If you point out the pirate ship, you run the risk of not only being shouted down, ignored, but even possibly kicked out of the team.
+
+Second, there's someone missing from it. The boss. Increasing psychological safety for the team makes it more likely that the team will contribute and challenge? But what about the boss? I she part of the team? Or is she part of an entirely different organisational setup? What is here role in that team? Is she trying to get her feet under the table and just get member safety? Is she trying to learn ropes? Or is she really at the point where she can say to other people in her peer group "My team have identified this problem. It's something all your teams must also be experiencing. I'm surprised you haven't mentioned it." 
+
+The first thing that this realisation that the bosses aren't accounted for in this model of psychological safety is the "SNAFU" principle. This is expressed like this by Robert Anton Wilson.
+
+>> Adequate communication flows freely between equals. Communication between non-equals is warped and distorted by second-circuit Domination and Submission rituals perpetuating communication jam and a Game Without End. 
+
+But what makes the boss feel safe? Here is the thing. What makes a boss *actually* safe and what makes a boss *feel* safe are almost two completely different things.
+
+What makes the boss feel safe are signs that the team are working hard and reassurances that everything is fine. 
+
+What makes the boss *actually* safe is a team that is working at a sustainable pace that is willing to bring up problems and opportunities that they identify as the work through a project. 
+
+[To here]
+
+If you're a boss, here's how you give the projects in your care the best chance possible. You give the members of the teams that work on those projects as much cover as you can be to be candid, to let you know the problems that they're encountering. You also give them, to the best of your ability, the room for manoeuvre and resources that they need to solve these problems.
+
+But everyone is scared. The team are scared of losing their jobs if they speak out. You should be scared of the same thing. But the bosses are scared as well. They're scared of what the board will say. They're scared of what the markets will say. It's almost never the case that you're talking to the top boss. And everyone is to some degree or other scared of their boss. 
+
+What we've established from the beginning of this chapter is that if you don't tackle the pirate ships that you see on the horizon, your project will be a disaster. What we've also established is that the people who came up with the idea for a project will always be resistant to your spotting of the pirate ships. As a project manager, you might see your main job as managing this contradiction.
+
+What I want to say is this. If we all wait until we aren't scared to start tackling the pirate ship, the pirates will already have boarded and we'll be walking the plank. If we're working on the team, or if we're managing the team, we need to act, even when we're afraid. 
+
+If we're one of the bosses, it's our job to reward courage and provide cover for candour. An in turn, that requires courage our part as bosses, because *our* bosses might not like the truth either.
+
+I've spent most of my career as a project manager pointing out the pirate ships. I don't think I'm particlary brave. I think I'm just more clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option. 
+
+When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is scrum. Another methods that shows up where there are problems is Kaban, with its idea of visualising the work in progress, and where it is in the process. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder."or (more commonly) "Work is taking so long to get from started to finished because there is just too much work in the system." 
+
 Oh dear. Well. There is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
-Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you not very nice names. But there are two very good reasons why you still should do it.
+Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you names. "Negative," or "pessimist," or "unprofessional." But there are two good reasons why you still should do it.
 
 Reason number one is that solving these problems is still the best chance you've got of delivering this project. Spotting the pirate ships and avoiding agreed activity is the single best way of making a project possible. Making it possible rather than impossible. That is a solid and compelling reason.  
 
@@ -1137,3 +1196,5 @@ Robert B. Cialdini. Influence: The Psychology of Persuasion.
 Robert Dilts. Sleight of Mouth.
 
 Gary Halbert. The Boron Letters.
+
+Timothy R. Clark.  The 4 Stages of Psychological Safety: Defining the Path to Inclusion and Innovation.
