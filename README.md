@@ -9,6 +9,8 @@
 
 
 ## Update History
+Update 7th May 2021 - Editing the Agreed activity chapter
+
 Update 29th May 2021 - An entire new chapter, an entire new metaphor - the hole.
 
 Update 28th May 2021 - Added a bit about chicken soup.

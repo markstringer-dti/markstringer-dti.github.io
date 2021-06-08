@@ -366,19 +366,19 @@ A lot of respect but no permission results in paternalism. "That's nice dear, bu
 
 Too much permission and no respect results in exploitation. Cough, cough. Facebook and well, all of capitalism.
 
-The idea that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are very useful for explaining the steps that need to be built one on the other before someone can get to the point where they feel comfortable to shout out "Hey look! A pirate ship." 
+These ideas, that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are useful for explaining the steps that need to be built one on top of the other before someone can get to the point where they feel comfortable to shout out "Hey look! A pirate ship." 
 
-Another idea that comes out of Clark's book that I am particularly impressed with the idea that providing psychological safety in creative teams is about increasing intellectual friction, while decreasing social friction.
+Another idea that comes out of Clark's book that I am particularly impressed with is the idea that providing psychological safety in creative teams is about increasing intellectual friction, while decreasing social friction.
 
 This is something that I've been struggling with since I've been a project manager. I find myself very often in the situation when I'm working with teams of having to point out that there are disagreements in the team, and that that is OK. 
 
 But there are two issues I have with psychological safety as a full solution. Firstly, real creative situations often aren't psychologically safe - and they never are going to be. There is always going to be a potential conflict between doing the right thing in terms of pointing out the pirate ship and being safe. If you point out the pirate ship, you run the risk of not only being shouted down, ignored, but even possibly kicked out of the team.
 
-Second, there's someone missing from it. The boss. Increasing psychological safety for the team makes it more likely that the team will contribute and challenge? But what about the boss? I she part of the team? Or is she part of an entirely different organisational setup? What is here role in that team? Is she trying to get her feet under the table and just get member safety? Is she trying to learn ropes? Or is she really at the point where she can say to other people in her peer group "My team have identified this problem. It's something all your teams must also be experiencing. I'm surprised you haven't mentioned it." 
+Second, there's someone missing from it. The boss. Yes, increasing psychological safety for the team makes it more likely that the team will contribute and challenge. But what about the boss? Is she part of the team? Or is she part of an entirely different organisational setup? What is her role in *that* team? Is she trying to get her feet under the table and just get member safety? Is she trying to learn the ropes? Or is she really at the point where she can say to other people in her peer group "My team have identified this problem. It's something all your teams must also be experiencing. I'm surprised you haven't mentioned it. We need to fix it." What if your boss doesn't have challenger safety in the group that she's in. If she isn't at the point where she can say things like that in whatever forum she operates in, then we have a problem.
 
-The first thing that this realisation that the bosses aren't accounted for in this model of psychological safety is the "SNAFU" principle. This is expressed like this by Robert Anton Wilson.
+This idea. That the boss is in a different team, and in that team, they might not be, probably won't be the boss, helps explain something that I'd known for a long time, but hadn't completely understood. It's what the writer Robert Anton Wilson calls "the SNAFU principle."
 
->> Adequate communication flows freely between equals. Communication between non-equals is warped and distorted by second-circuit Domination and Submission rituals perpetuating communication jam and a Game Without End. 
+>> Adequate communication flows freely between equals. Communication between non-equals is warped and distorted by second-circuit Domination and Submission rituals perpetuating communication jam and a Game Without End (From Robert Anton Wilson, Prometheus Rising).
 
 But what makes the boss feel safe? Here is the thing. What makes a boss *actually* safe and what makes a boss *feel* safe are almost two completely different things.
 
@@ -386,11 +386,33 @@ What makes the boss feel safe are signs that the team are working hard and reass
 
 What makes the boss *actually* safe is a team that is working at a sustainable pace that is willing to bring up problems and opportunities that they identify as the work through a project. 
 
-[To here]
-
 If you're a boss, here's how you give the projects in your care the best chance possible. You give the members of the teams that work on those projects as much cover as you can be to be candid, to let you know the problems that they're encountering. You also give them, to the best of your ability, the room for manoeuvre and resources that they need to solve these problems.
 
-But everyone is scared. The team are scared of losing their jobs if they speak out. You should be scared of the same thing. But the bosses are scared as well. They're scared of what the board will say. They're scared of what the markets will say. It's almost never the case that you're talking to the top boss. And everyone is to some degree or other scared of their boss. 
+But what about if you're talking to a boss. What if you're giving the boss bad news? 
+
+I've been talking about pirate ships. But what actual bad news might you need to communicate to a boss. Here are some examples, starting with the most common.
+
+"There's no way that this project is going to deliver for the proposed deadline."
+
+"This project is entirely dependent on Department X's system Q being ready - we just asked them about this, it doesn't exist."
+
+"What we're doing is probably illegal. We'd need to spend at least six months thrashing out what we can and can't do with the regulatory authorities."
+
+"The people who can tell us how this system is supposed to work won't talk to us, or can't talk to us, or don't exist."
+
+"My team don't have access to (one or more of) wifi, computers, desks, toilets."
+
+"You aren't paying us."
+
+Understanding that the boss might be a in a team where they don't have psychological safety. But the problem we still have is that we need to tell the boss things that the boss doesn't want to hear. 
+
+This again reminds me of some of the ideas that Keith Johnstone talks about in his book "Impro." 
+
+The story that Johnstone tells is that he'd been trying to get the students that he was working with at the royal court to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme the biologist and writer Desmon Morris. He was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
+
+The point that Morris made in the TV programme was that most of these status-based exchanges aren't huge. There are no fights involved, there is no chest beating. The exchanges are tiny, fractional indications of who is higher and lower status. Who sits highest on the tree. Who is groomed first when two near equals agree to groom each other.
+
+So the next day, Johnstone went back to his studio and asked his students to improvise scenes. His only instruction for these scenes was that whatever one person said, the other person should try to either slightly elevate themselves, or lower themselves in status with what they say.
 
 What we've established from the beginning of this chapter is that if you don't tackle the pirate ships that you see on the horizon, your project will be a disaster. What we've also established is that the people who came up with the idea for a project will always be resistant to your spotting of the pirate ships. As a project manager, you might see your main job as managing this contradiction.
 
@@ -1198,3 +1220,5 @@ Robert Dilts. Sleight of Mouth.
 Gary Halbert. The Boron Letters.
 
 Timothy R. Clark.  The 4 Stages of Psychological Safety: Defining the Path to Inclusion and Innovation.
+
+Robert Anton Wilson. Prometheus Rising.
