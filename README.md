@@ -9,6 +9,8 @@
 
 
 ## Update History
+Upate 14th June 2021 - Adding stuff about status to the agreed activity chapter
+
 Update 7th May 2021 - Editing the Agreed activity chapter
 
 Update 29th May 2021 - An entire new chapter, an entire new metaphor - the hole.
