@@ -161,13 +161,13 @@ Person 1: Hello! I've brought you a cabbage.
 
 OK, now we've reached a key stage in the drama. Because Person 2 has lots of different things that they could say. Person 2 could be happy that Person 1 had brought them a cabbage. 
 
-Person 1: Oh you remembered that this is the week that I make all my Kimchi! Oh darling! You're so thoughtful.
+Person 1: Oh! You remembered that this is the week that I make all my Kimchi! Oh darling! You're so thoughtful.
 
 Or they can be angry that Person 2 has brought a cabbage.
 
 Person 1: And that's dinner is it? You know cabbage doesn't agree with me! Remember what happened last time? You're such an ass-hole Kevin.
 
-The thing about both of these responses is that they move the action forward. They take someone's first idea, no matter how humble, and move it forward.
+The thing about both of these responses is that they move the action forward. They take someone's first idea, no matter how humble, and develop it.
 
 In improvisation, this is known as "Yes and." Accepting whatever your partner gives you and amplifying it. The opposite of "Yes and" is called blocking.
 
@@ -177,15 +177,15 @@ Person 1: Hello! I've brought you a cabbage.
 
 Person 2: No, you haven't, that's a Pomeranian poodle.
 
-or:
+Or rather than disagree. Person 2 might not react at all:
 
 Person 1: Hello! I've brought you a cabbage.
 
 Person 2: Humph. Fine.
 
-In improvisation classes, these are the kind of responses that are regarded as blockers. And they teach that these aren't the kind of answers that result in a fun scene. Why? Because they "block" the scene from moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. 
+In improvisation classes, these are the kind of responses that are regarded as blockers. And the classes teach that these aren't the kind of answers that result in a fun scene. Why? Because they "block" the scene from moving forward. They don't build on it and move it forward. The poodle response is completely trying to stop the "offer" of the cabbage. It ruins any chance of an interesting cabbage story. 
 
-What could be an interesting cabbage story? The story of two people that learn to fly on the wings of their own farts. Or a story of the dangers of living with a pot of Kimchi that brews for so long that it becomes self aware.
+What could be an interesting cabbage story? The story of two people that learn to fly on the wings of their own farts. Or a story of the dangers of living with a pot of Kimchi that brews for so long that it becomes self-aware.
 
 The second blocker answer here is "Humph. Fine." This is even more dangerous to a good story. It goes nowhere. Again, the story stops dead in its tracks. What's happening in such a situation is that the person who is speaking is feeling fear. They feel out of control, so they're doing the least that they think they can get away with. The result is very boring to watch. Also, it is not good for the other performers and defeats the whole object of improv. The whole object of improv is to create an interesting story. But even so, the performer who blocks feels safer than if they had accepted the offer of cabbage. Because they didn't know where the cabbage might lead.
 
@@ -249,10 +249,10 @@ Mei: New choice!
 Kate: Let's polish the brass handles!
 Mei: New choice!
 Kate: Let's hide in the life boats.
-Mei: Nods - that's fine.
+Mei: [Nods indicating that's fine]
 Leena: Here we are. The lifeboat.
 Mei: New choice!
-Leena: OMG where are the lifeboats?
+Leena: Oh my God! Where are the lifeboats?
 
 And so on.
 
@@ -272,7 +272,7 @@ Rather, the way to find the pirate ship might be to look for agreed activity. If
 
 Nobody on the team decides to pick it up. It may well be that no discussion has been had within the team about why they don't want to pick up this task and tackle it. As with the crew on the improvisational stage, they made an agreement. They might not have talked about it. But they all agreed not to tackle that task. Of course, in these situations, it's the job of the project manager to point to that task and ask what it is about it that means everyone is avoiding it.
 
-When they do that, the project manager is acting as the director. They are sitting "off stage" and encouraging the team to tackle something that they've all quietly agreed to ignore. Sometimes, the project manager must take on this role. But of course, it's much better, and much more powerful if the team to do this for themselves.
+When they do that, the project manager is acting as the director. They are sitting "off stage" and encouraging the team to tackle something that they've all quietly agreed to ignore. Sometimes, the project manager must take on this "director" role. But of course, it's much better, and much more powerful for the team to do this for themselves.
 
 So, one place to spot the pirate ship is stand-up. Another is the retrospective. That's a meeting that happens, typically every two weeks where the team talks about how the previous sprint went. In the retrospective, the team asks these questions: 
 * What went well? 
@@ -287,7 +287,7 @@ A leader doesn't need to tell the team to shut up about the pirate ships and cle
 
 The team identified some problems. They explained to the leadership what those problems were. The leadership ignored them, or got angry, or suggested that if the team knew how to do their jobs, there wouldn't be a problem. The team noticed this. They understood. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
 
-I saw this phenomenon so many times when I was working as an Agile coach that I gave it very depressing name - "the beaten down team." Often, I would have been asked by the leaders to give this team an Agile training course. The idea being that a course, all by itself, would magically improve the performance of the team, or the performance of the project. 
+I saw this phenomenon so many times when I was working as an Agile coach that I gave it a very depressing name - "the beaten down team." Often, I would have been asked by the leaders to give this team an Agile training course. The idea being that a course, all by itself, would magically improve the performance of the team, or the performance of the project. 
 
 No matter how many times they have been beaten down, a team will still respond to the right kind of opportunity to feed back. If you run retrospectives and give people an opportunity to speak, they will speak. They will talk if they think you are listening. They will see and appreciate you doing your best to raise their problems with the people who need to know about them. And sooner or later, they will talk about the pirate ship. Whatever it is that is the main problem that is preventing the project from succeeding. The thing that no one is talking about. 
 
@@ -360,18 +360,12 @@ Level 3 is being allowed to contribute in the group - contribution safety.
 
 Level 4 is being allowed to challenge what the group are doing - challenger safety. 
 
-These levels, one to four, move in a diagonal line across a chart that has the axes of permission and respect. On each side of this diagonal line are two "gutters". 
-
-A lot of respect but no permission results in paternalism. "That's nice dear, but we know what's good for you." In software development this often shows itself as one or many "product prevention" departments. There seems to be an endless list of people who can say no, and very, few, possibly none who can say yes.
-
-Too much permission and no respect results in exploitation. Cough, cough. Facebook and well, all of capitalism.
-
 These ideas, that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are useful for explaining the steps that need to be built one on top of the other before someone can get to the point where they feel comfortable to shout out "Hey look! A pirate ship." 
 
 Another idea that comes out of Clark's book that I am particularly impressed with is the idea that providing psychological safety in creative teams is about increasing intellectual friction, while decreasing social friction.
 
 This is something that I've been struggling with since I've been a project manager. I find myself very often in the situation when I'm working with teams of having to point out that there are disagreements in the team, and that that is OK. 
-
+A final interesting and valuable idea that Clark discusses is the idea that creating psychological safety is about a relationship between cover/candour tradeoff. The more reassurance that the leader of a team can provide that there won't be any negative effects for being honest. The more honest team members will be. The more cover the leader provides, the more candour she will get from her team. 
 But there are two issues I have with psychological safety as a full solution. Firstly, real creative situations often aren't psychologically safe - and they never are going to be. There is always going to be a potential conflict between doing the right thing in terms of pointing out the pirate ship and being safe. If you point out the pirate ship, you run the risk of not only being shouted down, ignored, but even possibly kicked out of the team.
 
 Second, there's someone missing from it. The boss. Yes, increasing psychological safety for the team makes it more likely that the team will contribute and challenge. But what about the boss? Is she part of the team? Or is she part of an entirely different organisational setup? What is her role in *that* team? Is she trying to get her feet under the table and just get member safety? Is she trying to learn the ropes? Or is she really at the point where she can say to other people in her peer group "My team have identified this problem. It's something all your teams must also be experiencing. I'm surprised you haven't mentioned it. We need to fix it." What if your boss doesn't have challenger safety in the group that she's in. If she isn't at the point where she can say things like that in whatever forum she operates in, then we have a problem.
@@ -384,7 +378,7 @@ But what makes the boss feel safe? Here is the thing. What makes a boss *actuall
 
 What makes the boss feel safe are signs that the team are working hard and reassurances that everything is fine. 
 
-What makes the boss *actually* safe is a team that is working at a sustainable pace that is willing to bring up problems and opportunities that they identify as the work through a project. 
+What makes the boss *actually* safe is a team that is working at a sustainable pace that is willing to bring up problems and opportunities that they identify as they work through a project. 
 
 If you're a boss, here's how you give the projects in your care the best chance possible. You give the members of the teams that work on those projects as much cover as you can be to be candid, to let you know the problems that they're encountering. You also give them, to the best of your ability, the room for manoeuvre and resources that they need to solve these problems.
 
@@ -408,7 +402,7 @@ Understanding that the boss might be a in a team where they don't have psycholog
 
 This again reminds me of some of the ideas that Keith Johnstone talks about in his book "Impro." 
 
-The story that Johnstone tells is that he'd been trying to get the students that he was working with at the royal court to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme the biologist and writer Desmon Morris. He was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
+The story that Johnstone tells is that he'd been trying to get the students that he was working with at the royal court to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. He was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
 
 The point that Morris made in the TV programme was that most of these status-based exchanges aren't huge. There are no fights involved, there is no chest beating. The exchanges are tiny, fractional indications of who is higher and lower status. Who sits highest on the tree. Who is groomed first when two near equals agree to groom each other.
 
@@ -420,9 +414,9 @@ What I want to say is this. If we all wait until we aren't scared to start tackl
 
 If we're one of the bosses, it's our job to reward courage and provide cover for candour. An in turn, that requires courage our part as bosses, because *our* bosses might not like the truth either.
 
-I've spent most of my career as a project manager pointing out the pirate ships. I don't think I'm particlary brave. I think I'm just more clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option. 
+I've spent most of my career as a project manager pointing out the pirate ships. I don't think I'm particularly brave. I think I'm just more clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option. 
 
-When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is scrum. Another methods that shows up where there are problems is Kaban, with its idea of visualising the work in progress, and where it is in the process. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder."or (more commonly) "Work is taking so long to get from started to finished because there is just too much work in the system." 
+When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is scrum. Another method that shows up where there are problems is Kanban, with its idea of visualising the work in progress, and where it is in the process. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface with doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder."or (more commonly) "Work is taking so long to get from started to finished because there is just too much work in the system." 
 
 Oh dear. Well. There is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
