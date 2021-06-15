@@ -398,27 +398,34 @@ I've been talking about pirate ships. But what actual bad news might you need to
 
 "You aren't paying us."
 
-Understanding that the boss might be a in a team where they don't have psychological safety. But the problem we still have is that we need to tell the boss things that the boss doesn't want to hear. 
+It's extremely useful to understand that the boss might be a in a team where she doesn't have psychological safety. But the problem we still have is that we need to tell the boss things that the boss doesn't want to hear. 
 
 This again reminds me of some of the ideas that Keith Johnstone talks about in his book "Impro." 
 
-The story that Johnstone tells is that he'd been trying to get the students that he was working with at the royal court to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. He was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
+The story that Johnstone tells is that he'd been trying to get the students that he was working with at the royal court to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. Morris was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
 
 The point that Morris made in the TV programme was that most of these status-based exchanges aren't huge. There are no fights involved, there is no chest beating. The exchanges are tiny, fractional indications of who is higher and lower status. Who sits highest on the tree. Who is groomed first when two near equals agree to groom each other.
 
 So the next day, Johnstone went back to his studio and asked his students to improvise scenes. His only instruction for these scenes was that whatever one person said, the other person should try to either slightly elevate themselves, or lower themselves in status with what they say.
 
+This is a problem that project managers are always wrestling with. Bad news is humbling. Johnstone's insight is that in real life nearly everything is a status transaction. This is really bad news for project managers. But it explains a lot of the negative and unhelpful behaviour that we see from bosses when they get bad news.
+
+Why do Kings shoot the messenger? Because in that moment when the messenger arrives and spills the bad news, the messenger is lowering the status of the king and for the king, this is intolerable to the king. And in that moment he can easily solve the status problem, if not the problem of the lost battle that the messenger is reporting by having the messenger shot. So, guess what?
+
 What we've established from the beginning of this chapter is that if you don't tackle the pirate ships that you see on the horizon, your project will be a disaster. What we've also established is that the people who came up with the idea for a project will always be resistant to your spotting of the pirate ships. As a project manager, you might see your main job as managing this contradiction.
 
 What I want to say is this. If we all wait until we aren't scared to start tackling the pirate ship, the pirates will already have boarded and we'll be walking the plank. If we're working on the team, or if we're managing the team, we need to act, even when we're afraid. 
 
-If we're one of the bosses, it's our job to reward courage and provide cover for candour. An in turn, that requires courage our part as bosses, because *our* bosses might not like the truth either.
+If we're one of the bosses, it's our job to reward courage and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
 
-I've spent most of my career as a project manager pointing out the pirate ships. I don't think I'm particularly brave. I think I'm just more clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option. 
+I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well.
 
-When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is scrum. Another method that shows up where there are problems is Kanban, with its idea of visualising the work in progress, and where it is in the process. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface with doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder."or (more commonly) "Work is taking so long to get from started to finished because there is just too much work in the system." 
+I've spent most of my career as a project manager pointing out the pirate ships. I don't think I'm particularly brave. I think I'm just more clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option.
+ 
 
-Oh dear. Well. There is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
+When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is Scrum. Another method that shows up where there are problems is Kanban, with its idea of visualising the work in progress, and where it is in the process. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface with doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder," or (more commonly) "Work is taking so long to get from started to finished because there is just too much work in the system." 
+
+As we discussed in the introduction, there is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
 Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you names. "Negative," or "pessimist," or "unprofessional." But there are two good reasons why you still should do it.
 
