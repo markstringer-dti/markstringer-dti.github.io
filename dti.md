@@ -258,11 +258,11 @@ And so on.
 
 Why am I telling you this? Because, of course, this idea of agreed activity is useful, not just in improvised theatre, but also in project management. On a software development project, when a team comes across something that's the equivalent of a pirate ship, there's a strong tendency to avoid it. 
 
-People who work on a software development project will often prefer agreed activity to moving the action forward by tackling big, obvious problems. Like improvisers, they do this as a way of avoiding having to think or needing to change. And like improvisers, often the "decision" to avoid tackling the problems is taken without much discussion, or even conscious thinking. It's instinctive.
+People who work on a software development project will often prefer agreed activity to moving the action forward.  They will fill their days with simple problems that they know how to fix rather than tackling big, complex problems. Like improvisers, they do this as a way of avoiding having to think or needing to change. Often this "decision" to avoid tackling the problems is taken without much discussion, or even conscious thinking. It is instinctive. Just as it is with improvisers on stage.
 
 You might think what I'm saying here is that it's the nature of software development teams to be lazy and cowardly. I am not saying that. Not at all.
 
-The important thing to understand about agreed activity is that we all fall prey to it in new, uncomfortable and unpredictable situations. But, as in improv, there are things that we can do to help get us out of the deck mopping rut and move us on to tackling the pirate ship. 
+The important thing to understand about agreed activity is that we all fall prey to it. In new, uncomfortable and unpredictable situations we will all be tempted to revert to the easy, the unthinking and the familiar. But, as in improv, there are things that we can do to help get us out of the deck mopping rut and move us on to tackling the pirate ship. 
 
 In Agile project management there are lots of opportunities for the team to spot the pirate ship. Every day there's a "stand-up" meeting. The team talks about what they did the day before and what they're going to do today. And in stand-up, team members also talk about any problems they have that are blocking their progress. Reporting these "blockers" is the most important bit of the stand up. Because these blockers are the project's pirate ships.
 
@@ -326,7 +326,7 @@ The business analyst who we'd only just set eyes on and had only just joined the
 "No, it's in the requirements that cases should be arranged by account number."
 "But that makes no sense" someone with a Northern Irish accent joined in.
 "It's people who are victims of fraud, not just individual accounts," added someone with a Glaswegian accent.
-"We need to see all the accounts that a customer has and see the activity across all of them for this to make any sense," said another voice with an accent I didn't recognise.
+"We need to see all the accounts that a customer has. And we need to see the activity across all of their accounts,  for this screen to make any sense," said another voice with an accent I didn't recognise.
 
 Yes, that's right. The structure of this project was wrong from the very beginning. This problem hadn't been detected through months and months of analysis. But it took just five minutes of putting the working software (OK, I'll admit, it was only a front end) in front of the people who might use it to find the problem.  
 
@@ -360,17 +360,18 @@ Level 3 is being allowed to contribute in the group - contribution safety.
 
 Level 4 is being allowed to challenge what the group are doing - challenger safety. 
 
-These ideas, that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are useful for explaining the steps that need to be built one on top of the other before someone can get to the point where they feel comfortable to shout out "Hey look! A pirate ship." 
+These ideas, that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are very useful. It's good to undertand that on stage of psychological safety needs to be built on top of another. And that we need to be at the top of this staircase before we can comfortably shout "Hey look! A pirate ship." 
 
-Another idea that comes out of Clark's book that I am particularly impressed with is the idea that providing psychological safety in creative teams is about increasing intellectual friction, while decreasing social friction.
+For Clark, fostering psychological safety in creative teams is about trying to do two things at the same time. In a creative, problem-solving team, we need disagreements, we need different ideas. As Clark puts it, we need increasing intellectual friction. But at the same time, we don't want to spend all our time falling out and storing off. As Clark puts it, we need to be decreasing social friction.
 
 This is something that I've been struggling with since I've been a project manager. I find myself very often in the situation when I'm working with teams of having to point out that there are disagreements in the team, and that that is OK. 
-A final interesting and valuable idea that Clark discusses is the idea that creating psychological safety is about a relationship between cover/candour tradeoff. The more reassurance that the leader of a team can provide that there won't be any negative effects for being honest. The more honest team members will be. The more cover the leader provides, the more candour she will get from her team. 
+
+Another idea that Clark discusses is the idea that psychological safety is about a relationship between cover and candour. The more reassurance that the leader of a team can provide that there won't be any negative effects for being honest. The more honest team members will be. The more cover the leader provides, the more candour she will get from her team. 
 But there are two issues I have with psychological safety as a full solution. Firstly, real creative situations often aren't psychologically safe - and they never are going to be. There is always going to be a potential conflict between doing the right thing in terms of pointing out the pirate ship and being safe. If you point out the pirate ship, you run the risk of not only being shouted down, ignored, but even possibly kicked out of the team.
 
 Second, there's someone missing from it. The boss. Yes, increasing psychological safety for the team makes it more likely that the team will contribute and challenge. But what about the boss? Is she part of the team? Or is she part of an entirely different organisational setup? What is her role in *that* team? Is she trying to get her feet under the table and just get member safety? Is she trying to learn the ropes? Or is she really at the point where she can say to other people in her peer group "My team have identified this problem. It's something all your teams must also be experiencing. I'm surprised you haven't mentioned it. We need to fix it." What if your boss doesn't have challenger safety in the group that she's in. If she isn't at the point where she can say things like that in whatever forum she operates in, then we have a problem.
 
-This idea. That the boss is in a different team, and in that team, they might not be, probably won't be the boss, helps explain something that I'd known for a long time, but hadn't completely understood. It's what the writer Robert Anton Wilson calls "the SNAFU principle."
+This idea. The boss is in a different team, and in that team, they might not be, probably won't be the boss. This helps explain something that I'd known for a long time, but hadn't completely understood. It's what the writer Robert Anton Wilson calls "the SNAFU principle."
 
 >> Adequate communication flows freely between equals. Communication between non-equals is warped and distorted by second-circuit Domination and Submission rituals perpetuating communication jam and a Game Without End (From Robert Anton Wilson, Prometheus Rising).
 
@@ -378,7 +379,7 @@ But what makes the boss feel safe? Here is the thing. What makes a boss *actuall
 
 What makes the boss feel safe are signs that the team are working hard and reassurances that everything is fine. 
 
-What makes the boss *actually* safe is a team that is working at a sustainable pace that is willing to bring up problems and opportunities that they identify as they work through a project. 
+What makes the boss *actually* safe is a team that is working at a sustainable pace.  The boss is safest with a team that is willing to bring up problems and opportunities as they discovery them. 
 
 If you're a boss, here's how you give the projects in your care the best chance possible. You give the members of the teams that work on those projects as much cover as you can be to be candid, to let you know the problems that they're encountering. You also give them, to the best of your ability, the room for manoeuvre and resources that they need to solve these problems.
 
@@ -402,15 +403,17 @@ It's extremely useful to understand that the boss might be a in a team where she
 
 This again reminds me of some of the ideas that Keith Johnstone talks about in his book "Impro." 
 
-The story that Johnstone tells is that he'd been trying to get the students that he was working with at the royal court to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. Morris was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
+Johstone been trying to get the students that he was working with to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. Morris was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
 
 The point that Morris made in the TV programme was that most of these status-based exchanges aren't huge. There are no fights involved, there is no chest beating. The exchanges are tiny, fractional indications of who is higher and lower status. Who sits highest on the tree. Who is groomed first when two near equals agree to groom each other.
 
-So the next day, Johnstone went back to his studio and asked his students to improvise scenes. His only instruction for these scenes was that whatever one person said, the other person should try to either slightly elevate themselves, or lower themselves in status with what they say.
+So the next day, Johnstone went back to his studio and asked his students to improvise scenes. He had only one instruction for his students. Whatever one person said, the other person should try to lift themselves, or lower themselves in status with their reply.
 
 This is a problem that project managers are always wrestling with. Bad news is humbling. Johnstone's insight is that in real life nearly everything is a status transaction. This is really bad news for project managers. But it explains a lot of the negative and unhelpful behaviour that we see from bosses when they get bad news.
 
-Why do Kings shoot the messenger? Because in that moment when the messenger arrives and spills the bad news, the messenger is lowering the status of the king and for the king, this is intolerable to the king. And in that moment he can easily solve the status problem, if not the problem of the lost battle that the messenger is reporting by having the messenger shot. So, guess what?
+And I think I fucked this up for most of my career as a project manager. I think I might have - just now - realised that I've been repeatedly fucking this up.
+
+Why do Kings shoot the messenger? Because in that moment when the messenger arrives and spills the bad news, the messenger is lowering the status of the king. This is intolerable for the king. And in that moment he can easily solve the status problem. Sure the battle is lost. But he can have the messenger shot. So, guess what?
 
 What we've established from the beginning of this chapter is that if you don't tackle the pirate ships that you see on the horizon, your project will be a disaster. What we've also established is that the people who came up with the idea for a project will always be resistant to your spotting of the pirate ships. As a project manager, you might see your main job as managing this contradiction.
 
@@ -418,16 +421,16 @@ What I want to say is this. If we all wait until we aren't scared to start tackl
 
 If we're one of the bosses, it's our job to reward courage and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
 
-I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well.
+I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well. This is a bit of a revelation for me, just now, writing this book.
 
 I've spent most of my career as a project manager pointing out the pirate ships. I don't think I'm particularly brave. I think I'm just more clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option.
  
 
-When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is Scrum. Another method that shows up where there are problems is Kanban, with its idea of visualising the work in progress, and where it is in the process. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface with doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder," or (more commonly) "Work is taking so long to get from started to finished because there is just too much work in the system." 
+When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is Scrum. Another method that shows up where there are problems is Kanban.  Kanban's idea of visualising the work in progress, and where it is in the process is extremely powerful. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface with doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder." Most commonly, Kanban also shows "Work is taking so long to get from started to finished because there is just too much work in the system." 
 
 As we discussed in the introduction, there is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
-Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you names. "Negative," or "pessimist," or "unprofessional." But there are two good reasons why you still should do it.
+Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you names. They will call you "Negative," or "pessimist," or "unprofessional." Even if they aren't likely to actually shoot you. But there are two good reasons why you still should do it.
 
 Reason number one is that solving these problems is still the best chance you've got of delivering this project. Spotting the pirate ships and avoiding agreed activity is the single best way of making a project possible. Making it possible rather than impossible. That is a solid and compelling reason.  
 
@@ -558,7 +561,7 @@ So? What's the problem with problems? The problem with problems is that they tak
 
 Seems to me, this is the difficulty, right at the heart of project management and project development. It's one that I wonder people don't talk about more. Nothing makes a project appear less attractive than actually starting to do it. 
 
-In the middle of a chapter about fruit and flowers, I'm going to tell you a story about chicken soup. I was reading a book a while back by Robert Dilts. It was a book about how to persuade others of your opinion. Early in the book he explains that one of the things that it's important to understand is the mechanisms that we each have for understanding the difference between ideas and reality. He points out that this might be different for different people. But the first person we should understand is ourselves. How do we understand the difference between ideas and reality.  Dilts suggests an exercise.
+In the middle of a chapter about fruit and flowers, I'm going to tell you a story about chicken soup. I was reading a book a while back by Robert Dilts. It was a book about how to persuade others of your opinion. Dilts explains that we all have a mechanism for understanding the different between ideas and reality. It's important to understand our own mechanism. He points out that this might be different for different people. But the first person we should understand is ourselves. How do we understand the difference between ideas and reality.  Dilts suggests an exercise.
 
 1. Think of something that you did yesterday - a everyday thing like going to the shop or going for a walk.
 2. Think of something that you could have done yesterday, but you didn't.
@@ -603,19 +606,19 @@ But this of course, is exactly what a project manager does. This is exactly what
 
 What's the precise nature of the hole? The hole is the gap between the dream of a project and the reality. The dream is a shiny idea that got funding based on its superficial, unthinking attractiveness. The reality is a partial realisation of that idea that is in the world and delivers value. 
 
-It's like this. In order to get out of the hole - to the side that has a working product that provides value, you and your team need to solve the problems that you've identified with the dream. But when you start to identify the problems with the dream you make the people who came up with the dream and the people who are funding the dream scared and angry. 
+It's like this. You need to get out of the hole. You need to get to the other side. Thhe side that has a working product that provides value. And to that, you and your team need to solve the problems that you've identified with the dream. But when you start to identify the problems with the dream, you make the people who came up with the dream and the people who are funding the dream scared and angry. 
 
 To get out of the hole, you need time, and resources, and a clear-eyed view of the problems that need to be solved to get out you of the hole. But all those things upset the people who came up with the dream. 
 
-I'm a project manager, it's how I make my living. So, I want to be totally honest with myself. I'm going to spend a lot of time in holes. I'm writing a book for other project managers, I want to be totally honest with them as well. If they're going to do this for a living. Or if they've found themselves doing it right now, although they're swearing never again, I want them to admit to themselves that managing a project is deciding to jump into this hole. 
+I'm a project manager, it's how I make my living. So, I want to be totally honest with myself. I'm going to spend a lot of time in holes. I'm writing a book for other project managers, I want to be totally honest with them as well. Maybe this is what they intent to do for living. Maybe now that they've found themselves managing a project, they are swearing  "Never again." But still, I want them to admit to themselves that managing a project is deciding to jump into this hole. 
 
 What's the solution? Well, one solution is to never get in the hole, but set up a stall next to it. People who sell project management methodology training - they've set up a stand next to the hole. All manner of business coaches. They've also set up a stand next to the hole. You're getting paid to do stuff. It's a nice living. And you're not in the hole!
 
 But of course, if nobody is ever prepared to get in the hole, all of the stalls around it are out of business. Also, let's say that you're in the hole. Advice that you shouldn't have got in there, isn't exactly the most helpful kind of advice.
 
-A great, disreputable (he has a book which consists of his letters from open prison) advertising copywriter Gary Halbert tells a story that gives a clue to the answer. 
+Gary Halbert is a fabled and slightly disreputable copywriter. The book of his that you can buy from Amazon was written when he was in federal prison for fraud. But he tells a great story.
 
-He talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He guarantees them, that his hamburger stand is going to be more successful than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Vegan burgers. Kangaroo burgers. Kobe beef.
+Halbert talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He guarantees them, that his hamburger stand is going to be more successful than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Vegan burgers. Kangaroo burgers. Kobe beef.
 
 Finally, Gary Halbert tells them what he wants for his burger stand. Something that will beat anything they have come up with. A hungry crowd. They might even eat the vegan burgers.
 
@@ -623,7 +626,7 @@ The way out of the hole of project management is similar. The answer only partia
 
 Remember in the introduction where I said that the value of metaphors is that they can help you know what you're doing? This is most definitely the value of the "hole/hungry crowd" metaphor. 
 
-If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea without pissing them off so much that they just abandon you and let you starve - or fill in the hole.
+If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea. And you need to do this without pissing the bosses off so much that they just abandon you and let you starve - or fill in the hole.
 
 What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples. 
 
