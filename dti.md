@@ -283,7 +283,7 @@ Here's one of the many strange things about project management. Very often every
 
 This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks! Any more talk of a pirate ship and you're off the show." 
 
-A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once will be enough. The leadership response to reports of problems isn't positive and helpful. The leaders will already - in just one instance be on their way to creating one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. 
+A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once will be enough. If the leadership response to reports of problems isn't positive and helpful. The leaders will already - in just one instance be on their way to creating one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. 
 
 The team identified some problems. They explained to the leadership what those problems were. The leadership ignored them, or got angry, or suggested that if the team knew how to do their jobs, there wouldn't be a problem. The team noticed this. They understood. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
 
@@ -338,7 +338,7 @@ Well, it means something simple. If you work to discover the problems that your 
 
 This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improv shows boring? It's the same impulse that makes difficult but possible software projects impossible.
 
-Why? It's simple. Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of a job that they can't do? Maybe it means that someone hired the wrong people.
+Why? Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of a job that they can't do? Maybe it means that someone hired the wrong people.
 
 Highlighting the problems that a project throws up can be threatening to the sponsors of a project. What if the problem that you find is something that they haven't thought of and they don't know how to fix? They will be tempted to avoid addressing it, possibly by attacking or threatening the team for daring to raise the issue. 
 
@@ -360,36 +360,27 @@ Level 3 is being allowed to contribute in the group - contribution safety.
 
 Level 4 is being allowed to challenge what the group are doing - challenger safety. 
 
-These ideas, that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are very useful. It's good to undertand that on stage of psychological safety needs to be built on top of another. And that we need to be at the top of this staircase before we can comfortably shout "Hey look! A pirate ship." 
+These ideas, that Timothy R Clark outlines in his book "The 4 Stages of Psychological Safety" are very useful. It's good to understand that one stage of psychological safety needs to be built on top of another. And that we need to be at the top of this staircase before we can comfortably shout "Hey look! A pirate ship." 
 
-For Clark, fostering psychological safety in creative teams is about trying to do two things at the same time. In a creative, problem-solving team, we need disagreements, we need different ideas. As Clark puts it, we need increasing intellectual friction. But at the same time, we don't want to spend all our time falling out and storing off. As Clark puts it, we need to be decreasing social friction.
+For Clark, fostering psychological safety in creative teams is about trying to do two things at the same time. In a creative, problem-solving team, we need disagreements, we need different ideas. As Clark puts it, we need increasing intellectual friction. But at the same time, we don't want to spend all our time falling out and storming off. Again, as Clark puts it, we need to be decreasing social friction.
 
 This is something that I've been struggling with since I've been a project manager. I find myself very often in the situation when I'm working with teams of having to point out that there are disagreements in the team, and that that is OK. 
 
 Another idea that Clark discusses is the idea that psychological safety is about a relationship between cover and candour. The more reassurance that the leader of a team can provide that there won't be any negative effects for being honest. The more honest team members will be. The more cover the leader provides, the more candour she will get from her team. 
-But there are two issues I have with psychological safety as a full solution. Firstly, real creative situations often aren't psychologically safe - and they never are going to be. There is always going to be a potential conflict between doing the right thing in terms of pointing out the pirate ship and being safe. If you point out the pirate ship, you run the risk of not only being shouted down, ignored, but even possibly kicked out of the team.
 
-Second, there's someone missing from it. The boss. Yes, increasing psychological safety for the team makes it more likely that the team will contribute and challenge. But what about the boss? Is she part of the team? Or is she part of an entirely different organisational setup? What is her role in *that* team? Is she trying to get her feet under the table and just get member safety? Is she trying to learn the ropes? Or is she really at the point where she can say to other people in her peer group "My team have identified this problem. It's something all your teams must also be experiencing. I'm surprised you haven't mentioned it. We need to fix it." What if your boss doesn't have challenger safety in the group that she's in. If she isn't at the point where she can say things like that in whatever forum she operates in, then we have a problem.
+But there are two issues I have with the idea of fostering psychological safety as a full solution to the problem of the pirate ship. Firstly, real creative situations often aren't psychologically safe - and they never are going to be. There is always going to be a potential conflict between doing the right thing in terms of pointing out the pirate ship and being safe. If you point out the pirate ship, you run the risk of not only being shouted down, ignored, but even possibly kicked out of the team.
 
-This idea. The boss is in a different team, and in that team, they might not be, probably won't be the boss. This helps explain something that I'd known for a long time, but hadn't completely understood. It's what the writer Robert Anton Wilson calls "the SNAFU principle."
+Second, there's someone missing from it. The boss. Yes, increasing psychological safety for the team makes it more likely that the team will contribute and challenge. But what about the boss? Is she part of the team? Or is she part of an entirely different organisational setup? What is her role in *that* team? Is she trying to get her feet under the table and just get member safety? Is she trying to learn the ropes? Or is she really at the point where she can say to other people in her peer group "My team have identified this problem. It's something all your teams must also be experiencing. I'm surprised you haven't mentioned it. We need to fix it." What if your boss doesn't have challenger safety in the group that she's in? If she isn't at the point where she can say things like that in whatever forum she operates in, then we have a problem.
+
+This is the idea. The boss is in a different team, and in that team, they might not be, probably won't be the boss. And it helps explain something that I'd known for a long time, but hadn't really, completely, understood. It's what the writer Robert Anton Wilson calls "the SNAFU principle."
 
 >> Adequate communication flows freely between equals. Communication between non-equals is warped and distorted by second-circuit Domination and Submission rituals perpetuating communication jam and a Game Without End (From Robert Anton Wilson, Prometheus Rising).
 
-But what makes the boss feel safe? Here is the thing. What makes a boss *actually* safe and what makes a boss *feel* safe are almost two completely different things.
-
-What makes the boss feel safe are signs that the team are working hard and reassurances that everything is fine. 
-
-What makes the boss *actually* safe is a team that is working at a sustainable pace.  The boss is safest with a team that is willing to bring up problems and opportunities as they discovery them. 
-
-If you're a boss, here's how you give the projects in your care the best chance possible. You give the members of the teams that work on those projects as much cover as you can be to be candid, to let you know the problems that they're encountering. You also give them, to the best of your ability, the room for manoeuvre and resources that they need to solve these problems.
-
-But what about if you're talking to a boss. What if you're giving the boss bad news? 
-
-I've been talking about pirate ships. But what actual bad news might you need to communicate to a boss. Here are some examples, starting with the most common.
+I've been talking about pirate ships. And this is a metaphor, a euphemism, for problems and bad news. But what actual bad news might you need to communicate to a boss. Here are some examples, starting with the most common.
 
 "There's no way that this project is going to deliver for the proposed deadline."
 
-"This project is entirely dependent on Department X's system Q being ready - we just asked them about this, it doesn't exist."
+"This project is entirely dependent on Department X's system Q being ready. We just talked to someone from Department X, system Q doesn't exist."
 
 "What we're doing is probably illegal. We'd need to spend at least six months thrashing out what we can and can't do with the regulatory authorities."
 
@@ -399,36 +390,67 @@ I've been talking about pirate ships. But what actual bad news might you need to
 
 "You aren't paying us."
 
+"We showed this interface to some potential users, and they hated it."
+
 It's extremely useful to understand that the boss might be a in a team where she doesn't have psychological safety. But the problem we still have is that we need to tell the boss things that the boss doesn't want to hear. 
 
 This again reminds me of some of the ideas that Keith Johnstone talks about in his book "Impro." 
 
-Johstone been trying to get the students that he was working with to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. Morris was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
+Johnstone had been trying to get the students that he was working with to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. Morris was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
 
 The point that Morris made in the TV programme was that most of these status-based exchanges aren't huge. There are no fights involved, there is no chest beating. The exchanges are tiny, fractional indications of who is higher and lower status. Who sits highest on the tree. Who is groomed first when two near equals agree to groom each other.
 
-So the next day, Johnstone went back to his studio and asked his students to improvise scenes. He had only one instruction for his students. Whatever one person said, the other person should try to lift themselves, or lower themselves in status with their reply.
+The next day, Johnstone went back to his studio and asked his students to improvise scenes. He had only one instruction for his students. Whatever one person said, the other person should try to lift themselves, or lower themselves, just slightly, in status with their reply.
 
-This is a problem that project managers are always wrestling with. Bad news is humbling. Johnstone's insight is that in real life nearly everything is a status transaction. This is really bad news for project managers. But it explains a lot of the negative and unhelpful behaviour that we see from bosses when they get bad news.
+To Johnstone's delight, the result was that his students managed to produce natural sounding conversations.
 
-And I think I fucked this up for most of my career as a project manager. I think I might have - just now - realised that I've been repeatedly fucking this up.
+"Are you going anywhere nice on your holidays?"
+
+"Tahiti."
+
+"Ooh, that's sounds amazing, I'd love to go to Tahiti."
+
+"Well, my husband is working out in the South Pacific, so it's easiest if I go out and holiday near where he is? Are you going anywhere nice?"
+
+"Ibiza."
+
+"Oh I love Ibiza. We used to go there all the time before we had kids."
+
+"It's my first time."
+
+"Oh, I'm sure you'll love it."
+
+OK - now read this again. Who is high status? And what does the high status person do to (slightly) lower their status? Does this sound like a realistic conversation?
+
+This is a problem that project managers are always wrestling with. Bad news is humbling. Delivering it is a status transaction. Johnstone's insight is that in real life nearly everything is a status transaction. This is really bad news for project managers. But it explains a lot of the negative and unhelpful behaviour that we see from bosses when they get bad news. It also explains why so many teams recognise the bad news and then tell nobody about it.
 
 Why do Kings shoot the messenger? Because in that moment when the messenger arrives and spills the bad news, the messenger is lowering the status of the king. This is intolerable for the king. And in that moment he can easily solve the status problem. Sure the battle is lost. But he can have the messenger shot. So, guess what?
 
 What we've established from the beginning of this chapter is that if you don't tackle the pirate ships that you see on the horizon, your project will be a disaster. What we've also established is that the people who came up with the idea for a project will always be resistant to your spotting of the pirate ships. As a project manager, you might see your main job as managing this contradiction.
 
-What I want to say is this. If we all wait until we aren't scared to start tackling the pirate ship, the pirates will already have boarded and we'll be walking the plank. If we're working on the team, or if we're managing the team, we need to act, even when we're afraid. 
+If we all wait until we aren't scared to start tackling the pirate ship, the pirates will already have boarded and we'll be walking the plank. If we're working on the team, or if we're managing the team, we need to act, even when we're afraid. 
 
-If we're one of the bosses, it's our job to reward courage and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
+As well as drawing the valuable distinction between social friction and intellectual friction, Timothy R Clark highlights a trade off between cover and candour. If we're one of the bosses, it's our job to reward courage. What's courage, it's doing the right thing, in spite of our fears and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
 
-I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well. This is a bit of a revelation for me, just now, writing this book.
+And here comes and admissions. I think I fucked this up for most of my career as a project manager.
 
-I've spent most of my career as a project manager pointing out the pirate ships. I don't think I'm particularly brave. I think I'm just more clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option.
- 
+How? I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well. This is a bit of a revelation for me, just now, writing this book. The challenge is to point to the pirate ship on the horizon and tackle it. What makes this even more of a challenge is to find a way of doing that that doesn't undermine the bosses. This is my revelation - if, even subconsiously, even a little bit, you're also trying to use the fact that you've spotted this problem as a way of elevating your own status, things will go very badly indeed.
+
+I've spent most of my career as a project manager pointing out the pirate ships. I'm not brave. But I am clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option.
+
+But still, you have to find a way of bringing up these problems that doesn't attack the status of your boss. This seems to be a variation on the idea - nobody seems to be entirely sure where the quote originates - "Culture eats strategy for breakfast."
+
+Another way of thinking this (I wish I had known this 10 of 15 years ago) is this.
+
+>> If you try to use the severity of the situation as a way of challenging the hierarchy. The hierarchy will win, no matter what the cost to the organisation. Even if it means that the project will fail.
 
 When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is Scrum. Another method that shows up where there are problems is Kanban.  Kanban's idea of visualising the work in progress, and where it is in the process is extremely powerful. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface with doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder." Most commonly, Kanban also shows "Work is taking so long to get from started to finished because there is just too much work in the system." 
 
 As we discussed in the introduction, there is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
+
+In conclusion then, what should you do? Well, if you're the project manager on a project, you should look for agreed activity. When you find it, you should look for the pirate ships, the real problems that his low conflict, low impact work is hiding. 
+
+When you find the pirate ships, you need to fix what you can in the team. But you also need to find ways of bringing these problems to the attention of your boss in a way that doesn't threaten their status, and perhaps even enhances it.
 
 Dealing with the problems that you find and making them clear to your team and your sponsors can be a rough ride. It can be hard to stick to it. It needs an ability to talk about the real problems. It also needs the ability to be understanding when people call you names. They will call you "Negative," or "pessimist," or "unprofessional." Even if they aren't likely to actually shoot you. But there are two good reasons why you still should do it.
 
@@ -1226,3 +1248,6 @@ Gary Halbert. The Boron Letters.
 Timothy R. Clark.  The 4 Stages of Psychological Safety: Defining the Path to Inclusion and Innovation.
 
 Robert Anton Wilson. Prometheus Rising.
+
+David J Anderson. Kanban: Successful Evolutionary Change for Your Technology
+
