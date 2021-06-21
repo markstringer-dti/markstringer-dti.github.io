@@ -9,6 +9,8 @@
 
 
 ## Update History
+Update 20th June 2021 - "A revelation  - and an uncomfortable realisation"
+
 Update 15th June 2021 - Don't try to elevate your status by being the messenger of bad news - it's a really bad idea
 
 Upate 14th June 2021 - Adding stuff about status to the agreed activity chapter

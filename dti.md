@@ -432,7 +432,7 @@ If we all wait until we aren't scared to start tackling the pirate ship, the pir
 
 As well as drawing the valuable distinction between social friction and intellectual friction, Timothy R Clark highlights a trade off between cover and candour. If we're one of the bosses, it's our job to reward courage. What's courage, it's doing the right thing, in spite of our fears and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
 
-And here comes and admissions. I think I fucked this up for most of my career as a project manager.
+And here it comes. The admission. I think I fucked this up for most of my career as a project manager.
 
 How? I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well. This is a bit of a revelation for me, just now, writing this book. The challenge is to point to the pirate ship on the horizon and tackle it. What makes this even more of a challenge is to find a way of doing that that doesn't undermine the bosses. This is my revelation - if, even subconsiously, even a little bit, you're also trying to use the fact that you've spotted this problem as a way of elevating your own status, things will go very badly indeed.
 
