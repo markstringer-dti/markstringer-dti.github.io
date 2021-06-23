@@ -446,7 +446,9 @@ Another way of thinking this (I wish I had known this 10 of 15 years ago) is thi
 
 When you're looking at project management methodologies, it's worth looking for the ones that *do* publicise trouble. For me the one that does this most is Scrum. Another method that shows up where there are problems is Kanban.  Kanban's idea of visualising the work in progress, and where it is in the process is extremely powerful. Scrum is good at throwing up problems like "We can't access the office" or "The database that we're suppose to interface with doesn't exist." Kanban is good at throwing up problems like "Half the work in the system is waiting for answers to questions from a senior stakeholder." Most commonly, Kanban also shows "Work is taking so long to get from started to finished because there is just too much work in the system." 
 
-As we discussed in the introduction, there is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
+As we discussed in the introduction, there is a good chance that you picked this book up because you wanted to deliver what seems to be an impossible project. And in this chapter I think I've given you an important way of seeing projects that will help with this. Find the big problems that everyone is ignoring and, with the help of the team, tackle them. I think I've also explained why the team, and why the bosses might be ignoring those problems. Because they don't feel safe. Because they might have to change. Because they might have to think. 
+
+I'm keeping my word. But notice I'm not saying that I'll show you how delivering these projects is a walk in the park or a day at the beach. It might not be.
 
 In conclusion then, what should you do? Well, if you're the project manager on a project, you should look for agreed activity. When you find it, you should look for the pirate ships, the real problems that his low conflict, low impact work is hiding. 
 
@@ -461,25 +463,29 @@ But reason number two is possibly for me, just as important: I know what happens
 
 ## Chapter 3 - Trench Warfare
 
-Two members of my team were supposed to be putting their software on a client's machine. They'd written a script to run on a clean machine that would put our software where it needed to be. They'd tried the script on a practice machine. It had run without any problems. They kept trying to run the script on the client's machine. It kept failing.
+Two members of my team were supposed to be putting our software on a client's machine. They'd written a script to run on a clean machine that would put our software where it needed to be. They'd tried the script on a practice machine. It had run without any problems. They kept trying to run the script on the client's machine. It kept failing.
 
-They ran some diagnostic tests. The machines that they were putting the software on were supposed to be "clean". There weren't supposed to have any other software installed on them. They were supposed to just have the base operating system. But running the tools we had to check for problems, it turned out that they already had other software running on them. When guys from my team pointed this out to the people who were supplying the servers, they began to act very strangely.
+They ran some diagnostic tests. The machines that they were putting the software on were supposed to be "clean". They weren't supposed to have any other software installed on them. They were supposed to just have the base operating system. But running the tools we had, to check for problems, it turned out that they already had other software installed which was clashing with the stuff that we were trying add. When guys from my team pointed this out to the people who were supplying the servers, they began to act very strangely.
 
 It was a Sunday afternoon. And I was in an emergency meeting. The topic of the emergency meeting had been what we were going to do about the failure of my team to load our software on the client's machine. The client was implying very strongly that the reason we'd failed was because our guys weren't up to the job. Just like the guys in the server room, when I brought up the subject of other software already running on the servers the client became evasive. He moved the topic of the emergency meeting onto what we should do about our four o'clock emergency meeting. Our three o'clock emergency meeting had overrun so long that we were now in it. Or were we? Clearly this was something that we needed to spend time on our weekend discussing.
 
 Ultimately the mystery of software already running on the clean servers was solved. The company that was providing the servers was in dispute with the client's organisation. While they were in dispute, they were working to the letter of their written agreement.  The original agreement had been written months ago. It mentioned some software that should be installed. So, the server guys were providing servers that already had this software, even though they knew it would break ours. 
 
-That's part of why they were behaving so oddly. But the other part is that the written agreement to provide the servers was officially secret. So even as they saw our guys failing, and they knew why, they felt they weren't legally allowed to tell us. As the great philosopher James Brown once said "I don't know karate, but I know kerayzee" And that's what this was. Crazy.
+That's part of why they were behaving so oddly. But the other part is that the written agreement to provide the servers was officially secret. So even as they saw our guys failing, and they knew why, they felt they weren't legally allowed to tell us. As the great philosopher James Brown once said:
 
-Eventually we found out. Eventually it was admitted that there was no chance that the project could go live that week. I left the project the next week and never heard of it again, I'm certain it never delivered.
+>> "I don't know karate, but I know kerayzee"
+
+And that's what this was. Crazy.
+
+Eventually we found out. Eventually it was admitted that there was no chance that the project could go live that week. I left the project the next week and I never heard of it again, I'm certain it never delivered.
 
 I'm going to use the term "trench warfare" in this chapter. And I'm going to use it to mean any project which is going to fail unless the way it is set up, structured and managed is changed. Why are we talking about trench warfare now? Because in the last chapter, we were talking about pirate ships. Yes, I know, I know, I'm mixing metaphors. 
 
 What I mean by trench warfare is any project that is hugely expensive in terms of money, effort and human suffering and doesn't get anywhere. A main cause of trench warfare is a refusal (or active prevention) earlier in the project to deal with the problems that it faces. The main effect of this is pretty much guaranteed failure. But on the way to that inevitable conclusion, there is more and more strident demand for "agreed" activity. Activity at almost any cost, no matter how frantic, pointless and damaging it might be.
 
-Working late. Working weekends, holidays being cancelled or frowned on.  There is insistence on a "positive, can do attitude." These are signs that you're working on a trench warfare project. At the same time, trying to deal with the problems that the project faces that's not well received.  It's regarded as "negative" or "defeatist". 
+Working late. Working weekends, holidays being cancelled or frowned on.  There is an insistence on a "positive, can do attitude." These are signs that you're working on a trench warfare project. At the same time, trying to deal with the problems that the project faces is not well received.  It's regarded as "negative" or "defeatist". 
 
-Other signs are lots of staff leaving drinks and staff being signed off long-term sick, or with stress. Ex members of staff bringing lawsuits against the company, this is also a bad sign.
+Staff leaving drinks every Friday? Staff being signed off long-term sick? Or with stress? Ex members of staff bringing lawsuits against the company? These are also signs.
 
 I must confess, I still haven't found a way of remaining calm when I get a certain kind of complaint from senior management. The complaint that the team isn't looking stressed enough.
 
@@ -487,26 +493,36 @@ I have not found a way of communicating - without also giving away how annoyed I
 
 A trench warfare project is a bad situation. Experience of working on one can be one of the best reasons to get over your reluctance to tackle issues as soon as they come up. Once you have worked on a trench warfare project, you might be much keener to call out problems the minute you see them on your next project. But every now and then you are going to find yourselves working on a project which is working towards a ridiculous, undeliverable deadline. At the same time this project might be struggling with several other problems.
 
-If nobody is being sensible about the deadline, that greatly increases the chances they're also not being sensible about some other things. Maybe they are ignoring all the indications that the fancy new technology that the project uses isn't ready. Or maybe trying to get the project delivered "under the radar". Even though they know full well that at some point the giant "Monty Python" foot of regulation is going to stop it dead in its tracks. 
+If nobody is being sensible about the deadline, that greatly increases the chances they're also not being sensible about some other things. Maybe they are ignoring all the indications that the fancy new technology that the project uses isn't ready. Or maybe they are trying to get the project delivered "under the radar". Even though they know full well that at some point the giant "Monty Python" foot of regulation is going to stop it dead in its tracks. 
 
-I don't know if the reallife Jerry Springer actually said this or not. But in "Jerry Springer the Opera" the character of Jerry Springer says something that has stuck with me ever since I heard it: "I don't solve people's problems, I televise them."
+I don't know if the real life Jerry Springer actually said this or not. But in "Jerry Springer the Opera" the character of Jerry Springer says something that has stuck with me ever since I heard it: "I don't solve people's problems, I televise them."
 
 If you are working on a trench warfare project, that is exactly what you should be doing. Sure, go one better than Jerry, and solve the problems that you can solve, but the problems that you cannot solve? Broadcast them. Make sure everybody on the project knows what those problems are.
 
-Why? Because someone else may, if they want the project to succeed, be able to solve them. Another way to look at this is to look at some of the people who are giving you and your team a hard time. Those people who are saying that your team don't look worried or stressed enough. Those people who are saying that your members of your team don't care about the project. I mean look!  They took the whole weekend off! 
+Why? Because someone else may, if they want the project to succeed, be able to solve them. Another way to look at this is to look at some of the people who are giving you and your team a hard time. Those people who are saying that your team don't look worried or stressed enough. Those people who are saying that members of your team don't care about the project. I mean look!  They took the whole weekend off! 
 
-Why are people behaving like this? Let's be very clear. It doesn't work. It's doesn't make the project more likely to succeed. Code written at 2am on a Sunday morning is not going to make a project succeed. Most of Monday and Tuesday, if you're lucky, is going to be spent taking that exact same code out again. 
+Why are people behaving like this? Let's be very clear. It doesn't work. It's doesn't make the project more likely to succeed. It makes the project more likely to fail. Code written at 2am on a Sunday morning is not going to make a project succeed. Most of Monday and Tuesday, if you're lucky, January and February if you're not, is going to be spent taking that exact same code out again. 
 
 It might be that some of those people are only doing those things because they have no idea what else they can do. They want to make the project successful. They do not know how. If you make clear what the problems are that your team is encountering, you are giving those people who want the project to succeed more chance to help.
 
-The second thing that you can do is to deliver some of the thing that they want to some of the people who want it. This might not be anywhere near everything that has been asked for by the deadline. But if you can find one bit of software that you can release to some people who want it, you can completely change the nature of a project. In Agile terms, this is called "pull." Pull from outside a team that comes from demand from real users can be a truly wonderful thing. 
+The second thing that you can do is to deliver some of the thing that they want to some of the people who want it. This might not be anywhere near everything that has been asked for by the deadline. But if you can find one bit of software that you can release to some people who want it, you can completely change the nature of a project. In Agile terms, this is called "pull." Pull from outside a team that comes from demand from real users can be a wonderful thing. 
 
 Thirdly, one of the most revolutionary things that you can do, is to track and show the actual progress of a project. 
 
 
-This might be tough, but few things are as powerful as showing actual progress relative to the project's needs and expectations. In a way this is just a more extreme version of the "Jerry Springer" principle. This is one of the most powerful manoeuvres that I think an Agile project manager has in their toolbox. We'll go through it in detail, well at least one way to do it, in a later chapter.
+This might be tough, but few things are as powerful as showing actual progress relative to the project's needs and expectations. In a way this is just a more extreme version of the "Jerry Springer" principle. This is one of the most powerful manoeuvres that I think an Agile project manager has in their toolbox. 
 
-What if you can demonstrat that a project, as it's currently framed, can't be delivered by a deadline? That might result in accusations and recriminations. But it can result in sensible discussions about reduction of scope. This can then, sometimes, result in delivery of a small bit of working software to some of the people that want it. It may well seem that a project is dug-in, going nowhere and doing nothing but damage to the members of its team. But it's still worth doing these three things. 
+If I'm a one trick pony. This is my trick. Capturing and then showing actual progress.
+
+What? OK. Here's what you do. And it can work on most projects.
+
+1. Get a list of things. For now this can be a list of everything that anybody has ever thought this project might do. 
+2. Give these things a score. A number showing how big they are relative to each other. 
+3. Start to track progress.
+4. Put this progress on a chart.
+ 
+
+I'm using a military metaphor in this chapter. And an important thing about any battle. Is knowing where you are. And where you want to be. This can then, sometimes, result in delivery of a small bit of working software to some of the people that want it. It may well seem that a project is dug-in, going nowhere and doing nothing but damage to the members of its team. But it's still worth doing these three things. 
 
 1. Be honest about problems the project is facing. 
 2. Track actual progress. 
