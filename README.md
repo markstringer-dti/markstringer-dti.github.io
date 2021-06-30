@@ -9,7 +9,7 @@
 
 
 ## Update History
-Update 30th June 2021 [Blog post - what do you do when you're stuck?](blo/stuck.md)
+Update 30th June 2021 [Blog post - what do you do when you're stuck?](blog/stuck.md)
 
 Update 23rd June 2021 - "Looks like I'm going to have to do burnup charts here."
 
