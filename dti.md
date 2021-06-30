@@ -463,6 +463,10 @@ But reason number two is possibly for me, just as important: I know what happens
 
 ## Chapter 3 - Trench Warfare
 
+>> Following World War I, "trench warfare" became a byword for stalemate, attrition, sieges, and futility in conflict.
+
+>> From the "Trench Warfare entry in Wikipedia"
+
 Two members of my team were supposed to be putting our software on a client's machine. They'd written a script to run on a clean machine that would put our software where it needed to be. They'd tried the script on a practice machine. It had run without any problems. They kept trying to run the script on the client's machine. It kept failing.
 
 They ran some diagnostic tests. The machines that they were putting the software on were supposed to be "clean". They weren't supposed to have any other software installed on them. They were supposed to just have the base operating system. But running the tools we had, to check for problems, it turned out that they already had other software installed which was clashing with the stuff that we were trying add. When guys from my team pointed this out to the people who were supplying the servers, they began to act very strangely.
@@ -520,7 +524,12 @@ What? OK. Here's what you do. And it can work on most projects.
 2. Give these things a score. A number showing how big they are relative to each other. 
 3. Start to track progress.
 4. Put this progress on a chart.
- 
+5. Deal with the wailing gnashing of teeth, personal attacks, threats, denial, backstabbing and underhand manoeuvres. 
+6. Some actual progress in the right direction.
+
+By doing this you're tapping into one of the fundamental ways of thinking identified by the Nobel prize winning psychologist Daniel Kahneman - "What you see is all there is." WYSIATI. Daniel Kahneman's point is that a lot of our irrational behaviour and poor thinking can be explained by understanding that we do our thinking based on what we can immediately bring to mind. This has one very interesting implication. If you can change what people see, if you can change what they bring to mind, you can change what they think. 
+
+This is what we're doing by collecting together a list of all the work that needs doing and then tracking progress through it.
 
 I'm using a military metaphor in this chapter. And an important thing about any battle. Is knowing where you are. And where you want to be. This can then, sometimes, result in delivery of a small bit of working software to some of the people that want it. It may well seem that a project is dug-in, going nowhere and doing nothing but damage to the members of its team. But it's still worth doing these three things. 
 
@@ -530,27 +539,29 @@ I'm using a military metaphor in this chapter. And an important thing about any 
 
 Actually, there's a fourth. 
 
-4. Go home on time. Take your weekends off. Take holidays. See friends. Kiss your partner. Kiss your kids. Kick the dog. Oh my God. That's a joke. Don't kick the dog. Take the Dog for a walk so long you have to carry it home. Be gentle with yourself and those around you. Seriously. 
+4. Go home on time. Take your weekends off. Take holidays. See friends. Kiss your partner. Kiss your kids. Kick the dog. Oh my God. That's a joke. Don't kick the dog. Take the dog for a walk so long that you have to carry it home. Be gentle with yourself and those around you. Seriously. Be nice to the dog.
 
-If you keep doing these things, it might be that something can be done to save the trench warfare project that you're working on. But equally, it's important to remember that some projects cannot be saved. I don't *think* I've ever worked on a project that was being deliberately targeted to fail. But maybe I have. I have heard talk of such projects.
+If you keep doing these things (not just point 4, point's 1-3 as well), it might be that something can be done to save the trench warfare project that you're working on. But equally, it's important to remember that some projects cannot be saved. Not by you. Not right now.
 
-When I worked for a large, global consultancy, I was talking to the guy who was our main sales contact with a large UK bank. I happened to mention a project that I'd been trying to help. They were in deep trouble, I could see, but I couldn't exactly figure out why.
+It's important to understand that trench warfare was, for all the millions of people who were involved in it an insoluble problem. After the war was over there was the idea developed in English language commentaries that the allied soldiers were "Lions lead by donkeys." 
+
+Trench warfare was "emergent behaviour" that came out of a combination of technological and strategic techniques. The very short version is that guns got a lot better. The technological way out of the impasse probably involved the use of tanks. Probably, but not obviously. Tanks weren't technologically far enough evolved for their potential as battle winning weapons to be either obvious or immediately exploitable. 
+
+More immediately accessible as a potential solution might have been the devolution of some decision making to small semi-autonomous groups. Maybe. This was something that the German side did experiment with late in the war, and did have some success with.
+
+I don't *think* I've ever worked on a project that was being deliberately targeted to fail. But maybe I have. I have heard talk of such projects.
+
+I worked for a global consultancy. I was talking to the guy who was our main sales contact with a UK bank. I happened to mention a project that I'd been trying to help. They were in deep trouble, I could see, but I couldn't exactly figure out why.
 
 "Oh, yeah," he said. Grinning. We're letting that project fail.
 "What?"
-"Yes, when we sold them the team to work on the project, we tried to sell them our banking engine at the same time. They bought the team, but they insisted we work on this other banking engine. So, we're going to let the project fail. Then we'll suggest they use our banking engine." 
+"Yes, when we sold them the team to work on the project, we tried to sell them our banking engine at the same time. They bought the team, but they insisted on using this other banking engine. So, we're going to let the project fail. Then we'll suggest that they use our banking engine." 
 
-It is quite important to understand that you don't need to stay on any project that is failing. The people in the real trenches had to stay. If they didn't they'd be shot for desertion. You don't have to. Paul Simon points out that there are multiple ways to get out of a romantic situation. There might not be as many ways of getting off a project, but there are certainly a good few.
+It is important to understand that you don't need to stay on any project that is failing. The people in the real trenches had to stay. If they didn't they'd be shot for desertion. You don't have to. Paul Simon points out that there are multiple ways to get out of a romantic situation. There might not be as many ways of getting off a project, but there are certainly a good few.
 
-Of course, you can just find a new job. When you start to look you might be astounded to find that you're not the only person on that project. Others might also be looking. Recruiters have a good idea about which projects are going badly.
+Of course, you can just find a new job. When you start to look you might be astounded to find that you're not the only person on that project. Others might also be looking. Recruiters have a very good idea about which projects are going badly.
 
-But if you're in an organisation big enough to have more than one project on its books, you can probably get moved off a death march project.
-
-### Criticism
-
-### Contradiction
-
-### Confirmation 
+But if you're in an organisation big enough to have more than one project on its books, you can probably get moved off a trench warfare project. 
 ## Chapter 4 - Flowers and Fruit
 
 This is an idea that I picked up from reading about Taoism. There are two ways that you can get paid.
