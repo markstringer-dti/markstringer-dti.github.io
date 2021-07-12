@@ -595,7 +595,7 @@ Beyond that, the answers to this question are the major tactics for delivering t
 
 The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swap. The second is to deliver working software. 
 
-## Chapter 7 - The Swamp
+## Chapter N - The Swamp
 
 ### Concept
 Imagine that you've been given money to develop houses in a swamp. How would you go about doing that? Would you just start work? Or would you feel the need to do a little bit of exploration first? Wouldn't it be a good idea to know what's in the swamp first? Wouldn't it be a good idea to know the geology of the swamp? 
@@ -612,11 +612,11 @@ So, there are the people who are interested in the swamp - and then there's the 
 
 Why am I babbling about swamps? This is a book about project management. This is a book about delivering the impossible. The reason I'm talking about the swamp is because it works as a metaphor for software development. There are strong similarities between starting work on a new software development project and starting work in a swamp. 
 
-There are lot of people who have an interest in what you're doing. Some of those are directly associated with the project, some of those will directly benefit from the project. But there are also a lot of other people who are only distantly associated with your particular project, but they're still important. It may still be really good to keep those people happy and it might be a really bad idea to piss them off. Maybe you can't avoid pissing them off, it would still be good to know that you're doing it.
+There are lot of people who have an interest in what you're doing. Some of those are directly associated with the project, some of those will directly benefit from the project. But there are also a lot of other people who are only distantly associated with your particular project, but they're still important. It may still be really good to keep those people happy and it might be a really bad idea to piss them off. Maybe you can't avoid upsetting them, but it would still be good to know that you're doing it.
 
 At the same time, when you start work in the swamp, it's not obvious what value you can get out of it by doing work there. Yes, maybe houses, yes maybe factories. Maybe it's best as a garden. 
 
-I didn't really get it until I worked on one project. On this project I worked with a woman who did research with users. She really did research with users. As soon as the project started, she was starting to contact potential users of the product and arrange meetings. She was running workshops with users. First, she got to understand their "pain points." Then she got them to start to sketch, on pen and paper, interfaces that might start to address their pain. 
+I didn't really get it until I worked on one project. On this project I worked with a woman who did research with users. She really did research with users. As soon as the project started, she contacted potential users of the product and arranged meetings. She was running workshops with users. First, she got to understand their "pain points." Then she got them to start to sketch, on pen and paper, interfaces that might start to address their pain. 
 
 Then the designers made interfaces. They looked real, but at this stage they were still only models. These were taken out to be tested with users. If there were serious problems with them, they were modified and then tried again, with different users.
 
@@ -630,9 +630,9 @@ Do enough research on your users and you end up with a "stakeholder map". Do eve
 
 "What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. They all seemed sceptical. 
 
-It was a European Union funded project. The first aim of the project was to design an application that used tangible user interfaces. These are interfaces that you can get hold of, pick up and move around. The second aim of the project was to use these interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the title of the funding bid. Still, most of the software developers and search engine experts on the team were sceptical.  They didn't see the point of talking to users, especially since, in this case, our users were schoolchildren. But still we did it.
+It was a European Union funded project. The first aim of the project was to design an application that used tangible user interfaces. These are interfaces that you can get hold of, pick up and move around. The second aim of the project was to use these interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the title of the funding bid. Still, most of the software developers and search engine experts on the team were sceptical.  They didn't see the point of talking to users, especially since, in this case, our users were schoolchildren. But still, we did it.
 
-And what we found was really interesting. 
+And what we found was interesting. 
 
 One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For instance, they understood that there was a contradiction between statements like:
 
@@ -658,21 +658,21 @@ Here are some examples from other projects that I've worked on. These are situat
 
 This was quite possibly the coolest project that I've ever worked on. One of the guys who worked on the project was the ex-husband of a super model. 
 
-I was working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website. A website that would allow customers of a bank (not cool) to upload the photographs. Pictures that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. It seemed new and exciting.
+I was working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website. A website that would allow customers of a bank (not cool) to upload their photographs. Pictures that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. It seemed new and exciting.
 
 We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. 
 
 But then some people jumped out from behind some trees.  We found out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. I mean who would have thought? Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
 
-I was working with, possibly, the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. Actually, it was a potential business partner, in a business meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
+I was working with, possibly, the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So, it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. It was a potential business partner, in a meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
 
 You may lift your eyebrows the full quarter inch at a company that didn't talk to regulators before starting up in the money lending business. You can also see that research with users and mapping of stakeholders would make something really important very clear. There were people who lived miles from the "swamp" who cared what went on in there. And if these people weren't happy, the project would die.
 
 ### Criticism
 
-You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road."
+You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put it in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road" or even "I driven roads before, I don't need to look at this one." 
 
-Yes, controlling the car, and managing the team might be similar from project to project. But outside of the car, or the team, the environment can be very different. And my main point in using this metaphor of the swamp is that if you look out of the windscreen, you may well find that there isn't a road.  
+Yes, controlling the car, and managing the team might be similar from project to project. But outside of the car, or the team, the environment can be very different. And my main point in using this metaphor of the swamp is that if you look out through the windscreen, you may well find that there isn't a road.  
 
 Lots of people will say that user research is a waste of time, or isn't needed on this project. Actually, they won't even bother saying it, they just won't put any budget for it in their projects and they won't hire people to do it. Lots of people will see a software development project as merely that - a matter of software development.
 
@@ -680,9 +680,7 @@ Do you know what you should do if you're managing a team in this kind of situati
 
 And of course, generally the best way for team members with development skills to explore the swamp is with working software.
 
-[To here]
-
-Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford famously said something like "If I'd given the people what they want, I'd have given them a faster horse." When I talk about the swamp,  I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
+Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford famously said something like "If I'd given the people what they want, I'd have given them a faster horse." When I talk about the swamp, I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
 
 ### Confession
 
@@ -710,17 +708,17 @@ I decided to write this book in the open as "working software". And one of the j
 > Second, although user research is done; almost every project has some user research at some point; it gets ignored. It's all 'thank-you very much for this' and then they just go ahead and build crap.
 > So, maybe you want to write something about customers who pay lip service to UR and how you can still make progress when faced with such atrocities. And also, when the team KNOWS they are building crap but are told "we are paying for it so we can dictate how it should operate".
 
-Two things I'd say about this. Firstly, it's a really bad idea to have the user researchers working in a dedicated department. They need to be in the team. Yes, they might also need to regularly meet up with people of their own skill set. But they need to sit with the team and be part of the meetings that deliver transparency (stand-up, planning, show and tell, retro). My experience is that, at least initially nobody will like this. The user researchers would much rather just get on with doing their user research and then write a report. The developers don't want to have to change the flow of their UI. They don't want to change how a screen loads or totally rethink the logic of an application, because of research feedback from users. So both groups are much more comfortable sitting apart. Why do you think that is? Does this sound to you a lot like one group agreeing to mop the ship's floor and another group agreeing to stay in another corner polishing the woodwork? That's because that's exactly what this is. Double agreed activity.
+Two things I'd say about this. Firstly, it's a really bad idea to have the user researchers working in a dedicated department. They need to be in the team. Yes, they might also need to regularly meet up with people of their own skill set. But they need to sit with the team and be part of the meetings that deliver transparency (stand-up, planning, show and tell, retro). My experience is that, at least initially, nobody will like this. The user researchers would much rather just get on with doing their user research and then write a report. The developers don't want to have to change the flow of their UI. They don't want to change how a screen loads or totally rethink the logic of an application, because of research feedback from users. So, both groups are much more comfortable sitting apart. Why do you think that is? Does this sound to you a lot like one group agreeing to mop the ship's floor and another group agreeing to stay in another corner polishing the woodwork? That's because that's exactly what this is. Double agreed activity.
 
 If you want the project to be a success, you need to get user researchers in and amongst the developers. You need to get them to listen to each other. The more you do this, the better your chance will be. 
 
-The people who are building the swamp need to speak to the people who are talking to all of the people who are interested in the swamp. 
+The people who are building the swamp need to speak to the people who are talking to the people who are interested in the swamp. 
 
 You might feel bad about this, because, if you know what you're doing, you will know that you're creating conflict. But the kind of conflict that you're creating is the kind that we talked about when we talked about the pirate ship in chapter 2. One way of getting the improvisers to do the interesting thing rather than the boring thing is to have a director. Someone who sits at the side of the stage who shouts "deal with the pirate ship." What we're doing here is putting two points of view together and insisting that rather than just go off and do their own thing, they figure things out together. This probably needs somebody to do something like the director role. Someone who encourages it to happen.
 
 Don't worry too much if the user researchers you work with are juniors. Just worry about getting them to sit with your team and tell your team about what they're finding. Most software development projects don't have any user research at all. Also, you never know when some of the people who seem to you impossibly green will turn out to be superstars. 
 
-> A little story. I was on a User Research presentation for \[Big Org\] where they presented the user research. It was harrowing. Basically the entire user base said they wouldn't use the software (even though the law will make it mandatory soon). We had warnings before some of the recorded snippets of the language used by the users.
+> A little story. I was on a User Research presentation for \[Big Org\] where they presented the user research. It was harrowing. Basically, the entire user base said they wouldn't use the software (even though the law will make it mandatory soon). We had warnings before some of the recorded snippets of the language used by the users.
 > "If Big Org introduce this then I would just say "Fuck You Big Org" and I will rebel by doing everything on paper."
 > "I'm not doing this. I'm just not. What the actual fuck is this shit"
 > Yet, they are still building it - knowing full well that NO-ONE is going to use the software.
@@ -729,17 +727,17 @@ Well, let's think about this in "Swamp terms." Yes, there are some people who ar
 
 Users who are forced to comply with regulations often form an interest group or pressure group. There might be more than one. They represent those who are being regulated. Often whoever it is who is ignoring individual users may well still listen to representation from these groups. Think of it this way. Everybody has a boss, well almost everybody. And everybody has a constituency, a wider group of people that they would really like to please and would dearly love not to annoy. 
 
-So, user research isn't enough. You need to be mapping the stakeholders on your project and figuring out how to get to them. Maybe it's with user research, maybe it's with working software. I used to be very scared of ridiculous deadlines (I still don't love them). But what I've started to see is that they can be used as an opportunity to push working software further down the pipe. What if part of that process is getting the software working on a "live" test server? Obviously it wouldn't be using real data. But this could be the kind of thing that pressure groups could get a look at and have an opportunity to provide their - ahem - feedback.
+So, user research isn't enough. You need to be mapping the stakeholders on your project and figuring out how to get to them. Maybe it's with user research, maybe it's with working software. I used to be very scared of ridiculous deadlines (I still don't love them). But what I've started to see is that they can be used as an opportunity to push working software further down the pipe. What if part of that process is getting the software working on a "live" test server? Obviously, it wouldn't be using real data. But this could be the kind of thing that pressure groups could get a look at and have an opportunity to provide their - ahem - feedback.
 
 As I said a moment ago. Most projects don't have any user research *at all*. And yours might be one of those projects. It can be bad. It can be catastrophically dumb. But even when it is, there's still stuff you can do. 
 
 1. Do show and tells. Demonstrate to yourselves and to anyone who will watch and listen. Demonstrate the working software that your team has been working on that week. The development team are often reluctant to do this, especially if what they're working on doesn't have an obvious UI. It's still important that you insist that they do it.
 
-Invite people from all over your stakeholder map to your show and tells. Remember the story about the bank and the fraud project? Just one comment might let you know something that's vital for your project. Yes, it could derail your project, but when would you rather know? Sooner or later. 
+Invite people from all over your stakeholder map to your show and tells. Remember the story about the bank and the fraud project? Just one comment might let you know something that's vital for your project. Yes, it could derail your project, but when would you rather know? Sooner or later? 
 
 2. Embrace deadlines. Yeah, I said it. Embrace deadlines as opportunities to negotiate scope and set software free. Your bosses see deadlines as opportunities to fuck with you. They want to make you and your team work longer hours while giving them time off from thinking about what a product really needs to do. But you don't have to see them like that. You can see them as terribly clumsy ways of exploring the stakeholder map. The map of the swamp. If you do try to release something, who jumps out from behind a treed and tells you that you can't? Who suddenly appears and tries to take credit? Which non-functional requirement really is a deal breaker that stops the software from going live? Software wants to be free. You should want it to be free. You should do your best to help it. 
 
-3. Exploit crisis. What if your team *does* release software that nobody wants to use? What if your team *does* release software that nobody is allowed to use because it doesn't meet regulations. Yes, it's late in the day. But that doesn't mean it's to late to start to involve a user researcher. Yes, it's late in the day, but that doesn't mean that it's too late to start releasing software incrementally.
+3. Exploit crisis. What if your team *does* release software that nobody wants to use? What if your team *does* release software that nobody is allowed to use because it doesn't meet regulations? Yes, it's late in the day. But that doesn't mean it's too late to start to involve a user researcher. Yes, it's late in the day, but that doesn't mean that it's too late to start releasing software incrementally.
  
 ﻿
 
