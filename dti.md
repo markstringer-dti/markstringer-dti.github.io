@@ -402,7 +402,7 @@ The point that Morris made in the TV programme was that most of these status-bas
 
 The next day, Johnstone went back to his studio and asked his students to improvise scenes. He had only one instruction for his students. Whatever one person said, the other person should try to lift themselves, or lower themselves, just slightly, in status with their reply.
 
-To Johnstone's delight, the result was that his students managed to produce natural sounding conversations.
+To Johnstone was delighted with the results. Suddenly his students were having conversations that sounded like the way people normally talked.
 
 "Are you going anywhere nice on your holidays?"
 
@@ -430,11 +430,13 @@ What we've established from the beginning of this chapter is that if you don't t
 
 If we all wait until we aren't scared to start tackling the pirate ship, the pirates will already have boarded and we'll be walking the plank. If we're working on the team, or if we're managing the team, we need to act, even when we're afraid. 
 
-As well as drawing the valuable distinction between social friction and intellectual friction, Timothy R Clark highlights a trade off between cover and candour. If we're one of the bosses, it's our job to reward courage. What's courage, it's doing the right thing, in spite of our fears and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
+Timothy R Clark draws this valuable distinction. Social friction is going to happen - arguments, fall outs - going to happen. But too much is bad for a team. It's better if the team gets along. Intellectual friction is also going to happen, and it's essential. In new situations, when dealing with new problems, we have to expect disagreements, we have to be comfortable with different points of view. Managing the psychological safety of a team is about allowing intellectual friction. At the same time we need to ease social friction.
+
+But he also points out the importance of a trade off between cover and candour. If we're one of the bosses, it's our job to reward courage. What's courage, it's doing the right thing, in spite of our fears and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
 
 And here it comes. The admission. I think I fucked this up for most of my career as a project manager.
 
-How? I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well. This is a bit of a revelation for me, just now, writing this book. The challenge is to point to the pirate ship on the horizon and tackle it. What makes this even more of a challenge is to find a way of doing that that doesn't undermine the bosses. This is my revelation - if, even subconsiously, even a little bit, you're also trying to use the fact that you've spotted this problem as a way of elevating your own status, things will go very badly indeed.
+How? I think sometimes I've been unaware of this status transaction. And I think sometimes, I've mistakenly thought that I can exploit it. That I can raise my stature relative to my boss by pointing to the bad news. This has never turned out well. This is a bit of a revelation for me, just now, writing this book. The challenge is to point to the pirate ship on the horizon and tackle it. What makes this even more of a challenge is to find a way of doing that that doesn't undermine the bosses. This is my revelation. If you're trying to use the fact that you've spotted this problem as a way of elevating your own status, things will go very badly indeed.
 
 I've spent most of my career as a project manager pointing out the pirate ships. I'm not brave. But I am clear that *not* pointing out the pirate ships and not dealing with them will not work as a strategy. Once you've realised this - that keeping quiet when you see a problem is going to sink a project - it no longer becomes a real option.
 
@@ -469,11 +471,11 @@ But reason number two is possibly for me, just as important: I know what happens
 
 Two members of my team were supposed to be putting our software on a client's machine. They'd written a script to run on a clean machine that would put our software where it needed to be. They'd tried the script on a practice machine. It had run without any problems. They kept trying to run the script on the client's machine. It kept failing.
 
-They ran some diagnostic tests. The machines that they were putting the software on were supposed to be "clean". They weren't supposed to have any other software installed on them. They were supposed to just have the base operating system. But running the tools we had, to check for problems, it turned out that they already had other software installed which was clashing with the stuff that we were trying add. When guys from my team pointed this out to the people who were supplying the servers, they began to act very strangely.
+They ran some diagnostic tests. The machines that they were putting the software on were supposed to be "clean". They weren't supposed to have any other software installed on them. They were supposed to just have the base operating system. The the tools we had, to check for problems show that there was already software running on the machines. This was clashing with the stuff that we were trying to add. When the guys from my team pointed this out to the people who were supplying the servers, they began to act very strangely.
 
-It was a Sunday afternoon. And I was in an emergency meeting. The topic of the emergency meeting had been what we were going to do about the failure of my team to load our software on the client's machine. The client was implying very strongly that the reason we'd failed was because our guys weren't up to the job. Just like the guys in the server room, when I brought up the subject of other software already running on the servers the client became evasive. He moved the topic of the emergency meeting onto what we should do about our four o'clock emergency meeting. Our three o'clock emergency meeting had overrun so long that we were now in it. Or were we? Clearly this was something that we needed to spend time on our weekend discussing.
+A few days later. It was a Sunday afternoon. And I was in an emergency meeting. The topic of the emergency meeting had been what we were going to do about the failure of my team to load our software on the client's machine. The client was implying very strongly that the reason we'd failed was because our guys weren't up to the job. Just like the guys in the server room, when I brought up the subject of other software already running on the servers the client became evasive. He moved the topic of the emergency meeting onto what we should do about our four o'clock emergency meeting. Our three o'clock emergency meeting had overrun so long that we were now in it. Or were we? Clearly this was something that we needed to spend time on our weekend discussing.
 
-Ultimately the mystery of software already running on the clean servers was solved. The company that was providing the servers was in dispute with the client's organisation. While they were in dispute, they were working to the letter of their written agreement.  The original agreement had been written months ago. It mentioned some software that should be installed. So, the server guys were providing servers that already had this software, even though they knew it would break ours. 
+Ultimately the mystery of the software already running on the clean servers was solved. The company that was providing the servers was in dispute with the client's organisation. While they were in dispute, they were working to the letter of their written agreement.  The original agreement had been written months ago. It mentioned some software that should be installed. So, the server guys were providing servers that already had this software, even though they knew it would break ours. 
 
 That's part of why they were behaving so oddly. But the other part is that the written agreement to provide the servers was officially secret. So even as they saw our guys failing, and they knew why, they felt they weren't legally allowed to tell us. As the great philosopher James Brown once said:
 
@@ -495,11 +497,11 @@ I must confess, I still haven't found a way of remaining calm when I get a certa
 
 I have not found a way of communicating - without also giving away how annoyed I am - the basic truth about software development. Software development is about the "three Ts" - typing, thinking and talking. None of these are helped by being tired. None of these are helped by being stressed. None of these can be done well at three in the morning. 
 
-A trench warfare project is a bad situation. Experience of working on one can be one of the best reasons to get over your reluctance to tackle issues as soon as they come up. Once you have worked on a trench warfare project, you might be much keener to call out problems the minute you see them on your next project. But every now and then you are going to find yourselves working on a project which is working towards a ridiculous, undeliverable deadline. At the same time this project might be struggling with several other problems.
+A trench warfare project is a bad situation. Experience of working on one can be one of the best reasons to get over your reluctance to tackle issues as soon as they come up. Once you have worked on a trench warfare project, you might be much keener to call out problems the minute you see them on your next project. But every now and then you are going to find yourselves working on a project which is working towards a ridiculous, undeliverable deadline. At the same time, this project might be struggling with several other problems.
 
-If nobody is being sensible about the deadline, that greatly increases the chances they're also not being sensible about some other things. Maybe they are ignoring all the indications that the fancy new technology that the project uses isn't ready. Or maybe they are trying to get the project delivered "under the radar". Even though they know full well that at some point the giant "Monty Python" foot of regulation is going to stop it dead in its tracks. 
+If nobody is being sensible about the deadline, that greatly increases the chances that they are also not being sensible about some other things. Maybe they are ignoring all the indications that the fancy new technology that the project uses isn't ready. Or maybe they are trying to get the project delivered "under the radar". Even though they know full well that at some point the giant "Monty Python" foot of regulation is going to stop it dead in its tracks. 
 
-I don't know if the real life Jerry Springer actually said this or not. But in "Jerry Springer the Opera" the character of Jerry Springer says something that has stuck with me ever since I heard it: "I don't solve people's problems, I televise them."
+I don't know if the real-life Jerry Springer actually said this or not. But in "Jerry Springer the Opera" the character of Jerry Springer says something that has stuck with me ever since I heard it: "I don't solve people's problems, I televise them."
 
 If you are working on a trench warfare project, that is exactly what you should be doing. Sure, go one better than Jerry, and solve the problems that you can solve, but the problems that you cannot solve? Broadcast them. Make sure everybody on the project knows what those problems are.
 
@@ -524,10 +526,14 @@ What? OK. Here's what you do. And it can work on most projects.
 2. Give these things a score. A number showing how big they are relative to each other. 
 3. Start to track progress.
 4. Put this progress on a chart.
-5. Deal with the wailing gnashing of teeth, personal attacks, threats, denial, backstabbing and underhand manoeuvres. 
+5. Deal with the wailing gnashing of teeth. Deal with the personal attacks, threats, denial and backstabbing. Watch out for underhand manoeuvres. 
 6. Some actual progress in the right direction.
 
-By doing this you're tapping into one of the fundamental ways of thinking identified by the Nobel prize winning psychologist Daniel Kahneman - "What you see is all there is." WYSIATI. Daniel Kahneman's point is that a lot of our irrational behaviour and poor thinking can be explained by understanding that we do our thinking based on what we can immediately bring to mind. This has one very interesting implication. If you can change what people see, if you can change what they bring to mind, you can change what they think. 
+By doing this you're tapping into one of the fundamental ways in which people think. This is identified by the Nobel prize winning psychologist Daniel Kahneman in his book "Thinking fast and slow."  What's this way of thinking?
+
+>> What you see is all there is. 
+
+Daniel Kahneman's point is that a lot of our irrational behaviour and poor thinking can be explained by this principle. We don't do our thinking based on all the facts. We do our thinking based on what we can immediately bring to mind. This has one very interesting implication. If you can change what people see, if you can change what they bring to mind, you can change what they think. 
 
 This is what we're doing by collecting together a list of all the work that needs doing and then tracking progress through it.
 
@@ -543,17 +549,25 @@ Actually, there's a fourth.
 
 If you keep doing these things (not just point 4, point's 1-3 as well), it might be that something can be done to save the trench warfare project that you're working on. But equally, it's important to remember that some projects cannot be saved. Not by you. Not right now.
 
-It's important to understand that trench warfare was, for all the millions of people who were involved in it an insoluble problem. After the war was over there was the idea developed in English language commentaries that the allied soldiers were "Lions lead by donkeys." 
+It's also important to understand that trench warfare was, for all the millions of people who were involved in it an insoluble problem. After the war was over there was the idea developed in English language commentaries that the allied soldiers were "Lions lead by donkeys." 
 
-Trench warfare was "emergent behaviour" that came out of a combination of technological and strategic techniques. The very short version is that guns got a lot better. The technological way out of the impasse probably involved the use of tanks. Probably, but not obviously. Tanks weren't technologically far enough evolved for their potential as battle winning weapons to be either obvious or immediately exploitable. 
+But one of the points made by Norman Dixon in his book "The psychology of military incompetence" is that this is unfair for two reasons. 
 
-More immediately accessible as a potential solution might have been the devolution of some decision making to small semi-autonomous groups. Maybe. This was something that the German side did experiment with late in the war, and did have some success with.
+Firstly, the selection process, not the official process, but the de facto process by which officers rose to the most senior ranks in the British Army - and pretty much all armies - was one that actively discourage initiative and any kind of challenge to the status quo.
+
+Secondly, trench warfare was a hard problem.
+
+Trench warfare was "emergent behaviour". It came out of a combination of technological and strategic techniques. The very short version is that guns got a lot better. The technological way out of the impasse probably involved the use of tanks. Probably, but not obviously. Tanks weren't technologically far enough evolved. Their potential as battle winning weapons wasn't obvious or immediately exploitable. 
+
+A solution might have been the devolution of some decision making to small semi-autonomous groups. Maybe. This was something that the German side did experiment with late in the war. There were starting to have some success when the whole German nation ran out of food.
+
+So, if your project is in a total impasse, it might be that there is way out of the trenches using innovation. A novel combination of practice and technology might result in some powerful improvement.  
 
 I don't *think* I've ever worked on a project that was being deliberately targeted to fail. But maybe I have. I have heard talk of such projects.
 
 I worked for a global consultancy. I was talking to the guy who was our main sales contact with a UK bank. I happened to mention a project that I'd been trying to help. They were in deep trouble, I could see, but I couldn't exactly figure out why.
 
-"Oh, yeah," he said. Grinning. We're letting that project fail.
+"Oh, yeah," he said. Grinning. "We're letting that project fail."
 "What?"
 "Yes, when we sold them the team to work on the project, we tried to sell them our banking engine at the same time. They bought the team, but they insisted on using this other banking engine. So, we're going to let the project fail. Then we'll suggest that they use our banking engine." 
 
@@ -562,124 +576,171 @@ It is important to understand that you don't need to stay on any project that is
 Of course, you can just find a new job. When you start to look you might be astounded to find that you're not the only person on that project. Others might also be looking. Recruiters have a very good idea about which projects are going badly.
 
 But if you're in an organisation big enough to have more than one project on its books, you can probably get moved off a trench warfare project. 
-## Chapter 4 - Flowers and Fruit
 
-This is an idea that I picked up from reading about Taoism. There are two ways that you can get paid.
+Of course, you don't have to leave. You could just stay and get paid. You could look like you're paying attention whenever the bosses are around. You could pretend that the endless deadlines that come and go mean anything. Every now and then, you could stay late, or work all weekend to show that you're really dedicated to the cause.
 
-You can get paid for looking good and you can get paid for doing good. In Taoist terms. Getting paid for looking good is "Flowers" and getting paid for doing good is "Fruit."
+Of course, none of this is going to make the project any more likely to succeed. at some point, someone is going to realise that the project is going to be a failure and pull the plug. But you're getting paid right? You're inside out of the bad weather and there's no heavy lifting involved? 
 
-Don't get me wrong. It might seem as we go through this chapter that I'm down on flowers. I'm not down on flowers. Flowers are great. In project management, the part of flowers is played by ideas. 
+I dunno, I can't do it. But I've seen enough software development projects to know th at a lot of people can. In fact, for some people and some companies, it seems to be pretty much their business model. 
 
-People have ideas, those ideas get money and that's how projects are born. Something that some ideas and most flowers have in common is that people like them straight away. They don't have to think about it. It doesn't take any thought to like a rose. Of course, some people might not like roses. But the people who do? They don't have to take time to work it out. 
+What if you're one of the bosses of this project? What if you own this mess? What can you do? 
 
-Something similar seems to happen with some ideas. The kind of ideas that get money to turn into projects seem to have a structure that makes people like them without too much thought.  Just like flowers, those who are exposed to them tend to like them without doing much or any thinking.
+Well.
 
-Often ideas are talked about in these terms: easy, fast, cheap, same and all. Also sometimes an idea is described as same but different.
+First: find out what the real problems are that the project is facing. If a project is really failing, it's very probable that you teams won't be running retrospectives, so you might not know. Ask your teams to run retrospectives. Ask them to just tell you the top three things that are limiting their progress. Actually, get them to tell you just one thing that's limiting their progress. 
 
-For example - "Does everything that the old system does, but cheaper and faster."
+What is that thing that's stopping them? How can something be done to address it? And then be Jerry Springer about that thing. Televise it. Let everybody who should be interested and everyone who could possibly do something to fix that problem know about it.
 
-"Deals with all customer enquiries, without the need for human involvement."
+Beyond that, the answers to this question are the major tactics for delivering the impossible that we're going to talk about in the next couple of chapters. 
 
-"One stop shop for everybody who is trying to do this job."
+The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swap. The second is to deliver working software. 
 
-Just like flowers, ideas get paid for being attractive to people before they even think about it.
+## Chapter 7 - The Swamp
 
-What about fruit? What's the difference between fruit and flowers? The difference isn't that fruit is hard to grow. Flowers are also hard to grow. There's lots of effort involved in growing both. And although it might *look* easy to put together an attractive idea that can get money. Clearly it isn't. If it were, everybody would have managed to get money for their project. 
+### Concept
+Imagine that you've been given money to develop houses in a swamp. How would you go about doing that? Would you just start work? Or would you feel the need to do a little bit of exploration first? Wouldn't it be a good idea to know what's in the swamp first? Wouldn't it be a good idea to know the geology of the swamp? 
 
-No, the difference between fruit and flowers isn't that one is easier to do that the other. The difference is that the fruit has to actually be eaten. The users of fruit interact with it in a completely different way to the users of flowers.
+What if I told you that there were people who already live in the swamp? And that there's no way that you're going to be able to build without upsetting them? They don't want you to build there, they're quite happy just the way they are.
 
-Users eat fruit. They only look at flowers. Nobody ever died from looking at a flower. A sour apple can give you bad indigestion and some fruit is actually poisonous. 
+There are also people who are keen to move into the swamp when you have built some houses. They've already given the property developer money. They want you to build in the swamp fast, so they can move in. 
 
-Similarly, delivered projects need to give value to their users. This involves an interaction with users which is different from buying and selling flowers. Users have to actually get some good, some value out of using a software product. What 'good' that value, is, is different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit,if it doesn't taste right, users will spit it out. Also like fruit, if software isn't looked after properly, it could do them harm.
+But they aren't the only people interested in the swamp. There are people who care about building regulations everywhere. There are local government, national government and even global bodies that care about this stuff. There are people who you need to talk to about getting a road to come right up to the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp. These people might be eco activists. They might be political activists. The swamp might be on an ancient burial ground. It might be the site of an ancient temple.
 
-To be honest, I wish I were able to cite some other reference in support of this idea of "flowers and fruit" than a 2000 year old text. 
+So, there are the people who are interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold.
 
-But this has to be an important part of what managing any project is about. All projects need to move from "flowers" to "fruit". All projects start out as just ideas. The idea must have had some superficial attraction, because it got funding and resources. But for the project to succeed it needs to be moved to be "fruit". It's value needs to be not just superficial, but also fundamental. It needs to be sustaining. It needs to be something that people consume and get value from using.
+### Concrete Practice
 
-What makes this so hard? Well, one of the things that makes it so hard is the nature of project ideas that we talked about. Often what makes people like things straight away is that they don't require much thought, but they do suggest some of these features: easy, fast, cheap, same and all.
+Why am I babbling about swamps? This is a book about project management. This is a book about delivering the impossible. The reason I'm talking about the swamp is because it works as a metaphor for software development. There are strong similarities between starting work on a new software development project and starting work in a swamp. 
 
-The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using one of the more "modern", Agile project management methods. One of these methods is Scrum. In Scrum, team members meet at the beginning of the day and talk about what they did the previous day. They also talk about what they're going to do today. And they talk about anything that's stopping them from doing what they want to do. They do this every working day. If they're all in the same building, they tend to do this standing up, to deter the urge to end up sitting around and chatting. This is called the "stand up."
+There are lot of people who have an interest in what you're doing. Some of those are directly associated with the project, some of those will directly benefit from the project. But there are also a lot of other people who are only distantly associated with your particular project, but they're still important. It may still be really good to keep those people happy and it might be a really bad idea to piss them off. Maybe you can't avoid pissing them off, it would still be good to know that you're doing it.
 
-Once every two weeks, the team shows the work that it's been doing in the last two weeks.  The audience is made up of people in the organisation and also sometimes also users from outside who are interested. This is called the show and tell.
+At the same time, when you start work in the swamp, it's not obvious what value you can get out of it by doing work there. Yes, maybe houses, yes maybe factories. Maybe it's best as a garden. 
 
-The team also has a private meeting where they share what went well, what didn't go so well and what they might try differently.
+I didn't really get it until I worked on one project. On this project I worked with a woman who did research with users. She really did research with users. As soon as the project started, she was starting to contact potential users of the product and arrange meetings. She was running workshops with users. First, she got to understand their "pain points." Then she got them to start to sketch, on pen and paper, interfaces that might start to address their pain. 
 
-Can you see yet how there might be problems for the "Flowers" aspect of a project? This idea that people liked without thinking too much about it? The minute that a team starts to implement the idea of a project they will get problems. And if the team is using an Agile way of doing things, like Scrum, those problems will start to be reported. Right away. On day one.
+Then the designers made interfaces. They looked real, but at this stage they were still only models. These were taken out to be tested with users. If there were serious problems with them, they were modified and then tried again, with different users.
 
-So? What's the problem with problems? The problem with problems is that they take the the shine off the idea. Any problem that the team finds is likely to make the idea look harder to do, slower, more expensive, different and partial. Someone might find a problem early on that means the idea is a complete non-starter.
+This kept going. She hired another researcher, they both did research on users. I worked on this project for over three years. It never stopped. It didn't stop when we had working software that we could test with users. It didn't stop when we had a version of the software that had a copy of the user's sensitive data running on it. It certainly didn't stop when we went live. 
 
-Seems to me, this is the difficulty, right at the heart of project management and project development. It's one that I wonder people don't talk about more. Nothing makes a project appear less attractive than actually starting to do it. 
+I learned a lot from watching this happen. And there were a couple of things that were surprising about it for me. If you do this much research on your users, not only will you get to know a lot about your users - I mean, that's pretty obvious. But you'll get to know a lot about other people who are interested in the swamp, who aren't actually users. There were various other committees. We found other regulatory groups that our users needed to please and our product had to support. 
 
-In the middle of a chapter about fruit and flowers, I'm going to tell you a story about chicken soup. I was reading a book a while back by Robert Dilts. It was a book about how to persuade others of your opinion. Dilts explains that we all have a mechanism for understanding the different between ideas and reality. It's important to understand our own mechanism. He points out that this might be different for different people. But the first person we should understand is ourselves. How do we understand the difference between ideas and reality.  Dilts suggests an exercise.
+Do enough research on your users and you end up with a "stakeholder map". Do even more research on your users and you get a "stakeholder ecology." You start to understand not only who all the people are who have some interest in the swamp, but also how these stakeholders interact. You start to see what's really going on in the swamp. You start to see opportunities to do good and be a success, but you also see where there are dangers and problems and unhappy people.
 
-1. Think of something that you did yesterday - a everyday thing like going to the shop or going for a walk.
-2. Think of something that you could have done yesterday, but you didn't.
-3. Think about the difference between them?
+### Connections 
 
-I did this little experiment, sitting at my desk. I picked something very ordinary that I'd done the day before - I'd had a can of soup for lunch. And then I picked something relatively ordinary that I could have done - I could have had a bacon sandwich lunch. I love bacon sandwiches, but they are really a weekend treat rather than a weekday lunch. 
+"What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. They all seemed sceptical. 
 
-OK, so what was the different between them? What was the difference between the dream of the bacon sandwich and the reality of the chicken soup? I thought about it for a while. It's harder than you think it might be. Finally, the thing that I managed to latch on to, was that I had spilled the chicken soup on my shirt. And I was going out in the afternoon, so I'd had to change my shirt.
+It was a European Union funded project. The first aim of the project was to design an application that used tangible user interfaces. These are interfaces that you can get hold of, pick up and move around. The second aim of the project was to use these interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the title of the funding bid. Still, most of the software developers and search engine experts on the team were sceptical.  They didn't see the point of talking to users, especially since, in this case, our users were schoolchildren. But still we did it.
 
-That was the difference I found. With reality, something had gone wrong. Of course, with the dream of the bacon sandwich, nothing had gone wrong.
+And what we found was really interesting. 
 
-This is the fundamental problem with doing things. When you do things, things go wrong. Ideas don't have this problem. When I think of a bacon sandwich, I don't burn it. I don't have to make do with white sliced bread. I don't find that there's have a grain of butter left in the tube that I have spend half an hour scraping onto my knife. When I make chicken soup in reality, the first thing I do is spill it on my nice clean shirt.
+One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For instance, they understood that there was a contradiction between statements like:
 
-The same principle is working when you manage a project. 
+>> People should be able to express themselves freely
 
-So what can be done to solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine problems that the project is facing. That way failure or possibly trench warfare lies. And trench warfare is just slow, expensive and psychologically damaging.
+and 
 
-The project is entering a vulnerable, cold phase, where it is not supported and valued for the appeal of the idea. This is because we are starting to find out what is wrong with that idea. At the same time there is no support and value for the reality, because there is no reality. We don't have anything to show yet.
+>> It's against the law to paint messages on (most) outdoor buildings.
 
-As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to stop. In order to be a success, the project needs to push through this phase. This is what we talked about in Chapter two. We need to identify agreed activity and avoid it. We need to tackle the problems that we identify. It's also what we talked about in Chapter three. A project can get into an awful state if the problems that agreed activity is there to avoid aren't tackled. 
+What the kids did seem to need help with was putting the bits of evidence that they found into some kind of structure that worked like a persuasive argument. 
 
-So, someone who wants a project to do well shouldn't do anything to stop it moving into this phase. At the same time, you should know where you're going and what kind of things can - and should - be done to get you out the other side of this phase.
+So, we found that out about the residents of this particular swamp - through doing direct research with them. They didn't need any help understanding logic at all. What they needed help and support with was gathering evidence and putting it in a structure that sounded like a persuasive argument.
 
-There are two kinds of thing that you should be doing to get the project through this tough phase and on the road to success. And here's what makes this hard. Both of the kinds of things that you should be doing aren't often popular or well-received. They are the kinds of things that the sponsors of a project are likely to think of as either a pointless waste of time or the kind of thing that should be stopped. 
+But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp. Even so, they really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." Pretty much every lesson that the kids did had to show that it satisfied a specific learning requirement.  
 
-What are these two things? Working software, which I'll talk about in the next chapter and stakeholder research which I'll talk about in the chapter after that.
+We realised something after these early sessions. We needed to design our future research sessions so that they directly addressed something mentioned on the curriculum. And we needed to make it obvious to the teachers that that was what we were doing. Why? Because the teachers were also swamp residents. If we did this, it made it much easier for the teachers to support us. We made their lives just a little bit easier.
 
-What do I mean by stakeholder research? I mean developing a good understanding of who is interested in the product and what their interest is. Notice here that I'm not saying "user research." That's because stakeholder research doesn't just include users. It also includes other individuals, organisations and interest groups that might be interested in the product.
+Fortunately, we had an ex-teacher on our team. So, we could craft our research sessions so that they also made sense as curriculum focused lessons.
 
-So how do we do this? How do we achieve this move? From "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real working piece of software.
+We can discover that there are people who live far beyond the swamp who never-the-less have opinions about the swamp. We can do that by doing user research. And we've already talked about how we find people who jump out from behind trees. We do that by developing working software and putting it in the hands of users. 
 
-This is what we're going to talk about in the next couple of chapters. First we'll talk about working software. Why it's so important and how you should go about trying to get it into the hands of users as soon as you possibly can.
+Here are some examples from other projects that I've worked on. These are situations where it turned out that people who live far beyond the swamp still cared about what happened in the swamp.
 
-Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about conducting it so that it gives your project the maximum chance of success.
+This was quite possibly the coolest project that I've ever worked on. One of the guys who worked on the project was the ex-husband of a super model. 
 
+I was working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website. A website that would allow customers of a bank (not cool) to upload the photographs. Pictures that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. It seemed new and exciting.
 
-## Chapter TBD - The Hole
+We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. 
 
-The writer Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small missteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
+But then some people jumped out from behind some trees.  We found out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. I mean who would have thought? Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
 
-But this of course, is exactly what a project manager does. This is exactly what a project *is*. If you're a project manager, you have to jump in the hole. A project is a hole.  A project is the gap between an idea and a reality. If you're going to spend your career being a project manager, it isn't that you're going to spend your life avoiding holes. It isn't that you're going to occasionally fall into holes by accident. If you're a project manager, you're suppose to be in the hole. That's where you live.
+I was working with, possibly, the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. Actually, it was a potential business partner, in a business meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
 
-What's the precise nature of the hole? The hole is the gap between the dream of a project and the reality. The dream is a shiny idea that got funding based on its superficial, unthinking attractiveness. The reality is a partial realisation of that idea that is in the world and delivers value. 
+You may lift your eyebrows the full quarter inch at a company that didn't talk to regulators before starting up in the money lending business. You can also see that research with users and mapping of stakeholders would make something really important very clear. There were people who lived miles from the "swamp" who cared what went on in there. And if these people weren't happy, the project would die.
 
-It's like this. You need to get out of the hole. You need to get to the other side. Thhe side that has a working product that provides value. And to that, you and your team need to solve the problems that you've identified with the dream. But when you start to identify the problems with the dream, you make the people who came up with the dream and the people who are funding the dream scared and angry. 
+### Criticism
 
-To get out of the hole, you need time, and resources, and a clear-eyed view of the problems that need to be solved to get out you of the hole. But all those things upset the people who came up with the dream. 
+You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road."
 
-I'm a project manager, it's how I make my living. So, I want to be totally honest with myself. I'm going to spend a lot of time in holes. I'm writing a book for other project managers, I want to be totally honest with them as well. Maybe this is what they intent to do for living. Maybe now that they've found themselves managing a project, they are swearing  "Never again." But still, I want them to admit to themselves that managing a project is deciding to jump into this hole. 
+Yes, controlling the car, and managing the team might be similar from project to project. But outside of the car, or the team, the environment can be very different. And my main point in using this metaphor of the swamp is that if you look out of the windscreen, you may well find that there isn't a road.  
 
-What's the solution? Well, one solution is to never get in the hole, but set up a stall next to it. People who sell project management methodology training - they've set up a stand next to the hole. All manner of business coaches. They've also set up a stand next to the hole. You're getting paid to do stuff. It's a nice living. And you're not in the hole!
+Lots of people will say that user research is a waste of time, or isn't needed on this project. Actually, they won't even bother saying it, they just won't put any budget for it in their projects and they won't hire people to do it. Lots of people will see a software development project as merely that - a matter of software development.
 
-But of course, if nobody is ever prepared to get in the hole, all of the stalls around it are out of business. Also, let's say that you're in the hole. Advice that you shouldn't have got in there, isn't exactly the most helpful kind of advice.
+Do you know what you should do if you're managing a team in this kind of situation? You should do user research anyway. If you don't have somebody on the team who's a dedicated user researcher, you should still do some user research. You should do user research with the people in the team that you have. OK, it won't be anywhere near as good as user research done by professionals. But one of the main aims of doing this research should be to find out surprising stuff.  Then you can take what you find back to whoever is paying for the project. You can show them what you found and use it as a case for more user and stakeholder research. 
 
-Gary Halbert is a fabled and slightly disreputable copywriter. The book of his that you can buy from Amazon was written when he was in federal prison for fraud. But he tells a great story.
+And of course, generally the best way for team members with development skills to explore the swamp is with working software.
 
-Halbert talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He guarantees them, that his hamburger stand is going to be more successful than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Vegan burgers. Kangaroo burgers. Kobe beef.
+[To here]
 
-Finally, Gary Halbert tells them what he wants for his burger stand. Something that will beat anything they have come up with. A hungry crowd. They might even eat the vegan burgers.
+Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford famously said something like "If I'd given the people what they want, I'd have given them a faster horse." When I talk about the swamp,  I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
 
-The way out of the hole of project management is similar. The answer only partially lies in what you do at the bottom of the hole. Because the best way out of the project management hole is to be pulled out by the people on the "reality" side. If you have something that they want, they will pull you out.
+### Confession
 
-Remember in the introduction where I said that the value of metaphors is that they can help you know what you're doing? This is most definitely the value of the "hole/hungry crowd" metaphor. 
+I've worked on lots of projects where we either haven't done any user research, or haven't done anywhere near enough. When I was working at Cambridge, I worked on a project that was all about "iterative user centred design." But I still didn't really put together how important this was. You should do iterative design and development and it should be user centred. They only way to do that is to keep talking to users and keep putting working software in their hands. I still don't think I really got how important this was until much later. 
 
-If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea. And you need to do this without pissing the bosses off so much that they just abandon you and let you starve - or fill in the hole.
+Now that I've seen it really work, I'm convinced that it's one of the best ways of reducing the risk on a project. But it's still going to be very hard to persuade the people who are paying for that project that they need user researchers. And not just one, and not just at the beginning. They need people talking to users and potential users all the way through. It's even harder than getting support for development of working software.
 
-What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples. 
+The other thing that I should probably confess is that I don't know how to combine user research and the early development of working software. That is I don't know how to do it without creating conflict. For the best chance of project success, user research and stakeholder research needs to be brought together. And then it needs to be combined with all the other things that need to happen on a project. It's particularly important that it comes together with the production of working software. And then that software needs to be put in the hands of users. But doing this just seems to result in conflict. I mean, fighting. I mean, flouncing. I mean, people muttering. Doors banging. Words exchanged and sulking. Even people leaving the team. 
 
+I know that all of them need to be going on from almost the moment the project starts. User research, stakeholder research need to start.  But so does the development of working software. They all need to happen, together. And I know that doing them all at the same time gives the team - and the product - the best chance of success. What is success? That's what's achieved first by mapping the users and mapping the stakeholders. But soon after that you need to start to see how all these people interact with the software. 
 
+In some ways I feel bad that I'm making product development using software sound like a nine dimensional Rubik's cube. But what can I do? It is. 
+
+And in another way, I'm absolutely certain that the best chance any team has of developing a product is to be able to see all these aspects of a project. Remember the car from the previous chapter? Nothing good happens if you don't look out of the window.
+
+But of course, when you're driving, you don't pay attention to everything that you see through the windscreen equally. You're really on the look out for anything that might block the road. You're also looking for places where you have to make a decision - left? Right? Or straight on? There is intelligence and skill involved. Well of course, there doesn't *have* to be.
+
+### Feedback
+
+I decided to write this book in the open as "working software". And one of the joys of that is that I get feedback from real users. This feedback is from someone I've known for years. I'm not sure what is title is these days. But he's a senior tech guy who still writes software. Interestingly, what he has to say "drives home" the point I was just making about driving. It's not enough to have a clean windscreen. You have to look out of it. It's not enough to look out of the windscreen. You need to change your behaviour depending on what you see. There is nothing that can protect you from your own stupidity.
+
+> I've been reading Chapter 7 (The Swamp) and I have some observations that you may wish to write about.
+> Currently I am working at \[Huge Organisation\], where there is a dedicated department that does user research - lots and lots of it. All compliant with best practices. But....
+> Recently they've been cutting costs, and so have been reducing the experience in their user research department. Most people there are now new graduates or apprentices, and are now guided by a 'user research manual' that is effectively a step-by-step instruction book on how to conduct user research sessions - nothing about gleaning anything useful.
+> Second, although user research is done; almost every project has some user research at some point; it gets ignored. It's all 'thank-you very much for this' and then they just go ahead and build crap.
+> So, maybe you want to write something about customers who pay lip service to UR and how you can still make progress when faced with such atrocities. And also, when the team KNOWS they are building crap but are told "we are paying for it so we can dictate how it should operate".
+
+Two things I'd say about this. Firstly, it's a really bad idea to have the user researchers working in a dedicated department. They need to be in the team. Yes, they might also need to regularly meet up with people of their own skill set. But they need to sit with the team and be part of the meetings that deliver transparency (stand-up, planning, show and tell, retro). My experience is that, at least initially nobody will like this. The user researchers would much rather just get on with doing their user research and then write a report. The developers don't want to have to change the flow of their UI. They don't want to change how a screen loads or totally rethink the logic of an application, because of research feedback from users. So both groups are much more comfortable sitting apart. Why do you think that is? Does this sound to you a lot like one group agreeing to mop the ship's floor and another group agreeing to stay in another corner polishing the woodwork? That's because that's exactly what this is. Double agreed activity.
+
+If you want the project to be a success, you need to get user researchers in and amongst the developers. You need to get them to listen to each other. The more you do this, the better your chance will be. 
+
+The people who are building the swamp need to speak to the people who are talking to all of the people who are interested in the swamp. 
+
+You might feel bad about this, because, if you know what you're doing, you will know that you're creating conflict. But the kind of conflict that you're creating is the kind that we talked about when we talked about the pirate ship in chapter 2. One way of getting the improvisers to do the interesting thing rather than the boring thing is to have a director. Someone who sits at the side of the stage who shouts "deal with the pirate ship." What we're doing here is putting two points of view together and insisting that rather than just go off and do their own thing, they figure things out together. This probably needs somebody to do something like the director role. Someone who encourages it to happen.
+
+Don't worry too much if the user researchers you work with are juniors. Just worry about getting them to sit with your team and tell your team about what they're finding. Most software development projects don't have any user research at all. Also, you never know when some of the people who seem to you impossibly green will turn out to be superstars. 
+
+> A little story. I was on a User Research presentation for \[Big Org\] where they presented the user research. It was harrowing. Basically the entire user base said they wouldn't use the software (even though the law will make it mandatory soon). We had warnings before some of the recorded snippets of the language used by the users.
+> "If Big Org introduce this then I would just say "Fuck You Big Org" and I will rebel by doing everything on paper."
+> "I'm not doing this. I'm just not. What the actual fuck is this shit"
+> Yet, they are still building it - knowing full well that NO-ONE is going to use the software.
+
+Well, let's think about this in "Swamp terms." Yes, there are some people who are very rich and powerful. Ultimately, if they want to build something in the swamp that nobody wants to live in, they probably have the power to do that. A good question to ask is if there is *any* group of stakeholders who could have some influence over these rich and powerful people. The more stakeholder research you do, the more chance you might have to discover who these people might be. For example, in this case, if a form is mandated by government, then there are MP's and Ministers who have some interest. 
+
+Users who are forced to comply with regulations often form an interest group or pressure group. There might be more than one. They represent those who are being regulated. Often whoever it is who is ignoring individual users may well still listen to representation from these groups. Think of it this way. Everybody has a boss, well almost everybody. And everybody has a constituency, a wider group of people that they would really like to please and would dearly love not to annoy. 
+
+So, user research isn't enough. You need to be mapping the stakeholders on your project and figuring out how to get to them. Maybe it's with user research, maybe it's with working software. I used to be very scared of ridiculous deadlines (I still don't love them). But what I've started to see is that they can be used as an opportunity to push working software further down the pipe. What if part of that process is getting the software working on a "live" test server? Obviously it wouldn't be using real data. But this could be the kind of thing that pressure groups could get a look at and have an opportunity to provide their - ahem - feedback.
+
+As I said a moment ago. Most projects don't have any user research *at all*. And yours might be one of those projects. It can be bad. It can be catastrophically dumb. But even when it is, there's still stuff you can do. 
+
+1. Do show and tells. Demonstrate to yourselves and to anyone who will watch and listen. Demonstrate the working software that your team has been working on that week. The development team are often reluctant to do this, especially if what they're working on doesn't have an obvious UI. It's still important that you insist that they do it.
+
+Invite people from all over your stakeholder map to your show and tells. Remember the story about the bank and the fraud project? Just one comment might let you know something that's vital for your project. Yes, it could derail your project, but when would you rather know? Sooner or later. 
+
+2. Embrace deadlines. Yeah, I said it. Embrace deadlines as opportunities to negotiate scope and set software free. Your bosses see deadlines as opportunities to fuck with you. They want to make you and your team work longer hours while giving them time off from thinking about what a product really needs to do. But you don't have to see them like that. You can see them as terribly clumsy ways of exploring the stakeholder map. The map of the swamp. If you do try to release something, who jumps out from behind a treed and tells you that you can't? Who suddenly appears and tries to take credit? Which non-functional requirement really is a deal breaker that stops the software from going live? Software wants to be free. You should want it to be free. You should do your best to help it. 
+
+3. Exploit crisis. What if your team *does* release software that nobody wants to use? What if your team *does* release software that nobody is allowed to use because it doesn't meet regulations. Yes, it's late in the day. But that doesn't mean it's to late to start to involve a user researcher. Yes, it's late in the day, but that doesn't mean that it's too late to start releasing software incrementally.
+ 
 ﻿
 
 ## Chapter 5 - Working Software
@@ -895,6 +956,124 @@ What's important as you move through these difficult waters, is to keep in the d
 But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting you're getting feedback from users and stakeholders. And when people jump out from behind trees and tell you that you can't do what you're doing, you're ready for them. Actually you're never ready for the reasons that people will find to stop your software from going live. But at least you're finding out earlier rather than later.
 
 You need to move carefully along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp. 
+## Chapter 4 - Flowers and Fruit
+
+This is an idea that I picked up from reading about Taoism. There are two ways that you can get paid.
+
+You can get paid for looking good and you can get paid for doing good. In Taoist terms. Getting paid for looking good is "Flowers" and getting paid for doing good is "Fruit."
+
+Don't get me wrong. It might seem as we go through this chapter that I'm down on flowers. I'm not down on flowers. Flowers are great. In project management, the part of flowers is played by ideas. 
+
+People have ideas, those ideas get money and that's how projects are born. Something that some ideas and most flowers have in common is that people like them straight away. They don't have to think about it. It doesn't take any thought to like a rose. Of course, some people might not like roses. But the people who do? They don't have to take time to work it out. 
+
+Something similar seems to happen with some ideas. The kind of ideas that get money to turn into projects seem to have a structure that makes people like them without too much thought.  Just like flowers, those who are exposed to them tend to like them without doing much or any thinking.
+
+Often ideas are talked about in these terms: easy, fast, cheap, same and all. Also sometimes an idea is described as same but different.
+
+For example - "Does everything that the old system does, but cheaper and faster."
+
+"Deals with all customer enquiries, without the need for human involvement."
+
+"One stop shop for everybody who is trying to do this job."
+
+Just like flowers, ideas get paid for being attractive to people before they even think about it.
+
+What about fruit? What's the difference between fruit and flowers? The difference isn't that fruit is hard to grow. Flowers are also hard to grow. There's lots of effort involved in growing both. And although it might *look* easy to put together an attractive idea that can get money. Clearly it isn't. If it were, everybody would have managed to get money for their project. 
+
+No, the difference between fruit and flowers isn't that one is easier to do that the other. The difference is that the fruit has to actually be eaten. The users of fruit interact with it in a completely different way to the users of flowers.
+
+Users eat fruit. They only look at flowers. Nobody ever died from looking at a flower. A sour apple can give you bad indigestion and some fruit is actually poisonous. 
+
+Similarly, delivered projects need to give value to their users. This involves an interaction with users which is different from buying and selling flowers. Users have to actually get some good, some value out of using a software product. What 'good' that value, is, is different for different kinds of products. For example, it's very different for a social media product than it is for a government form. But like fruit,if it doesn't taste right, users will spit it out. Also like fruit, if software isn't looked after properly, it could do them harm.
+
+To be honest, I wish I were able to cite some other reference in support of this idea of "flowers and fruit" than a 2000 year old text. 
+
+But this has to be an important part of what managing any project is about. All projects need to move from "flowers" to "fruit". All projects start out as just ideas. The idea must have had some superficial attraction, because it got funding and resources. But for the project to succeed it needs to be moved to be "fruit". It's value needs to be not just superficial, but also fundamental. It needs to be sustaining. It needs to be something that people consume and get value from using.
+
+What makes this so hard? Well, one of the things that makes it so hard is the nature of project ideas that we talked about. Often what makes people like things straight away is that they don't require much thought, but they do suggest some of these features: easy, fast, cheap, same and all.
+
+The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using one of the more "modern", Agile project management methods. One of these methods is Scrum. In Scrum, team members meet at the beginning of the day and talk about what they did the previous day. They also talk about what they're going to do today. And they talk about anything that's stopping them from doing what they want to do. They do this every working day. If they're all in the same building, they tend to do this standing up, to deter the urge to end up sitting around and chatting. This is called the "stand up."
+
+Once every two weeks, the team shows the work that it's been doing in the last two weeks.  The audience is made up of people in the organisation and also sometimes also users from outside who are interested. This is called the show and tell.
+
+The team also has a private meeting where they share what went well, what didn't go so well and what they might try differently.
+
+Can you see yet how there might be problems for the "Flowers" aspect of a project? This idea that people liked without thinking too much about it? The minute that a team starts to implement the idea of a project they will get problems. And if the team is using an Agile way of doing things, like Scrum, those problems will start to be reported. Right away. On day one.
+
+So? What's the problem with problems? The problem with problems is that they take the the shine off the idea. Any problem that the team finds is likely to make the idea look harder to do, slower, more expensive, different and partial. Someone might find a problem early on that means the idea is a complete non-starter.
+
+Seems to me, this is the difficulty, right at the heart of project management and project development. It's one that I wonder people don't talk about more. Nothing makes a project appear less attractive than actually starting to do it. 
+
+In the middle of a chapter about fruit and flowers, I'm going to tell you a story about chicken soup. I was reading a book a while back by Robert Dilts. It was a book about how to persuade others of your opinion. Dilts explains that we all have a mechanism for understanding the different between ideas and reality. It's important to understand our own mechanism. He points out that this might be different for different people. But the first person we should understand is ourselves. How do we understand the difference between ideas and reality.  Dilts suggests an exercise.
+
+1. Think of something that you did yesterday - a everyday thing like going to the shop or going for a walk.
+2. Think of something that you could have done yesterday, but you didn't.
+3. Think about the difference between them?
+
+I did this little experiment, sitting at my desk. I picked something very ordinary that I'd done the day before - I'd had a can of soup for lunch. And then I picked something relatively ordinary that I could have done - I could have had a bacon sandwich lunch. I love bacon sandwiches, but they are really a weekend treat rather than a weekday lunch. 
+
+OK, so what was the different between them? What was the difference between the dream of the bacon sandwich and the reality of the chicken soup? I thought about it for a while. It's harder than you think it might be. Finally, the thing that I managed to latch on to, was that I had spilled the chicken soup on my shirt. And I was going out in the afternoon, so I'd had to change my shirt.
+
+That was the difference I found. With reality, something had gone wrong. Of course, with the dream of the bacon sandwich, nothing had gone wrong.
+
+This is the fundamental problem with doing things. When you do things, things go wrong. Ideas don't have this problem. When I think of a bacon sandwich, I don't burn it. I don't have to make do with white sliced bread. I don't find that there's have a grain of butter left in the tube that I have spend half an hour scraping onto my knife. When I make chicken soup in reality, the first thing I do is spill it on my nice clean shirt.
+
+The same principle is working when you manage a project. 
+
+So what can be done to solve this problem? What absolutely must not be done, as we discussed in chapters two and three, is to avoid the genuine problems that the project is facing. That way failure or possibly trench warfare lies. And trench warfare is just slow, expensive and psychologically damaging.
+
+The project is entering a vulnerable, cold phase, where it is not supported and valued for the appeal of the idea. This is because we are starting to find out what is wrong with that idea. At the same time there is no support and value for the reality, because there is no reality. We don't have anything to show yet.
+
+As someone who is trying to help this project get delivered, it is important to do two things. Firstly, it's important not to stop. In order to be a success, the project needs to push through this phase. This is what we talked about in Chapter two. We need to identify agreed activity and avoid it. We need to tackle the problems that we identify. It's also what we talked about in Chapter three. A project can get into an awful state if the problems that agreed activity is there to avoid aren't tackled. 
+
+So, someone who wants a project to do well shouldn't do anything to stop it moving into this phase. At the same time, you should know where you're going and what kind of things can - and should - be done to get you out the other side of this phase.
+
+There are two kinds of thing that you should be doing to get the project through this tough phase and on the road to success. And here's what makes this hard. Both of the kinds of things that you should be doing aren't often popular or well-received. They are the kinds of things that the sponsors of a project are likely to think of as either a pointless waste of time or the kind of thing that should be stopped. 
+
+What are these two things? Working software, which I'll talk about in the next chapter and stakeholder research which I'll talk about in the chapter after that.
+
+What do I mean by stakeholder research? I mean developing a good understanding of who is interested in the product and what their interest is. Notice here that I'm not saying "user research." That's because stakeholder research doesn't just include users. It also includes other individuals, organisations and interest groups that might be interested in the product.
+
+So how do we do this? How do we achieve this move? From "Flowers", where value and support for an idea comes from the idea itself to the "Fruit" where value and support comes from a real working piece of software.
+
+This is what we're going to talk about in the next couple of chapters. First we'll talk about working software. Why it's so important and how you should go about trying to get it into the hands of users as soon as you possibly can.
+
+Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about conducting it so that it gives your project the maximum chance of success.
+
+
+## Chapter TBD - The Hole
+
+The writer Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small missteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
+
+But this of course, is exactly what a project manager does. This is exactly what a project *is*. If you're a project manager, you have to jump in the hole. A project is a hole.  A project is the gap between an idea and a reality. If you're going to spend your career being a project manager, it isn't that you're going to spend your life avoiding holes. It isn't that you're going to occasionally fall into holes by accident. If you're a project manager, you're suppose to be in the hole. That's where you live.
+
+What's the precise nature of the hole? The hole is the gap between the dream of a project and the reality. The dream is a shiny idea that got funding based on its superficial, unthinking attractiveness. The reality is a partial realisation of that idea that is in the world and delivers value. 
+
+It's like this. You need to get out of the hole. You need to get to the other side. Thhe side that has a working product that provides value. And to that, you and your team need to solve the problems that you've identified with the dream. But when you start to identify the problems with the dream, you make the people who came up with the dream and the people who are funding the dream scared and angry. 
+
+To get out of the hole, you need time, and resources, and a clear-eyed view of the problems that need to be solved to get out you of the hole. But all those things upset the people who came up with the dream. 
+
+I'm a project manager, it's how I make my living. So, I want to be totally honest with myself. I'm going to spend a lot of time in holes. I'm writing a book for other project managers, I want to be totally honest with them as well. Maybe this is what they intent to do for living. Maybe now that they've found themselves managing a project, they are swearing  "Never again." But still, I want them to admit to themselves that managing a project is deciding to jump into this hole. 
+
+What's the solution? Well, one solution is to never get in the hole, but set up a stall next to it. People who sell project management methodology training - they've set up a stand next to the hole. All manner of business coaches. They've also set up a stand next to the hole. You're getting paid to do stuff. It's a nice living. And you're not in the hole!
+
+But of course, if nobody is ever prepared to get in the hole, all of the stalls around it are out of business. Also, let's say that you're in the hole. Advice that you shouldn't have got in there, isn't exactly the most helpful kind of advice.
+
+Gary Halbert is a fabled and slightly disreputable copywriter. The book of his that you can buy from Amazon was written when he was in federal prison for fraud. But he tells a great story.
+
+Halbert talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He guarantees them, that his hamburger stand is going to be more successful than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Vegan burgers. Kangaroo burgers. Kobe beef.
+
+Finally, Gary Halbert tells them what he wants for his burger stand. Something that will beat anything they have come up with. A hungry crowd. They might even eat the vegan burgers.
+
+The way out of the hole of project management is similar. The answer only partially lies in what you do at the bottom of the hole. Because the best way out of the project management hole is to be pulled out by the people on the "reality" side. If you have something that they want, they will pull you out.
+
+Remember in the introduction where I said that the value of metaphors is that they can help you know what you're doing? This is most definitely the value of the "hole/hungry crowd" metaphor. 
+
+If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea. And you need to do this without pissing the bosses off so much that they just abandon you and let you starve - or fill in the hole.
+
+What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples. 
+
+
 ﻿
 ## Chapter 6 - Driving a Car or The Empirical Process
 
@@ -1009,153 +1188,6 @@ Well, in terms of this metaphor, what he needs to do is to keep his windscreen c
 But do you know what he really needs? He needs yet another metaphor. He needs someone to tell him about the swamp.
 
 
-
-## Chapter 7 - The Swamp
-
-### Concept
-Imagine that you've been given money to develop houses in a swamp. How would you go about doing that? Would you just start work? Or would you feel the need to do a little bit of exploration first? Wouldn't it be a good idea to know what's in the swamp first? Wouldn't it be a good idea to know the geology of the swamp? 
-
-What if I told you that there were people who already live in the swamp? And that there's no way that you're going to be able to build without upsetting them? They don't want you to build there, they're quite happy just the way they are.
-
-There are also people who are keen to move into the swamp when you have built some houses. They've already given the property developer money. They want you to build in the swamp fast, so they can move in. 
-
-But they aren't the only people interested in the swamp. There are people who care about building regulations everywhere. There are local government, national government and even global bodies that care about this stuff. There are people who you need to talk to about getting a road to come right up to the swamp, and power and sewerage. And there are people who don't care about you, don't care about the property developers, all they care about is the swamp. These people might be eco activists. They might be political activists. The swamp might be on an ancient burial ground. It might be the site of an ancient temple.
-
-So, there are the people who are interested in the swamp - and then there's the swamp. Maybe there are new species of animal there, interesting to science. Maybe there are new species of plant, unknown to western medicine, but the locals use them as a miracle cure. Maybe there's oil. Maybe there's gold.
-
-### Concrete Practice
-
-Why am I babbling about swamps? This is a book about project management. This is a book about delivering the impossible. The reason I'm talking about the swamp is because it works as a metaphor for software development. There are strong similarities between starting work on a new software development project and starting work in a swamp. 
-
-There are lot of people who have an interest in what you're doing. Some of those are directly associated with the project, some of those will directly benefit from the project. But there are also a lot of other people who are only distantly associated with your particular project, but they're still important. It may still be really good to keep those people happy and it might be a really bad idea to piss them off. Maybe you can't avoid pissing them off, it would still be good to know that you're doing it.
-
-At the same time, when you start work in the swamp, it's not obvious what value you can get out of it by doing work there. Yes, maybe houses, yes maybe factories. Maybe it's best as a garden. 
-
-I didn't really get it until I worked on one project. On this project I worked with a woman who did research with users. She really did research with users. As soon as the project started, she was starting to contact potential users of the product and arrange meetings. She was running workshops with users. First, she got to understand their "pain points." Then she got them to start to sketch, on pen and paper, interfaces that might start to address their pain. 
-
-Then the designers made interfaces. They looked real, but at this stage they were still only models. These were taken out to be tested with users. If there were serious problems with them, they were modified and then tried again, with different users.
-
-This kept going. She hired another researcher, they both did research on users. I worked on this project for over three years. It never stopped. It didn't stop when we had working software that we could test with users. It didn't stop when we had a version of the software that had a copy of the user's sensitive data running on it. It certainly didn't stop when we went live. 
-
-I learned a lot from watching this happen. And there were a couple of things that were surprising about it for me. If you do this much research on your users, not only will you get to know a lot about your users - I mean, that's pretty obvious. But you'll get to know a lot about other people who are interested in the swamp, who aren't actually users. There were various other committees. We found other regulatory groups that our users needed to please and our product had to support. 
-
-Do enough research on your users and you end up with a "stakeholder map". Do even more research on your users and you get a "stakeholder ecology." You start to understand not only who all the people are who have some interest in the swamp, but also how these stakeholders interact. You start to see what's really going on in the swamp. You start to see opportunities to do good and be a success, but you also see where there are dangers and problems and unhappy people.
-
-### Connections 
-
-"What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. They all seemed sceptical. 
-
-It was a European Union funded project. The first aim of the project was to design an application that used tangible user interfaces. These are interfaces that you can get hold of, pick up and move around. The second aim of the project was to use these interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the title of the funding bid. Still, most of the software developers and search engine experts on the team were sceptical.  They didn't see the point of talking to users, especially since, in this case, our users were schoolchildren. But still we did it.
-
-And what we found was really interesting. 
-
-One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For instance, they understood that there was a contradiction between statements like:
-
->> People should be able to express themselves freely
-
-and 
-
->> It's against the law to paint messages on (most) outdoor buildings.
-
-What the kids did seem to need help with was putting the bits of evidence that they found into some kind of structure that worked like a persuasive argument. 
-
-So, we found that out about the residents of this particular swamp - through doing direct research with them. They didn't need any help understanding logic at all. What they needed help and support with was gathering evidence and putting it in a structure that sounded like a persuasive argument.
-
-But when we started to do this research in real schools, we found out about some other people who didn't live in the swamp. Even so, they really cared about what happened in it - the government. At the time when we did this research, the government insisted that all the schools in England follow a "National Curriculum." Pretty much every lesson that the kids did had to show that it satisfied a specific learning requirement.  
-
-We realised something after these early sessions. We needed to design our future research sessions so that they directly addressed something mentioned on the curriculum. And we needed to make it obvious to the teachers that that was what we were doing. Why? Because the teachers were also swamp residents. If we did this, it made it much easier for the teachers to support us. We made their lives just a little bit easier.
-
-Fortunately, we had an ex-teacher on our team. So, we could craft our research sessions so that they also made sense as curriculum focused lessons.
-
-We can discover that there are people who live far beyond the swamp who never-the-less have opinions about the swamp. We can do that by doing user research. And we've already talked about how we find people who jump out from behind trees. We do that by developing working software and putting it in the hands of users. 
-
-Here are some examples from other projects that I've worked on. These are situations where it turned out that people who live far beyond the swamp still cared about what happened in the swamp.
-
-This was quite possibly the coolest project that I've ever worked on. One of the guys who worked on the project was the ex-husband of a super model. 
-
-I was working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website. A website that would allow customers of a bank (not cool) to upload the photographs. Pictures that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. It seemed new and exciting.
-
-We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. 
-
-But then some people jumped out from behind some trees.  We found out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. I mean who would have thought? Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
-
-I was working with, possibly, the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. Actually, it was a potential business partner, in a business meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
-
-You may lift your eyebrows the full quarter inch at a company that didn't talk to regulators before starting up in the money lending business. You can also see that research with users and mapping of stakeholders would make something really important very clear. There were people who lived miles from the "swamp" who cared what went on in there. And if these people weren't happy, the project would die.
-
-### Criticism
-
-You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road."
-
-Yes, controlling the car, and managing the team might be similar from project to project. But outside of the car, or the team, the environment can be very different. And my main point in using this metaphor of the swamp is that if you look out of the windscreen, you may well find that there isn't a road.  
-
-Lots of people will say that user research is a waste of time, or isn't needed on this project. Actually, they won't even bother saying it, they just won't put any budget for it in their projects and they won't hire people to do it. Lots of people will see a software development project as merely that - a matter of software development.
-
-Do you know what you should do if you're managing a team in this kind of situation? You should do user research anyway. If you don't have somebody on the team who's a dedicated user researcher, you should still do some user research. You should do user research with the people in the team that you have. OK, it won't be anywhere near as good as user research done by professionals. But one of the main aims of doing this research should be to find out surprising stuff.  Then you can take what you find back to whoever is paying for the project. You can show them what you found and use it as a case for more user and stakeholder research. 
-
-And of course, generally the best way for team members with development skills to explore the swamp is with working software.
-
-[To here]
-
-Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford famously said something like "If I'd given the people what they want, I'd have given them a faster horse." When I talk about the swamp,  I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
-
-### Confession
-
-I've worked on lots of projects where we either haven't done any user research, or haven't done anywhere near enough. When I was working at Cambridge, I worked on a project that was all about "iterative user centred design." But I still didn't really put together how important this was. You should do iterative design and development and it should be user centred. They only way to do that is to keep talking to users and keep putting working software in their hands. I still don't think I really got how important this was until much later. 
-
-Now that I've seen it really work, I'm convinced that it's one of the best ways of reducing the risk on a project. But it's still going to be very hard to persuade the people who are paying for that project that they need user researchers. And not just one, and not just at the beginning. They need people talking to users and potential users all the way through. It's even harder than getting support for development of working software.
-
-The other thing that I should probably confess is that I don't know how to combine user research and the early development of working software. That is I don't know how to do it without creating conflict. For the best chance of project success, user research and stakeholder research needs to be brought together. And then it needs to be combined with all the other things that need to happen on a project. It's particularly important that it comes together with the production of working software. And then that software needs to be put in the hands of users. But doing this just seems to result in conflict. I mean, fighting. I mean, flouncing. I mean, people muttering. Doors banging. Words exchanged and sulking. Even people leaving the team. 
-
-I know that all of them need to be going on from almost the moment the project starts. User research, stakeholder research need to start.  But so does the development of working software. They all need to happen, together. And I know that doing them all at the same time gives the team - and the product - the best chance of success. What is success? That's what's achieved first by mapping the users and mapping the stakeholders. But soon after that you need to start to see how all these people interact with the software. 
-
-In some ways I feel bad that I'm making product development using software sound like a nine dimensional Rubik's cube. But what can I do? It is. 
-
-And in another way, I'm absolutely certain that the best chance any team has of developing a product is to be able to see all these aspects of a project. Remember the car from the previous chapter? Nothing good happens if you don't look out of the window.
-
-But of course, when you're driving, you don't pay attention to everything that you see through the windscreen equally. You're really on the look out for anything that might block the road. You're also looking for places where you have to make a decision - left? Right? Or straight on? There is intelligence and skill involved. Well of course, there doesn't *have* to be.
-
-### Feedback
-
-I decided to write this book in the open as "working software". And one of the joys of that is that I get feedback from real users. This feedback is from someone I've known for years. I'm not sure what is title is these days. But he's a senior tech guy who still writes software. Interestingly, what he has to say "drives home" the point I was just making about driving. It's not enough to have a clean windscreen. You have to look out of it. It's not enough to look out of the windscreen. You need to change your behaviour depending on what you see. There is nothing that can protect you from your own stupidity.
-
-> I've been reading Chapter 7 (The Swamp) and I have some observations that you may wish to write about.
-> Currently I am working at \[Huge Organisation\], where there is a dedicated department that does user research - lots and lots of it. All compliant with best practices. But....
-> Recently they've been cutting costs, and so have been reducing the experience in their user research department. Most people there are now new graduates or apprentices, and are now guided by a 'user research manual' that is effectively a step-by-step instruction book on how to conduct user research sessions - nothing about gleaning anything useful.
-> Second, although user research is done; almost every project has some user research at some point; it gets ignored. It's all 'thank-you very much for this' and then they just go ahead and build crap.
-> So, maybe you want to write something about customers who pay lip service to UR and how you can still make progress when faced with such atrocities. And also, when the team KNOWS they are building crap but are told "we are paying for it so we can dictate how it should operate".
-
-Two things I'd say about this. Firstly, it's a really bad idea to have the user researchers working in a dedicated department. They need to be in the team. Yes, they might also need to regularly meet up with people of their own skill set. But they need to sit with the team and be part of the meetings that deliver transparency (stand-up, planning, show and tell, retro). My experience is that, at least initially nobody will like this. The user researchers would much rather just get on with doing their user research and then write a report. The developers don't want to have to change the flow of their UI. They don't want to change how a screen loads or totally rethink the logic of an application, because of research feedback from users. So both groups are much more comfortable sitting apart. Why do you think that is? Does this sound to you a lot like one group agreeing to mop the ship's floor and another group agreeing to stay in another corner polishing the woodwork? That's because that's exactly what this is. Double agreed activity.
-
-If you want the project to be a success, you need to get user researchers in and amongst the developers. You need to get them to listen to each other. The more you do this, the better your chance will be. 
-
-The people who are building the swamp need to speak to the people who are talking to all of the people who are interested in the swamp. 
-
-You might feel bad about this, because, if you know what you're doing, you will know that you're creating conflict. But the kind of conflict that you're creating is the kind that we talked about when we talked about the pirate ship in chapter 2. One way of getting the improvisers to do the interesting thing rather than the boring thing is to have a director. Someone who sits at the side of the stage who shouts "deal with the pirate ship." What we're doing here is putting two points of view together and insisting that rather than just go off and do their own thing, they figure things out together. This probably needs somebody to do something like the director role. Someone who encourages it to happen.
-
-Don't worry too much if the user researchers you work with are juniors. Just worry about getting them to sit with your team and tell your team about what they're finding. Most software development projects don't have any user research at all. Also, you never know when some of the people who seem to you impossibly green will turn out to be superstars. 
-
-> A little story. I was on a User Research presentation for \[Big Org\] where they presented the user research. It was harrowing. Basically the entire user base said they wouldn't use the software (even though the law will make it mandatory soon). We had warnings before some of the recorded snippets of the language used by the users.
-> "If Big Org introduce this then I would just say "Fuck You Big Org" and I will rebel by doing everything on paper."
-> "I'm not doing this. I'm just not. What the actual fuck is this shit"
-> Yet, they are still building it - knowing full well that NO-ONE is going to use the software.
-
-Well, let's think about this in "Swamp terms." Yes, there are some people who are very rich and powerful. Ultimately, if they want to build something in the swamp that nobody wants to live in, they probably have the power to do that. A good question to ask is if there is *any* group of stakeholders who could have some influence over these rich and powerful people. The more stakeholder research you do, the more chance you might have to discover who these people might be. For example, in this case, if a form is mandated by government, then there are MP's and Ministers who have some interest. 
-
-Users who are forced to comply with regulations often form an interest group or pressure group. There might be more than one. They represent those who are being regulated. Often whoever it is who is ignoring individual users may well still listen to representation from these groups. Think of it this way. Everybody has a boss, well almost everybody. And everybody has a constituency, a wider group of people that they would really like to please and would dearly love not to annoy. 
-
-So, user research isn't enough. You need to be mapping the stakeholders on your project and figuring out how to get to them. Maybe it's with user research, maybe it's with working software. I used to be very scared of ridiculous deadlines (I still don't love them). But what I've started to see is that they can be used as an opportunity to push working software further down the pipe. What if part of that process is getting the software working on a "live" test server? Obviously it wouldn't be using real data. But this could be the kind of thing that pressure groups could get a look at and have an opportunity to provide their - ahem - feedback.
-
-As I said a moment ago. Most projects don't have any user research *at all*. And yours might be one of those projects. It can be bad. It can be catastrophically dumb. But even when it is, there's still stuff you can do. 
-
-1. Do show and tells. Demonstrate to yourselves and to anyone who will watch and listen. Demonstrate the working software that your team has been working on that week. The development team are often reluctant to do this, especially if what they're working on doesn't have an obvious UI. It's still important that you insist that they do it.
-
-Invite people from all over your stakeholder map to your show and tells. Remember the story about the bank and the fraud project? Just one comment might let you know something that's vital for your project. Yes, it could derail your project, but when would you rather know? Sooner or later. 
-
-2. Embrace deadlines. Yeah, I said it. Embrace deadlines as opportunities to negotiate scope and set software free. Your bosses see deadlines as opportunities to fuck with you. They want to make you and your team work longer hours while giving them time off from thinking about what a product really needs to do. But you don't have to see them like that. You can see them as terribly clumsy ways of exploring the stakeholder map. The map of the swamp. If you do try to release something, who jumps out from behind a treed and tells you that you can't? Who suddenly appears and tries to take credit? Which non-functional requirement really is a deal breaker that stops the software from going live? Software wants to be free. You should want it to be free. You should do your best to help it. 
-
-3. Exploit crisis. What if your team *does* release software that nobody wants to use? What if your team *does* release software that nobody is allowed to use because it doesn't meet regulations. Yes, it's late in the day. But that doesn't mean it's to late to start to involve a user researcher. Yes, it's late in the day, but that doesn't mean that it's too late to start releasing software incrementally.
- 
 ## Chapter 8 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
