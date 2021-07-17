@@ -1186,6 +1186,41 @@ Well, in terms of this metaphor, what he needs to do is to keep his windscreen c
 But do you know what he really needs? He needs yet another metaphor. He needs someone to tell him about the swamp.
 
 
+## So What do you do about the pirate ship?
+
+### Connections
+I think I made it pretty clear in the chapter on agreed activity and the pirate ship, that it's very important to deal with the pirate ship. Let's just be clear again what the pirate ship is. The pirate ship is the problem that everyone can see on the horizon that nobody wants to deal with. 
+
+What I didn't really address in that chapter is how to deal with the pirate ship. Why? Well, here's the main reason. Most of the problems that software development projects encounter are easy for someone to solve. They are mostly of the kind that I call "Bricks without straw" kind. And there is an obvious solution to them. What do I mean by "Bricks without straw" problems?
+
+Here are some examples. 
+* The wifi in the office doesn't work. 
+* The subject matter experts that we need to talk to so we can find out what the software should do refuse to talk to us.
+* The list of things that need to be done by the deadline can't be done by the deadline.
+
+Most of the time once these kinds of bricks without straw problems have been made clear to someone who has the capability to fix the problem, these problems can be fixed. One of the stakeholders on the project cares enough and the project being a success and has sufficient seniority to call the company that is providing the wifi and internet access and get it fixed. Or to email the subject matter experts and tell them that they have to make time to talk to the development team. Even to make the tough decisions that need to be made to either reduce the scope that needs to be delivered for the deadline, or change the deadline.
+
+But this might be thought to be one of the dark and dirty secrets of Agile software development, with it's focus on using transparency to fix problems. When you've fixed all the problems that can be fixed by giving them enough air and daylight, guess what you're left with? Yes, that's right.
+
+The problems that you can't fix. 
+
+Some problems are hard. Some problems are hard because their solution would require innovation - a new answer that nobody has tried before. Some problems are hard because they are inherent contradictions - they don't have a solution. They can't be solved, they can only be managed. And many problems are hard because it's not clear whether they have a solution and we need to look for it, or they don't and we just need to manage them.
+
+### Concrete practice
+It is worth asking, what would a solution *look* like. What *kind* of thing would be a solution.
+
+It is a technology? Is it a relationship? Is it form of communication?
+
+An other thing to think about is the dynamics of the problem? Is there a threshold beyond which this won't be a problem? For example, how fast would the internet connection have to be for a developer in the office before it ceased to be a problem? How infrequent would outages have to before they stopped being a problem?
+
+If we commit to a course of action to improve something - like suject matter experts - how long is that likely to take and how long will it take for us to feel the benefits of that action.
+
+Do a bunch of things need to happen, together, or in sequence, for this to get better?
+
+### Concept
+Congratulations. You have solved all the easily solved problems. You have pointed out the pirate ships. Now you've hint bedrock. 
+
+### Conclusions
 ## Chapter 8 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
@@ -1307,4 +1342,6 @@ Timothy R. Clark.  The 4 Stages of Psychological Safety: Defining the Path to In
 Robert Anton Wilson. Prometheus Rising.
 
 David J Anderson. Kanban: Successful Evolutionary Change for Your Technology
+
+Jennifer Rode , Mark Stringer , Eleanor Toye , Amanda Simpson and Alan Blackwell: Curriculum Focused Design (2003) in In Proceedings ACM Interaction Design and Children
 
