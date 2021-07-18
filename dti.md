@@ -7,7 +7,7 @@
 \thispagestyle{empty}
 \newpage
 
-##  Chapter 1 - Introduction
+## Chapter  - Introduction
 
 The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So you might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility, right on the front cover." 
 
@@ -147,7 +147,7 @@ In chapter 2 you would read about the pirate ship and the dangers of avoiding it
 
 And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
 
-## Chapter 2 - Ignoring the Pirate Ship - Agreed activity
+## Chapter 1 - Ignoring the Pirate Ship - Agreed activity
 
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've signed up for improvisation classes over and over again.  Why? Because my experience is that every time that I go to an improvisation class, I learn something new. I have new experiences, and these often, in some way or other, turn out to be useful in real life.
 
@@ -463,7 +463,7 @@ Reason number one is that solving these problems is still the best chance you've
 But reason number two is possibly for me, just as important: I know what happens when you don't.
 
 
-## Chapter 3 - Trench Warfare
+## Chapter 2 - Trench Warfare
 
 >> Following World War I, "trench warfare" became a byword for stalemate, attrition, sieges, and futility in conflict.
 
@@ -595,7 +595,7 @@ Beyond that, the answers to this question are the major tactics for delivering t
 
 The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swap. The second is to deliver working software. 
 
-## Chapter N - The Swamp
+## Chapter 3 - The Swamp
 
 ### Concept
 Imagine that you've been given money to develop houses in a swamp. How would you go about doing that? Would you just start work? Or would you feel the need to do a little bit of exploration first? Wouldn't it be a good idea to know what's in the swamp first? Wouldn't it be a good idea to know the geology of the swamp? 
@@ -741,7 +741,7 @@ Invite people from all over your stakeholder map to your show and tells. Remembe
  
 ﻿
 
-## Chapter 5 - Working Software
+## Chapter 4 - Working Software
 
 >>"sufficiently advanced technology is indistinguishable from magic" 
 >> Arthur C. Clarke
@@ -954,7 +954,7 @@ What's important as you move through these difficult waters, is to keep in the d
 But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting you're getting feedback from users and stakeholders. And when people jump out from behind trees and tell you that you can't do what you're doing, you're ready for them. Actually you're never ready for the reasons that people will find to stop your software from going live. But at least you're finding out earlier rather than later.
 
 You need to move carefully along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp. 
-## Chapter 4 - Flowers and Fruit
+## Chapter 5 - Flowers and Fruit
 
 This is an idea that I picked up from reading about Taoism. There are two ways that you can get paid.
 
@@ -1039,7 +1039,7 @@ This is what we're going to talk about in the next couple of chapters. First we'
 Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about conducting it so that it gives your project the maximum chance of success.
 
 
-## Chapter TBD - The Hole
+## Chapter 6 - The Hole
 
 The writer Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small missteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
 
@@ -1073,7 +1073,7 @@ What you should be trying to do if you're a project manager is to get pulled out
 
 
 ﻿
-## Chapter 6 - Driving a Car or The Empirical Process
+## Chapter 7 - Driving a Car or The Empirical Process
 
 >> “Seeking what is true is not seeking what is desirable.” - Albert Camus
 
