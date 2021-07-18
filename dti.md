@@ -7,7 +7,7 @@
 \thispagestyle{empty}
 \newpage
 
-## Chapter  - Introduction
+## Chapter 1 - Introduction
 
 The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So you might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility, right on the front cover." 
 
@@ -131,9 +131,9 @@ Why you? Why should you read this book? Well, here's what's going to happen to y
 
 What might happen if you try to deliver a project and you haven't read this book? Well, there's a good chance that you won't spot the pirate ship (Chapter 2) until it's too late. If that happens, there's a very good chance that you'll end up in a trench warfare project (Chapter 3) . It might take you far too long to realise that there's nothing you can do about it, and that you need to leave. 
 
-Let's say you and your team is good, or it gets lucky. Its members admit to themselves that there's a pirate ship coming. They tackle the problems that they need to tackle. If you haven't read this book you won't know about flowers and fruit (Chapter 4). And not knowing about that, you, or ytour team, might be tempted to delay putting working software in the hands of users.
+Let's say you and your team is good, or it gets lucky. Its members admit to themselves that there's a pirate ship coming. They tackle the problems that they need to tackle. If you haven't read this book you won't know about flowers and fruit (Chapter 6). And not knowing about that, you, or ytour team, might be tempted to delay putting working software in the hands of users.
 
-If you haven't read about the swamp in Chapter 7, there's a good chance that you won't have hired the best user research team you can find. And so you won't have a detailed map of the user and stakeholder ecosystem. Even if you tackled the pirate ship the minute you saw it, there might still be trouble. Even if you pushed working software as far as you could along the right dimensions, your project might still not go well. Without a map of the stakeholder ecosystem to influence decisions, the chances are, your project won't do as well as it could. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
+If you haven't read about the swamp (Chapter 4) , there's a good chance that you won't have hired the best user research team you can find. And so you won't have a detailed map of the user and stakeholder ecosystem. Even if you tackled the pirate ship the minute you saw it, there might still be trouble. Even if you pushed working software as far as you could along the right dimensions, your project might still not go well. Without a map of the stakeholder ecosystem to influence decisions, the chances are, your project won't do as well as it could. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
 
 Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. Oh, wow, I just thought of this, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
 
@@ -147,7 +147,7 @@ In chapter 2 you would read about the pirate ship and the dangers of avoiding it
 
 And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
 
-## Chapter 1 - Ignoring the Pirate Ship - Agreed activity
+## Chapter 2 - Ignoring the Pirate Ship - Agreed activity
 
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've signed up for improvisation classes over and over again.  Why? Because my experience is that every time that I go to an improvisation class, I learn something new. I have new experiences, and these often, in some way or other, turn out to be useful in real life.
 
@@ -463,7 +463,7 @@ Reason number one is that solving these problems is still the best chance you've
 But reason number two is possibly for me, just as important: I know what happens when you don't.
 
 
-## Chapter 2 - Trench Warfare
+## Chapter 3 - Trench Warfare
 
 >> Following World War I, "trench warfare" became a byword for stalemate, attrition, sieges, and futility in conflict.
 
@@ -595,7 +595,7 @@ Beyond that, the answers to this question are the major tactics for delivering t
 
 The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swap. The second is to deliver working software. 
 
-## Chapter 3 - The Swamp
+## Chapter 4 - The Swamp
 
 ### Concept
 Imagine that you've been given money to develop houses in a swamp. How would you go about doing that? Would you just start work? Or would you feel the need to do a little bit of exploration first? Wouldn't it be a good idea to know what's in the swamp first? Wouldn't it be a good idea to know the geology of the swamp? 
@@ -741,7 +741,7 @@ Invite people from all over your stakeholder map to your show and tells. Remembe
  
 ﻿
 
-## Chapter 4 - Working Software
+## Chapter 5 - Working Software
 
 >>"sufficiently advanced technology is indistinguishable from magic" 
 >> Arthur C. Clarke
@@ -954,7 +954,7 @@ What's important as you move through these difficult waters, is to keep in the d
 But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting you're getting feedback from users and stakeholders. And when people jump out from behind trees and tell you that you can't do what you're doing, you're ready for them. Actually you're never ready for the reasons that people will find to stop your software from going live. But at least you're finding out earlier rather than later.
 
 You need to move carefully along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp. 
-## Chapter 5 - Flowers and Fruit
+## Chapter 6 - Flowers and Fruit
 
 This is an idea that I picked up from reading about Taoism. There are two ways that you can get paid.
 
@@ -1039,7 +1039,7 @@ This is what we're going to talk about in the next couple of chapters. First we'
 Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about conducting it so that it gives your project the maximum chance of success.
 
 
-## Chapter 6 - The Hole
+## Chapter 7 - The Hole
 
 The writer Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small missteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
 
@@ -1073,7 +1073,7 @@ What you should be trying to do if you're a project manager is to get pulled out
 
 
 ﻿
-## Chapter 7 - Driving a Car or The Empirical Process
+## Chapter 8 - Driving a Car or The Empirical Process
 
 >> “Seeking what is true is not seeking what is desirable.” - Albert Camus
 
@@ -1186,7 +1186,7 @@ Well, in terms of this metaphor, what he needs to do is to keep his windscreen c
 But do you know what he really needs? He needs yet another metaphor. He needs someone to tell him about the swamp.
 
 
-## So what do you do about the pirate ship?
+## Chapter 9 - So what do you do about the pirate ship?
 
 ### Connections
 I think I made it pretty clear in the chapter on agreed activity and the pirate ship, that it's very important to deal with the pirate ship. Let's just be clear again what the pirate ship is. The pirate ship is the problem that everyone can see on the horizon that nobody wants to deal with. 
@@ -1233,7 +1233,7 @@ But some other problems are just downright *hard*. What's the right trade-off be
 When we do listen to the people of the swamp? When do we ignore them? When do we decide that we've done enough talking and we have to start building something? 
 
 
-## Chapter 8 - Commitment and Consistency and Your Other Boss
+## Chapter 10 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
 >> Ralph Waldo Emerson
