@@ -9,6 +9,8 @@
 
 
 ## Update History
+Update 18th July 2021 - "Problems, problems"
+
 Update 30th June 2021 - "What to do when you're stuck."
 
 It's the end of June. And this is the one. This time, I'm actually going to finish the book. The trouble is, that I'm stuck. How am I stuck? Well, actually, think I'm stuck in two ways.
