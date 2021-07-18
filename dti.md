@@ -1186,21 +1186,21 @@ Well, in terms of this metaphor, what he needs to do is to keep his windscreen c
 But do you know what he really needs? He needs yet another metaphor. He needs someone to tell him about the swamp.
 
 
-## So What do you do about the pirate ship?
+## So what do you do about the pirate ship?
 
 ### Connections
 I think I made it pretty clear in the chapter on agreed activity and the pirate ship, that it's very important to deal with the pirate ship. Let's just be clear again what the pirate ship is. The pirate ship is the problem that everyone can see on the horizon that nobody wants to deal with. 
 
-What I didn't really address in that chapter is how to deal with the pirate ship. Why? Well, here's the main reason. Most of the problems that software development projects encounter are easy for someone to solve. They are mostly of the kind that I call "Bricks without straw" kind. And there is an obvious solution to them. What do I mean by "Bricks without straw" problems?
+What I didn't really address in that chapter is how to deal with the pirate ship. Why? Well, here's the main reason. Most of the problems that software development projects encounter are easy for someone to solve. They are mostly of the kind that I call "Bricks without straw" problems. And there is an obvious solution to them. What do I mean by "Bricks without straw" problems?
 
 Here are some examples. 
 * The wifi in the office doesn't work. 
 * The subject matter experts that we need to talk to so we can find out what the software should do refuse to talk to us.
 * The list of things that need to be done by the deadline can't be done by the deadline.
 
-Most of the time once these kinds of bricks without straw problems have been made clear to someone who has the capability to fix the problem, these problems can be fixed. One of the stakeholders on the project cares enough and the project being a success and has sufficient seniority to call the company that is providing the wifi and internet access and get it fixed. Or to email the subject matter experts and tell them that they have to make time to talk to the development team. Even to make the tough decisions that need to be made to either reduce the scope that needs to be delivered for the deadline, or change the deadline.
+Most of the time once these kinds of bricks without straw problems can be solved. If they are made clear to someone who has the capability to fix them they can be solved relatively easily. Someone has sufficient seniority to call the company that is providing the wifi and internet access and get it fixed. Someone is senior enough to email the subject matter experts and tell them that they should make time to talk to the development team. Even to make the tough decisions that need to be made to either reduce the scope that needs to be delivered for the deadline, or change the deadline.
 
-But this might be thought to be one of the dark and dirty secrets of Agile software development, with it's focus on using transparency to fix problems. When you've fixed all the problems that can be fixed by giving them enough air and daylight, guess what you're left with? Yes, that's right.
+But this might be thought to be one of the dark and dirty secrets of Agile software development. Yes, Agile has a focus on using transparency to fix problems. But there comes a point when you've fixed all the problems that can be fixed by giving them enough air, daylight, and publicity. Then, guess what you're left with? Yes, that's right.
 
 The problems that you can't fix. 
 
@@ -1211,16 +1211,28 @@ It is worth asking, what would a solution *look* like. What *kind* of thing woul
 
 It is a technology? Is it a relationship? Is it form of communication?
 
-An other thing to think about is the dynamics of the problem? Is there a threshold beyond which this won't be a problem? For example, how fast would the internet connection have to be for a developer in the office before it ceased to be a problem? How infrequent would outages have to before they stopped being a problem?
+Another thing to think about is the dynamic of the problem? Is there a threshold beyond which this won't be a problem any more? For example, how fast would the internet connection have to be for a developer in the office before it ceased to be a problem? How infrequent would outages have to before they stopped being a problem?
 
-If we commit to a course of action to improve something - like suject matter experts - how long is that likely to take and how long will it take for us to feel the benefits of that action.
+Let's say that we commit to a course of action to improve something. We agree to push to get access to subject matter experts. How long is that likely to take? How long will it take for us to feel the benefits. Some kinds of capability take months, or years to develop. 
 
 Do a bunch of things need to happen, together, or in sequence, for this to get better?
+
+A lot of the problems that we encounter in project management are trade-offs. There are lots of trade-offs in software development with speed. Speed is traded off against accuracy. You can have something fast, but it might not be exactly right. Speed is also traded off again something called "tech debt." Tech debt is the difference between doing something fast and and doing something "right." Where "right" means tidily and in a way that might make sense to other people.
+
+Speed of development is also, of course, traded off against security. But speed can also be traded off against things we might think are unreservedly good. An example? User research is great, understanding the swamp and the denizens of the swamp is vital. But at some point you have to start writing some sofware. 
 
 ### Concept
 Congratulations. You have solved all the easily solved problems. You have pointed out the pirate ships. Now you've hint bedrock. 
 
-### Conclusions
+### Conclusion 
+
+What kind of problems might the "pirate ship" metaphor represent? When we start to list the kinds of problems, we get more understanding of why people instinctively avoid them. The pirate ship might be a relatively straight-forward "Bricks without straw" problem. These are just very frustrating for the teams who have to labour under them.  And they are often embarrassing for the senior people who need to get them fixed. But they can be fixed.
+
+But some other problems are just downright *hard*. What's the right trade-off between the complexity of the software and maintainability? What signs should we look for to know that we're adding too much functionality too quickly? Or even (not likely) what signs might we see that suggest we're not being adventurous enough and we need to go faster?
+
+When we do listen to the people of the swamp? When do we ignore them? When do we decide that we've done enough talking and we have to start building something? 
+
+
 ## Chapter 8 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
