@@ -147,6 +147,8 @@ In chapter 2 you would read about the pirate ship and the dangers of avoiding it
 
 And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
 
+
+
 ## Chapter 2 - Ignoring the Pirate Ship - Agreed activity
 
 One of the great things about living in London is that you can sign up to all sorts of classes. Over the past ten years, I've signed up for improvisation classes over and over again.  Why? Because my experience is that every time that I go to an improvisation class, I learn something new. I have new experiences, and these often, in some way or other, turn out to be useful in real life.
@@ -463,6 +465,7 @@ Reason number one is that solving these problems is still the best chance you've
 But reason number two is possibly for me, just as important: I know what happens when you don't.
 
 
+
 ## Chapter 3 - Trench Warfare
 
 >> Following World War I, "trench warfare" became a byword for stalemate, attrition, sieges, and futility in conflict.
@@ -593,7 +596,9 @@ What is that thing that's stopping them? How can something be done to address it
 
 Beyond that, the answers to this question are the major tactics for delivering the impossible that we're going to talk about in the next couple of chapters. 
 
-The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swap. The second is to deliver working software. 
+The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swap. The second is to deliver working software.
+
+ 
 
 ## Chapter 4 - The Swamp
 
@@ -738,8 +743,6 @@ Invite people from all over your stakeholder map to your show and tells. Remembe
 2. Embrace deadlines. Yeah, I said it. Embrace deadlines as opportunities to negotiate scope and set software free. Your bosses see deadlines as opportunities to fuck with you. They want to make you and your team work longer hours while giving them time off from thinking about what a product really needs to do. But you don't have to see them like that. You can see them as terribly clumsy ways of exploring the stakeholder map. The map of the swamp. If you do try to release something, who jumps out from behind a treed and tells you that you can't? Who suddenly appears and tries to take credit? Which non-functional requirement really is a deal breaker that stops the software from going live? Software wants to be free. You should want it to be free. You should do your best to help it. 
 
 3. Exploit crisis. What if your team *does* release software that nobody wants to use? What if your team *does* release software that nobody is allowed to use because it doesn't meet regulations? Yes, it's late in the day. But that doesn't mean it's too late to start to involve a user researcher. Yes, it's late in the day, but that doesn't mean that it's too late to start releasing software incrementally.
- 
-﻿
 
 ## Chapter 5 - Working Software
 
@@ -823,7 +826,7 @@ Even so, to start with the project had a tough time. We couldn't get servers to 
 
 It was an odd turning point in the project. Because that first demo was so terrible. We'd managed to pare down the demo to a view of a collection of documents and then a display of the document when its title was clicked.  In that first demo, when we clicked on the document link, a window came up that said "Do you want to veiw your document?" Yes, with that spelling mistake.  And then when the user clicked "OK" an error message appeared.
 
-The look on the product owner's face! At this point we were about £500,000 into a £2 Million project. And all she had to show was a misspelled dialog box that led to an error message. It was a hard time for her and it was a hard time for the team.
+The look on the product owner's face! At this point we were about Â£500,000 into a Â£2 Million project. And all she had to show was a misspelled dialog box that led to an error message. It was a hard time for her and it was a hard time for the team.
 
 But two weeks later it was a slightly different story. Now there was a list of documents. Now when the document was clicked, the chance to open the document had a button that was spelled correctly. And when it was clicked, the document was displayed!
 
@@ -953,7 +956,8 @@ What's important as you move through these difficult waters, is to keep in the d
 
 But you need to be moving forward in all of these directions. A little bit at a time, adding bits of functionality, pushing the software as near as you can to live. Moving from working with dummy data to working with real data. All the time getting you're getting feedback from users and stakeholders. And when people jump out from behind trees and tell you that you can't do what you're doing, you're ready for them. Actually you're never ready for the reasons that people will find to stop your software from going live. But at least you're finding out earlier rather than later.
 
-You need to move carefully along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp. 
+You need to move carefully along all of these dimensions. Carefully, changing what you do in light of what you find. Why? Because where you're going isn't a nice wide, paved road. It's a swamp.
+
 ## Chapter 6 - Flowers and Fruit
 
 This is an idea that I picked up from reading about Taoism. There are two ways that you can get paid.
@@ -1039,6 +1043,7 @@ This is what we're going to talk about in the next couple of chapters. First we'
 Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about conducting it so that it gives your project the maximum chance of success.
 
 
+
 ## Chapter 7 - The Hole
 
 The writer Kurt Vonnegut talks about the general form of most stories being that a central character is in a hole. Let's say that this central character is you. Did you deliberately put yourself in this hole? That's not likely. More probably you ended up there by accident. A few small missteps and there you are, in the hole. It might be that your honour, or their moral code might have dictated that the go into the hole. But it's unusual for you, or the hero or heroine of any story to decide that what they need to do is jump in the hole. 
@@ -1069,10 +1074,10 @@ Remember in the introduction where I said that the value of metaphors is that th
 
 If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea. And you need to do this without pissing the bosses off so much that they just abandon you and let you starve - or fill in the hole.
 
-What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples. 
+What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples.
 
+ 
 
-﻿
 ## Chapter 8 - Driving a Car or The Empirical Process
 
 >> “Seeking what is true is not seeking what is desirable.” - Albert Camus
@@ -1186,6 +1191,7 @@ Well, in terms of this metaphor, what he needs to do is to keep his windscreen c
 But do you know what he really needs? He needs yet another metaphor. He needs someone to tell him about the swamp.
 
 
+
 ## Chapter 9 - So what do you do about the pirate ship?
 
 ### Connections
@@ -1230,8 +1236,9 @@ What kind of problems might the "pirate ship" metaphor represent? When we start 
 
 But some other problems are just downright *hard*. What's the right trade-off between the complexity of the software and maintainability? What signs should we look for to know that we're adding too much functionality too quickly? Or even (not likely) what signs might we see that suggest we're not being adventurous enough and we need to go faster?
 
-When we do listen to the people of the swamp? When do we ignore them? When do we decide that we've done enough talking and we have to start building something? 
+When we do listen to the people of the swamp? When do we ignore them? When do we decide that we've done enough talking and we have to start building something?
 
+ 
 
 ## Chapter 10 - Commitment and Consistency and Your Other Boss
 
@@ -1333,6 +1340,8 @@ I would dearly like to avoid this "commitment and consistency" dance. I would de
 
 But I've realised that it can't be avoided. Most projects simply won't get off the ground and won't be approved unless some kind of promise is extracted from the people who are going to deliver. And it's in the nature of ideas, of "Flowers" that will have to immediately sound like the bosses are getting a lot for their money.
 
+
+
 ## References
 
 Keith Johnstone. Impro for Storytellers.
@@ -1356,4 +1365,5 @@ Robert Anton Wilson. Prometheus Rising.
 David J Anderson. Kanban: Successful Evolutionary Change for Your Technology
 
 Jennifer Rode , Mark Stringer , Eleanor Toye , Amanda Simpson and Alan Blackwell: Curriculum Focused Design (2003) in In Proceedings ACM Interaction Design and Children
+
 
