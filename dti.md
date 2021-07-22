@@ -1,5 +1,4 @@
 ![Front cover](cover.png)
-\thispagestyle{empty}
 \newpage
 \title{Delivering the Impossible}
 \author{Mark Stringer}
