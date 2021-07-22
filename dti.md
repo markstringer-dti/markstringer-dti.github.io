@@ -1200,8 +1200,11 @@ I think I made it pretty clear in the chapter on agreed activity and the pirate 
 What I didn't really address in that chapter is how to deal with the pirate ship. Why? Well, here's the main reason. Most of the problems that software development projects encounter are easy for someone to solve. They are mostly of the kind that I call "Bricks without straw" problems. And there is an obvious solution to them. What do I mean by "Bricks without straw" problems?
 
 Here are some examples. 
+
 * The wifi in the office doesn't work. 
+
 * The subject matter experts that we need to talk to so we can find out what the software should do refuse to talk to us.
+
 * The list of things that need to be done by the deadline can't be done by the deadline.
 
 Most of the time once these kinds of bricks without straw problems can be solved. If they are made clear to someone who has the capability to fix them they can be solved relatively easily. Someone has sufficient seniority to call the company that is providing the wifi and internet access and get it fixed. Someone is senior enough to email the subject matter experts and tell them that they should make time to talk to the development team. Even to make the tough decisions that need to be made to either reduce the scope that needs to be delivered for the deadline, or change the deadline.
