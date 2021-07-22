@@ -1206,7 +1206,7 @@ Here are some examples.
 
 Most of the time once these kinds of bricks without straw problems can be solved. If they are made clear to someone who has the capability to fix them they can be solved relatively easily. Someone has sufficient seniority to call the company that is providing the wifi and internet access and get it fixed. Someone is senior enough to email the subject matter experts and tell them that they should make time to talk to the development team. Even to make the tough decisions that need to be made to either reduce the scope that needs to be delivered for the deadline, or change the deadline.
 
-But this might be thought to be one of the dark and dirty secrets of Agile software development. Yes, Agile has a focus on using transparency to fix problems. But there comes a point when you've fixed all the problems that can be fixed by giving them enough air, daylight, and publicity. Then, guess what you're left with? Yes, that's right.
+But this is a bit of an Agile dirty secret. Yes, Agile has a focus on using transparency to fix problems. And yes, it's really effective as a way of fixing a lot of problems. But there comes a point when you've fixed all the problems that can be fixed. For a lot of problems, simply giving them enough air, daylight, and publicity works. They get fixed. But then, guess what you're left with? Yes, that's right.
 
 The problems that you can't fix. 
 
