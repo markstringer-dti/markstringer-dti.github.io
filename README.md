@@ -120,9 +120,8 @@ Updated 28th March 2021 - "Add the story about the show and tell"
 Updated 27th March 2021
 
 ## Improvement backlog
-* <s>Get the text to 50 pages</s>
-* <s>Listen to all the pages being read aloud - correct mistakes</s>
-* Check the structure of chapters 
-	* Chapter 2 - Agreed activity
-	* Introduction
+* Add a chapter on "Fried Egg Agile"
+* Pick one of the other chapters at random and read through it, make improvements/changes.
+* Pick one of the other chatpers - read it aloud.
+* Read more about thinking / problem solving.
 * Remove that annoying blank page from the pdf
