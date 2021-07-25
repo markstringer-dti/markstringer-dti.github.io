@@ -11,7 +11,7 @@
 ## Update History
 Update 25th July 2021 - "I don't Karate, but I know Crazy"
 
-Update 22nd July 2021 - "Sight update to the so what do you do chapter - and also, sorted out chapter headings"
+Update 22nd July 2021 - "Slight update to the so what do you do chapter - and also, sorted out chapter headings"
 
 Update 18th July 2021 - "Problems, problems"
 
