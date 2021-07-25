@@ -473,35 +473,43 @@ But reason number two is possibly for me, just as important: I know what happens
 
 Two members of my team were supposed to be putting our software on a client's machine. They'd written a script to run on a clean machine that would put our software where it needed to be. They'd tried the script on a practice machine. It had run without any problems. They kept trying to run the script on the client's machine. It kept failing.
 
-They ran some diagnostic tests. The machines that they were putting the software on were supposed to be "clean". They weren't supposed to have any other software installed on them. They were supposed to just have the base operating system. The the tools we had, to check for problems show that there was already software running on the machines. This was clashing with the stuff that we were trying to add. When the guys from my team pointed this out to the people who were supplying the servers, they began to act very strangely.
+They ran some diagnostic tests. The machines that they were putting the software on were supposed to be "clean". They weren't supposed to have any other software installed on them. They were supposed to just have the base operating system. The tools we had, to check for problems showed that there was already software running on the machines. This was clashing with the stuff that we were trying to add. When the guys from my team pointed this out to the people who were supplying the servers, they began to act very strangely.
 
-A few days later. It was a Sunday afternoon. And I was in an emergency meeting. The topic of the emergency meeting had been what we were going to do about the failure of my team to load our software on the client's machine. The client was implying very strongly that the reason we'd failed was because our guys weren't up to the job. Just like the guys in the server room, when I brought up the subject of other software already running on the servers the client became evasive. He moved the topic of the emergency meeting onto what we should do about our four o'clock emergency meeting. Our three o'clock emergency meeting had overrun so long that we were now in it. Or were we? Clearly this was something that we needed to spend time on our weekend discussing.
+A few days later. It was a Sunday afternoon. And I was in an emergency meeting. The topic of the emergency meeting had been what we were going to do about the failure of my team to load our software on the client's machine. The client was implying very strongly that the reason we'd failed was because our guys weren't up to the job. Just like the guys in the server room, when I brought up the subject of other software already running on the servers, the client became evasive. He moved the topic of the emergency meeting onto what we should do about our four o'clock emergency meeting. Our three o'clock emergency meeting had overrun so long that we were now in it. Or were we? Clearly this was something that we needed to spend time on our weekend to discuss.
 
 Ultimately the mystery of the software already running on the clean servers was solved. The company that was providing the servers was in dispute with the client's organisation. While they were in dispute, they were working to the letter of their written agreement.  The original agreement had been written months ago. It mentioned some software that should be installed. So, the server guys were providing servers that already had this software, even though they knew it would break ours. 
 
-That's part of why they were behaving so oddly. But the other part is that the written agreement to provide the servers was officially secret. So even as they saw our guys failing, and they knew why, they felt they weren't legally allowed to tell us. As the great philosopher James Brown once said:
-
->> "I don't know karate, but I know kerayzee"
-
-And that's what this was. Crazy.
+That's part of why they were behaving so oddly. But the other part is that the written agreement to provide the servers was officially secret. So even as they saw our guys failing, and they knew why, they felt they weren't legally allowed to tell us.
 
 Eventually we found out. Eventually it was admitted that there was no chance that the project could go live that week. I left the project the next week and I never heard of it again, I'm certain it never delivered.
+
+How did I know to walk away? I've worked on other projects that were struggling and I haven't walk away. I've stuck with them. Some of those projects succeeded, some of them didn't. But what made me absolutely clear at that point that I needed to get off that project.
+
+I think I was using this rule. I wouldn't say it's as strong as a law, but it's a rule of thumb. I call it the "Three nonsenses rule." 
+
+The rule goes like this. 
+
+Most projects are going to be to be labouring under some delusion. There will be something about the project that doesn't make sense. Often this will be a delusion about how long the project will take to deliver, or how much it will cost. Sometimes, the delusion will be that this new product is guaranteed to be a success. Sometimes the delusion might be that some new technology will change everything. Sometimes the delusion is that successful projects can be delivered by this organisation. Despite all evidence to the contrary. Despit the still visible wreckage of previous disastrous projects.
+
+It took me a long time to realise the chances of a project having no delusions is near nil.  You probably need to let a project have at least one delusion. Fighting to make a project completely delusion free is a lost cause.
+
+But bitter experience has taught me that delusions when combined, don't add, they multiply.  Crazy and crazy isn't twice as crazy. It's crazy squared. And if you add in a third delusion, that's crazy cubed. That's crazy in every direction, forwards, backwards, up, down, left and right.
 
 I'm going to use the term "trench warfare" in this chapter. And I'm going to use it to mean any project which is going to fail unless the way it is set up, structured and managed is changed. Why are we talking about trench warfare now? Because in the last chapter, we were talking about pirate ships. Yes, I know, I know, I'm mixing metaphors. 
 
 What I mean by trench warfare is any project that is hugely expensive in terms of money, effort and human suffering and doesn't get anywhere. A main cause of trench warfare is a refusal (or active prevention) earlier in the project to deal with the problems that it faces. The main effect of this is pretty much guaranteed failure. But on the way to that inevitable conclusion, there is more and more strident demand for "agreed" activity. Activity at almost any cost, no matter how frantic, pointless and damaging it might be.
 
-Working late. Working weekends, holidays being cancelled or frowned on.  There is an insistence on a "positive, can do attitude." These are signs that you're working on a trench warfare project. At the same time, trying to deal with the problems that the project faces is not well received.  It's regarded as "negative" or "defeatist". 
+Working late. Working weekends, holidays being cancelled or frowned on.  There is an insistence on a "positive, can do attitude." These are signs that you're working on a trench warfare project. At the same  time, trying to deal with the problems that the project faces is not well received.  It's regarded as "negative" or "defeatist". 
 
 Staff leaving drinks every Friday? Staff being signed off long-term sick? Or with stress? Ex members of staff bringing lawsuits against the company? These are also signs.
 
-I must confess, I still haven't found a way of remaining calm when I get a certain kind of complaint from senior management. The complaint that the team isn't looking stressed enough.
+I must confess, I still haven't found a way of remaining calm when I get a certain kind of complaint from senior management. The complaint is that the team isn't looking stressed enough.
 
 I have not found a way of communicating - without also giving away how annoyed I am - the basic truth about software development. Software development is about the "three Ts" - typing, thinking and talking. None of these are helped by being tired. None of these are helped by being stressed. None of these can be done well at three in the morning. 
 
-A trench warfare project is a bad situation. Experience of working on one can be one of the best reasons to get over your reluctance to tackle issues as soon as they come up. Once you have worked on a trench warfare project, you might be much keener to call out problems the minute you see them on your next project. But every now and then you are going to find yourselves working on a project which is working towards a ridiculous, undeliverable deadline. At the same time, this project might be struggling with several other problems.
+A trench warfare project is a bad situation. Experience of working on one can be one of the best reasons to get over your reluctance to tackle issues as soon as they come up. Once you have worked on a trench warfare project, you might be much keener to call out problems the minute you see them. But most projects have ridiculous timelines. You find them everywhere. They are the norm.
 
-If nobody is being sensible about the deadline, that greatly increases the chances that they are also not being sensible about some other things. Maybe they are ignoring all the indications that the fancy new technology that the project uses isn't ready. Or maybe they are trying to get the project delivered "under the radar". Even though they know full well that at some point the giant "Monty Python" foot of regulation is going to stop it dead in its tracks. 
+OK, so this project isn't being realistic about the deadline. That greatly increases the chances that they are also not being sensible about some other things. Maybe they are ignoring all the indications that the fancy new technology that the project uses isn't ready. Or maybe they are trying to get the project delivered "under the radar". Even though they know full well that at some point the giant "Monty Python" foot of regulation is going to stop it dead in its tracks. 
 
 I don't know if the real-life Jerry Springer actually said this or not. But in "Jerry Springer the Opera" the character of Jerry Springer says something that has stuck with me ever since I heard it: "I don't solve people's problems, I televise them."
 
@@ -511,9 +519,9 @@ Why? Because someone else may, if they want the project to succeed, be able to s
 
 Why are people behaving like this? Let's be very clear. It doesn't work. It's doesn't make the project more likely to succeed. It makes the project more likely to fail. Code written at 2am on a Sunday morning is not going to make a project succeed. Most of Monday and Tuesday, if you're lucky, January and February if you're not, is going to be spent taking that exact same code out again. 
 
-It might be that some of those people are only doing those things because they have no idea what else they can do. They want to make the project successful. They do not know how. If you make clear what the problems are that your team is encountering, you are giving those people who want the project to succeed more chance to help.
+It might be that some of those people are only doing those things because they have no idea what else they can do. They want to make the project successful. They do not know how. What if you do make clear what the problems are that your team is encountering? You are giving those people who dpo want the project to succeed a good solid opportunity to help.
 
-The second thing that you can do is to deliver some of the thing that they want to some of the people who want it. This might not be anywhere near everything that has been asked for by the deadline. But if you can find one bit of software that you can release to some people who want it, you can completely change the nature of a project. In Agile terms, this is called "pull." Pull from outside a team that comes from demand from real users can be a wonderful thing. 
+The second thing that you can do is to deliver some of the thing that that some people want to some of the people who want it. This might not be anywhere near everything that has been asked for by the deadline. But if you can find one bit of software that you can release to some people who want it, you can completely change the nature of a project. In Agile terms, this is called "pull." Pull from outside a team that comes from demand from real users can be a wonderful thing. 
 
 Thirdly, one of the most revolutionary things that you can do, is to track and show the actual progress of a project. 
 
@@ -547,15 +555,15 @@ I'm using a military metaphor in this chapter. And an important thing about any 
 
 Actually, there's a fourth. 
 
-4. Go home on time. Take your weekends off. Take holidays. See friends. Kiss your partner. Kiss your kids. Kick the dog. Oh my God. That's a joke. Don't kick the dog. Take the dog for a walk so long that you have to carry it home. Be gentle with yourself and those around you. Seriously. Be nice to the dog.
+4. Look after yourself. Go home on time. Take your weekends off. Take holidays. See friends. Kiss your partner. Kiss your kids. Kick the dog. Oh my God. That's a joke. Don't kick the dog. Take the dog for a walk so long that you have to pick it up and carry it home. Be gentle with yourself and those around you. Seriously, be nice to the dog. Kiss the dog as well.
 
-If you keep doing these things (not just point 4, point's 1-3 as well), it might be that something can be done to save the trench warfare project that you're working on. But equally, it's important to remember that some projects cannot be saved. Not by you. Not right now.
+Keep doing these things. I mean all of them. Points one, two, three and four. If you do, something might be that something can be done to save the trench warfare project that you're working on. But equally, it's important to remember that some projects cannot be saved. Not by you. Not right now.
 
-It's also important to understand that trench warfare was, for all the millions of people who were involved in it an insoluble problem. After the war was over there was the idea developed in English language commentaries that the allied soldiers were "Lions lead by donkeys." 
+It's also important to understand that trench warfare was, at the time, an insoluble problem. Eventually the war ended. And there was the idea developed in English language commentaries that the allied soldiers were "Lions lead by donkeys." 
 
 But one of the points made by Norman Dixon in his book "The psychology of military incompetence" is that this is unfair for two reasons. 
 
-Firstly, the selection process, not the official process, but the de facto process by which officers rose to the most senior ranks in the British Army - and pretty much all armies - was one that actively discourage initiative and any kind of challenge to the status quo.
+Firstly, the selection process. This might not have been explicit, or  official.  But the process by which officers rose to the most senior ranks in the British Army was one that actively discouraged innovation. Initiative and a willingness to challenge to the status quo might be really useful in a wary. They're pretty dangerous qualities to encourage in the military in peacetime. The result was that the kind of people who were leading the British army were innovative, creative problem solvers. Indeed, they might have been exactly the opposite.
 
 Secondly, trench warfare was a hard problem.
 
@@ -563,27 +571,27 @@ Trench warfare was "emergent behaviour". It came out of a combination of technol
 
 A solution might have been the devolution of some decision making to small semi-autonomous groups. Maybe. This was something that the German side did experiment with late in the war. There were starting to have some success when the whole German nation ran out of food.
 
-So, if your project is in a total impasse, it might be that there is way out of the trenches using innovation. A novel combination of practice and technology might result in some powerful improvement.  
+So, if your project is in a total impasse, it might be that there is a way out of the trenches using innovation. A novel combination of practice and technology might result in some powerful improvement.  
 
 I don't *think* I've ever worked on a project that was being deliberately targeted to fail. But maybe I have. I have heard talk of such projects.
 
 I worked for a global consultancy. I was talking to the guy who was our main sales contact with a UK bank. I happened to mention a project that I'd been trying to help. They were in deep trouble, I could see, but I couldn't exactly figure out why.
 
-"Oh, yeah," he said. Grinning. "We're letting that project fail."
+"Oh, yeah," he said, grinning. "We're letting that project fail."
 "What?"
 "Yes, when we sold them the team to work on the project, we tried to sell them our banking engine at the same time. They bought the team, but they insisted on using this other banking engine. So, we're going to let the project fail. Then we'll suggest that they use our banking engine." 
 
-It is important to understand that you don't need to stay on any project that is failing. The people in the real trenches had to stay. If they didn't they'd be shot for desertion. You don't have to. Paul Simon points out that there are multiple ways to get out of a romantic situation. There might not be as many ways of getting off a project, but there are certainly a good few.
+It is important to understand that you don't need to stay on any project that is failing. The people in the real trenches had to stay. If they didn't, they'd be shot for desertion. You don't have to. 
 
-Of course, you can just find a new job. When you start to look you might be astounded to find that you're not the only person on that project. Others might also be looking. Recruiters have a very good idea about which projects are going badly.
+Of course, you can nearly always just find a new job. When you start to look you might be astounded to find that you're not the only person on that project. Others might also be looking. Recruiters have a very good idea about which projects are going badly.
 
 But if you're in an organisation big enough to have more than one project on its books, you can probably get moved off a trench warfare project. 
 
 Of course, you don't have to leave. You could just stay and get paid. You could look like you're paying attention whenever the bosses are around. You could pretend that the endless deadlines that come and go mean anything. Every now and then, you could stay late, or work all weekend to show that you're really dedicated to the cause.
 
-Of course, none of this is going to make the project any more likely to succeed. at some point, someone is going to realise that the project is going to be a failure and pull the plug. But you're getting paid right? You're inside out of the bad weather and there's no heavy lifting involved? 
+Of course, none of this is going to make the project any more likely to succeed. At some point, someone is going to realise that the project is going to be a failure and pull the plug. But you're getting paid right? You're inside out of the bad weather and there's no heavy lifting involved? 
 
-I dunno, I can't do it. But I've seen enough software development projects to know th at a lot of people can. In fact, for some people and some companies, it seems to be pretty much their business model. 
+I don't know, I can't do it. But I've seen enough software development projects to know that a lot of people can. In fact, for some people and some companies, it seems to be pretty much their business model. 
 
 What if you're one of the bosses of this project? What if you own this mess? What can you do? 
 
@@ -593,9 +601,9 @@ First: find out what the real problems are that the project is facing. If a proj
 
 What is that thing that's stopping them? How can something be done to address it? And then be Jerry Springer about that thing. Televise it. Let everybody who should be interested and everyone who could possibly do something to fix that problem know about it.
 
-Beyond that, the answers to this question are the major tactics for delivering the impossible that we're going to talk about in the next couple of chapters. 
+Beyond that, the answers to this question are the two major tactics for delivering the impossible. These are what we're going to talk about in the next couple of chapters. 
 
-The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swap. The second is to deliver working software.
+The first of these is to understand the value environment that you're working in and delivering to. And the metaphor we use in this book is exploring the swamp. The second is to deliver working software.
 
  
 
