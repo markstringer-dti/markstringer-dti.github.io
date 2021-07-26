@@ -489,7 +489,7 @@ I think I was using this rule. I wouldn't say it's as strong as a law, but it's 
 
 The rule goes like this. 
 
-Most projects are going to be to be labouring under some delusion. There will be something about the project that doesn't make sense. Often this will be a delusion about how long the project will take to deliver, or how much it will cost. Sometimes, the delusion will be that this new product is guaranteed to be a success. Sometimes the delusion might be that some new technology will change everything. Sometimes the delusion is that successful projects can be delivered by this organisation. Despite all evidence to the contrary. Despit the still visible wreckage of previous disastrous projects.
+Most projects are going to be to be labouring under some delusion. There will be something about the project that doesn't make sense. Often this will be a delusion about how long the project will take to deliver, or how much it will cost. Sometimes, the delusion will be that this new product is guaranteed to be a success. Sometimes the delusion might be that some new technology will change everything. Sometimes the delusion is that successful projects can be delivered by this organisation. Despite all evidence to the contrary. Despite the still visible wreckage of previous disastrous projects.
 
 It took me a long time to realise the chances of a project having no delusions is near nil.  You probably need to let a project have at least one delusion. Fighting to make a project completely delusion free is a lost cause.
 
@@ -519,7 +519,7 @@ Why? Because someone else may, if they want the project to succeed, be able to s
 
 Why are people behaving like this? Let's be very clear. It doesn't work. It's doesn't make the project more likely to succeed. It makes the project more likely to fail. Code written at 2am on a Sunday morning is not going to make a project succeed. Most of Monday and Tuesday, if you're lucky, January and February if you're not, is going to be spent taking that exact same code out again. 
 
-It might be that some of those people are only doing those things because they have no idea what else they can do. They want to make the project successful. They do not know how. What if you do make clear what the problems are that your team is encountering? You are giving those people who dpo want the project to succeed a good solid opportunity to help.
+It might be that some of those people are only doing those things because they have no idea what else they can do. They want to make the project successful. They do not know how. What if you do make clear what the problems are that your team is encountering? You are giving those people who do want the project to succeed a good solid opportunity to help.
 
 The second thing that you can do is to deliver some of the thing that that some people want to some of the people who want it. This might not be anywhere near everything that has been asked for by the deadline. But if you can find one bit of software that you can release to some people who want it, you can completely change the nature of a project. In Agile terms, this is called "pull." Pull from outside a team that comes from demand from real users can be a wonderful thing. 
 
