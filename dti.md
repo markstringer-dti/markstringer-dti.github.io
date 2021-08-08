@@ -1202,7 +1202,7 @@ But do you know what he really needs? He needs yet another metaphor. He needs so
 ## Chapter 9 - So what do you do about the pirate ship?
 
 ### Connections
-I think I made it pretty clear in the chapter on agreed activity and the pirate ship, that it's very important to deal with the pirate ship. Let's just be clear again what the pirate ship is. The pirate ship is the problem that everyone can see on the horizon that nobody wants to deal with. 
+I think I made it pretty clear in the chapter on agreed activity and the pirate ship, that it's very important to deal with the pirate ship. Let's just be clear again what the pirate ship is. It is the problem that everyone can see on the horizon that nobody wants to deal with. 
 
 What I didn't really address in that chapter is how to deal with the pirate ship. Why? Well, here's the main reason. Most of the problems that software development projects encounter are easy for someone to solve. They are mostly of the kind that I call "Bricks without straw" problems. And there is an obvious solution to them. What do I mean by "Bricks without straw" problems?
 
@@ -1250,7 +1250,47 @@ When we do listen to the people of the swamp? When do we ignore them? When do we
 
  
 
-## Chapter 10 - Commitment and Consistency and Your Other Boss
+## Chapter 10 - Psychological Safety for Your Boss
+
+## Connection
+In a very early chapter [Agreed Activity] we talked about agreed activity. The phenomenon of doing something safe rather than doing something that helps a project (or performance, in the original metaphor) move forward. Then we talked about the antedote to agreed activity - creating psychological safety. 
+
+One of the things that bothered me when I was reading the Timothy Clark's book was that there were quite a lot of stories in which the boss didn't look good. The boss was the reason that psychological safety didn't emerge in the team.
+
+A thought that drifted vaguely through my mind was that if everybody has a requirement to feel psychologically safe, that everybody also applies to leaders and bosses.   The thought also occurred to me that what constitutes psychological safety might be different for bosses than it is for team members. Looking at things in this way provided me with a different way of looking at some of the very worst experiences I've had whilst working as a project manager. And it also made me realise if you're a project manager, you ignore the psychological safety of your bosses at your peril.
+
+## Concept
+So, let's just remind ourselves what the four levels of psychological safety are that Clark talks about in his book. 
+
+1. Membership Safety
+2. Learning Safety
+3. Contribution Safety
+4. Criticism Safety
+
+And let's just take these one by one and think about what these mean if you have some kind of leadership role. 
+
+1. Membership Safety - showing the boss that they're the boss
+
+It's isn't enough to a member for the team if you're the boss. You have to have everyone in your team recognise that you're the boss. But as with membership safety, this is the first, fundamental level of safety that a boss needs. Just as anyone can't usefully participate in a team unless they feel they are part of the team, no boss can usefully provide leadership, if there's any doubt about their authority. 
+
+This is a problem for bosses in software developement for two reasons. Firstly all of the people who are actually doing the work know how to do the work better than the boss. 
+
+Secondly, in software development, reality is your the other boss. If you're doing it properly as a team (i.e. using Agile, iterative methods), you will soon discover the really hard problems that need solving. It will be very difficult to air these problems without undermining the authority of the boss.
+
+And here we uncover a central contradiction of project management. It's one that you're not going to ever resolve. The best that you can hope for is that you're going to be able to manage it.
+
+>> The thing that you have to do to get the project done, is the thing that you should never do to your boss (i.e. point out the fundamental problems with their ideas).
+
+2. Learning Safety
+Leaders need to feel safe to learn. But somehow part of the rules of being a leader is that they can't simply go to school, take a course or sit at the feet of the expert who actually knows. So again, the team is faced with a paradox. They need to figure out ways to teach their leaders what they need to know, without flagging what they're doing as teaching, or letting on that they know that their leaders are ignorant. 
+
+
+
+## Concrete Practice
+
+## Conclusion
+
+## Chapter 11 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
 >> Ralph Waldo Emerson
