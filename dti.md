@@ -1225,7 +1225,7 @@ Some problems are hard. Some problems are hard because their solution would requ
 ### Concrete practice
 It is worth asking, what would a solution *look* like. What *kind* of thing would be a solution.
 
-It is a technology? Is it a relationship? Is it form of communication?
+Is it a technology? Is it a relationship? Is it form of communication?
 
 Another thing to think about is the dynamic of the problem? Is there a threshold beyond which this won't be a problem any more? For example, how fast would the internet connection have to be for a developer in the office before it ceased to be a problem? How infrequent would outages have to before they stopped being a problem?
 
