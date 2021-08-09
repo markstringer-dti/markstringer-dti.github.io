@@ -1252,14 +1252,14 @@ When we do listen to the people of the swamp? When do we ignore them? When do we
 
 ## Chapter 10 - Psychological Safety for Your Boss
 
-## Connection
+### Connection
 In a very early chapter [Agreed Activity] we talked about agreed activity. The phenomenon of doing something safe rather than doing something that helps a project (or performance, in the original metaphor) move forward. Then we talked about the antedote to agreed activity - creating psychological safety. 
 
 One of the things that bothered me when I was reading the Timothy Clark's book was that there were quite a lot of stories in which the boss didn't look good. The boss was the reason that psychological safety didn't emerge in the team.
 
 A thought that drifted vaguely through my mind was that if everybody has a requirement to feel psychologically safe, that everybody also applies to leaders and bosses.   The thought also occurred to me that what constitutes psychological safety might be different for bosses than it is for team members. Looking at things in this way provided me with a different way of looking at some of the very worst experiences I've had whilst working as a project manager. And it also made me realise if you're a project manager, you ignore the psychological safety of your bosses at your peril.
 
-## Concept
+### Concept
 So, let's just remind ourselves what the four levels of psychological safety are that Clark talks about in his book. 
 
 1. Membership Safety
@@ -1282,13 +1282,23 @@ And here we uncover a central contradiction of project management. It's one that
 >> The thing that you have to do to get the project done, is the thing that you should never do to your boss (i.e. point out the fundamental problems with their ideas).
 
 2. Learning Safety
-Leaders need to feel safe to learn. But somehow part of the rules of being a leader is that they can't simply go to school, take a course or sit at the feet of the expert who actually knows. So again, the team is faced with a paradox. They need to figure out ways to teach their leaders what they need to know, without flagging what they're doing as teaching, or letting on that they know that their leaders are ignorant. 
+Leaders need to feel safe to learn. But somehow part of the rules of being a leader is that they can't simply go to school, take a course or sit at the feet of the expert who actually knows. So again, the team is faced with a paradox. They need to figure out ways to teach their leaders what they need to know, without flagging what they're doing as teaching, or making it too blatantly clear that they know there are certain areas where the leader in lacking in knowledge. 
 
+Of course, to some degree, the things that a leader is discovering about the project are the same things that the team are discovering about the project. What is easy? What is hard? What aspects of the project are genuinely appealing to users. What aspects of the project are totally uninteresting to users. Which other groups of people care about the project, or have regulatory power over it. But it's very possible that, for the leader, learning these things is not going to result in a safe experience. 
 
+The project is going to cost way more than the leader expected. The project is going to take a lot longer than the leader expected. Protential users don't seem that excited by it, or are actively hostile to it. It turns out that there is a regulator that, if you don't make expensive changes, could stop the project dead in its tracks.
 
-## Concrete Practice
+Yes, this is learning, it is good to know these things, rather than not know them, if you really want to the project to be a success. But sometimes, if not often, it's difficult to separate the experience of learning from the value that the learning gives you.  
 
-## Conclusion
+3. Contribution Safety 
+Leaders need to be able to contribute. From out point of view, as managers of software development projects, they need to be able to suggest things that they want the sofware to do. 
+
+4. Critical Safety
+Perhaps this is radically different for leaders than it is for team members. Perhaps not. In this fourth level, where the leader is made to feel as safe as possible by the team. The leader can admit that they're wrong and can even be open to criticism from the team. 
+
+### Concrete Practice
+
+### Conclusion
 
 ## Chapter 11 - Commitment and Consistency and Your Other Boss
 
