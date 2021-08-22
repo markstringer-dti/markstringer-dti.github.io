@@ -9,6 +9,8 @@
 
 
 ## Update History
+Update 22nd August 2021 - "It's been a while, but finally a realisation - Hemlock isn't my drink."
+
 Update 25th July 2021 - "I don't Karate, but I know Crazy"
 
 Update 22nd July 2021 - "Slight update to the so what do you do chapter - and also, sorted out chapter headings"
