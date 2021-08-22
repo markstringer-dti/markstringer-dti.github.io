@@ -1225,9 +1225,9 @@ Some problems are hard. Some problems are hard because their solution would requ
 ### Concrete practice
 It is worth asking, what would a solution *look* like. What *kind* of thing would be a solution.
 
-Is it a technology? Is it a relationship? Is it form of communication?
+Is it a technology? Is it a relationship? Is it a form of communication?
 
-Another thing to think about is the dynamic of the problem? Is there a threshold beyond which this won't be a problem any more? For example, how fast would the internet connection have to be for a developer in the office before it ceased to be a problem? How infrequent would outages have to before they stopped being a problem?
+Another thing to think about is the dynamic of the problem? Is there a threshold beyond which this won't be a problem any more? For example, how fast would the internet connection have to be for a developer in the office before it ceased to be a problem? How infrequent would outages have to be before they stopped being a problem?
 
 Let's say that we commit to a course of action to improve something. We agree to push to get access to subject matter experts. How long is that likely to take? How long will it take for us to feel the benefits. Some kinds of capability take months, or years to develop. 
 
@@ -1235,10 +1235,10 @@ Do a bunch of things need to happen, together, or in sequence, for this to get b
 
 A lot of the problems that we encounter in project management are trade-offs. There are lots of trade-offs in software development with speed. Speed is traded off against accuracy. You can have something fast, but it might not be exactly right. Speed is also traded off again something called "tech debt." Tech debt is the difference between doing something fast and and doing something "right." Where "right" means tidily and in a way that might make sense to other people.
 
-Speed of development is also, of course, traded off against security. But speed can also be traded off against things we might think are unreservedly good. An example? User research is great, understanding the swamp and the denizens of the swamp is vital. But at some point you have to start writing some sofware. 
+Speed of development is also, of course, traded off against security. But speed can also be traded off against things we might think are unreservedly good. An example? User research is great, understanding the swamp and the denizens of the swamp is vital. But at some point you have to start writing some software. 
 
 ### Concept
-Congratulations. You have solved all the easily solved problems. You have pointed out the pirate ships. Now you've hint bedrock. 
+Congratulations. You have solved all the easily solved problems. You have pointed out the pirate ships. Now you've hit bedrock. 
 
 ### Conclusion 
 
@@ -1250,7 +1250,123 @@ When we do listen to the people of the swamp? When do we ignore them? When do we
 
  
 
-## Chapter 10 - Psychological Safety for Your Boss
+## Chapter 10 - Fried Egg Agile
+
+>> The way you make an omelette reveals your character
+>> Anthony Bourdain
+
+### Connections
+
+It isn't just Anthony Bourdain who says this. I saw a TV programme by the chef Rick Stein. He said that whenever he interviews a chef who might work in one of his restaurants, he asks him to fry an egg. I suspect, rather like the martinis that we've already discussed, there are many ways of frying an egg. Stein says that all the best chefs - the ones that he's likely to hire - do the same thing. It isn't that they fry the egg in the same way. It's that they have the same attitude to it. They shrug and say something like "I don't know how you fry an egg. This is the way that I do it."
+
+And of course, Anthony Bourdain is saying something very similar. You can tell a lot about a person by how they do the simple things in your line of work. 
+
+So, now I'm suddenly very aware that I'm revealing possibly more of myself than I'd like. But that's what this chapter is about. It acknowledges that there may well be many different ways of frying an egg, making a martini, and running even the basic aspects of an Agile project. Because that's what I'm going to talk about here. Less nourishing than an egg, less fun than a martini. Much more useful for software development. I'm going to talk about how I do Agile.
+
+### Concepts
+#### Meetings
+##### Stand up
+For me the power of Scrum is that it tells you to do some things. And they are very simple things - meetings. And it tells you to have some things and they are quite simple things - artefacts.
+
+The first things to start doing with any team that you're working with is to have a standup. The standup is a meeting that happens at the same time every day, in the same place. I'm writing this in 2021, which I hope is at the tail end of the COVID-19 pandemic, but who knows. And most software development work over the last two years has been online. So the mandate that everybody who's at the standup should be standing up, which I've got into several arguments about before, isn't really possible to enforce. It will be interesting to see what happens should we ever return to normal and go back to the office. 
+
+I used to like the actual act of standing up. And I think there is some power to the simple act of adopting a different physical stance when you do something. 
+
+Anyway. Get your team together and get each of them to roughly answer these three questions - what did they do yesterday (or the last working day if they didn't work). What are they going to do today? And is there anything blocking them? That is, is there anything that's stopping them from doing what they want to do?
+
+And try to keep the whole thing under 20 minutes. Try to push things forward if there are obvious digressions.
+
+That's it. I don't know what the Scrum guide says these days. Maybe it says something different. The stuff I've just described, you're fried the egg on that one.
+
+##### Planning
+Get the team together and discuss what you're going to do in the next fixed period. The world seems to have settled on two weeks as the agreed fixed length of time. And I don't have much against it, except to point out that in my experience, sometimes work is obviously moving on a larger "cadence". By that I mean on a different rhythm, a different fixed period. And it's worth noticing these as the team progresses and discussion what you want to do about them.
+
+Sometimes things are so crazy that a week works better. I avoid any options other than multiples of seven days, because calendar arithmetic is beyond me. And I truly believe in the power of "If this is Wednesday and it wasn't planning last Wednesday, it must planning today," as being all the effort anyone should ever be putting into figuring out if it's planning or not.
+
+##### Show and Tell
+Demonstrate the working software to people who might care. That will probably be the product owner. It might be other people related to the project, all sorts of people who have an interest in the swamp.  
+
+Understand that gathering feedback is, at least, a two-step process. 
+
+The first step is capturing the feedback. It's very important that you show that you're listening. Write down the feedback from every show and tell.
+
+The second step is to decide what to do about the feedback. That's something for the product owner, primarily, and the possibly the rest of the team.
+
+What you're doing by having a show and tell is fulfilling the "Transparency" and "Inspection" aspects of Empirical process.
+
+What that really means is that if you've done something really dumb, someone is going to tell you. Also, if you've missed something really important, someone is going to tell you.  That's what you're hoping for. That's the payoff.
+
+The price for this is that people might say really dumb things. One of my favourites of recent years was, for a form-filling application, "Can you make so that users aren't allowed to submit the form, unless the English has no spelling or grammatical errors?"
+
+This isn't too serious. But it can get a little wearing.
+
+What can be more of a problem is that by showing working software you can unearth a real conflict in the organisation.  You want to avoid putting controversy in the software. Which means you need to surface the controversy before it gets in there. But this can be a rough ride.
+
+So, feedback, no matter, how brutal, non-sensical or contradictory is the first reason that you're having a show and tell.
+
+What's the second reason? The second reason is working software. If you have a meeting where you're supposed to demonstrate working software, it's going to become obvious if you aren't demonstrating any.
+
+If you've read and remembered the chapter about exploring the swamp. You'll recall that these were the two activities that I recommended. Mapping the stakeholders and exploring value with working software.
+
+Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's really important to the health any project that they happen there. \[See end note\]
+ 
+##### Retro
+The retrospective is a chance for the team to express how they feel about how things are going. 
+
+Yes, notionally, it's supposed to be a more forensic look at what went on in the last sprint. But really, I want it to be a meeting in which the team get chance to vent. 
+
+If there are definite actions that come out of it, that's great. If there is a short list of things that need to chance that can be taken to senior management, also great. 
+
+You will be able to find lots of descriptions of how to run a perfect retrospective. One thing you should probably understand is that if you're not willing to get it wrong by trying a bunch of different formats, you probably won't stand much chance of getting it right. 
+
+#### Artefacts
+So you've got your four meetings. What else do you need?
+
+##### The backlog
+The only other thing that you *really* need is a list of things to do. This is often called the backlog.
+
+What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint backlog. These are the things that the team is going to do in this sprint.
+
+Why am I not saying the "S" word? Why am I not saying stories? Not because I don't think you should call them stories, I'm fine with calling them stories. I'm also fine drawing distinctions between tasks and stories. Roughly a task is something that needs doing that isn't going to change the functionality of the code? Make some changes to the cloud server architecture? That's a task. Run a one-off report from the database, that's a task.
+
+A story is something that, when it's done, will result in the software doing something differently? "Add middle name to sign-up page" - for me that's a story. 
+
+Am I going to say that all stories should be of the format "As an X, I can Y, so that Z"? No, I'm not saying that. Why? 
+
+Because think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the format "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine. To insist that everything in the backlog (that's the technical term for the list of stories) must be a story, and that all stories must be of the form "As an X, I can Y, so that Z."
+
+And drawing distinctions between stories and bugs. I'm also fine with this. Once you get going, this is fine. Roughly, a story is a change that the product owner wants to make to the way the software behaves to make it do something new. A bug is a change that makes it behave in the way that's expected. 
+
+And where do you put this list of things to do? To be honest, I've got my preferences, but I try not to force them on the team. This is tricky because most of these things are proprietary and will involve some outlay and commitment. But I think the team should figure out all together what kind of thing they should use to communicate. 
+
+They might want to start out with a spreadsheet, but somebody will probably find out quite soon that that's a nightmare to maintain. They might want to start out with a physical wall, but in these days of everyone working from home, I'm not sure how you could make that work. 
+
+I'm going to come out and admit that I like Jira. Well, I don't like it, I pretty much loathe everything about it, except that it seems to be the best application for keeping track of what the status of an issue is and also, the discussion that's gone on around it.
+
+##### Definition of Ready, Definition of Done
+What about a definition of ready? I don't have one. Again, as I write this, I'm aware that it's the kind of thing that could get you drummed out of the Scrum Masters' guild - if we were the kind of people who would form such a thing, which we're not. 
+
+The idea of the definition of ready is that it's a checklist of things that need to be in a story before it's ready to be planned in a sprint.
+
+Trouble is, I don't have a degree in computer science, I have a degree in philosophy. Philosophers start with Plato, and the crazy trouble that Plato (through his ventriloquist's dummy Socrates) got into trying to come up with definitions for things tends to stick in your mind. 
+
+So, you set out to figure out what "good" was? You ended up killing yourself by drinking hemlock? This doesn't sound like a great strategy. 
+
+So, I'm fine with a definition of ready, I just don't want it to be written down, I want it to emerge through practice (for anyone interested, this is a Wittgensteinian approach rather than a Platonic one). 
+
+I mean, I'm not going to forbid anybody from writing things down. But if the team notice that they don't have anything to plan because none of the items in the backlog are "ready" according to the definition, I might suggest they don't focus so much on the definition of ready and just have a chat about the things that are most ready. What would need to happen to them for them to be ready? 
+
+And so you might have already figured out what I'm going to say about "definition of done"? Something very similar. 
+
+### Concrete Practice
+### Conclusion
+
+\[End note\]
+As I'm writing this, I'm working on a project where after three and a half years, the show and tell has been shut down by new management. There is a phrase in Agile - that something is a "smell". It means that you see a practice, by itself that practice might not mean anything, but it's often an indication that something is rotten. Cancelling the show and tell isn't a smell it's a stink. In this case, I think it's, to the "Line going slack" which I'll talk about in another chapter. 
+
+But still, I know I sound like a grizzled old timer. But still, no good will come of it.
+
+## Chapter 11 - Psychological Safety for Your Boss
 
 ### Connection
 In a very early chapter [Agreed Activity] we talked about agreed activity. The phenomenon of doing something safe rather than doing something that helps a project (or performance, in the original metaphor) move forward. Then we talked about the antedote to agreed activity - creating psychological safety. 
@@ -1300,7 +1416,7 @@ Perhaps this is radically different for leaders than it is for team members. Per
 
 ### Conclusion
 
-## Chapter 11 - Commitment and Consistency and Your Other Boss
+## Chapter 12 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
 >> Ralph Waldo Emerson
