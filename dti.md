@@ -1308,7 +1308,7 @@ What's the second reason? The second reason is working software. If you have a m
 
 If you've read and remembered the chapter about exploring the swamp. You'll recall that these were the two activities that I recommended. Mapping the stakeholders and exploring value with working software.
 
-Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's really important to the health any project that they happen there. \[See end note\]
+Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's really important to the health any project that they happen there.
  
 ##### Retro
 The retrospective is a chance for the team to express how they feel about how things are going. 
@@ -1361,10 +1361,6 @@ And so you might have already figured out what I'm going to say about "definitio
 ### Concrete Practice
 ### Conclusion
 
-\[End note\]
-As I'm writing this, I'm working on a project where after three and a half years, the show and tell has been shut down by new management. There is a phrase in Agile - that something is a "smell". It means that you see a practice, by itself that practice might not mean anything, but it's often an indication that something is rotten. Cancelling the show and tell isn't a smell it's a stink. In this case, I think it's, to the "Line going slack" which I'll talk about in another chapter. 
-
-But still, I know I sound like a grizzled old timer. But still, no good will come of it.
 
 ## Chapter 11 - Psychological Safety for Your Boss
 
