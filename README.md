@@ -9,6 +9,8 @@
 
 
 ## Update History
+Update 25th August 2021 - "Confessions of a convener of extra meetings."
+
 Update 22nd August 2021 - "It's been a while, but finally a realisation - Hemlock isn't my drink."
 
 Update 25th July 2021 - "I don't Karate, but I know Crazy"

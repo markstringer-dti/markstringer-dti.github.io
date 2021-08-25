@@ -1265,6 +1265,13 @@ So, now I'm suddenly very aware that I'm revealing possibly more of myself than 
 
 ### Concepts
 #### Meetings
+
+There are four meetings. 
+1. Stand up
+2. Planning
+3. Shown and Tell (or Sprint Showcase, or Sprint Demo)
+4. Retrospective
+
 ##### Stand up
 For me the power of Scrum is that it tells you to do some things. And they are very simple things - meetings. And it tells you to have some things and they are quite simple things - artefacts.
 
@@ -1317,15 +1324,59 @@ Yes, notionally, it's supposed to be a more forensic look at what went on in the
 
 If there are definite actions that come out of it, that's great. If there is a short list of things that need to chance that can be taken to senior management, also great. 
 
-You will be able to find lots of descriptions of how to run a perfect retrospective. One thing you should probably understand is that if you're not willing to get it wrong by trying a bunch of different formats, you probably won't stand much chance of getting it right. 
+You will be able to find lots of descriptions of how to run a perfect retrospective. One thing you should probably understand is that if you're not willing to get it wrong by trying a bunch of different formats, you probably won't stand much chance of getting it right.
+
+##### Other meetings that I find helpful
+
+These are some other meetings that I find useful. I'm not saying you'll need these for your teams. I'm not saying that *at all*. But I find them useful on some teams.
+
+###### Mid Spring Check
+I find it useful in the middle of a sprint to have a meeting where the team just gets together for half an hour and checks in to see how things are going. Two or three things that I do in that meeting.
+1. Check the goals - we set some goals at the beginning of the sprint, in planning. How are we doing against those goals? Sometimes, I know this sounds crazy, but we'll all have forgotten what the goals were!
+2. Looking at the list of stuff still to do in the sprint, does any of it now seem impossible? Have we found out things that mean that some thing just can't be done? What do we want to do about that? Is there someone we need to tell.
+3. Look at the roadmap.
+
+###### Risks and Issues
+This is a new one that I've learnt on my last project. My heart sank because I was told that I needed to report risks for my project every week. 
+
+My experience of risk registers is that they are very dumb. They tend to become, almost instantly, "information fridges" where information goes to remain unchanged and unnoticed and get out of date. 
+
+But my product owner was an employee of the organisation and wanted to make sure that we doing everything we could about "governance." He found a description of an Agile approach to risk management that I had no problem getting behind.
+
+Each sprint we'd meet with the senior stakeholder. For half an hour we'd walk through a kanban board of risks. Each risk would be scored using an "exposure" score. This was calculated by multiplying the cost of the risk happening and the chance of it happening. 
+
+For example:
+
+Risk: We don't deliver the service on time.
+Cost (in day for the whole team): 40
+Percentage chance: 30%
+Total Exposure score: 1200
+
+Of course, the scores are (almost) complete hokum. 
+
+But having a short meeting every fortnight where we discussed what was worrying the senior stakeholder using this format was extremely useful. It was also a way of us gently raising any concerns that we had. 
+
+###### Backlog refinement
+
+###### (On live services) Support board
+
+#### That's a *lot* of meetings
+ 
 
 #### Artefacts
-So you've got your four meetings. What else do you need?
+So, you've got your four meetings. What else do you need?
 
-##### The backlog
-The only other thing that you *really* need is a list of things to do. This is often called the backlog.
+For me there are two, (ok, maybe three or four) artefacts.
 
-What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint backlog. These are the things that the team is going to do in this sprint.
+1. Backlog items.
+2. A collection of backlog items
+3. Maybe a burnup chart
+4. Maybe a roadmap
+
+##### Backlog items
+At the beginning of a project, I'm very happy to start collecting a list of any things that need doing.
+
+And I don't want to be too prescriptive about what kinds of things are allowed to go on that list.
 
 Why am I not saying the "S" word? Why am I not saying stories? Not because I don't think you should call them stories, I'm fine with calling them stories. I'm also fine drawing distinctions between tasks and stories. Roughly a task is something that needs doing that isn't going to change the functionality of the code? Make some changes to the cloud server architecture? That's a task. Run a one-off report from the database, that's a task.
 
@@ -1336,6 +1387,13 @@ Am I going to say that all stories should be of the format "As an X, I can Y, so
 Because think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the format "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine. To insist that everything in the backlog (that's the technical term for the list of stories) must be a story, and that all stories must be of the form "As an X, I can Y, so that Z."
 
 And drawing distinctions between stories and bugs. I'm also fine with this. Once you get going, this is fine. Roughly, a story is a change that the product owner wants to make to the way the software behaves to make it do something new. A bug is a change that makes it behave in the way that's expected. 
+ 
+
+##### The backlog
+The only other thing that you *really* need is a list of things to do. This is often called the backlog.
+
+What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint backlog. These are the things that the team is going to do in this sprint.
+
 
 And where do you put this list of things to do? To be honest, I've got my preferences, but I try not to force them on the team. This is tricky because most of these things are proprietary and will involve some outlay and commitment. But I think the team should figure out all together what kind of thing they should use to communicate. 
 
