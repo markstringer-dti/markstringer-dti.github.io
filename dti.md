@@ -1330,7 +1330,7 @@ You will be able to find lots of descriptions of how to run a perfect retrospect
 
 These are some other meetings that I find useful. I'm not saying you'll need these for your teams. I'm not saying that *at all*. But I find them useful on some teams.
 
-###### Mid Spring Check
+###### Mid Sprint Check
 I find it useful in the middle of a sprint to have a meeting where the team just gets together for half an hour and checks in to see how things are going. Two or three things that I do in that meeting.
 1. Check the goals - we set some goals at the beginning of the sprint, in planning. How are we doing against those goals? Sometimes, I know this sounds crazy, but we'll all have forgotten what the goals were!
 2. Looking at the list of stuff still to do in the sprint, does any of it now seem impossible? Have we found out things that mean that some thing just can't be done? What do we want to do about that? Is there someone we need to tell.
