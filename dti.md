@@ -1261,7 +1261,7 @@ It isn't just Anthony Bourdain who says this. I saw a TV programme by the chef R
 
 And of course, Anthony Bourdain is saying something very similar. You can tell a lot about a person by how they do the simple things in your line of work. 
 
-So, now I'm suddenly very aware that I'm revealing possibly more of myself than I'd like. But that's what this chapter is about. It acknowledges that there may well be many different ways of frying an egg, making a martini, and running even the basic aspects of an Agile project. Because that's what I'm going to talk about here. Less nourishing than an egg, less fun than a martini. Much more useful for software development. I'm going to talk about how I do Agile.
+So, now I'm suddenly very aware that I'm revealing possibly more of myself than I'd like. But that's what this chapter is about. It admits that there may well be many different ways of frying an egg. There is more than one way of making a martini. There is also more than one way of running even the basic aspects of an Agile project. Because that's what I'm going to talk about here. Less nourishing than an egg, less fun than a martini. Much more useful for software development. I'm going to talk about how I do Agile.
 
 ### Concepts
 #### Meetings
@@ -1275,20 +1275,20 @@ There are four meetings.
 ##### Stand up
 For me the power of Scrum is that it tells you to do some things. And they are very simple things - meetings. And it tells you to have some things and they are quite simple things - artefacts.
 
-The first things to start doing with any team that you're working with is to have a standup. The standup is a meeting that happens at the same time every day, in the same place. I'm writing this in 2021, which I hope is at the tail end of the COVID-19 pandemic, but who knows. And most software development work over the last two years has been online. So the mandate that everybody who's at the standup should be standing up, which I've got into several arguments about before, isn't really possible to enforce. It will be interesting to see what happens should we ever return to normal and go back to the office. 
+The first things to start doing with any team that you're working with is to have a standup. The standup is a meeting that happens at the same time every day, in the same place. I'm writing this in 2021, which I hope is at the tail end of the COVID-19 pandemic, but who knows. And most software development work over the last two years has been online. So the idea that everybody who's at the standup should be standing up feels very out of date. I've got into several arguments about before about it. But it's definitely not worth the fight at the moment. It will be interesting to see what happens should we ever return to "normal" and go back to the office. 
 
-I used to like the actual act of standing up. And I think there is some power to the simple act of adopting a different physical stance when you do something. 
+I still think there's a lot to be said for actually standing up though. It's doing something *different* from what the team does for the rest of the day. I think there is some power to the simple act of adopting a different physical stance when you do something. 
 
-Anyway. Get your team together and get each of them to roughly answer these three questions - what did they do yesterday (or the last working day if they didn't work). What are they going to do today? And is there anything blocking them? That is, is there anything that's stopping them from doing what they want to do?
+Anyway. Get your team together and get each of them to roughly answer three questions. What did they do yesterday? Or the last working day if they didn't work. What are they going to do today? And is there anything that's blocking them? That is, is there anything that's stopping them from doing what they want to do?
 
-And try to keep the whole thing under 20 minutes. Try to push things forward if there are obvious digressions.
+And try to keep the whole thing under 20 minutes. Try to push things forward if there are obvious digressions. Sick cats? Sympathy yes, long discussion of ailments no. Someone's team did well in the sports? Brief chuckle yes, blow by blow analysis, no.
 
-That's it. I don't know what the Scrum guide says these days. Maybe it says something different. The stuff I've just described, you're fried the egg on that one.
+That's it. I don't know what the Scrum guide says these days. Maybe it says something different. The stuff I've just described? You've fried the egg on that one.
 
 ##### Planning
 Get the team together and discuss what you're going to do in the next fixed period. The world seems to have settled on two weeks as the agreed fixed length of time. And I don't have much against it, except to point out that in my experience, sometimes work is obviously moving on a larger "cadence". By that I mean on a different rhythm, a different fixed period. And it's worth noticing these as the team progresses and discussion what you want to do about them.
 
-Sometimes things are so crazy that a week works better. I avoid any options other than multiples of seven days, because calendar arithmetic is beyond me. And I truly believe in the power of "If this is Wednesday and it wasn't planning last Wednesday, it must planning today," as being all the effort anyone should ever be putting into figuring out if it's planning or not.
+Sometimes things are so crazy that a week works better. I avoid any options other than multiples of seven days, because calendar arithmetic is beyond me. And I truly believe in the power of getting into the rhythm. If this is Wednesday and it wasn't planning last Wednesday, it must planning today. That's it. That's all the effort anyone should ever need to put into figuring out if today is planning day or not.
 
 ##### Show and Tell
 Demonstrate the working software to people who might care. That will probably be the product owner. It might be other people related to the project, all sorts of people who have an interest in the swamp.  
@@ -1303,7 +1303,7 @@ What you're doing by having a show and tell is fulfilling the "Transparency" and
 
 What that really means is that if you've done something really dumb, someone is going to tell you. Also, if you've missed something really important, someone is going to tell you.  That's what you're hoping for. That's the payoff.
 
-The price for this is that people might say really dumb things. One of my favourites of recent years was, for a form-filling application, "Can you make so that users aren't allowed to submit the form, unless the English has no spelling or grammatical errors?"
+The price for this is that people might say really dumb things. For a form-filling application that we demonstrated. We got assked this question? "Can you make so that users aren't allowed to submit the form, unless the English has no spelling or grammatical errors?"
 
 This isn't too serious. But it can get a little wearing.
 
@@ -1313,7 +1313,7 @@ So, feedback, no matter, how brutal, non-sensical or contradictory is the first 
 
 What's the second reason? The second reason is working software. If you have a meeting where you're supposed to demonstrate working software, it's going to become obvious if you aren't demonstrating any.
 
-If you've read and remembered the chapter about exploring the swamp. You'll recall that these were the two activities that I recommended. Mapping the stakeholders and exploring value with working software.
+If you've read and remembered the chapter about exploring the swamp. You'll recall that these were the two activities that I recommended. Drawing a map of the people who live in the swamp and the people who care about the swamp.  Exploring value and creating pull with working software.
 
 Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's really important to the health any project that they happen there.
  
@@ -1324,7 +1324,7 @@ Yes, notionally, it's supposed to be a more forensic look at what went on in the
 
 If there are definite actions that come out of it, that's great. If there is a short list of things that need to chance that can be taken to senior management, also great. 
 
-You will be able to find lots of descriptions of how to run a perfect retrospective. One thing you should probably understand is that if you're not willing to get it wrong by trying a bunch of different formats, you probably won't stand much chance of getting it right.
+You will be able to find lots of descriptions of how to run a perfect retrospective. There is one thing that it's important to understand. If you're not willing to get it wrong by trying a bunch of different formats, you probably won't get it right.
 
 ##### Other meetings that I find helpful
 
@@ -1339,7 +1339,7 @@ I find it useful in the middle of a sprint to have a meeting where the team just
 ###### Risks and Issues
 This is a new one that I've learnt on my last project. My heart sank because I was told that I needed to report risks for my project every week. 
 
-My experience of risk registers is that they are very dumb. They tend to become, almost instantly, "information fridges" where information goes to remain unchanged and unnoticed and get out of date. 
+My experience of risk registers is that they aren't useful. They tend to become, almost instantly, "information fridges." A place where information goes to remain unchanged and unnoticed and have no effect. 
 
 But my product owner was an employee of the organisation and wanted to make sure that we doing everything we could about "governance." He found a description of an Agile approach to risk management that I had no problem getting behind.
 
@@ -1354,14 +1354,19 @@ Total Exposure score: 1200
 
 Of course, the scores are (almost) complete hokum. 
 
-But having a short meeting every fortnight where we discussed what was worrying the senior stakeholder using this format was extremely useful. It was also a way of us gently raising any concerns that we had. 
+But having a short meeting every fortnight where we discussed what was worrying the senior stakeholders? That was useful. And that's what this meeting allowed us to do. It was also a way of us gently raising our own concerns.
 
 ###### Backlog refinement
+There are lots of different ways of doings this. And again, I really want this to evolve through the course of a project. There is the "Three Amigos" approach. The idea is that if the items in the backlog should be looked at from several different points of view. Technically, is this possible? What else to we need to know? From a user research point of view, what might we need to explore before we develop it? From a design point of view, is there anything new and different? And of course, from a business point of view, why is this important? 
+
+In my experience, this might be needed early on. So that these points of view are made clear to the other "amigos." But over time, this can be streamlined, and the reviews of the backlog might only need the product owner and the Scrum Master. Maybe. Think about it this way. Part of the work that you're doing on a project is figuring out what shape the work is. Where does the work need detail and specification up front? Where that can it be left to be figured out as it's picked up to be developed.
+
+Which bits need to be explored using user research and testing? How much? Where? With whom? Which bits need a lot of design thinking and input. Which bits can be developed without much design input? 
 
 ###### (On live services) Support board
 
 #### That's a *lot* of meetings
- 
+Yes, I know that this is a lot of meetings. And I'm not suggesting that you need any of these. You might need a different meeting.  
 
 #### Artefacts
 So, you've got your four meetings. What else do you need?
@@ -1389,7 +1394,7 @@ Because think the team need to get a feel together for what constitutes a well-f
 And drawing distinctions between stories and bugs. I'm also fine with this. Once you get going, this is fine. Roughly, a story is a change that the product owner wants to make to the way the software behaves to make it do something new. A bug is a change that makes it behave in the way that's expected. 
  
 
-##### The backlog
+##### A collection of backlog items - the backlog
 The only other thing that you *really* need is a list of things to do. This is often called the backlog.
 
 What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint backlog. These are the things that the team is going to do in this sprint.
