@@ -1375,8 +1375,9 @@ For me there are two, (ok, maybe three or four) artefacts.
 
 1. Backlog items.
 2. A collection of backlog items
-3. Maybe a burnup chart
-4. Maybe a roadmap
+3. Maybe a roadmap
+4. Maybe a burnup chart
+5. An emerging definition of ready and done
 
 ##### Backlog items
 At the beginning of a project, I'm very happy to start collecting a list of any things that need doing.
@@ -1389,7 +1390,7 @@ A story is something that, when it's done, will result in the software doing som
 
 Am I going to say that all stories should be of the format "As an X, I can Y, so that Z"? No, I'm not saying that. Why? 
 
-Because think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the format "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine. To insist that everything in the backlog (that's the technical term for the list of stories) must be a story, and that all stories must be of the form "As an X, I can Y, so that Z."
+Because think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the format "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine to insist that everything is in this form. Insisting that everything  must be a story rather that just a something that needs talking about. That's not fine. Insisting that all stories must be of the form "As an X, I can Y, so that Z." That's not fine.
 
 And drawing distinctions between stories and bugs. I'm also fine with this. Once you get going, this is fine. Roughly, a story is a change that the product owner wants to make to the way the software behaves to make it do something new. A bug is a change that makes it behave in the way that's expected. 
  
@@ -1399,26 +1400,80 @@ The only other thing that you *really* need is a list of things to do. This is o
 
 What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint backlog. These are the things that the team is going to do in this sprint.
 
-
 And where do you put this list of things to do? To be honest, I've got my preferences, but I try not to force them on the team. This is tricky because most of these things are proprietary and will involve some outlay and commitment. But I think the team should figure out all together what kind of thing they should use to communicate. 
 
 They might want to start out with a spreadsheet, but somebody will probably find out quite soon that that's a nightmare to maintain. They might want to start out with a physical wall, but in these days of everyone working from home, I'm not sure how you could make that work. 
 
-I'm going to come out and admit that I like Jira. Well, I don't like it, I pretty much loathe everything about it, except that it seems to be the best application for keeping track of what the status of an issue is and also, the discussion that's gone on around it.
+I'm going to come out and admit that I like Jira. Well, I don't really like it and I curse it a lot. But it seems to be the best application for keeping track of what the status of an issue. Also, it seems to be pretty good at keeping hold of the discussion that's gone on around and issue.
+
+##### Maybe a roadmap
+
+I've found that roadmaps can be very useful if they can be thrown together quickly and have some kind of regular structure to make sure that they're maintained.
+
+Any kind of tool that can be used to make a Kanban board (Trello or even Jira) works for this. All you need is a list of the big things that need to go into the product. They you need a way of ordering them so that some of these things are being dealt with "Now." Then some of them are "Next." Finally some of them are "Later." You might also have a column for "Done."
+
+As I said, this is fine, also long as it's maintained. If it's written once and then never looked at, it's a waste of time.
+
+One occasion that I've found works well, is the mid-sprint check. I don't know quite why I've found that this works, but it does. After checking how things are going in the current sprint, the team looks at at the roadmap. Actually, what the team does with the roadmap leads me on to my final artefact "Maybe a burnup."
+
+##### Maybe a burnup
+
+It's interesting that this might be a bit of "Agile" practice that I'm most proud of. It's the bit that has worked best for me. But it's also the bit that I'm a bit ashamed of and a bit nervous about. It's also a bit that I feel might get me drummed out of the Scrum Master guild or whatever the secret society of Scrum Masters would be called.
+
+Here's the situation. We were six or seven months into a greenfield, brand new, project. There'd been some vague discussions at the beginning of the project about deadlines, but no definite date had been mentioned. Then, all of a sudden, there was an absolutely definite date. Fortunately, it was about twelve months away. But by that date we had to have a system that could do enough of what the existing system did to turn the old system off and the new system on. 
+ 
+The minute I heard this, I knew that there were substantial features that we just weren't going to be able to deliver for that hard deadline. But I didn't know exactly how. I also knew that, if we were to have a chance of meeting that deadline, we would also need to drastically reduce what we did for any particular feature. 
+
+In Agile language, what we needed to do was reduce the scope. 
+
+But there was a problem. I'd tried to do this before. And I knew that discussions around scope reduction were always extremely painful. I also knew that this was something that I had to do if the project had any chance of being a success. I also knew pointing out that there was no way that a promised scope could be delivered by a particular deadline had gotten me fired from jobs in the past. Yes, fired.
+
+I liked this project, I didn't want to be fired. 
+
+So, here's what I did, over the course of about three months.
+
+I ran a workshop with the team and the product owner. We listed out all the features that we could think of that the product needed to do.
+
+Then we did a "bucket" sort on the complexity of those features. Using the Fibonacci series. 
+
+The what the what? 
+
+OK, once a little bit more slowly.
+
+The Fibonacci series is a series of numbers where the next number in the series is generated by adding the previous two numbers in the series. So, strictly speaking, the first two numbers in the Fibonacci series are 1 and 1. Yes, getting started with the Fibonacci series is a bit weird. But once we get going, it's more straight-forward.
+
+>> 1+1 = 2
+
+>> 2+1 = 3
+
+>> 3+2 = 5
+
+>> 5+3 = 8
+
+and so on resulting in this series.
+
+>> 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144
+
+Of course, you can keep going. But for the purposes of the job I'm describing, these numbers are normally sufficient.
+
+
+
+
+
+
 
 ##### Definition of Ready, Definition of Done
-What about a definition of ready? I don't have one. Again, as I write this, I'm aware that it's the kind of thing that could get you drummed out of the Scrum Masters' guild - if we were the kind of people who would form such a thing, which we're not. 
+What about a definition of ready? I don't have one. That is, I don't insist on one. Again, as I write this, I'm aware that it's the kind of thing that could get you drummed out of the Scrum Masters' guild. That is, if we were the kind of people who would form such a thing, which we're not. 
 
 The idea of the definition of ready is that it's a checklist of things that need to be in a story before it's ready to be planned in a sprint.
 
-Trouble is, I don't have a degree in computer science, I have a degree in philosophy. Philosophers start with Plato, and the crazy trouble that Plato (through his ventriloquist's dummy Socrates) got into trying to come up with definitions for things tends to stick in your mind. 
+Trouble is, I don't have a degree in computer science, I have a degree in philosophy. Philosophers start with Plato. There are others before him, like there are other rock and roll singers before Elvis, but you get the idea. The problem is that when you read Plato, you get to see the trouble that he gets himself into trying to think about very basic ideas like "truth" and "justice." A lot of that trouble comes from trying to solve the problem by coming up with definitions.
 
-So, you set out to figure out what "good" was? You ended up killing yourself by drinking hemlock? This doesn't sound like a great strategy. 
+The too long, didn't read version of the entire philosophical career of Socrates (Plato's ventiloquist's dummy)? You set out to figure out what "good" was? You ended up killing yourself by drinking ock? This doesn't sound like a great strategy. 
 
-So, I'm fine with a definition of ready, I just don't want it to be written down, I want it to emerge through practice (for anyone interested, this is a Wittgensteinian approach rather than a Platonic one). 
+So, I'm fine with a definition of ready. I just don't want it to be written down. I want it to emerge through practice (for anyone interested, this is a Wittgensteinian approach rather than a Platonic one). 
 
-I mean, I'm not going to forbid anybody from writing things down. But if the team notice that they don't have anything to plan because none of the items in the backlog are "ready" according to the definition, I might suggest they don't focus so much on the definition of ready and just have a chat about the things that are most ready. What would need to happen to them for them to be ready? 
-
+I mean, I'm not going to forbid anybody from writing things down. But if the team notice that they don't have anything to plan.  And the reson for this is because none of the items in the backlog are "ready". According to the definition at least. I might suggest they don't focus so much on the definition of ready. Rather they just have a chat about the things that are most ready. What would need to happen to them for them to be ready? 
 And so you might have already figured out what I'm going to say about "definition of done"? Something very similar. 
 
 ### Concrete Practice
@@ -1428,11 +1483,11 @@ And so you might have already figured out what I'm going to say about "definitio
 ## Chapter 11 - Psychological Safety for Your Boss
 
 ### Connection
-In a very early chapter [Agreed Activity] we talked about agreed activity. The phenomenon of doing something safe rather than doing something that helps a project (or performance, in the original metaphor) move forward. Then we talked about the antedote to agreed activity - creating psychological safety. 
+In a very early chapter [Agreed Activity] we talked about agreed activity. The phenomenon of doing something that seems safe. Doing something that seems safe, rather than doing something that helps a project and moves it foreward. Then we talked about the antedote to agreed activity - creating psychological safety. 
 
 One of the things that bothered me when I was reading the Timothy Clark's book was that there were quite a lot of stories in which the boss didn't look good. The boss was the reason that psychological safety didn't emerge in the team.
 
-A thought that drifted vaguely through my mind was that if everybody has a requirement to feel psychologically safe, that everybody also applies to leaders and bosses.   The thought also occurred to me that what constitutes psychological safety might be different for bosses than it is for team members. Looking at things in this way provided me with a different way of looking at some of the very worst experiences I've had whilst working as a project manager. And it also made me realise if you're a project manager, you ignore the psychological safety of your bosses at your peril.
+A thought drifted vaguely through my mind. If *everybody* has a requirement to feel psychologically safe. Well, *everybody* also applies to leaders and bosses.   The thought also occurred to me that what constitutes psychological safety might be different for bosses than it is for team members. Looking at things in this way provided me with a different way of looking at some of the very worst experiences I've had whilst working as a project manager. And it also made me realise if you're a project manager, you ignore the psychological safety of your bosses at your peril.
 
 ### Concept
 So, let's just remind ourselves what the four levels of psychological safety are that Clark talks about in his book. 
@@ -1446,7 +1501,7 @@ And let's just take these one by one and think about what these mean if you have
 
 1. Membership Safety - showing the boss that they're the boss
 
-It's isn't enough to a member for the team if you're the boss. You have to have everyone in your team recognise that you're the boss. But as with membership safety, this is the first, fundamental level of safety that a boss needs. Just as anyone can't usefully participate in a team unless they feel they are part of the team, no boss can usefully provide leadership, if there's any doubt about their authority. 
+It's isn't enough to be a member for the team if you're the boss. You have to have everyone in your team recognise that you're the boss. But as with membership safety, this is just the first, fundamental level of safety that a boss needs. No one can usefully participate in a team unless they feel they are part of the team. And no boss can usefully provide leadership, if there's any doubt about their authority. 
 
 This is a problem for bosses in software developement for two reasons. Firstly all of the people who are actually doing the work know how to do the work better than the boss. 
 
@@ -1457,7 +1512,7 @@ And here we uncover a central contradiction of project management. It's one that
 >> The thing that you have to do to get the project done, is the thing that you should never do to your boss (i.e. point out the fundamental problems with their ideas).
 
 2. Learning Safety
-Leaders need to feel safe to learn. But somehow part of the rules of being a leader is that they can't simply go to school, take a course or sit at the feet of the expert who actually knows. So again, the team is faced with a paradox. They need to figure out ways to teach their leaders what they need to know, without flagging what they're doing as teaching, or making it too blatantly clear that they know there are certain areas where the leader in lacking in knowledge. 
+Leaders need to feel safe to learn. But somehow part of the rules of being a leader is that they can't simply go to school. They can't take a course or sit at the feet of the expert who actually knows. So again, the team is faced with a paradox. They need to figure out ways to teach their leaders what they need to know. And they need to do this without flagging what they're doing as teaching. They can't make it too clear that it's obvious that there are certain areas where the leader in lacking in knowledge. 
 
 Of course, to some degree, the things that a leader is discovering about the project are the same things that the team are discovering about the project. What is easy? What is hard? What aspects of the project are genuinely appealing to users. What aspects of the project are totally uninteresting to users. Which other groups of people care about the project, or have regulatory power over it. But it's very possible that, for the leader, learning these things is not going to result in a safe experience. 
 
