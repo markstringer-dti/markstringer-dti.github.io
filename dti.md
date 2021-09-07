@@ -1275,20 +1275,44 @@ There are four meetings.
 ##### Stand up
 For me the power of Scrum is that it tells you to do some things. And they are very simple things - meetings. And it tells you to have some things and they are quite simple things - artefacts.
 
-The first things to start doing with any team that you're working with is to have a standup. The standup is a meeting that happens at the same time every day, in the same place. I'm writing this in 2021, which I hope is at the tail end of the COVID-19 pandemic, but who knows. And most software development work over the last two years has been online. So the idea that everybody who's at the standup should be standing up feels very out of date. I've got into several arguments about before about it. But it's definitely not worth the fight at the moment. It will be interesting to see what happens should we ever return to "normal" and go back to the office. 
+The first things to start doing with any team that you're working with is to have a standup. The standup is a meeting that happens at the same time every day (every working day)  in the same place. I'm writing this in 2021, which I hope is at the tail end of the covid-19 pandemic, but who knows. And most software development work over the last two years has been online. So, the idea that everybody who's at the standup should be standing up feels very out of date. I've got into several arguments about it before. But it's definitely not worth the fight at the moment. It will be interesting to see what happens should we ever return to "normal" and go back to the office. 
 
-I still think there's a lot to be said for actually standing up though. It's doing something *different* from what the team does for the rest of the day. I think there is some power to the simple act of adopting a different physical stance when you do something. 
+I still think there's a lot to be said for the act of standing up though. It's doing something *different* from what the team does for the rest of the day. I think there is some power to the simple act of adopting a different physical stance when you do something. 
 
 Anyway. Get your team together and get each of them to roughly answer three questions. What did they do yesterday? Or the last working day if they didn't work. What are they going to do today? And is there anything that's blocking them? That is, is there anything that's stopping them from doing what they want to do?
 
-And try to keep the whole thing under 20 minutes. Try to push things forward if there are obvious digressions. Sick cats? Sympathy yes, long discussion of ailments no. Someone's team did well in the sports? Brief chuckle yes, blow by blow analysis, no.
+And try to keep the whole thing under 20 minutes. Try to push things forward if there are obvious digressions. Sick cats? Sympathy yes, long discussion of ailments no. Someone's team did well in the sports? Brief chuckle yes, blow by blow analysis, no. Somebody mentions a problem that you think you know how to solve? Agreement to talk to them in detail about it after standup yes. Getting right into the nitty gritty right there in the meeting, no.
 
 That's it. I don't know what the Scrum guide says these days. Maybe it says something different. The stuff I've just described? You've fried the egg on that one.
 
 ##### Planning
-Get the team together and discuss what you're going to do in the next fixed period. The world seems to have settled on two weeks as the agreed fixed length of time. And I don't have much against it, except to point out that in my experience, sometimes work is obviously moving on a larger "cadence". By that I mean on a different rhythm, a different fixed period. And it's worth noticing these as the team progresses and discussion what you want to do about them.
+Get the team together and discuss what you're going to do in the next fixed period. The world seems to have settled on two weeks as the agreed fixed length of time. And I don't have much against it, except to point out that in my experience, sometimes work is obviously moving on a larger "cadence". By that I mean on a different rhythm, a different fixed period. And it's worth noticing these as the team progresses and discusses what you want to do about them.
 
-Sometimes things are so crazy that a week works better. I avoid any options other than multiples of seven days, because calendar arithmetic is beyond me. And I truly believe in the power of getting into the rhythm. If this is Wednesday and it wasn't planning last Wednesday, it must planning today. That's it. That's all the effort anyone should ever need to put into figuring out if today is planning day or not.
+Sometimes things are so crazy that a week works better. I avoid any options other than multiples of seven days, because calendar arithmetic is beyond me. And I truly believe in the power of getting into the rhythm. If this is Wednesday and it wasn't planning last Wednesday, it must be planning today. That's it. That's all the effort anyone should ever need to put into figuring out if today is planning day or not.
+
+Because people are such dicks about commitment consistency (see the chapter about your other boss, reality) I don't push planning as being any kind of commitment. Again, this might seem like a heresy. There is this idea that the team should plan what they're doing in the sprint and then "move heaven and earth" to make sure that the things that have been planned into the sprint are delivered as working software by the end of the sprint.
+
+Do you know what "moving heaven and earth," means? It means working late, it means missing lunch, it means doing something other than working at a sustainable pace. 
+
+Fuck that. 
+
+A long time ago I read a book called "Sources of Power" by Gary Klein. Klein spent a lot of time study people who really know what they're doing. Experts. I don't remember much from that book, but I do remember that he says that one indication that you're in the presence of an expert is that they know what they're capable of. 
+
+Of course, experts weren't born magically knowing what they're capable of. They had to learn over time. And it's the same with teams. 
+
+Teams, including the product owner will initially tend to plan too much. Of course, it's essential for this to be clear at the end of every sprint. "We planned thirty things. We finished twenty things. Do you think there's much point in planning more than about twenty-five things this sprint?"
+
+Something that all the team can understand, including the developers and the product owner, is that, if we look back to the previous planning meeting, when we got to the point where were discussing issues number 21, 22, 23, but especially when we were discussing numbers 26, 27, 28, we were just wasting our time. We were talking about things that just weren't going to happen in that sprint. 
+
+One thing that I never used to bother with was a sprint goal. But in recent projects I've found a sprint goal, or goals extremely useful.
+
+Why? Because they're a good way of describing to people outside of the team what the team is doing. If a goal is something like "Release candidate for Feature X." I think that's a good goal. But also, "Start Feature Y." For me, that's a good goal.
+
+There's an argument that often surfaces when you first talk about goals that goals should be "SMART".
+
+That is something roughly like: specific, measurable, achievable (or attainable), relevant, and time-bound. 
+
+So often some of the members of the team will baulk at a go like "Start feature Y," because they'll say that it's not measureable.
 
 ##### Show and Tell
 Demonstrate the working software to people who might care. That will probably be the product owner. It might be other people related to the project, all sorts of people who have an interest in the swamp.  
@@ -1297,13 +1321,15 @@ Understand that gathering feedback is, at least, a two-step process.
 
 The first step is capturing the feedback. It's very important that you show that you're listening. Write down the feedback from every show and tell.
 
-The second step is to decide what to do about the feedback. That's something for the product owner, primarily, and the possibly the rest of the team.
+The second step is to decide what to do about the feedback. That's something for the product owner, primarily, and possibly the rest of the team.
 
 What you're doing by having a show and tell is fulfilling the "Transparency" and "Inspection" aspects of Empirical process.
 
 What that really means is that if you've done something really dumb, someone is going to tell you. Also, if you've missed something really important, someone is going to tell you.  That's what you're hoping for. That's the payoff.
 
-The price for this is that people might say really dumb things. For a form-filling application that we demonstrated. We got assked this question? "Can you make so that users aren't allowed to submit the form, unless the English has no spelling or grammatical errors?"
+Ok, this isn't any entirely negative thing. If you've done something that will make people's lives much easier. If you've done something that marketing have a good feeling they can make a bomb from. You might get to know that in the show and tell. 
+
+The price for this is that people might say really dumb things. For a form-filling application that we demonstrated. We got asked this question? "Can you make it so that users aren't allowed to submit the form, unless the English has no spelling or grammatical errors?"
 
 This isn't too serious. But it can get a little wearing.
 
@@ -1313,16 +1339,22 @@ So, feedback, no matter, how brutal, non-sensical or contradictory is the first 
 
 What's the second reason? The second reason is working software. If you have a meeting where you're supposed to demonstrate working software, it's going to become obvious if you aren't demonstrating any.
 
-If you've read and remembered the chapter about exploring the swamp. You'll recall that these were the two activities that I recommended. Drawing a map of the people who live in the swamp and the people who care about the swamp.  Exploring value and creating pull with working software.
+If you've read and remembered the chapter about exploring the swamp. You'll recall that these were the two activities that I recommended. Drawing a map that shows the people who live in the swamp and the people who care about the swamp.  Exploring values and creating pull with working software.
 
-Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's really important to the health any project that they happen there.
+Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's really important to the health of any project that they happen there.
+
+If the show and tell isn't working well. If you aren't getting a good subset of the stakeholders paying attention to what new things are going into the software on a regular basis and the team isn't demonstrating new working software on a regular basis, this is probably going to end up being a problem.
+
+What kind of problem? Well, maybe the team isn't really building anything. That's one kind of problem. Maybe they're struggling so badly with a bunch of different issues that they're not managing to get anything to the point where they can demonstrate it and create enthusiasm and pull from the users. 
+
+But, even worse, maybe the team do have working software to demonstrate, but because no one is looking at it, it's the wrong thing. 
  
 ##### Retro
 The retrospective is a chance for the team to express how they feel about how things are going. 
 
 Yes, notionally, it's supposed to be a more forensic look at what went on in the last sprint. But really, I want it to be a meeting in which the team get chance to vent. 
 
-If there are definite actions that come out of it, that's great. If there is a short list of things that need to chance that can be taken to senior management, also great. 
+If there are definite actions that come out of it, that's great. If there is a short list of things that need to change that can be taken to senior management, also great. 
 
 You will be able to find lots of descriptions of how to run a perfect retrospective. There is one thing that it's important to understand. If you're not willing to get it wrong by trying a bunch of different formats, you probably won't get it right.
 
@@ -1331,9 +1363,11 @@ You will be able to find lots of descriptions of how to run a perfect retrospect
 These are some other meetings that I find useful. I'm not saying you'll need these for your teams. I'm not saying that *at all*. But I find them useful on some teams.
 
 ###### Mid Sprint Check
-I find it useful in the middle of a sprint to have a meeting where the team just gets together for half an hour and checks in to see how things are going. Two or three things that I do in that meeting.
+I find it useful in the middle of a sprint to have a meeting where the team just gets together for half an hour and checks in to see how things are going. 
+
+Here are two or three things that I do in that meeting.
 1. Check the goals - we set some goals at the beginning of the sprint, in planning. How are we doing against those goals? Sometimes, I know this sounds crazy, but we'll all have forgotten what the goals were!
-2. Looking at the list of stuff still to do in the sprint, does any of it now seem impossible? Have we found out things that mean that some thing just can't be done? What do we want to do about that? Is there someone we need to tell.
+2. Looking at the list of stuff still to do in the sprint, does any of it now seem impossible? Have we found out things that mean that something just can't be done? What do we want to do about that? Is there someone we need to tell.
 3. Look at the roadmap.
 
 ###### Risks and Issues
@@ -1341,9 +1375,9 @@ This is a new one that I've learnt on my last project. My heart sank because I w
 
 My experience of risk registers is that they aren't useful. They tend to become, almost instantly, "information fridges." A place where information goes to remain unchanged and unnoticed and have no effect. 
 
-But my product owner was an employee of the organisation and wanted to make sure that we doing everything we could about "governance." He found a description of an Agile approach to risk management that I had no problem getting behind.
+But my product owner was an employee of the organisation and wanted to make sure that we were doing everything we could to show good governance. He found a description of an Agile approach to risk management that I had no problem getting behind.
 
-Each sprint we'd meet with the senior stakeholder. For half an hour we'd walk through a kanban board of risks. Each risk would be scored using an "exposure" score. This was calculated by multiplying the cost of the risk happening and the chance of it happening. 
+Each sprint we'd meet with the senior stakeholder. For half an hour we'd walk through a Kanban board of risks. Each risk would be scored using an "exposure" score. This was calculated by multiplying the cost of the risk happening and the chance of it happening. 
 
 For example:
 
@@ -1357,16 +1391,25 @@ Of course, the scores are (almost) complete hokum.
 But having a short meeting every fortnight where we discussed what was worrying the senior stakeholders? That was useful. And that's what this meeting allowed us to do. It was also a way of us gently raising our own concerns.
 
 ###### Backlog refinement
-There are lots of different ways of doings this. And again, I really want this to evolve through the course of a project. There is the "Three Amigos" approach. The idea is that if the items in the backlog should be looked at from several different points of view. Technically, is this possible? What else to we need to know? From a user research point of view, what might we need to explore before we develop it? From a design point of view, is there anything new and different? And of course, from a business point of view, why is this important? 
+There are lots of different ways of doings this. And again, I really want this to evolve through the course of a project. There is the "Three Amigos" approach. The idea is that if the items in the backlog are looked at from several different points of view they will be better described before they get planned into a sprint. 
 
-In my experience, this might be needed early on. So that these points of view are made clear to the other "amigos." But over time, this can be streamlined, and the reviews of the backlog might only need the product owner and the Scrum Master. Maybe. Think about it this way. Part of the work that you're doing on a project is figuring out what shape the work is. Where does the work need detail and specification up front? Where that can it be left to be figured out as it's picked up to be developed.
+Technically, is this possible? What else to we need to know? From a user research point of view, what might we need to explore before we develop it? From a design point of view, is there anything new and different? And of course, from a business point of view, why is this important? 
+
+In my experience, this might be needed early on. So that these points of view are made clear to the other "amigos." But over time, this can be streamlined, and the reviews of the backlog might only need the product owner and the Scrum Master. Maybe. Think about it this way. Part of the work that you're doing on a project is figuring out what shape the work is. Where does the work need detail and specification up front? Where can it be left to be figured out as it's picked up to be developed.
 
 Which bits need to be explored using user research and testing? How much? Where? With whom? Which bits need a lot of design thinking and input. Which bits can be developed without much design input? 
 
 ###### (On live services) Support board
 
+So, you went through the whole heartache and pain of developing a service to the point that it went live.
+Congratulations! Now you have to maintain it. 
+
+One thing I've found useful on a recent project is a regular weekly meeting where we look at the support tickets that have been raised as a result of issues reported to a support email address. By the time we look at it, all of the frequently asked questions have been filtered out. 
+
+What we're left with are either bugs or feature requests. Part of what we do in this meeting is decide which of these the issues are. If we decide something is a bug, we then decide on some kind of urgency for fixing it.   
+
 #### That's a *lot* of meetings
-Yes, I know that this is a lot of meetings. And I'm not suggesting that you need any of these. You might need a different meeting.  
+Yes, I know that this is a lot of meetings. And I'm not suggesting that you need all, or any, of these. You might need a different meeting.  
 
 #### Artefacts
 So, you've got your four meetings. What else do you need?
@@ -1384,13 +1427,13 @@ At the beginning of a project, I'm very happy to start collecting a list of any 
 
 And I don't want to be too prescriptive about what kinds of things are allowed to go on that list.
 
-Why am I not saying the "S" word? Why am I not saying stories? Not because I don't think you should call them stories, I'm fine with calling them stories. I'm also fine drawing distinctions between tasks and stories. Roughly a task is something that needs doing that isn't going to change the functionality of the code? Make some changes to the cloud server architecture? That's a task. Run a one-off report from the database, that's a task.
+Why am I not saying the "S" word? Why am I not saying stories? Not because I don't think you should call them stories, I'm fine with calling them stories. I'm also fine drawing distinctions between tasks, bugs and stories. Roughly a task is something that needs doing that isn't going to change the functionality of the code? Make some changes to the cloud server architecture? That's a task. Run a one-off report from the database, that's a task.
 
-A story is something that, when it's done, will result in the software doing something differently? "Add middle name to sign-up page" - for me that's a story. 
+A story is something that, when it's done, will result in the software doing something differently. "Add middle name to sign-up page" - for me that's a story. 
 
 Am I going to say that all stories should be of the format "As an X, I can Y, so that Z"? No, I'm not saying that. Why? 
 
-Because think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the format "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine to insist that everything is in this form. Insisting that everything  must be a story rather that just a something that needs talking about. That's not fine. Insisting that all stories must be of the form "As an X, I can Y, so that Z." That's not fine.
+Because I think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the format "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine to insist that everything is in this form. Insisting that everything  must be a story rather than just a thing that needs talking about. That's not fine. Insisting that all stories must be of the form "As an X, I can Y, so that Z." That's not fine.
 
 And drawing distinctions between stories and bugs. I'm also fine with this. Once you get going, this is fine. Roughly, a story is a change that the product owner wants to make to the way the software behaves to make it do something new. A bug is a change that makes it behave in the way that's expected. 
  
@@ -1404,29 +1447,29 @@ And where do you put this list of things to do? To be honest, I've got my prefer
 
 They might want to start out with a spreadsheet, but somebody will probably find out quite soon that that's a nightmare to maintain. They might want to start out with a physical wall, but in these days of everyone working from home, I'm not sure how you could make that work. 
 
-I'm going to come out and admit that I like Jira. Well, I don't really like it and I curse it a lot. But it seems to be the best application for keeping track of what the status of an issue. Also, it seems to be pretty good at keeping hold of the discussion that's gone on around and issue.
+I'm going to come out and admit that I like Jira. Well, I don't really like it and I curse it a lot. But it seems to be the best application for keeping track of the status of an issue. Also, it seems to be pretty good at keeping hold of the discussion that's gone on around and issue.
 
 ##### Maybe a roadmap
 
-I've found that roadmaps can be very useful if they can be thrown together quickly and have some kind of regular structure to make sure that they're maintained.
+I've found that roadmaps can be very useful if they can be thrown together quickly and have some kind of regular cadence structure to make sure that they're maintained. As I mentioned, looking at the roadmap in mid-sprint check seems to work really well.
 
-Any kind of tool that can be used to make a Kanban board (Trello or even Jira) works for this. All you need is a list of the big things that need to go into the product. They you need a way of ordering them so that some of these things are being dealt with "Now." Then some of them are "Next." Finally some of them are "Later." You might also have a column for "Done."
+Any kind of tool that can be used to make a Kanban board (Trello or even Jira) works for this. All you need is a list of the big things that need to go into the product. They you need a way of ordering them so that some of these things are being dealt with "Now." Then some of them are "Next." Finally, some of them are "Later." You might also have a column for "Done."
 
-As I said, this is fine, also long as it's maintained. If it's written once and then never looked at, it's a waste of time.
+As I said, this is fine also, so long as it's maintained. If it's written once and then never looked at, it's just been thrown in the information oubliette, it's a waste of time.
 
-One occasion that I've found works well, is the mid-sprint check. I don't know quite why I've found that this works, but it does. After checking how things are going in the current sprint, the team looks at at the roadmap. Actually, what the team does with the roadmap leads me on to my final artefact "Maybe a burnup."
+One occasion that I've found works well, is the mid-sprint check. I don't know quite why I've found that this works, but it does. After checking how things are going in the current sprint, the team looks at the roadmap. Actually, what the team does with the roadmap leads me on to my nearly final artefact "Maybe a burnup."
 
 ##### Maybe a burnup
 
-It's interesting that this might be a bit of "Agile" practice that I'm most proud of. It's the bit that has worked best for me. But it's also the bit that I'm a bit ashamed of and a bit nervous about. It's also a bit that I feel might get me drummed out of the Scrum Master guild or whatever the secret society of Scrum Masters would be called.
+It's interesting that this might be a bit of "Agile" practice that I'm most proud of. It's the bit that has worked best for me. But it's also the bit that I'm a bit ashamed of and a bit nervous about. It's also something that I feel might get me drummed out of the Scrum Master guild or whatever the secret society of Scrum Masters would be called.
 
 Here's the situation. We were six or seven months into a greenfield, brand new, project. There'd been some vague discussions at the beginning of the project about deadlines, but no definite date had been mentioned. Then, all of a sudden, there was an absolutely definite date. Fortunately, it was about twelve months away. But by that date we had to have a system that could do enough of what the existing system did to turn the old system off and the new system on. 
  
 The minute I heard this, I knew that there were substantial features that we just weren't going to be able to deliver for that hard deadline. But I didn't know exactly how. I also knew that, if we were to have a chance of meeting that deadline, we would also need to drastically reduce what we did for any particular feature. 
 
-In Agile language, what we needed to do was reduce the scope. 
+In Agile language, what we needed to do was reduce the scope. Not just in terms of the numbers of stories we implemented, but also internally, we need to reduce the scope of the stories that we implmented.
 
-But there was a problem. I'd tried to do this before. And I knew that discussions around scope reduction were always extremely painful. I also knew that this was something that I had to do if the project had any chance of being a success. I also knew pointing out that there was no way that a promised scope could be delivered by a particular deadline had gotten me fired from jobs in the past. Yes, fired.
+But there was a problem. I'd tried to do this before. And I knew that discussions around scope reduction were always extremely painful. I also knew that this was something that I had to do if the project had any chance of being a success. I also knew that pointing out that there was no way that the promised scope could be delivered by a particular deadline had gotten me fired from jobs in the past. Yes, fired.
 
 I liked this project, I didn't want to be fired. 
 
@@ -1440,7 +1483,7 @@ The what the what?
 
 OK, once a little bit more slowly.
 
-The Fibonacci series is a series of numbers where the next number in the series is generated by adding the previous two numbers in the series. So, strictly speaking, the first two numbers in the Fibonacci series are 1 and 1. Yes, getting started with the Fibonacci series is a bit weird. But once we get going, it's more straight-forward.
+The Fibonacci series is a series of numbers where the next number in the series is generated by adding the previous two numbers in the series. So, strictly speaking, the first two numbers in the Fibonacci series are 1 and 1. Getting started with the Fibonacci series is a bit weird. But once we get going, it's more straight-forward.
 
 >> 1+1 = 2
 
@@ -1456,9 +1499,46 @@ and so on resulting in this series.
 
 Of course, you can keep going. But for the purposes of the job I'm describing, these numbers are normally sufficient.
 
+So, what you end up with at the end of this session is a wall (real, or virtual) that has big ticket items on it.
 
+Grouped under Fibonacci series numbers.
 
+This is the really important bit you add up the total of the scores on all of the tickets. This gives you an overall number for the size of the backlog. 
 
+This is important number #1.
+
+What you need to know is a rough order of priority for these "big ticket" items. Really easy way to do this is using a package like Trello create a Kanban board with four columns and then label those columns "Done", "Now", "Next", "Later
+". The next job is for either the product owner or the product owner together with the whole team to put those tickets in those columns when you've done that what do you have you have a sized road map.
+
+Then every fortnight at the end of the mid-sprint check I would walk through the Kanban board and asked the team to estimate the percentage completion of the things that were in the "Now" column. I multiplied the percentage complete scores that I get from the team with the fibbonaci numbers on the ticket items I get important number #2.
+
+Important number #2 is the number of points that have been completed.
+
+Warning a lot of people will tell you that this is absolutely what you shouldn't do. I'm kind of worried even to admit this is what I've done even though it worked beautifully for me and I will definitely try to do this again although I'll inspect and adapt obviously.
+
+Before you know it another two weeks have gone by and you're sitting in the mid Sprint check with the team looking at their big ticket items and asking for estimates on percentage progress. This mid Spring check and all the others that follow it start to give you important numbers three, four, five and six. That means that about 8 weeks in to a project that's in development you have all the numbers you need to really cause some trouble and potentially get yourself fired. Why? Because now you have the numbers to put together a burn up chart and burn up chart gives you some kind of indication when the project might actually finish.
+
+And guess what? The news is never good. the news is never "Oh look!" We're going to have this finished in about half the time! 
+
+After three or four sprints 6 to 8 weeks you have a pretty good idea of how much work there is relative to any deadline and how quickly the team are getting through the work of course the first reaction of product owners and stakeholders will be denial the second will be some kind of bargaining actually this normally takes the form of some kind of bad arithmetic kind of denial
+
+"Yes, but if you add all these numbers together divide them by this and then take away the number you first thought of adding in the *special Mayan number for fate and good luck* then we will get everything done on time."
+
+The more eagle eyed amongst you will realise that what's happening here is that we're walking through the five stages of grief denial, bargaining, anger, depression and acceptance.
+
+In my experience the bargaining stage is where people say the maddest stuff and I used to argue with them when people said things like "we're still going to be able to deliver for the deadline all we have to do is work twice as fast." I used to argue with them when they said things like, "I talked to this crazy person on the street, and they said that this project would probably deliver on time and that you don't know what you're talking about," or "my nephew put up a website in a weekend I don't see why this is any different."
+
+Now what I do, is I just keep counting. Another two weeks you have another data point. You put that on your chart it will be even clearer than it was before that you have twice, three times, four times - the worst I've seen is seven times -  more work you can deliver in the time required.
+
+And that's when the anger will come in. Why are you being so negative? Why didn't you tell me about this before? "I thought I'd hired professional people who knew what they were doing. Clearly if this is going to take twice as long as I want it to you can't possibly know what you're doing."
+
+There might also at this point be an attempt to change the way that you count things so that things look better than they are. It's quite important to resist this. How do I know? Because I've failed to resist it and seen the consequences.
+
+It was a long time after my first attempt at this manoeuvre that I read "Never Split the Difference," by Chris Voss.
+
+Now having read that I realised what I'm trying to do is show the product owner and the senior stakeholders a realistic picture of the project and then ask them an open question. 
+
+What do you want us to do?
 
 
 
@@ -1469,7 +1549,7 @@ The idea of the definition of ready is that it's a checklist of things that need
 
 Trouble is, I don't have a degree in computer science, I have a degree in philosophy. Philosophers start with Plato. There are others before him, like there are other rock and roll singers before Elvis, but you get the idea. The problem is that when you read Plato, you get to see the trouble that he gets himself into trying to think about very basic ideas like "truth" and "justice." A lot of that trouble comes from trying to solve the problem by coming up with definitions.
 
-The too long, didn't read version of the entire philosophical career of Socrates (Plato's ventiloquist's dummy)? You set out to figure out what "good" was? You ended up killing yourself by drinking ock? This doesn't sound like a great strategy. 
+The too long, didn't read version of the entire philosophical career of Socrates (Plato's ventriloquist's dummy)? You set out to figure out what "good" was? You thought you were making some progress when you managed to convince yourself that nothing around was real and that the real world was made of things that you couldn't see. You ended up killing yourself by drinking Hemlock? This doesn't sound like a great strategy. 
 
 So, I'm fine with a definition of ready. I just don't want it to be written down. I want it to emerge through practice (for anyone interested, this is a Wittgensteinian approach rather than a Platonic one). 
 
@@ -1656,4 +1736,6 @@ David J Anderson. Kanban: Successful Evolutionary Change for Your Technology
 
 Jennifer Rode , Mark Stringer , Eleanor Toye , Amanda Simpson and Alan Blackwell: Curriculum Focused Design (2003) in In Proceedings ACM Interaction Design and Children
 
+Gary A. Klein Sources of Power: How People Make Decisions
 
+Chris Voss: Never Split the Difference - Negotiating as if Your Life Depended on It.
