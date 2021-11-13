@@ -1259,9 +1259,9 @@ When we do listen to the people of the swamp? When do we ignore them? When do we
 
 It isn't just Anthony Bourdain who says this. I saw a TV programme by the chef Rick Stein. He said that whenever he interviews a chef who might work in one of his restaurants, he asks him to fry an egg. I suspect, rather like the martinis that we've already discussed, there are many ways of frying an egg. Stein says that all the best chefs - the ones that he's likely to hire - do the same thing. It isn't that they fry the egg in the same way. It's that they have the same attitude to it. They shrug and say something like "I don't know how you fry an egg. This is the way that I do it."
 
-And of course, Anthony Bourdain is saying something very similar. You can tell a lot about a person by how they do the simple things in your line of work. 
+Both chefs are saying the same thing. You can tell a lot about a person by how they do the simple things in your line of work. 
 
-So, now I'm suddenly very aware that I'm revealing possibly more of myself than I'd like. But that's what this chapter is about. It admits that there may well be many different ways of frying an egg. There is more than one way of making a martini. There is also more than one way of running even the basic aspects of an Agile project. Because that's what I'm going to talk about here. Less nourishing than an egg, less fun than a martini. Much more useful for software development. I'm going to talk about how I do Agile.
+So, now I'm aware that I'm revealing more of myself than I'd like. But that's what this chapter is about. It admits that there are many ways of frying an egg. There is more than one way of making a martini. There is also more than one way of running even the basic aspects of an Agile project. Because that's what I'm going to talk about here. Less nourishing than an egg, less fun than a martini. Much more useful for software development. I'm going to talk about how I do Agile.
 
 ### Concepts
 #### Meetings
@@ -1269,24 +1269,24 @@ So, now I'm suddenly very aware that I'm revealing possibly more of myself than 
 There are four meetings. 
 1. Stand up
 2. Planning
-3. Shown and Tell (or Sprint Showcase, or Sprint Demo)
+3. Show and Tell (or Sprint Showcase, or Sprint Demo)
 4. Retrospective
 
 ##### Stand up
 For me the power of Scrum is that it tells you to do some things. And they are very simple things - meetings. And it tells you to have some things and they are quite simple things - artefacts.
 
-The first things to start doing with any team that you're working with is to have a standup. The standup is a meeting that happens at the same time every day (every working day)  in the same place. I'm writing this in 2021, which I hope is at the tail end of the covid-19 pandemic, but who knows. And most software development work over the last two years has been online. So, the idea that everybody who's at the standup should be standing up feels very out of date. I've got into several arguments about it before. But it's definitely not worth the fight at the moment. It will be interesting to see what happens should we ever return to "normal" and go back to the office. 
+The first thing to start doing with any team that you're working with is to have a standup. The standup is a meeting that happens at the same time every working day in the same place. I'm writing this in 2021, which I hope is at the tail end of the covid-19 pandemic, but who knows. And most software development work over the last two years has been online. So, the idea that everybody who's at the standup should be standing up feels very out of date. I've got into several arguments about it before. But, right now, it's not worth the fight. It will be interesting to see what happens should we ever return to "normal" and go back to the office. 
 
-I still think there's a lot to be said for the act of standing up though. It's doing something *different* from what the team does for the rest of the day. I think there is some power to the simple act of adopting a different physical stance when you do something. 
+Even so, I still think there's a lot to be said for the act of standing up. It's doing something *different* from what the team does for the rest of the day. I think there is some power to the simple act of adopting a different physical stance when you do something. 
 
-Anyway. Get your team together and get each of them to roughly answer three questions. What did they do yesterday? Or the last working day if they didn't work. What are they going to do today? And is there anything that's blocking them? That is, is there anything that's stopping them from doing what they want to do?
+Anyway. Get your team together and get each of them to roughly answer these three questions. What did they do yesterday, or the last working day? What are they going to do today? And is there anything that's blocking them? That is, is there anything that's stopping them from doing what they want to do?
 
-And try to keep the whole thing under 20 minutes. Try to push things forward if there are obvious digressions. Sick cats? Sympathy yes, long discussion of ailments no. Someone's team did well in the sports? Brief chuckle yes, blow by blow analysis, no. Somebody mentions a problem that you think you know how to solve? Agreement to talk to them in detail about it after standup yes. Getting right into the nitty gritty right there in the meeting, no.
+And try to keep the whole thing under 20 minutes. Try to push things forward if there are obvious digressions. Sick cats? Sympathy yes, long discussion of ailments no. Someone's team did well in the sports? Brief chuckle yes, blow by blow analysis, no. Somebody mentions a problem that you think you know how to solve? Agreement to talk to them in detail about it after standup yes. Getting right into the nitty gritty right there in the meeting? No.
 
 That's it. I don't know what the Scrum guide says these days. Maybe it says something different. The stuff I've just described? You've fried the egg on that one.
 
 ##### Planning
-Get the team together and discuss what you're going to do in the next fixed period. The world seems to have settled on two weeks as the agreed fixed length of time. And I don't have much against it, except to point out that in my experience, sometimes work is obviously moving on a larger "cadence". By that I mean on a different rhythm, a different fixed period. And it's worth noticing these as the team progresses and discusses what you want to do about them.
+Get the team together and discuss what you're going to do in the next fixed period. The world seems to have settled on two weeks as the agreed fixed length of time. And I don't have much against it, except to point out that in my experience, sometimes work is obviously moving on a larger "cadence". By that I mean on a different rhythm, a different fixed period, to a different beat. And it's worth noticing these as the team progresses and discusses what you want to do about them.
 
 Sometimes things are so crazy that a week works better. I avoid any options other than multiples of seven days, because calendar arithmetic is beyond me. And I truly believe in the power of getting into the rhythm. If this is Wednesday and it wasn't planning last Wednesday, it must be planning today. That's it. That's all the effort anyone should ever need to put into figuring out if today is planning day or not.
 
@@ -1296,7 +1296,7 @@ Do you know what "moving heaven and earth," means? It means working late, it mea
 
 Fuck that. 
 
-A long time ago I read a book called "Sources of Power" by Gary Klein. Klein spent a lot of time study people who really know what they're doing. Experts. I don't remember much from that book, but I do remember that he says that one indication that you're in the presence of an expert is that they know what they're capable of. 
+A long time ago I read a book called "Sources of Power" by Gary Klein. Klein spent a lot of time studying people who really know what they're doing. Experts. I don't remember much from that book, but I do remember that he says that one indication that you're in the presence of an expert is that they know what they're capable of. 
 
 Of course, experts weren't born magically knowing what they're capable of. They had to learn over time. And it's the same with teams. 
 
@@ -1304,7 +1304,7 @@ Teams, including the product owner will initially tend to plan too much. Of cour
 
 Something that all the team can understand, including the developers and the product owner, is that, if we look back to the previous planning meeting, when we got to the point where were discussing issues number 21, 22, 23, but especially when we were discussing numbers 26, 27, 28, we were just wasting our time. We were talking about things that just weren't going to happen in that sprint. 
 
-One thing that I never used to bother with was a sprint goal. But in recent projects I've found a sprint goal, or goals extremely useful.
+One thing that I never used to bother with was a sprint goal. But in recent projects I've found a sprint goal, or goals, extremely useful.
 
 Why? Because they're a good way of describing to people outside of the team what the team is doing. If a goal is something like "Release candidate for Feature X." I think that's a good goal. But also, "Start Feature Y." For me, that's a good goal.
 
@@ -1312,24 +1312,27 @@ There's an argument that often surfaces when you first talk about goals that goa
 
 That is something roughly like: specific, measurable, achievable (or attainable), relevant, and time-bound. 
 
-So often some of the members of the team will baulk at a go like "Start feature Y," because they'll say that it's not measureable.
+So often some of the members of the team will baulk at a go like "Start feature Y," because they'll say that it's not measurable.
+
+I simply don't agree. The team will absolutely know if they've started a feature or not. And at the end of the sprint, if the goal has been met, that's useful information. If the goal hasn't been met - if the feature didn't get started - that's also useful information.
+
 
 ##### Show and Tell
 Demonstrate the working software to people who might care. That will probably be the product owner. It might be other people related to the project, all sorts of people who have an interest in the swamp.  
 
-Understand that gathering feedback is, at least, a two-step process. 
+Understand that dealing with feedback is, at least, a two-step process. 
 
 The first step is capturing the feedback. It's very important that you show that you're listening. Write down the feedback from every show and tell.
 
 The second step is to decide what to do about the feedback. That's something for the product owner, primarily, and possibly the rest of the team.
 
-What you're doing by having a show and tell is fulfilling the "Transparency" and "Inspection" aspects of Empirical process.
+What you're doing by having a show and tell is fulfilling the "transparency" and "inspection" aspects of empirical process.
 
-What that really means is that if you've done something really dumb, someone is going to tell you. Also, if you've missed something really important, someone is going to tell you.  That's what you're hoping for. That's the payoff.
+What that really means is that if you've done something dumb, someone is going to tell you. Also, if you've missed something important, someone is going to tell you.  That's what you're hoping for. That's the payoff.
 
-Ok, this isn't any entirely negative thing. If you've done something that will make people's lives much easier. If you've done something that marketing have a good feeling they can make a bomb from. You might get to know that in the show and tell. 
+But this isn't just a negative thing. If you've done something that will make people's lives much easier. If you've done something that marketing have a good feeling that they can make a bomb from. You might get to know that in the show and tell. 
 
-The price for this is that people might say really dumb things. For a form-filling application that we demonstrated. We got asked this question? "Can you make it so that users aren't allowed to submit the form, unless the English has no spelling or grammatical errors?"
+The price for getting this valuable information is that people might say stupid things. For a form-filling application that we demonstrated. We were asked this question? "Can you make it so that users aren't allowed to submit the form, if the English has spelling or grammatical errors?"
 
 This isn't too serious. But it can get a little wearing.
 
@@ -1341,7 +1344,7 @@ What's the second reason? The second reason is working software. If you have a m
 
 If you've read and remembered the chapter about exploring the swamp. You'll recall that these were the two activities that I recommended. Drawing a map that shows the people who live in the swamp and the people who care about the swamp.  Exploring values and creating pull with working software.
 
-Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's really important to the health of any project that they happen there.
+Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's important to the health of any project that we make sure that they happen there.
 
 If the show and tell isn't working well. If you aren't getting a good subset of the stakeholders paying attention to what new things are going into the software on a regular basis and the team isn't demonstrating new working software on a regular basis, this is probably going to end up being a problem.
 
@@ -1540,7 +1543,35 @@ Now having read that I realised what I'm trying to do is show the product owner 
 
 What do you want us to do?
 
+The difficult bit of this is dealing with the answers that come back that won't work.
 
+Denial? 
+
+"I don't see what the problem is, if only you and your team could be more positive about this, I'm sure you could manage to deliver things on time."
+
+Anger? 
+
+"I thought I'd hired a professional team? But clearly it looks like you're not up to the job."
+
+Bargaining?
+
+But this project over here delivered on time, and it's a bit like our project, so ours should also be able to deliver on time.
+
+Depression?
+
+OK. What do we do?
+
+Acceptance.
+
+We can probably do without feature G at launch if we know that it's going to be coming very quickly afterwards. And we only need a tiny bit of feature C. If we just had these bits of feature D and feature E, we could probably manage with the old system for just a bit longer.
+
+That's the dream kind of acceptance.
+
+What really happens is that it often comes (as I'm sure is also the case with grief about other, more important aspects of life).  Is that the acceptance stage, if it comes at all, comes mixed up with anger, bargain, denial and depression.
+
+"OK, we can schedule that feature for after release - but when I signed you guys up, I thought you knew what you were doing. And I'm still seeing some of you going home at about 5:30pm, looking relaxed, as if you don't have a care in the world. And Jeff? Yesterday, I saw Jeff took a whole hour for lunch! I would never have done this if I'd known it was going to take this long. Oh my God software is expensive. Are you sure there's no way we could just do this faster? Are you sure more people wouldn't help?"
+
+That? That's what success sounds like.
 
 ##### Definition of Ready, Definition of Done
 What about a definition of ready? I don't have one. That is, I don't insist on one. Again, as I write this, I'm aware that it's the kind of thing that could get you drummed out of the Scrum Masters' guild. That is, if we were the kind of people who would form such a thing, which we're not. 
@@ -1610,7 +1641,93 @@ Perhaps this is radically different for leaders than it is for team members. Per
 
 ### Conclusion
 
-## Chapter 12 - Commitment and Consistency and Your Other Boss
+## Chapter 12 - Just Say It
+
+OK this is what I wanted to say and I'm just going to say it.
+
+I think this book is described in an arc.
+
+I think when I started this book, I was angry at bosses.
+
+I had two really good ideas. The idea about the pirate ship and agreed activity? That's a good idea. So is the idea about the need to explore the swamp. Not only the swamp, but the people who live in the swamp and the people who don't live in the swamp but still have some reason to have an opinion on it.
+
+The pirate thing and the swamp thing. These are two really good ideas. These are two really good metaphors. And then throughout writing the book, I started to realise, there's a third really strong metaphor the fried egg. There are lots of ways of doing agile right. Which one you use depends on you and the circumstances. But there's something else that's been hovering over this book: that anger at the bosses. 
+
+And this is something that I know intellectually is a stupid idea and a bad idea and I need to get over it but that doesn't stop me feeling it. I feel it vicerally.
+
+How do I know it's a bad idea? Because of the doctor patient lawyer client thing. What's that exactly?
+
+Doctors see sick people. Lawyers, criminal lawyers especially, only see people who have managed somehow to get themselves into trouble. Most sick people and most people have been charged with a crime have probably got some opinions on what needs to be done. They think they know what needs to be done to get then out of their predicament. But at the same time they've decided to consult a professional.
+
+Maybe part of the reason that I have shied away from this in the past is that I don't want to get too pretentious about the role of project manager.
+
+This isn't me saying that being a project manager is anywhere near similar in terms of education and skills. This is me just pointing out now there's a similarity in this dynamic between patient and doctor, client and lawyer.
+
+The people who come to you and ask you to manage their projects are in trouble. Do they know that they're in trouble? That will probably vary from case to case.  And it's your job as a project manager to get them out of trouble.
+
+And do you know one of the ways that I got to this understanding? I consulted a coach. Yes, I put myself in the same kind of relationship with someone else and I talked through with her the problems that I have had and the problems that I'm having. Out of these discussions two key ideas (maybe more, we'll see as I write) have emerged.  
+
+### Status
+There is an in-built status relationship between a client and the professional. The professional has to at least pretend that the client is the boss.
+
+Oof. This is a bit of a confession. This has often bothered me. I'm sure that there's some plain vanilla psychological reason why people asserting their authority over me annoys me so much, but it does. I mean, I think that it probably annoys a lot of people, but I also see a lot of people who are a lot better at dealing with it than I am.
+
+And here's the mistake that I've made repeatedly. I've used bad news as a way of trying to lower the status of the client. And let's just think about this in doctor or lawyer terms. Do you think that that would work? Of course, it doesn't work. It's a disaster. It makes the entire discussion about the client reasserting their authority. 
+
+What's the solution? Never use how bad things are as a way of elevating your status. It will depend on the boss and the circumstances, what status they will tolerate from you. Some bosses very definitely want staff, all the time, they never relax. Some bosses want near-colleagues. It will take some experimentation to know exactly where the right point is with any given boss. What's always going to be difficult if you're a project manager and you're doing the job right is the right point for doing good things for the project is different from the "safe" point. Which is forlock tugging and just doing as you're told. That's the same as mopping the deck. It's the same safe-feeling but actually dangerous behaviour that we talked about when we talked about agreed activity.
+
+## Timing
+I'm in the timing business. Delivering things on time. That's what I do. Right? Well. Right and wrong. Just because I'm in the timing business, doesn't mean that I can force my timings on the bosses. To force my timings on the bosses will always be seen by them as an attempt to lower their status. 
+
+And this is a tricky one. Let's say for example that some boss tells me that they want something by a particular date. Christmas is a favourite. Christmas is *the* favourite. Bosses always want things by Christmas. In my head, the minute I hear this, I'm thinking of a bunch of things that need to happen if there's a ghost of a chance of this happening by Christmas. And a bunch of things are things that the boss needs to do. And the boss has just said Christmas, so, if that's a real deadline, he needs to do these things by a certain time. Right? Nu uh. No. 
+
+You would think it would be like that. It ought to be like that. It isn't. It isn't and it never will be. 
+
+## Open questions
+I don't think there is much in the literature to help with this. There is mention in the writings Robert Anton Wilson of something called "the snafu principle." 
+
+"But a man with a gun is told only that which people assume will not provoke him to pull the trigger."
+
+This is the problem put most graphically, and most brutally. 
+
+And you might object that managing most projects doesn't involve any actual violence. But I've said the wrong thing, or nearly the wrong thing, to the "man with the gun" several times. And several times it's resulted in me nearly being fired.  Once it did get me fired. And being unemployed, while not directly and automatically a violet experience, can still be a tough one.
+
+So how can we possibly deal with this? This is the fundamental problem. This is the abyss right at the centre of project management. 
+
+We need to have honest conversations with our bosses. We don't ever want to tell an armed man something that will make him fire his gun. 
+
+OK. Let me tell you something that I know have worked and then I'll tell you some things that I *think* might work, although I haven't yet exactly figured out how to apply them in, what you'll see, is a slightly different context. 
+
+OK. What works?
+
+Showing actual progress. 
+
+OK, here's the situation. I was working on a project, it was a big project for a little company. It was really important that the project succeeded. 
+
+When we started the project, I don't remember that it had a deadline. Actually, that's not true, it did have a deadline, but it was a deadline that was so ridiculous that nobody took it seriously. We were going to have to build an entirely new system to manage a very complicated licensing function for a government department. The initial deadline (I mean how did anybody keep a straight face?) Was seven months. This was obviously impossible. But the contract with the current supplier was running out and ideally, for the organisation, they would have loved to stop at that point. But still, it was impossible. the fact that it got mentioned at all tells you how powerful organisational imperatives can be, even if they are completely at odds with reality.
+
+Then, probably not without discussion, but without any discussion that I was party to, the deadline suddenly became the old deadline plus 12 months. There was a solid organisational reason for this. The old contract could be extended for 12 months in a relatively straight forward way. But then a new contract would have to negotiated with the old suppliers, and the old suppliers, naturally quite miffed that they hadn't won the new contract, were making noises about having to commission new hardware and upgrade various things. They were making expensive noises. 
+
+So, it totally made sense for that to be the deadline. 
+
+There was just one problem. It was a big problem. To turn the old system off, we needed to be able to turn the new system on. The new system needed to be able to do enough of what the old system did, to allow us to do that. Which means the new system had to already be running and have been tested with some users. This was a licensing system. There licences were licences that granted to the owners permission to do highly controversial things. It needed to be very secure. We had to be confident of this. But we also had to persuade security people inside government of this. 
+
+When I first heard about this new deadline and started to realise that it was truly immoveable, I was thinking of all the things that we'd have to do before we got to the point where we could turn our system on and turn the old one off. But I was also thinking of something else. I was thinking that we couldn't possibly do all the things that we had talked about doing before the deadline. I was also thinking something else. At that point we didn't even have basic working system for doing the thing that the thing was supposed to do. Rather we'd been concentrating on seeing the world through the second metaphor that I've talked about above "exploring the swamp." We'd done lots of user research, we'd developed a good rapport with most of our users. But we'd done nothing to limit the scope of what we were going to do relative to what we'd found out that our users wanted us to do. 
+
+As soon as I heard the deadline, I knew that we'd have to do all three of these things, and we'd have to do them relatively quickly.
+
+
+1. Put together a release plan, which showed the dependencies between security certifications and testing. 
+
+2. Come up with a strategy for limiting the scope of what we agreed to deliver so that we had reasonable confidence that we could deliver it in time.
+
+3. At the same time, sooner rather than later, put together a piece of skeleton working software that did the bare bones of what the system was supposed to do. 
+
+I was really worried. My rough guess was that we had probably 2-3 times as much work that we'd identified, compared to what could be delivered in the time. But that wasn't the worst thing. The worst thing was that we didn't really have any strategy for reducing that scope, or for not just carrying on collecting it and letting it get bigger and bigger.
+
+
+
+## Chapter 13 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
 >> Ralph Waldo Emerson
