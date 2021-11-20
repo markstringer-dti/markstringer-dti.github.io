@@ -1725,6 +1725,45 @@ As soon as I heard the deadline, I knew that we'd have to do all three of these 
 
 I was really worried. My rough guess was that we had probably 2-3 times as much work that we'd identified, compared to what could be delivered in the time. But that wasn't the worst thing. The worst thing was that we didn't really have any strategy for reducing that scope, or for not just carrying on collecting it and letting it get bigger and bigger.
 
+### Understanding the status impact of bad news and Humbly asking open questions
+
+I did some improvisation classes. My experience of improvisation classes is that whenever I do them, I learn something. One thing I realised about this "sticking point." Is that I wasn't going to get around it, over it or above it without some experimentation. 
+
+So I decided to run some one on one improvisation sessions with actors to try to really understand the ins and outs of the business of delivering bad news.
+
+These are my immediate impressions coming out of my first session.
+
+1. Definite bad news is easier to deliver than just hunches - this is a problem, because, instinctively, I think that identifying problems when they've just cropped up on the very edge of the radar is probably the most valuable time. 
+
+2. It might be a problem finding naturally high status people to improvise with. This is just a sample of one, but he was naturally low status (at the end of the call, he even said that it was OK if I didn't pay him). 
+
+3. Getting people to say nasty things about other people is really, really difficult (or I'm not doing it right). Also, when you've only just met someone, they tend to be remarks about appearance, which really smart. I'm wondering if the way around this is the Cyrano de Bergerac strategy i.e. go through all the possible kinds of insult. And also, grade the insults. 
+
+E.g. 
+You're saying this because you're racist.
+You're saying this because you're sexist.
+You're just saying this because you're old and you don't have the balls to take on a challenge any more.
+You're just saying this because you're young and inexperience.
+If you're not up to the job, just say, I'm sure I can find somebody else who is.
+If you're saying this, I'm wondering if you're competent.
+That's exactly what a conman who's taking all my money would say.
+Why are you always so negative?
+You can't possibly know that.
+I heard from somebody else that this was going fine.
+How long have you known about this? Why didn't you tell me about this before?
+But if things are so bad, why aren't your team working longer hours to fix this problem?
+Your team don't seem to be working hard enough, they don't looks worried or stressed.
+
+4. Asking open questions.
+
+According to the guy who wrote "Never Split the Difference" the secret to negotiating with kidnappers (and that's what the bosses in this kind of project are) is to ask them open questions. 
+
+I was doing this today. But I think there important differences between three different versions of the same questions.
+
+a) What are you going to do?
+b) What are we going to do?
+c) What do you want us to do?
+d) As a team we'd appreciate your advice on this matter.:x
 
 
 ## Chapter 13 - Commitment and Consistency and Your Other Boss
