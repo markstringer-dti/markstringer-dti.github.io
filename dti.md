@@ -1731,7 +1731,7 @@ I did some improvisation classes. My experience of improvisation classes is that
 
 So I decided to run some one on one improvisation sessions with actors to try to really understand the ins and outs of the business of delivering bad news.
 
-These are my immediate impressions coming out of my first session.
+These are my immediate impressions coming out of my first session with Hans.
 
 1. Definite bad news is easier to deliver than just hunches - this is a problem, because, instinctively, I think that identifying problems when they've just cropped up on the very edge of the radar is probably the most valuable time. 
 
@@ -1741,9 +1741,9 @@ These are my immediate impressions coming out of my first session.
 
 E.g. 
 You're saying this because you're racist.
-You're saying this because you're sexist.
+You're saying this because you're sexist (this one has happened to me in real life).
 You're just saying this because you're old and you don't have the balls to take on a challenge any more.
-You're just saying this because you're young and inexperience.
+You're just saying this because you're young and inexperienced.
 If you're not up to the job, just say, I'm sure I can find somebody else who is.
 If you're saying this, I'm wondering if you're competent.
 That's exactly what a conman who's taking all my money would say.
@@ -1763,8 +1763,29 @@ I was doing this today. But I think there important differences between three di
 a) What are you going to do?
 b) What are we going to do?
 c) What do you want us to do?
-d) As a team we'd appreciate your advice on this matter.:x
+d) As a team we'd appreciate your advice on this matter.
 
+5. Wanting to be smooth
+
+This is a feeling that I had as we entered this final phase. That Hans - my co-improviser, who was playing the boss was trying to find any "hold" that he could over me. And I wanted to be "smooth" to not have anything fault that he could catch hold of to gain the upper hand.
+
+But as I'm writing this now, I'm wondering if this is quite stupid. What are you trying to do from this kind of difficult conversation?
+
+What you're trying to do, this is what you *should* be trying to do, is to get the person that you're talking to, to think. We've already figured out that telling senior people bad news is status lowering, so they will naturally try to regain their status. This is tricky. Because you need a certain level of status in order to continue to make them think. But is that the same as the status you need for self-respect?
+
+So do you need to resist this "wanting to be smooth" feeling? Do you need to let your boss find some way to get a hold over you? Maybe. Maybe.
+
+As I'm writing this, I'm wondering about the time that somebody suggested that a member of my team was committing fraud (they thought he wasn't working full hours, when in fact, he was turning up early and leaving early and this had been agreed). 
+
+What possible responses were there to this accusation?
+
+1. Anger. This is how I responded, pure, white, incandescent rage. "How very fucking dare you? We agreed that Jerry was going to come in early and leave early, you know that." Needless to say, this didn't go down well.
+
+2. Serious concern. Really? I'll check with Jerry, but I think he's been coming in early. That's what we agreed. I'm very sorry that this has come up as a concern and we definitely need to check.
+
+3. Overkill and an attempt to gain the upper hand. "Really? Fraud, that's a very serious allegation? Should we call the police? Oh? You don't think we should call the police? Well, exactly how serious do you think this is then?"
+
+Definitely in the next session that I run, I'm going to run a scene where we accuse each other of wrong-doing and see how that plays out.
 
 ## Chapter 13 - Commitment and Consistency and Your Other Boss
 
