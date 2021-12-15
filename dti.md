@@ -8,6 +8,10 @@
 
 ## Chapter 1 - Introduction
 
+6 Big
+
+And 16 small ideas.
+
 The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So you might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility, right on the front cover." 
 
 Here are some reasons why you might have picked up this book. 
