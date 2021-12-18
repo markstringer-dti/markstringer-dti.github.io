@@ -27,7 +27,7 @@ Update 30th June 2021 - "What to do when you're stuck."
 
 It's the end of June. And this is the one. This time, I'm actually going to finish the book. The trouble is, that I'm stuck. How am I stuck? Well, actually, think I'm stuck in two ways.
 
-First, going over the chapter on additional availability, and then going over the chapter on trench warfare, something surprising happened. I got new ideas and new understanding. But truth be told, they're just tiny green shoots of new ideas - they need developing further.
+First, going over the chapter on agreed activity, and then going over the chapter on trench warfare, something surprising happened. I got new ideas and new understanding. But truth be told, they're just tiny green shoots of new ideas - they need developing further.
 
 Second, I feel I need to some reading.
 
