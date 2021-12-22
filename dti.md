@@ -1976,23 +1976,38 @@ It's things like this that are keeping me going at the moment. That and an idea 
 
 ## Chapter 16 - Conclusion
 
-So in the end all of these different ideas boiled down to a series of questions that you can ask yourself that the team can ask itself that even maybe you can talk through with the client 
+So in the end all of these different ideas boiled down to a series of questions that you can ask yourself that the team can ask itself that even maybe you can talk through with the client, if you have a close enough relationship with the client.
 .For example:
 
+What you see is all there is - Daniel Kahneman
 If in terms of thinking what you see is all there is how can you change what people see how would that change thinking what aren't you showing that's important.
+
+Also from Daniel Kahneman, the planning fallacy and associate with the planning fallacy, the inside view and the outside view.
 
 In terms of Triz:
 
-Which of the problems that you're trying to solve are in fact insoluble they're actually contradictions and they need managing how can you manage them if there are trade-offs how do you provide a sweet spot if there a situation in which you both need something and don't need it how could you go about doing that are you doing it already.
+Which of the problems that you're trying to solve are in fact insoluble they're actually contradictions and they need managing how can you manage them if there are trade-offs how do you provide a sweet spot if there is a situation in which you both need something and don't need it? How could you go about doing that? Are you doing it already.
+
+This is really both the ideas of Keith Johnston and the "SNAFU problem" as stated by Robert Anton Wilson. Everything is a status transaction.
 
 In terms of Status how is what the problem that you're trying to solve being affected by issues of Status what ways of approaching this problem are there that makes status less of a problem.
 
 In terms of John Boyd are you being asked to speed up quicker than you possibly can are you being asked to run a 2 top speed that is beyond the speed of the team are you actually been asked to slow down and you don't want to that's energy maneuverability Theory.
 
-What are you observing what weird about what you're observing what does it how does it change our thinking how does it change your decisions how does it change how we act.
+What are you observing that's weird or unexpected the project what does it how does it change our thinking how does it change your decisions how does it change how we act.
 
 In terms of cynefin framework. Where are we are we in a chaotic situation are we in a complex situation where does the client think we are where are we being pushed are we in disorder how do we get out of disorder what small steps can we make to take us to somewhere where we know where we are.
 
+Transparency
+Inspection
+ Adaptation
+
+Some and all
+Same and different
+
+What problem are you solving? What is it?
+
+Patsy Rodenberg's idea of first, second and third circle.
 
 ## References
 
