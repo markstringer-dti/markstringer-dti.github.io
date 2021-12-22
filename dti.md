@@ -1791,7 +1791,62 @@ What possible responses were there to this accusation?
 
 Definitely in the next session that I run, I'm going to run a scene where we accuse each other of wrong-doing and see how that plays out.
 
-## Chapter 13 - Commitment and Consistency and Your Other Boss
+## Chapter 13 - The Edge of Chaos
+
+### Concept
+There is a model of project management that has chaos on the diagram. This is the Cynefin framework. This is a framework that was developed and is still being advocated by a working consultant. And it keeps changing. But when I first came to know about it, the Cynefin framework had four sectors, and this is how I explain those sectors to myself. This is my fried egg version of Cynefin, I don't know how you do it, this is what I do.
+
+#### Simple
+Simple. This is the first sector. Some problems are simple. They are understood. Pretty much anybody can solve these problems. 
+
+The type of problem that I like to use as an example in this sector is cake. Ingredients for cake are well understood. The equipment needed to make cake is well understood. And there are recipes. Also, people understand the value of cake. Cake is nice. People like it, is has straight-forward value.
+
+#### Complicated
+That's the simple sector. Next to that is the complicated sector. There are lots of kinds of problems in the complicated sector. But they have one thing in common, like the problems in the simple sector, they are understood (by some people at least) and there are solutions that can be applied. The difference between complicated problems and simple problems is that complicated problems can't be *easily* understood or *easily* solve. You will need to go on a training course, you might need to go on several training courses, those courses may take years. But if you pay attention and do well on the courses, at the end of them, you will be able to understand and solve these complicated problems. 
+
+#### Complex
+OK, he's where it get's interesting. Next to the complicated sector, we have the complex sector. In the complex sector, problems aren't perfectly understood and solutions don't perfectly work. Obviously the two are connected. In the complex sector there are suggested approaches that work, a substantial proportion of the time. There is a *degree* of success. But there are some situations for which there aren't any clear solutions. 
+
+This is where project management sits. This is where all kinds of "consultancy", especially "management consultancy" sits. This is why people can be so rude about consultants. 
+
+#### Chaotic
+Then there's a fourth sector. Chaos. In the chaotic sector, the problems aren't understood at all and the solutions to the problems aren't understood at all. Unlike in the complex sector, there are no recognised solutions that work in this sector. In the chaotic sector, you just have to try things, celebrate when things work, or shrug it off when things don't work. 
+
+Why am I telling you this? Because this is my experience:
+
+>> Software development works best in the complex sector. Software development is always tending towards the chaos sector. 
+
+And actually, sometimes:
+
+>> Software development is always tending towards another sector, that I haven't told you about, called "Disorder"
+
+What? Why? How?
+
+Reason #1 - the business is chaotic. 
+
+Software development itself isn't a chaotic activity, but software is often trying to track or profit from activities which are chaotic - a lot of entrepreneurial business is chaotic. In fact, if it weren't chaotic, it probably wouldn't be a properly entrepreneurial business.
+
+Let's say you've come up with the genius idea of social network for pets. Nobody has done this before! There might be a good reason! Is it a good idea? Who knows. The only real way to find out is to do it. 
+
+Reason #2 - misapplying a different problem space
+
+What happens if you treat flying a passenger airliner as if it's baking a cake? Bad things probably. Treating a complicated problem like it's a simple problem doesn't work that well. Similarly, treating a complex problem like software development as if it's a complicated problem (like being trained to fly a plane) doesn't work that well either. Similarly, trying to manage the chaotic space with the kinds of approaches that work in the complex space doesn't work. But I've just realised, this isn't chaos. This is what Dave Snowdon (the developer of the Cynefin framework) puts in the middle of the Cynefin diagram. It's the black hole in the middle. 
+
+This isn't chaos, this is disorder. It isn't chaos that I'm scared of. It's disorder.
+
+### Connections
+
+That's a relief, because that had been bothering me. 
+
+
+### Concrete Practice
+
+### Conclusion
+I'm not scared of chaos. I'm scared of disorder.
+
+If you're in a chaotic space, you're there for the chaos. You're there because you know that it might pay off big. But if you're in the "disorder plughole" in the middle of the Cynefin framework, you're there because somebody really doesn't understand what's going on. 
+
+## Chapter 14 - Commitment and Consistency and Your Other Boss
 
 >> A foolish consistency is the hobgoblin of little minds
 >> Ralph Waldo Emerson
@@ -1891,6 +1946,52 @@ I would dearly like to avoid this "commitment and consistency" dance. I would de
 
 But I've realised that it can't be avoided. Most projects simply won't get off the ground and won't be approved unless some kind of promise is extracted from the people who are going to deliver. And it's in the nature of ideas, of "Flowers" that will have to immediately sound like the bosses are getting a lot for their money.
 
+
+
+## Chapter 15 - Why Am I so Angry?
+
+So, full disclosure. I've been getting coaching. Full on Agile coaching of the don't say much and let the client work it out for themselves kind.
+
+I don't know how many sessions we've had, but it's more than ten. At the very end of my last session she asked me if she could "share" something with me. That's Agile coach speak for mentioning that she has an opinion.
+
+And the thing she wanted to share with me was this. I'd started the coaching sessions with a problem. I still have that problem.  What was the problem. The problem was and still is that I find it difficult to talk to senior, "C-Level" people. 
+
+The observation that she was making was that I had a lot of skills in project management, I had a lot of experience of project management. I clearly don't have any problem talking to her. I don't seem to have any problem talking with my team. So why do I have so much difficulty talking to "C-Level" people?
+
+And my answer, maybe it was too frank because it came then, right at the very end of an entire hour of being allowed to speak my brains was that when I'm talking to her, and most of the time when I'm talking to members of my team, I'm not angry. And almost all of the time when I'm talking to C-Level people who are involved in the projects that I'm working on, I am angry. What am I angry about?
+
+I'm not exactly sure. I think one thing that I'm annoyed about is that they don't want to listen to me, they are not doing the things that they need to do in order to make a project a success. Because of course, in a quite fundamental way, when a boss says that he or she wants a project to succeed but then does a number of things that will almost guarantee that a projectd won't succeed, they are lying.
+
+And mixed in with the anger is shame. I'm ashamed that I'm angry.
+
+And now, writing this, mixed in with *that* is fear. Fear that there isn't any way to fix this, that this is always how I'm going to be in these situations. That there is no cure.
+
+What I want to be like is like Columbo. Mild mannered, polite, but gently pushing the matter towards its inevitable conclusion.
+
+I'm heartened by this quote from George Orwell. 
+
+ "Writing a book is a horrible, exhausting struggle, like a long bout of some painful illness. One would never undertake such a thing if one were not driven by some demon whom one can neither resist or [sic] understand. For all one knows that demon is the same instinct that makes a baby squall for attention. And yet it is also true that one can write nothing readable unless one constantly struggles to efface one's personality. Good prose is like a window pane."  
+
+It's things like this that are keeping me going at the moment. That and an idea that I got from reading an article in an online magazine about art. Great creative breakthroughs come from trying on multiple different styles one after the other. 
+
+## Chapter 16 - Conclusion
+
+So in the end all of these different ideas boiled down to a series of questions that you can ask yourself that the team can ask itself that even maybe you can talk through with the client 
+.For example:
+
+If in terms of thinking what you see is all there is how can you change what people see how would that change thinking what aren't you showing that's important.
+
+In terms of Triz:
+
+Which of the problems that you're trying to solve are in fact insoluble they're actually contradictions and they need managing how can you manage them if there are trade-offs how do you provide a sweet spot if there a situation in which you both need something and don't need it how could you go about doing that are you doing it already.
+
+In terms of Status how is what the problem that you're trying to solve being affected by issues of Status what ways of approaching this problem are there that makes status less of a problem.
+
+In terms of John Boyd are you being asked to speed up quicker than you possibly can are you being asked to run a 2 top speed that is beyond the speed of the team are you actually been asked to slow down and you don't want to that's energy maneuverability Theory.
+
+What are you observing what weird about what you're observing what does it how does it change our thinking how does it change your decisions how does it change how we act.
+
+In terms of cynefin framework. Where are we are we in a chaotic situation are we in a complex situation where does the client think we are where are we being pushed are we in disorder how do we get out of disorder what small steps can we make to take us to somewhere where we know where we are.
 
 
 ## References
