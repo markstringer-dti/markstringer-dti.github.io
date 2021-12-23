@@ -49,7 +49,7 @@ The reason for describing these different points of view is to make good on Alan
 
 This isn't like most books that offer to improve your success at project management. Most books that do that suggest a particular Agile method. Like Scrum, or Extreme Programming. Other books talk about how to coach teams in the use of these methods. Other books talk about a particular part of the process. It could be writing "user stories" or running retrospectives. And obviously, there are books that focus on the technical aspects of the process. 
 
-I want to be clear here. I'm not in any way knocking those books. Some of those books are brilliant and I've referenced some of my favourites in the notes. But I don't think they're enough. 
+I want to be clear here. I'm not in any way knocking those books. Some of those books are brilliant and I've referenced some of the ones that I like best in the notes. But I don't think they're enough. 
 
 Following an Agile method like Scrum is a good way of improving your chances of project success. It's what I almost always do if I'm in charge of delivering a software development project.
 
@@ -90,7 +90,7 @@ After these stages, which might take months, we started to write software.  Agai
 
 Unfortunately, both of the first two projects that I worked on went through an extra stage between testing with users and launch. What was that extra stage? It was litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was probably for a whole lot of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification document hadn't captured what the users wanted. It's also possible the users weren't capable of saying in one single document, exactly what it was that they wanted. What the users had asked for had gone through several stages of work. The systems designers and developers had done their bit. That had been followed by  internal testers and then finally testers working for the customer. By the time that it had got to the end of that pipe, it's not surprising that things had gone a bit wrong. But also, of course, it's possible that what the users wanted had changed.
 
-There was one intriguing thing, that I barely noticed about those first few projects until later. When the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The projects would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that a bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
+There was one intriguing thing, that I only noticed about those first few projects later on. When the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The projects would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that a bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
 
 And what those guys were doing, well it kind of sounds like iterative, Agile software development.
 
@@ -240,7 +240,7 @@ Often improv classes take the form of a set of games. The purpose of the games i
 
 There is one game that helps get improvisers out of the habit of agreed activity. It's called "new choice."
 
-It can be used as guard rails, or stabilisers, to help improvisers avoid blocking and agreed activity and move the action of a scene forward. 
+It can be used as guard rails, or training wheels, to help improvisers avoid blocking and agreed activity and move the action of a scene forward. 
 
 The way that the "new choice" game works is that two improvisers get involved in a dialogue. A third improviser acts as a referee. The two improvisers start a dialogue. If the referee isn't happy with one of the responses that the improvisers give, she can shout "new choice" and the improviser has to say something else.
 
@@ -288,7 +288,7 @@ Here's one of the many strange things about project management. Very often every
 
 This is the same as if, in an improv show, one of the performers shouted "Look! A pirate ship!" and a director sitting next to the stage responded by saying "Shut up about the pirate ship! I don't want to hear any more of this negative thinking. Clean the decks! Any more talk of a pirate ship and you're off the show." 
 
-A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once will be enough. If the leadership response to reports of problems isn't positive and helpful. The leaders will already - in just one instance be on their way to creating one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. 
+A leader doesn't need to tell the team to shut up about the pirate ships and clean the decks many times. Once will be enough. If the leadership response to reports of problems isn't positive and helpful. The leaders will already - from just one example - be on their way to creating one of the strangest problems that I've seen. And I've seen it repeatedly: a highly skilled, highly paid team who've given up trying to tell the bosses what's wrong. 
 
 The team identified some problems. They explained to the leadership what those problems were. The leadership ignored them, or got angry, or suggested that if the team knew how to do their jobs, there wouldn't be a problem. The team noticed this. They understood. They'd found an agreed activity - doing as they're told. They're smart people, so they've learned really quickly when it's better to not try to speak out or think for themselves.
 
@@ -650,7 +650,7 @@ It was a European Union funded project. The first aim of the project was to desi
 
 And what we found was interesting. 
 
-One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For instance, they understood that there was a contradiction between statements like:
+One thing that we found from talking to users (schoolchildren who were 10-11 years old) was that they didn't really need help with the logic of an argument. For example, they understood that there was a contradiction between statements like:
 
 >> People should be able to express themselves freely
 
@@ -678,7 +678,7 @@ I was working with a startup in a disgusting warehouse in Shoreditch in London (
 
 We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. 
 
-But then some people jumped out from behind some trees.  We found out that any suppliers who worked for the bank had to be approved by the authorities that regulated the conduct of banks. I mean who would have thought? Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
+But then some people jumped out from behind some trees.  We found out that any suppliers who worked for the bank had to be approved by the authorities that regulated the banks. I mean who would have thought? Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
 
 I was working with, possibly, the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So, it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. It was a potential business partner, in a meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
 
@@ -732,7 +732,7 @@ The people who are building the swamp need to speak to the people who are talkin
 
 You might feel bad about this, because, if you know what you're doing, you will know that you're creating conflict. But the kind of conflict that you're creating is the kind that we talked about when we talked about the pirate ship in chapter 2. One way of getting the improvisers to do the interesting thing rather than the boring thing is to have a director. Someone who sits at the side of the stage who shouts "deal with the pirate ship." What we're doing here is putting two points of view together and insisting that rather than just go off and do their own thing, they figure things out together. This probably needs somebody to do something like the director role. Someone who encourages it to happen.
 
-Don't worry too much if the user researchers you work with are juniors. Just worry about getting them to sit with your team and tell your team about what they're finding. Most software development projects don't have any user research at all. Also, you never know when some of the people who seem to you impossibly green will turn out to be superstars. 
+Don't worry too much if the user researchers you work with are juniors. Just worry about getting them to sit with your team and tell your team about what they're finding. Most software development projects don't have any user research at all. Also, you never know when some of the people who seem to you impossibly green will turn out to be stars. 
 
 > A little story. I was on a User Research presentation for \[Big Org\] where they presented the user research. It was harrowing. Basically, the entire user base said they wouldn't use the software (even though the law will make it mandatory soon). We had warnings before some of the recorded snippets of the language used by the users.
 > "If Big Org introduce this then I would just say "Fuck You Big Org" and I will rebel by doing everything on paper."
@@ -754,6 +754,7 @@ Invite people from all over your stakeholder map to your show and tells. Remembe
 2. Embrace deadlines. Yeah, I said it. Embrace deadlines as opportunities to negotiate scope and set software free. Your bosses see deadlines as opportunities to fuck with you. They want to make you and your team work longer hours while giving them time off from thinking about what a product really needs to do. But you don't have to see them like that. You can see them as terribly clumsy ways of exploring the stakeholder map. The map of the swamp. If you do try to release something, who jumps out from behind a treed and tells you that you can't? Who suddenly appears and tries to take credit? Which non-functional requirement really is a deal breaker that stops the software from going live? Software wants to be free. You should want it to be free. You should do your best to help it. 
 
 3. Exploit crisis. What if your team *does* release software that nobody wants to use? What if your team *does* release software that nobody is allowed to use because it doesn't meet regulations? Yes, it's late in the day. But that doesn't mean it's too late to start to involve a user researcher. Yes, it's late in the day, but that doesn't mean that it's too late to start releasing software incrementally.
+
 
 ## Chapter 5 - Working Software
 
@@ -867,19 +868,19 @@ As people who jump out from behind trees trying to block progress go, these two 
 
 But neither of these guys was a match for the clerks. There were a lot of clerks. They'd seen that this software would make their lives much easier. We improved the accessibility, but we went live with what we had. We submitted the software to outside security testing. We addressed some issues, but we went live with some others still being looked at.
 
-Putting bad, barely working software in front of real users completely changed the project.
+Putting bad, software that just about worked in front of real users completely changed the project.
 
 ### Connections
 
 I'm going to talk about cars for bit now. Trust me. It's relevant.
 
-Showing barely working software to the clerks had created this magical thing. It's a thing that gets talked about when people talk about different ways of doing Agile. Ways of doing Agile like Lean, which is Agile, but for manufacturing. What is this magical thing? It's called "pull".
+Showing working software to the clerks had created this magical thing. It's a thing that gets talked about when people talk about different ways of doing Agile. Ways of doing Agile like Lean, which is Agile, but for manufacturing. What is this magical thing? It's called "pull".
 
 You may have heard the saying "just in time." It's a strategy for managing supply chains in all kinds of industries. One industry that has perfected this approach to managing its work is the Japanese car industry, and particularly the Toyota car company.
    
 The Toyota company succeeded because from the start it understood one thing. It's senior engineers realised it just wasn't possible to make cars in Japan in the way they were being made in the 1920's in America. Why? Because Japan's economy at the time was tiny. It went in cycles of good and bad times. There were booms but they were always followed by busts.
 
-So from very early on, Toyota matched the rate that it made cars to the level of demand for cars that it saw from the market. Over nearly a hundred years, that process has become very sophisticated. The result is that many different kinds of cars, with the many different extras that modern cars have, can roll off the production line of the same plant. The cars that come out of the factory almost precisely match the demand outside it.
+So from very early on, Toyota matched the rate that it made cars to the level of demand for cars. The market decided how many cars it made. Over nearly a hundred years, that process has become very developed. The result is that many different kinds of cars, with the many different extras that modern cars have, can roll off the production line of the same plant. The cars that come out of the factory almost precisely match the demand outside it.
 
 Each car is *pulled* off the production line by a specific request for a car which comes from a dealer, which in the end comes from a customer.
 
@@ -1051,7 +1052,7 @@ So how do we do this? How do we achieve this move? From "Flowers", where value a
 
 This is what we're going to talk about in the next couple of chapters. First we'll talk about working software. Why it's so important and how you should go about trying to get it into the hands of users as soon as you possibly can.
 
-Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about conducting it so that it gives your project the maximum chance of success.
+Then we'll talk (via the metaphor of the swamp) about stakeholder research. I'll explain why it's so important. I'll explain how to go about it so that it gives your project the maximum chance of success.
 
 
 
@@ -1083,7 +1084,7 @@ The way out of the hole of project management is similar. The answer only partia
 
 Remember in the introduction where I said that the value of metaphors is that they can help you know what you're doing? This is most definitely the value of the "hole/hungry crowd" metaphor. 
 
-If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and conceptual problems with the idea. And you need to do this without pissing the bosses off so much that they just abandon you and let you starve - or fill in the hole.
+If you're a project manager, you're in a hole. The way out of that hole is to find out what the crowd are hungry for, make some of that and get it out of the hole! Of course, while you're doing this, you're dependent on the people on the other side of the hole. The people who got you into this mess. The people who came up with the ideas and got money for the venture. You need them to carry on feeding you and sending you supplies until you can make something that the people want. You need to iron out the practical and theoretical problems with the idea. And you need to do this without pissing the bosses off so much that they just abandon you and let you starve - or fill in the hole.
 
 What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples.
 
@@ -1294,19 +1295,19 @@ Get the team together and discuss what you're going to do in the next fixed peri
 
 Sometimes things are so crazy that a week works better. I avoid any options other than multiples of seven days, because calendar arithmetic is beyond me. And I truly believe in the power of getting into the rhythm. If this is Wednesday and it wasn't planning last Wednesday, it must be planning today. That's it. That's all the effort anyone should ever need to put into figuring out if today is planning day or not.
 
-Because people are such dicks about commitment consistency (see the chapter about your other boss, reality) I don't push planning as being any kind of commitment. Again, this might seem like a heresy. There is this idea that the team should plan what they're doing in the sprint and then "move heaven and earth" to make sure that the things that have been planned into the sprint are delivered as working software by the end of the sprint.
+People are such dicks about commitment consistency. See the chapter about your other boss, reality if you don't believe me. And for this reason, I don't push planning as being any kind of commitment. Again, this might seem like a heresy. There is this idea that the team should plan what they're doing in the sprint and then "move heaven and earth" to do it. 
 
-Do you know what "moving heaven and earth," means? It means working late, it means missing lunch, it means doing something other than working at a sustainable pace. 
+Do you know what "moving heaven and earth," means? It means working late, it means missing lunch, it means doing something other than working at a sustainable pace. It probably means making the project harder to manage, harder to deliver and certainly much harder and more unpleasant to work on.
 
 Fuck that. 
 
-A long time ago I read a book called "Sources of Power" by Gary Klein. Klein spent a lot of time studying people who really know what they're doing. Experts. I don't remember much from that book, but I do remember that he says that one indication that you're in the presence of an expert is that they know what they're capable of. 
+A long time ago I read a book called "Sources of Power" by Gary Klein. Klein spent a lot of time studying people who really know what they're doing. Experts. I don't remember much from that book. But one thing I do remember that he says an indication that you're in the presence of an expert is that they know what they're capable of. 
 
 Of course, experts weren't born magically knowing what they're capable of. They had to learn over time. And it's the same with teams. 
 
 Teams, including the product owner will initially tend to plan too much. Of course, it's essential for this to be clear at the end of every sprint. "We planned thirty things. We finished twenty things. Do you think there's much point in planning more than about twenty-five things this sprint?"
 
-Something that all the team can understand, including the developers and the product owner, is that, if we look back to the previous planning meeting, when we got to the point where were discussing issues number 21, 22, 23, but especially when we were discussing numbers 26, 27, 28, we were just wasting our time. We were talking about things that just weren't going to happen in that sprint. 
+Here's something I hope that all the people involved with the team can understand. This include the developers and the product owner. Let's look back to the previous planning meeting. When we got to the point where were discussing issues number 21, 22, 23, but especially when we were discussing numbers 26, 27, 28, we were just wasting our time. Because we were talking about things that just weren't going to happen in that sprint. 
 
 One thing that I never used to bother with was a sprint goal. But in recent projects I've found a sprint goal, or goals, extremely useful.
 
@@ -1350,9 +1351,9 @@ If you've read and remembered the chapter about exploring the swamp. You'll reca
 
 Both of those activities happen in other places on a project that's working well. But, since they both happen in the show and tell, it's important to the health of any project that we make sure that they happen there.
 
-If the show and tell isn't working well. If you aren't getting a good subset of the stakeholders paying attention to what new things are going into the software on a regular basis and the team isn't demonstrating new working software on a regular basis, this is probably going to end up being a problem.
+It's important that the show and tell works well. You need a good subset of the stakeholders to pay attention to what new things are going into the software. If the team isn't demonstrating new working software on a regular basis you're problem creating a problem for the future.
 
-What kind of problem? Well, maybe the team isn't really building anything. That's one kind of problem. Maybe they're struggling so badly with a bunch of different issues that they're not managing to get anything to the point where they can demonstrate it and create enthusiasm and pull from the users. 
+What kind of problem? Well, maybe the team isn't really building anything. That's one kind of problem. Maybe they're struggling so badly with a bunch of different issues that they're not managing to get anything to the point where they can demonstrate it. If the team can't demonstrate any working software, they can't create enthusiasm and pull from the users. They can't get an important signal about what's valuable about what they're doing.
 
 But, even worse, maybe the team do have working software to demonstrate, but because no one is looking at it, it's the wrong thing. 
  
@@ -1384,7 +1385,7 @@ My experience of risk registers is that they aren't useful. They tend to become,
 
 But my product owner was an employee of the organisation and wanted to make sure that we were doing everything we could to show good governance. He found a description of an Agile approach to risk management that I had no problem getting behind.
 
-Each sprint we'd meet with the senior stakeholder. For half an hour we'd walk through a Kanban board of risks. Each risk would be scored using an "exposure" score. This was calculated by multiplying the cost of the risk happening and the chance of it happening. 
+Each sprint we'd meet with the senior stakeholder. For half an hour we'd walk through a Kanban board of risks. Each risk would be scored using an "exposure" score. This was worked out multiplying the cost of the risk happening and the chance of it happening. 
 
 For example:
 
@@ -1398,9 +1399,7 @@ Of course, the scores are (almost) complete hokum.
 But having a short meeting every fortnight where we discussed what was worrying the senior stakeholders? That was useful. And that's what this meeting allowed us to do. It was also a way of us gently raising our own concerns.
 
 ###### Backlog refinement
-There are lots of different ways of doings this. And again, I really want this to evolve through the course of a project. There is the "Three Amigos" approach. The idea is that if the items in the backlog are looked at from several different points of view they will be better described before they get planned into a sprint. 
-
-Technically, is this possible? What else to we need to know? From a user research point of view, what might we need to explore before we develop it? From a design point of view, is there anything new and different? And of course, from a business point of view, why is this important? 
+There are lots of different ways of doings this. And again, I really want this to evolve through the course of a project. There is the "Three Amigos" approach. Several members of the team maybe a designer, a developer and a user researcher, get together once a week. They look at the backlog. They discuss from the point of view of their discipline what might be the challenges with items in the backlog.  Technically, is this possible? What else to we need to know? From a user research point of view, what might we need to explore before we develop it? From a design point of view, is there anything new and different? And of course, from a business point of view, why is this important? 
 
 In my experience, this might be needed early on. So that these points of view are made clear to the other "amigos." But over time, this can be streamlined, and the reviews of the backlog might only need the product owner and the Scrum Master. Maybe. Think about it this way. Part of the work that you're doing on a project is figuring out what shape the work is. Where does the work need detail and specification up front? Where can it be left to be figured out as it's picked up to be developed.
 
@@ -1411,9 +1410,7 @@ Which bits need to be explored using user research and testing? How much? Where?
 So, you went through the whole heartache and pain of developing a service to the point that it went live.
 Congratulations! Now you have to maintain it. 
 
-One thing I've found useful on a recent project is a regular weekly meeting where we look at the support tickets that have been raised as a result of issues reported to a support email address. By the time we look at it, all of the frequently asked questions have been filtered out. 
-
-What we're left with are either bugs or feature requests. Part of what we do in this meeting is decide which of these the issues are. If we decide something is a bug, we then decide on some kind of urgency for fixing it.   
+One thing I've found useful on a recent project is a regular weekly meeting where we look at the support tickets. These are the tickets that have been raised as a result of issues reported to a support email address. By the time we look at it, all of the frequently asked questions have been filtered out and replied to by the team that read the emails. What we're left with are either bugs or feature requests. Part of what we do in this meeting is decide which of these the issues are. If we decide something is a bug, we then decide on some kind of urgency for fixing it.   
 
 #### That's a *lot* of meetings
 Yes, I know that this is a lot of meetings. And I'm not suggesting that you need all, or any, of these. You might need a different meeting.  
@@ -1452,13 +1449,13 @@ What you do in planning is that you look at that list of things to do with the t
 
 And where do you put this list of things to do? To be honest, I've got my preferences, but I try not to force them on the team. This is tricky because most of these things are proprietary and will involve some outlay and commitment. But I think the team should figure out all together what kind of thing they should use to communicate. 
 
-They might want to start out with a spreadsheet, but somebody will probably find out quite soon that that's a nightmare to maintain. They might want to start out with a physical wall, but in these days of everyone working from home, I'm not sure how you could make that work. 
+They might want to start out with a spreadsheet, but somebody will probably find out quite soon that that's too difficult to maintain. They might want to start out with a physical wall, but in these days of everyone working from home, I'm not sure how you could make that work. 
 
 I'm going to come out and admit that I like Jira. Well, I don't really like it and I curse it a lot. But it seems to be the best application for keeping track of the status of an issue. Also, it seems to be pretty good at keeping hold of the discussion that's gone on around and issue.
 
 ##### Maybe a roadmap
 
-I've found that roadmaps can be very useful if they can be thrown together quickly and have some kind of regular cadence structure to make sure that they're maintained. As I mentioned, looking at the roadmap in mid-sprint check seems to work really well.
+I've found that roadmaps can be very useful. They don't have to be perfect to start with. What they do need is some kind of regular cadence to make sure that they're maintained. As I mentioned, looking at the roadmap in mid-sprint check seems to work really well.
 
 Any kind of tool that can be used to make a Kanban board (Trello or even Jira) works for this. All you need is a list of the big things that need to go into the product. They you need a way of ordering them so that some of these things are being dealt with "Now." Then some of them are "Next." Finally, some of them are "Later." You might also have a column for "Done."
 
@@ -1514,8 +1511,7 @@ This is the really important bit you add up the total of the scores on all of th
 
 This is important number #1.
 
-What you need to know is a rough order of priority for these "big ticket" items. Really easy way to do this is using a package like Trello create a Kanban board with four columns and then label those columns "Done", "Now", "Next", "Later
-". The next job is for either the product owner or the product owner together with the whole team to put those tickets in those columns when you've done that what do you have you have a sized road map.
+What you need to know is a rough order of priority for these "big ticket" items. Really easy way to do this is using a package like Trello create a Kanban board with four columns and then label those columns "Done", "Now", "Next", "Later ". The next job is for either the product owner or the product owner together with the whole team to put those tickets in those columns. When you've done that, you have  a sized and roughly prioritised road map.
 
 Then every fortnight at the end of the mid-sprint check I would walk through the Kanban board and asked the team to estimate the percentage completion of the things that were in the "Now" column. I multiplied the percentage complete scores that I get from the team with the fibbonaci numbers on the ticket items I get important number #2.
 
@@ -1683,7 +1679,7 @@ What's the solution? Never use how bad things are as a way of elevating your sta
 ## Timing
 I'm in the timing business. Delivering things on time. That's what I do. Right? Well. Right and wrong. Just because I'm in the timing business, doesn't mean that I can force my timings on the bosses. To force my timings on the bosses will always be seen by them as an attempt to lower their status. 
 
-And this is a tricky one. Let's say for example that some boss tells me that they want something by a particular date. Christmas is a favourite. Christmas is *the* favourite. Bosses always want things by Christmas. In my head, the minute I hear this, I'm thinking of a bunch of things that need to happen if there's a ghost of a chance of this happening by Christmas. And a bunch of things are things that the boss needs to do. And the boss has just said Christmas, so, if that's a real deadline, he needs to do these things by a certain time. Right? Nu uh. No. 
+And this is a tricky one. Let's say for example that some boss tells me that they want something by a particular date. Christmas is the one that comes up most often. Bosses always want things by Christmas. In my head, the minute I hear this, I'm thinking of a bunch of things that need to happen if there's a ghost of a chance of this happening by Christmas. And a bunch of things are things that the boss needs to do. And the boss has just said Christmas, so, if that's a real deadline, he needs to do these things by a certain time. Right? Nu uh. No. 
 
 You would think it would be like that. It ought to be like that. It isn't. It isn't and it never will be. 
 
@@ -1725,7 +1721,7 @@ As soon as I heard the deadline, I knew that we'd have to do all three of these 
 
 2. Come up with a strategy for limiting the scope of what we agreed to deliver so that we had reasonable confidence that we could deliver it in time.
 
-3. At the same time, sooner rather than later, put together a piece of skeleton working software that did the bare bones of what the system was supposed to do. 
+3. At the same time, sooner rather than later, put together a piece of skeleton working software that did the very least that the system was supposed to do. 
 
 I was really worried. My rough guess was that we had probably 2-3 times as much work that we'd identified, compared to what could be delivered in the time. But that wasn't the worst thing. The worst thing was that we didn't really have any strategy for reducing that scope, or for not just carrying on collecting it and letting it get bigger and bigger.
 
@@ -1880,7 +1876,7 @@ Instead he said "Let's go round the table and I want you to promise the team tha
 
 What? Promise? I could hear the other members of the team around the virtual, conference phone table solemnly committing to do actions.  These had been captured during the meeting and written down with team members names against them. What was I going to do when he got around to me?
 
-I knew that the actions that had my name against them were vague. I knew that I could probably fudge and say that they were done by the next time we had a meeting. At the same time, I knew something else. I knew some members of the team were committing to things they had no business committing to.  Either they had no chance of doing them by the next time we met, or they simply had no idea whether they could do them or not. They weren't committing because they thought they could do the tasks. There were committing because they wanted to avoid the difficult situation they would be in if they refused to commit.
+I knew that the actions that had my name against them were vague. I knew that I could probably at least have some story to tell that they were done by the next time we had a meeting. At the same time, I knew something else. I knew some members of the team were committing to things they had no business committing to.  Either they had no chance of doing them by the next time we met, or they simply had no idea whether they could do them or not. They weren't committing because they thought they could do the tasks. There were committing because they wanted to avoid the difficult situation they would be in if they refused to commit.
 
 Also, in the back of my mind, were some things I'd been hearing about how this guy, Mr Chairman, was working with the rest of the team. He himself worked from home most of the time and got up at 4 am. I had vaguely heard some worrying discussions in the stand-up meeting. He'd been getting some of the other, younger members of the team to have meetings at 5 am. He had also been encouraging people to work through the night to meet his deadlines. 
 
@@ -1976,27 +1972,28 @@ It's things like this that are keeping me going at the moment. That and an idea 
 
 ## Chapter 16 - Conclusion
 
-So in the end all of these different ideas boiled down to a series of questions that you can ask yourself that the team can ask itself that even maybe you can talk through with the client, if you have a close enough relationship with the client.
-.For example:
+So in the end all of these different ideas boil down to a series of questions. Questions that you can ask yourself.  Questions that the team can ask itself. Questions that you could even possibly talk through with the client, if you have a close enough relationship.
 
-What you see is all there is - Daniel Kahneman
+For example:
+
+What you see is all there is - Daniel Kahneman.
 If in terms of thinking what you see is all there is how can you change what people see how would that change thinking what aren't you showing that's important.
 
 Also from Daniel Kahneman, the planning fallacy and associate with the planning fallacy, the inside view and the outside view.
 
 In terms of Triz:
 
-Which of the problems that you're trying to solve are in fact insoluble they're actually contradictions and they need managing how can you manage them if there are trade-offs how do you provide a sweet spot if there is a situation in which you both need something and don't need it? How could you go about doing that? Are you doing it already.
+Which of the problems that you're trying to solve are in fact insoluble? The simply aren't the kind of problems that can be solve, they are trade-offs that need to managed. If there are trade-offs how do you provide a sweet spot? If there is a situation in which you both need something and don't need it? How could you go about doing that? Are you doing it already (like have a "servant leader" as the manager of the team).
 
 This is really both the ideas of Keith Johnston and the "SNAFU problem" as stated by Robert Anton Wilson. Everything is a status transaction.
 
-In terms of Status how is what the problem that you're trying to solve being affected by issues of Status what ways of approaching this problem are there that makes status less of a problem.
+In terms of Status how is what the problem that you're trying to solve being affected by issues of Status? Are you trying to push / change the timings of your clients? Are you trying to make them do things that they don't want to do? What ways of approaching this problem are there that makes status less of a problem?
 
-In terms of John Boyd are you being asked to speed up quicker than you possibly can are you being asked to run a 2 top speed that is beyond the speed of the team are you actually been asked to slow down and you don't want to that's energy maneuverability Theory.
+Looking at this through the ideas of John Boyd: are you being asked to speed up quicker than you possibly can? Are you being asked to run a top speed that will always be beyond the speed of the team? Are you actually been asked to slow down and you don't want to? These are ideas connected t Boyd's energy maneuverability Theory.
 
-What are you observing that's weird or unexpected the project what does it how does it change our thinking how does it change your decisions how does it change how we act.
+What are you observing that's weird or unexpected on the project? How does it change our thinking? How does it change our decisions how does it change how we act?
 
-In terms of cynefin framework. Where are we are we in a chaotic situation are we in a complex situation where does the client think we are where are we being pushed are we in disorder how do we get out of disorder what small steps can we make to take us to somewhere where we know where we are.
+In terms of cynefin framework. Where are we?  Are we in a chaotic situation? Are we in a complex situation? Where does the client think we are? Where are we being pushed? Are we being pushed from a complex situation into a chaotic situation? Are we being pushed into disorder? Are we already in disorder? How do we get out of disorder? What small steps can we make to take us to somewhere where we know where we are?
 
 Transparency
 Inspection
@@ -2008,6 +2005,10 @@ Same and different
 What problem are you solving? What is it?
 
 Patsy Rodenberg's idea of first, second and third circle.
+Which circle are you living in most? As an individual? As a team?
+
+Theory of constraints (Goldblatt, et al.)
+Is there a bottleneck? How could the bottle neck be managed?
 
 ## References
 
