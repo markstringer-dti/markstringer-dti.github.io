@@ -1513,25 +1513,27 @@ This is important number #1.
 
 What you need to know is a rough order of priority for these "big ticket" items. Really easy way to do this is using a package like Trello create a Kanban board with four columns and then label those columns "Done", "Now", "Next", "Later ". The next job is for either the product owner or the product owner together with the whole team to put those tickets in those columns. When you've done that, you have  a sized and roughly prioritised road map.
 
-Then every fortnight at the end of the mid-sprint check I would walk through the Kanban board and asked the team to estimate the percentage completion of the things that were in the "Now" column. I multiplied the percentage complete scores that I get from the team with the fibbonaci numbers on the ticket items I get important number #2.
+Then every fortnight at the end of the mid-sprint check I would walk through the Kanban board. I asked the team to estimate the percentage completion of the things that were in the "Now" column. I multiplied the percentage complete scores that I got from the team by the fibbonaci numbers on the ticket items I get important number #2.
 
-Important number #2 is the number of points that have been completed.
+Important number #2 is the number of points that have been "completed".
 
-Warning a lot of people will tell you that this is absolutely what you shouldn't do. I'm kind of worried even to admit this is what I've done even though it worked beautifully for me and I will definitely try to do this again although I'll inspect and adapt obviously.
+Warning a lot of people will tell you that this is absolutely what you shouldn't do. I'm kind of worried even to admit this is what I've done. Even though it worked beautifully for me. And I will definitely try it again.
 
-Before you know it another two weeks have gone by and you're sitting in the mid Sprint check with the team looking at their big ticket items and asking for estimates on percentage progress. This mid Spring check and all the others that follow it start to give you important numbers three, four, five and six. That means that about 8 weeks in to a project that's in development you have all the numbers you need to really cause some trouble and potentially get yourself fired. Why? Because now you have the numbers to put together a burn up chart and burn up chart gives you some kind of indication when the project might actually finish.
+Before you know it another two weeks have gone by. You're sitting in the mid Sprint check with the team looking at their big ticket items and asking for estimates on percentage progress. This mid-sprint check and all the others that follow it start to give you important numbers three, four, five and six. So, 8 weeks into a software development project you have all the numbers you need to really cause some trouble.
+
+You could even get yourself fired. Why? Because now you have the numbers to put together a burn up chart and burn up chart gives you some kind of indication when the project might actually finish.
 
 And guess what? The news is never good. the news is never "Oh look!" We're going to have this finished in about half the time! 
 
-After three or four sprints 6 to 8 weeks you have a pretty good idea of how much work there is relative to any deadline and how quickly the team are getting through the work of course the first reaction of product owners and stakeholders will be denial the second will be some kind of bargaining actually this normally takes the form of some kind of bad arithmetic kind of denial
+After three or four sprints 6 to 8 weeks you have a pretty good idea of how much work there is and how quickly the team are getting through it. Of courese, the first reaction of product owners and stakeholders will be denial. The second will be some kind of bargaining actually this normally takes the form of some kind of bad arithmetic.
 
-"Yes, but if you add all these numbers together divide them by this and then take away the number you first thought of adding in the *special Mayan number for fate and good luck* then we will get everything done on time."
+"Yes, but if you add all these numbers together divide them by this you get X. Then take away the number you first thought and add in the *special Mayan number for fate and good luck* you get Y. And Y is the number that shows we'll get everything done on time."
 
-The more eagle eyed amongst you will realise that what's happening here is that we're walking through the five stages of grief denial, bargaining, anger, depression and acceptance.
+The more eagle eyed amongst you will realise that what's happening here is that we're walking through the five stages of grief: denial, bargaining, anger, depression and acceptance.
 
-In my experience the bargaining stage is where people say the maddest stuff and I used to argue with them when people said things like "we're still going to be able to deliver for the deadline all we have to do is work twice as fast." I used to argue with them when they said things like, "I talked to this crazy person on the street, and they said that this project would probably deliver on time and that you don't know what you're talking about," or "my nephew put up a website in a weekend I don't see why this is any different."
+In my experience the bargaining stage is where people say the maddest stuff. I used to argue with them. When they said, "we're still going to be able to deliver for the deadline. All we have to do is work twice as fast." I used to argue with them. When they said, "I talked to this crazy person on the street. They said that this project is easy. They said you don't know what you're talking about," or "my nephew put up a website in a weekend I don't see why this is any different."
 
-Now what I do, is I just keep counting. Another two weeks you have another data point. You put that on your chart it will be even clearer than it was before that you have twice, three times, four times - the worst I've seen is seven times -  more work you can deliver in the time required.
+Now what I do, is I just keep counting. Another two weeks you have another data point. You put that on your chart things will become clearer. Now it's obvious. You have twice, three times, four times - the worst I've seen is seven times -  more work you can deliver in the time required.
 
 And that's when the anger will come in. Why are you being so negative? Why didn't you tell me about this before? "I thought I'd hired professional people who knew what they were doing. Clearly if this is going to take twice as long as I want it to you can't possibly know what you're doing."
 
@@ -1539,33 +1541,33 @@ There might also at this point be an attempt to change the way that you count th
 
 It was a long time after my first attempt at this manoeuvre that I read "Never Split the Difference," by Chris Voss.
 
-Now having read that I realised what I'm trying to do is show the product owner and the senior stakeholders a realistic picture of the project and then ask them an open question. 
+Now having read that, I realised what I'm trying to do. I'm trying to show the product owner and the senior stakeholders a realistic picture of the project. Then I'm asking them an open question.
 
 What do you want us to do?
 
 The difficult bit of this is dealing with the answers that come back that won't work.
 
-Denial? 
+So we often start with denial. 
 
 "I don't see what the problem is, if only you and your team could be more positive about this, I'm sure you could manage to deliver things on time."
 
-Anger? 
+Then we get anger.
 
 "I thought I'd hired a professional team? But clearly it looks like you're not up to the job."
 
-Bargaining?
+Then we get some sort of bargaining. Often at first it's a bit ineffective.
 
-But this project over here delivered on time, and it's a bit like our project, so ours should also be able to deliver on time.
+If we let you have some help from our new intern, do you thinkk that would speed things up?
 
-Depression?
+It may not sound like it, but depression is a sign of progress.
 
-OK. What do we do?
+I am totally regretting this project. This is the worst project I've ever worked on. OK. What do we do?
 
-Acceptance.
+And then finally. Finally, we get to acceptance.
 
 We can probably do without feature G at launch if we know that it's going to be coming very quickly afterwards. And we only need a tiny bit of feature C. If we just had these bits of feature D and feature E, we could probably manage with the old system for just a bit longer.
 
-That's the dream kind of acceptance.
+OK, that's the dream kind of acceptance.
 
 What really happens is that it often comes (as I'm sure is also the case with grief about other, more important aspects of life).  Is that the acceptance stage, if it comes at all, comes mixed up with anger, bargain, denial and depression.
 
@@ -1580,9 +1582,9 @@ The idea of the definition of ready is that it's a checklist of things that need
 
 Trouble is, I don't have a degree in computer science, I have a degree in philosophy. Philosophers start with Plato. There are others before him, like there are other rock and roll singers before Elvis, but you get the idea. The problem is that when you read Plato, you get to see the trouble that he gets himself into trying to think about very basic ideas like "truth" and "justice." A lot of that trouble comes from trying to solve the problem by coming up with definitions.
 
-The too long, didn't read version of the entire philosophical career of Socrates (Plato's ventriloquist's dummy)? You set out to figure out what "good" was? You thought you were making some progress when you managed to convince yourself that nothing around was real and that the real world was made of things that you couldn't see. You ended up killing yourself by drinking Hemlock? This doesn't sound like a great strategy. 
+Here's the too long, didn't read version of the entire philosophical career of Socrates (Plato's ventriloquist's dummy). You set out to figure out what "good" was. You thought you were making some progress. You managed to convince yourself that nothing around was real. The real world was made of things that you couldn't see. You ended up killing yourself by drinking Hemlock. This doesn't sound like a great strategy. 
 
-So, I'm fine with a definition of ready. I just don't want it to be written down. I want it to emerge through practice (for anyone interested, this is a Wittgensteinian approach rather than a Platonic one). 
+So, I'm fine with a definition of ready. I just don't want it to be written down. Or if it is, I want the word draft written across it and I want to revisit regularly. I want it to emerge through practice. For anyone interested, this is a Wittgensteinian approach rather than a Platonic one. 
 
 I mean, I'm not going to forbid anybody from writing things down. But if the team notice that they don't have anything to plan.  And the reson for this is because none of the items in the backlog are "ready". According to the definition at least. I might suggest they don't focus so much on the definition of ready. Rather they just have a chat about the things that are most ready. What would need to happen to them for them to be ready? 
 And so you might have already figured out what I'm going to say about "definition of done"? Something very similar. 
@@ -1674,7 +1676,7 @@ Oof. This is a bit of a confession. This has often bothered me. I'm sure that th
 
 And here's the mistake that I've made repeatedly. I've used bad news as a way of trying to lower the status of the client. And let's just think about this in doctor or lawyer terms. Do you think that that would work? Of course, it doesn't work. It's a disaster. It makes the entire discussion about the client reasserting their authority. 
 
-What's the solution? Never use how bad things are as a way of elevating your status. It will depend on the boss and the circumstances, what status they will tolerate from you. Some bosses very definitely want staff, all the time, they never relax. Some bosses want near-colleagues. It will take some experimentation to know exactly where the right point is with any given boss. What's always going to be difficult if you're a project manager and you're doing the job right is the right point for doing good things for the project is different from the "safe" point. Which is forlock tugging and just doing as you're told. That's the same as mopping the deck. It's the same safe-feeling but actually dangerous behaviour that we talked about when we talked about agreed activity.
+What's the solution? Never use how bad things are as a way of elevating your status. It will depend on the boss and the circumstances, what status they will tolerate from you. Some bosses very definitely want staff, all the time, they never relax. Some bosses want their staff to be almost like equals. It will take some experimentation to know exactly where the right point is with any given boss. What's always going to be difficult if you're a project manager and you're doing the job right is this. The right point for doing good things for the project is different from the "safe" point. Which is forlock tugging and just doing as you're told. That's the same as mopping the deck. It's the same safe-feeling but actually dangerous behaviour that we talked about when we talked about agreed activity.
 
 ## Timing
 I'm in the timing business. Delivering things on time. That's what I do. Right? Well. Right and wrong. Just because I'm in the timing business, doesn't mean that I can force my timings on the bosses. To force my timings on the bosses will always be seen by them as an attempt to lower their status. 
@@ -1696,7 +1698,7 @@ So how can we possibly deal with this? This is the fundamental problem. This is 
 
 We need to have honest conversations with our bosses. We don't ever want to tell an armed man something that will make him fire his gun. 
 
-OK. Let me tell you something that I know have worked and then I'll tell you some things that I *think* might work, although I haven't yet exactly figured out how to apply them in, what you'll see, is a slightly different context. 
+OK. Let me tell you something that I know have worked. Then I'll tell you some things that I *think* might work. Even though, I haven't yet exactly figured out how to apply them in, what you'll see, is a slightly different context. 
 
 OK. What works?
 
@@ -1706,13 +1708,13 @@ OK, here's the situation. I was working on a project, it was a big project for a
 
 When we started the project, I don't remember that it had a deadline. Actually, that's not true, it did have a deadline, but it was a deadline that was so ridiculous that nobody took it seriously. We were going to have to build an entirely new system to manage a very complicated licensing function for a government department. The initial deadline (I mean how did anybody keep a straight face?) Was seven months. This was obviously impossible. But the contract with the current supplier was running out and ideally, for the organisation, they would have loved to stop at that point. But still, it was impossible. the fact that it got mentioned at all tells you how powerful organisational imperatives can be, even if they are completely at odds with reality.
 
-Then, probably not without discussion, but without any discussion that I was party to, the deadline suddenly became the old deadline plus 12 months. There was a solid organisational reason for this. The old contract could be extended for 12 months in a relatively straight forward way. But then a new contract would have to negotiated with the old suppliers, and the old suppliers, naturally quite miffed that they hadn't won the new contract, were making noises about having to commission new hardware and upgrade various things. They were making expensive noises. 
+Then the deadline suddenly became the old deadline plus 12 months. I wasn't part of any discussion around this. And there was a solid organisational reason for it. The old contract could be extended for 12 months in a relatively straight forward way. But after that, a new contract would have to be negotiated with the old suppliers. And the outgoing suppliers weren't happy that they hadn't won the new contract. They were making expensive noises regarding keeping the old system running beyond the 12 month extension.
 
 So, it totally made sense for that to be the deadline. 
 
 There was just one problem. It was a big problem. To turn the old system off, we needed to be able to turn the new system on. The new system needed to be able to do enough of what the old system did, to allow us to do that. Which means the new system had to already be running and have been tested with some users. This was a licensing system. There licences were licences that granted to the owners permission to do highly controversial things. It needed to be very secure. We had to be confident of this. But we also had to persuade security people inside government of this. 
 
-When I first heard about this new deadline and started to realise that it was truly immoveable, I was thinking of all the things that we'd have to do before we got to the point where we could turn our system on and turn the old one off. But I was also thinking of something else. I was thinking that we couldn't possibly do all the things that we had talked about doing before the deadline. I was also thinking something else. At that point we didn't even have basic working system for doing the thing that the thing was supposed to do. Rather we'd been concentrating on seeing the world through the second metaphor that I've talked about above "exploring the swamp." We'd done lots of user research, we'd developed a good rapport with most of our users. But we'd done nothing to limit the scope of what we were going to do relative to what we'd found out that our users wanted us to do. 
+When I heard about this new deadline, I realised that it was probably very difficult to move. I was though of all the things that we'd have to do before we got to the point where we could turn the new system on and turn the old one off. But I was also thought of something else. We couldn't possibly do all the things that we had talked about doing before the deadline. At that point we didn't even have basic working system for doing the main thing - form submission - that the system was supposed to do. Rather we'd been concentrating on seeing the world through the second metaphor that I've talked about above "exploring the swamp." We'd done lots of user research, we'd developed a good rapport with most of our users. But we'd done almost nothing to limit the scope of what we were going to do relative to what we'd found out that our users wanted us to do. 
 
 As soon as I heard the deadline, I knew that we'd have to do all three of these things, and we'd have to do them relatively quickly.
 
@@ -2009,6 +2011,9 @@ Which circle are you living in most? As an individual? As a team?
 
 Theory of constraints (Goldblatt, et al.)
 Is there a bottleneck? How could the bottle neck be managed?
+
+Emotional Labour - part of the the work of a project manager is in dealing with other people's emotions. 
+Arlie Russell Hochschild
 
 ## References
 
