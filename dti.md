@@ -2010,7 +2010,7 @@ Inspection
  Adaptation
 
 Some and all
-Same and different
+Same and different - Ignacio Matte Blanco
 
 What problem are you solving? What is it? Taiichi Ohho.
 
@@ -2026,6 +2026,10 @@ Arlie Russell Hochschild
 Hungry crowd - Gary Halbert
 Childish Thinking - Marion Milner
 Wanton go for it - Richard Bandler
+Bullshit - Harry G Franfurt
+The Hiding Hand 
+The Fata Morgana - Albert O. Hirschman
+On the evolutionary function of sociopaths or Sooner or later, someone needs to say "fuck it."
 
 ## References
 
