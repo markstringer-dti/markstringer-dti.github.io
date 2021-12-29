@@ -1726,13 +1726,13 @@ When I heard about this new deadline, I realised that it was probably very diffi
 As soon as I heard the deadline, I knew that we'd have to do all three of these things, and we'd have to do them relatively quickly.
 
 
-1. Put together a release plan, which showed the dependencies between security certifications and testing. 
+1. We needed to put together a release plan. It needed to show the dependencies between the security certifications and the testing we had to carry out. 
 
 2. Come up with a strategy for limiting the scope of what we agreed to deliver so that we had reasonable confidence that we could deliver it in time.
 
 3. At the same time, sooner rather than later, put together a piece of skeleton working software that did the very least that the system was supposed to do. 
 
-I was really worried. My rough guess was that we had probably 2-3 times as much work that we'd identified, compared to what could be delivered in the time. But that wasn't the worst thing. The worst thing was that we didn't really have any strategy for reducing that scope, or for not just carrying on collecting it and letting it get bigger and bigger.
+I was really worried. My rough guess was that we had probably 2-3 times as much work that we'd identified, compared to what could be delivered in the time. But that wasn't the worst thing. The worst thing was that we didn't have a strategy for reducing scope. We didn't have any way of stoppying, from continuously adding scope and letting it get bigger and bigger.
 
 ### Understanding the status impact of bad news and Humbly asking open questions
 
@@ -1742,7 +1742,7 @@ So I decided to run some one on one improvisation sessions with actors to try to
 
 These are my immediate impressions coming out of my first session with Hans.
 
-1. Definite bad news is easier to deliver than just hunches - this is a problem, because, instinctively, I think that identifying problems when they've just cropped up on the very edge of the radar is probably the most valuable time. 
+1. Definite bad news is easier to deliver than hunches. This is a problem, because identifying problems when they've just cropped up, on the very edge of the radar, is probably the most valuable time. 
 
 2. It might be a problem finding naturally high status people to improvise with. This is just a sample of one, but he was naturally low status (at the end of the call, he even said that it was OK if I didn't pay him). 
 
@@ -1765,7 +1765,7 @@ Your team don't seem to be working hard enough, they don't looks worried or stre
 
 4. Asking open questions.
 
-According to the guy who wrote "Never Split the Difference" the secret to negotiating with kidnappers (and that's what the bosses in this kind of project are) is to ask them open questions. 
+According to the guy who wrote "Never Split the Difference" the secret to negotiating with kidnappers is to ask them open questions. The bosses in these kinds of situations are sort of like kidnappers.
 
 I was doing this today. But I think there important differences between three different versions of the same questions.
 
@@ -1784,7 +1784,7 @@ What you're trying to do, this is what you *should* be trying to do, is to get t
 
 So do you need to resist this "wanting to be smooth" feeling? Do you need to let your boss find some way to get a hold over you? Maybe. Maybe.
 
-As I'm writing this, I'm wondering about the time that somebody suggested that a member of my team was committing fraud (they thought he wasn't working full hours, when in fact, he was turning up early and leaving early and this had been agreed). 
+I'm wondering about the time that somebody suggested that a member of my team was committing fraud. They thought he wasn't working full hours, when in fact, he was turning up early and leaving early and this had been agreed. 
 
 What possible responses were there to this accusation?
 
