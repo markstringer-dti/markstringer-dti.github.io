@@ -5,7 +5,7 @@
 \maketitle
 \thispagestyle{empty}
 \newpage
-
+﻿
 ## Chapter 1 - Introduction
 
 6 Big
@@ -26,13 +26,15 @@ Even though you think the project is impossible, you haven't given up. And it's 
 
 Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done, given the right skills and expertise. You know this from other parts of your life. That it's not a good idea to give up immediately when things get difficult. Often things do get better if you persist. 
 
-You also know, from other problems that you've solved in your life, that often a solution comes from seeing things in a different way. From looking at the problem from a different angle. If you can only change your point of view, things can improve dramatically. If you look at things in the right way,  they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be a success.
+You also know, from other problems that you've solved in your life, that often a solution comes from seeing things in a different way. From looking at the problem from a different angle. If you can only change your point of view, things can improve dramatically. If you look at things in the right way, they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be a success.
+
+So, you might expect a book called "Delivering the Impossible" to have a bunch of different ways of looking at problem projects, even the ones that seem totally impossible.  
 
 What you would like and expect from a book titled "Delivering the Impossible" is some kind of guide.  You'd expect some kind of handbook for dealing with projects that seem impossible.
 
 You might expect to find methods for spotting issues that make a project "impossible".  You might then expect the book to go on to talk about what to do in these situations. How to make a project reasonable and deliverable and give it the best chance of success. 
 
-What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. It should tell you how to keep yourself and others safe. How to get away from a lost cause and move on to do well on other projects. How to ride into the sunset to fight another day.
+What if a project is genuinely impossible? A book called "delivering the impossible" should tell you how to spot it. And it should give advice on what to do in such circumstances. It should tell you how to keep yourself and others sane and safe. How to get away from a lost cause and move on to do well on other projects. How to ride into the sunset to fight another day.
 
 Well, this is that book. And it tries to meet all these expectations. This is especially that book if what you do involves the development of software.
 
@@ -41,7 +43,7 @@ If you read this book, you'll learn how to improve your  management of impossibl
 ### Why This?
 What might be a shortened version of why you picked up this book? Because you're involved in a project and you don't know what you're doing. On the whole, in your life and your work, you would really like to feel that you *do* know what you're doing.
 
-My experience is that knowing what you're doing isn't that different from having no idea what you're doing. You're doing very similar, simple things, but being guided by the right metaphors. And that's why this book is subtitled "seven metaphors for software development." Metaphors are different ways of seeing things. What I'm mainly going to do in this book is talk about different ways of seeing project management. 
+My experience is that knowing what you're doing isn't that different from having no idea what you're doing. You're doing very similar, simple things, but being guided by the right metaphors. And that's why this book is subtitled X big and Y small ideas. Doing the right this is literally about having the right idea.
 
 The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. In this book I try to show the reader several different points of view. I talk about different ways of seeing project management. I talk about different ways of seeing, and thinking about, managing software development. 
 
@@ -53,11 +55,11 @@ I want to be clear here. I'm not in any way knocking those books. Some of those 
 
 Following an Agile method like Scrum is a good way of improving your chances of project success. It's what I almost always do if I'm in charge of delivering a software development project.
 
-And Scrum works best when it's combined with XP engineering practices.
+And Scrum works best when it's combined with XP engineering practices. Some form of automated test coverage, continuous integration and continuous delivery.
 
 If you haven't done this before as a team, you are going to need some outside help.  Agile coaching from somebody who has done it before will improve your chances of success.
 
-But unfortunately, this isn't enough. You need to do more than this if your project has any realistic chance of doing well. You need to see things from different points of view. 
+But unfortunately, this *still* isn't enough. You need to do more than this if your project has any realistic chance of doing well. You need to see things from different points of view. 
 
 For example, in this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. These are issues that, if they aren't dealt with, will sink your project. 
 
@@ -65,13 +67,13 @@ Pushing this water-based metaphor, I talk about how you need to stop your team m
 
 Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although still not impossible, to help your project do well.
 
-Why do you need to show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some good from using it as soon as you can? 
+Why do you need to show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some value from using it as soon as you can? 
 
-I explain this using the metaphor of flowers and fruit. Flowers appeal to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But it feeds people.
+I explain this using the Daoist idea of flowers and fruit. Flowers appeal to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But it feeds people.
 
-Maybe you're thinking:"My software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about metaphors." 
+Maybe you're thinking: "My software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about metaphors." 
 
-But this book provides its readers with something, solid, nutritious, and sustaining. It sets out seven ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, a lot of things that previously seemed impossible can seem a lot less so.
+But this book provides its readers with something, solid, nutritious, and sustaining. It sets out a number of ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, once you have the right idea, a lot of things that previously seemed impossible can seem a lot less so.
 
 ### Why now?
 Well, another way of thinking about this is – "Why not *then*?" Why haven't we found better ways to think about software development since the start?
@@ -80,17 +82,17 @@ We've needed better ways of thinking about software projects since the 40's. The
 
 I remember listening to an explanation of a "Waterfall" approach to project management. This was the mid nineteen nineties. I remember thinking "this will never work." And I soon saw that it didn't.
 
-In my first two years as a software developer I worked on two projects. One was for a big oil company. One  was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
+In my first two years as a software developer, I worked on two projects. One was for a big oil company. One was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
 
 Stage one: all the requirements for the project were carefully written down. So, at the end of this stage we had a huge requirements document. 
 
-Stage two: we turned these requirements into a design.  First we produced a high level design. Then we wrote a detailed design. 
+Stage two: we turned these requirements into a design.  First, we produced a high-level design. Then we wrote a detailed design. 
 
-After these stages, which might take months, we started to write software.  Again, that might take months or even years. Then came separate stages of first internal and then testing by the customer. Then and only then did the software go live.
+After these stages, which might take months, we started to write software.  Again, that might take months or even years. Then came separate stages of first internal and then external testing by the customer. Then and only then did the software go live.
 
-Unfortunately, both of the first two projects that I worked on went through an extra stage between testing with users and launch. What was that extra stage? It was litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was probably for a whole lot of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification document hadn't captured what the users wanted. It's also possible the users weren't capable of saying in one single document, exactly what it was that they wanted. What the users had asked for had gone through several stages of work. The systems designers and developers had done their bit. That had been followed by  internal testers and then finally testers working for the customer. By the time that it had got to the end of that pipe, it's not surprising that things had gone a bit wrong. But also, of course, it's possible that what the users wanted had changed.
+Unfortunately, the first two projects that I worked on went through an extra stage between testing with users and launch. What was that extra stage? It was litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was for a lot of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification document hadn't captured what the users wanted. They'd had two years to think about it and they'd changed their minds. It's also possible the users couldn't describe exactly what they wanted. At least not in one single document, what it was that they wanted. What the users had asked for had gone through several stages of work. The systems designers and developers had done their bit. That had been followed by internal testers and then finally testers working for the customer. By the time that it had got to the end of that pipe, it's not surprising that things had gone a bit wrong. But also, of course, it's possible that what the users wanted had changed.
 
-There was one intriguing thing, that I only noticed about those first few projects later on. When the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The projects would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that a bit of the software could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
+There was one intriguing thing. Something that I only noticed about those first few later. When the customers finally saw the software, decided it wasn't what they wanted and threatened to sue, something interesting happened. The projects would call in a guy whose entire job was to rescue projects that got themselves into this state. He would sit down with the customers and find out which bit of the software was most important to them. Which bit did they *really* need most? He would then negotiate some room for manoeuvre. A bit of time and a bit of money from the client so that a bit of the software that was really valuable could get built. And bit by bit, the software would start to resemble what the client really wanted. At some point it would become valuable enough to them that they would drop the threat of a lawsuit. 
 
 And what those guys were doing, well it kind of sounds like iterative, Agile software development.
 
@@ -98,13 +100,13 @@ So, one answer to the question - "Why now?" Is "Well, why not ages ago?"
 
 We could and should have been doing this right from the beginning. And in the most extreme circumstances after a lot of time and expense, under threat of legal action, we kind of were.
 
-So, seventy five years ago, it would have been great for us to really get the hang of delivering software projects. Still, better late than never. Because being good at writing software has never been a more important competitive advantage. Being good at doing it in a timely manner has never been more valuable. Being good at putting software that people want to use in the hands of users, has become a way of, literally, conquering the world.
+So, seventy-five years ago, it would have been great for us to really get the hang of delivering software projects. Still, better late than never. Because being good at writing software has never been a more important competitive advantage. Being good at doing it in a timely manner has never been more valuable. Being good at putting software that people want to use in the hands of users, has become a way of, literally, conquering the world.
 
-As Marc Andreessen pointed out more than ten years ago, software is eating everything. Since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some companies are really good at developing software - Amazon, Facebook, Google, Alibaba. And some of those companies are now more powerful than some governments.
+As Marc Andreessen pointed out more than ten years ago, software is eating everything. Since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some companies are good at developing software - Amazon, Facebook, Google, Alibaba. And some of those companies are now more powerful than some governments.
 
 So, if you're interested in being good at something, or world domination, getting good at developing and delivering software is worth a look.
 
-But ironically, the craft of managing software delivery doesn't seem to be so susceptible to being eaten by software.
+But ironically, the craft of managing software delivery doesn't seem to be so susceptible to being eaten by software. It remains a resolutely human pursuit.
 
 ### Why me?
 So why should you listen to me? Well, I've been working in the software development industry since 1994. First as a developer, writing software for oil companies, the military and then a new-fangled thing called the internet. Then I worked as a researcher, first for Xerox, then for Cambridge University. 
@@ -1981,26 +1983,36 @@ It's things like this that are keeping me going at the moment. That and an idea 
 
 ## Chapter 16 - Conclusion
 
-So in the end all of these different ideas boil down to a series of questions. Questions that you can ask yourself.  Questions that the team can ask itself. Questions that you could even possibly talk through with the client, if you have a close enough relationship.
+So, this book has discussed a lot of different ideas. A lot of different ways of looking at the world and specifically a lot of different ways of looking at projects. And, in the end, all of these different ideas boil down to a series of questions. Questions that you can ask yourself.  Questions that the team can ask itself. Questions that you could even possibly talk through with the client, if you have a close enough relationship. And the answers to these questions are mostly definite actions that can be taken to increase the chance of delivering your project.
 
-For example:
+The idea: what you see is all there is which we get from Daniel Kahneman.
 
-What you see is all there is - Daniel Kahneman.
-If in terms of thinking what you see is all there is how can you change what people see how would that change thinking what aren't you showing that's important.
+Imagine a woman being sawn in half. You see her head. You see feet. You see the casket being split into two separate parts.
+
+If what you see is *really* all there is, what do you do if you want to change what people think? You probably have to change what they see. And so, the question that comes out of this way of seeing that suggests a potential course of action is what can we change that people see, so that their behaviour also changes?
+
+In my own account, of "Fried Egg Agile," I've talked about how I've used burn-up charts to help to deliver several projects on time.
+ 
+Imagine that rather than looking at your team, you're looking at that team over there. This isn't a team that you're connected with. This is a team that you don't have any stake in. You don't desperately want them to do well. 
+How are *that* team going to do? Are they going to do well? What problems might that team have?
 
 Also from Daniel Kahneman, the planning fallacy and associate with the planning fallacy, the inside view and the outside view.
 
 In terms of Triz:
 
-Which of the problems that you're trying to solve are in fact insoluble? The simply aren't the kind of problems that can be solve, they are trade-offs that need to managed. If there are trade-offs how do you provide a sweet spot? If there is a situation in which you both need something and don't need it? How could you go about doing that? Are you doing it already (like have a "servant leader" as the manager of the team).
+Which of the problems that you're trying to solve are in fact insoluble? The simply aren't the kind of problems that can be solved, they are trade-offs that need to *managed*. If they are trade-offs, how do you find a sweet spot? 
+
+
+Are there any parts of the process which require something to both exist and not exist? Is this an opportunity for invention?
+If there is a situation in which you both need something and don't need it? How could you go about doing that? Are you doing it already (like have a "servant leader" as the manager of the team).
 
 This is really both the ideas of Keith Johnston and the "SNAFU problem" as stated by Robert Anton Wilson. Everything is a status transaction.
 
 In terms of Status how is what the problem that you're trying to solve being affected by issues of Status? Are you trying to push / change the timings of your clients? Are you trying to make them do things that they don't want to do? What ways of approaching this problem are there that makes status less of a problem?
 
-Looking at this through the ideas of John Boyd: are you being asked to speed up quicker than you possibly can? Are you being asked to run a top speed that will always be beyond the speed of the team? Are you actually been asked to slow down and you don't want to? These are ideas connected t Boyd's energy maneuverability Theory.
+Looking at this through the ideas of John Boyd: are you being asked to speed up quicker than you possibly can? Are you being asked to run a top speed that will always be beyond the capacity of the team? Are you actually been asked to slow down and you don't want to? These are ideas connected to Boyd's Energy Manoeuvrability Theory. What's important about an aircraft, especially a fighter plane, isn't its top speed, but it's manoeuvrability. How quickly it can speed up, how quickly it can slow down and, as well as its top speed, what the lowest speed is that it can run at and still be manoeuvrable.
 
-What are you observing that's weird or unexpected on the project? How does it change our thinking? How does it change our decisions how does it change how we act?
+Another of Boyd's ideas is the OODA loop, which one of many versions of the ideas discussed in the "Car driving" three pillars of the empirical process. What are you observing that's weird or unexpected on the project? How does it change our thinking? How does it change our decisions how does it change how we act?
 
 In terms of cynefin framework. Where are we?  Are we in a chaotic situation? Are we in a complex situation? Where does the client think we are? Where are we being pushed? Are we being pushed from a complex situation into a chaotic situation? Are we being pushed into disorder? Are we already in disorder? How do we get out of disorder? What small steps can we make to take us to somewhere where we know where we are?
 
@@ -2026,10 +2038,11 @@ Arlie Russell Hochschild
 Hungry crowd - Gary Halbert
 Childish Thinking - Marion Milner
 Wanton go for it - Richard Bandler
-Bullshit - Harry G Franfurt
+Bullshit - Harry G Frankfurt
 The Hiding Hand 
 The Fata Morgana - Albert O. Hirschman
 On the evolutionary function of sociopaths or Sooner or later, someone needs to say "fuck it."
+
 
 ## References
 
