@@ -150,7 +150,14 @@ In chapter 2 you would read about the pirate ship and the dangers of avoiding it
 
 And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
 
+### A Manifesto
+To get to the point where you're reasonably confident that you can deliver in the impossible. That's going to be a long trip. And on that way, you probably need a reliable guide. That's what I'm going to try to be. So to help keep myself straight, and to reassure you somewhat. 
 
+So here's my manifesto.
+
+1. Try to tell the truth.
+2. Don't over promise.
+3. Admit that you don't know it all.
 
 ## Chapter 2 - Ignoring the Pirate Ship - Agreed activity
 
@@ -1997,6 +2004,7 @@ What are you observing that's weird or unexpected on the project? How does it ch
 
 In terms of cynefin framework. Where are we?  Are we in a chaotic situation? Are we in a complex situation? Where does the client think we are? Where are we being pushed? Are we being pushed from a complex situation into a chaotic situation? Are we being pushed into disorder? Are we already in disorder? How do we get out of disorder? What small steps can we make to take us to somewhere where we know where we are?
 
+Driving the car:
 Transparency
 Inspection
  Adaptation
@@ -2004,7 +2012,7 @@ Inspection
 Some and all
 Same and different
 
-What problem are you solving? What is it?
+What problem are you solving? What is it? Taiichi Ohho.
 
 Patsy Rodenberg's idea of first, second and third circle.
 Which circle are you living in most? As an individual? As a team?
@@ -2014,6 +2022,10 @@ Is there a bottleneck? How could the bottle neck be managed?
 
 Emotional Labour - part of the the work of a project manager is in dealing with other people's emotions. 
 Arlie Russell Hochschild
+
+Hungry crowd - Gary Halbert
+Childish Thinking - Marion Milner
+Wanton go for it - Richard Bandler
 
 ## References
 
