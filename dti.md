@@ -8,19 +8,27 @@
 ﻿
 ## Chapter 1 - Introduction
 
-6 Big
 
-And 16 small ideas.
+N big and small ideas to help you success with your software development project.
 
-The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So you might ask yourself, "Why on earth did I pick up this book? It has a contradiction, an impossibility, right on the front cover." 
+The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So why did you pick up this book that has a contradiction right on the front cover. 
 
-Here are some reasons why you might have picked up this book. 
+Here are some reasons why you might.
 
-How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone told someone that the project would be finished by a certain date. You know that your team can't deliver it. Or maybe you still don't know what needs to be delivered. Or you do know what should be delivered, but you're certain that your team can't deliver it on time.
+How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone told someone that the project would be finished by a certain date (probably Christmas). Instinctively, you know that your team can't deliver it. Maybe it's worse than that, maybe you still don't even know what needs to be delivered. Even if you do know what should be delivered, you're certain that your team can't deliver it on time.
 
 In every direction, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
 
-Maybe it isn't that. Maybe it's this. You have a group of people working on a project for you. You've got this uncomfortable feeling that the project isn't going well.  For the sake of the company or for the sake of your career, or both, you need this project to go well. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project do better, do well even?
+Maybe it's that. You're the project manager. But maybe it's this, you're the project *owner*. This is your baby. This is the project that you have finally persuaded the board to fund that could be your ticket to the big time and success. You have a great group of people working on a project for you. They're burning through the budget nicely. 
+
+But you've got this uncomfortable feeling that the project isn't going well.  And for the sake of the company or for the sake of your career, you need this project to go well. You realise, you don't know what you can do to help the project succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project do better?
+
+[Maybe a section here about team members]
+
+
+[This is a non-sequitor, the purpose of this next section is to show that if you see things differently, you do different things, if you do different things, you get different results]
+
+[Then pick up about this book having "Impossible" in the title]
 
 Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been killed? Why would anybody carry on with it? 
 
