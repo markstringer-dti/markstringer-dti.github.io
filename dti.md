@@ -452,7 +452,7 @@ What we've established from the beginning of this chapter is that if you don't t
 
 If we all wait until we aren't scared to start tackling the pirate ship, the pirates will already have boarded and we'll be walking the plank. If we're working on the team, or if we're managing the team, we need to act, even when we're afraid. 
 
-Timothy R Clark draws this valuable distinction. Social friction is going to happen - arguments, fall outs - going to happen. But too much is bad for a team. It's better if the team gets along. Intellectual friction is also going to happen, and it's essential. In new situations, when dealing with new problems, we have to expect disagreements, we have to be comfortable with different points of view. Managing the psychological safety of a team is about allowing intellectual friction. At the same time we need to ease social friction.
+Timothy R Clark points out this importance difference. Social friction is going to happen - arguments, fall outs - going to happen. But too much is bad for a team. It's better if the team gets along. Intellectual friction is also going to happen, and it's essential. In new situations, when dealing with new problems, we have to expect disagreements, we have to be comfortable with different points of view. Managing the psychological safety of a team is about allowing intellectual friction. At the same time we need to ease social friction.
 
 But he also points out the importance of a trade off between cover and candour. If we're one of the bosses, it's our job to reward courage. What's courage, it's doing the right thing, in spite of our fears and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
 
@@ -557,7 +557,7 @@ What? OK. Here's what you do. And it can work on most projects.
 2. Give these things a score. A number showing how big they are relative to each other. 
 3. Start to track progress.
 4. Put this progress on a chart.
-5. Deal with the wailing gnashing of teeth. Deal with the personal attacks, threats, denial and backstabbing. Watch out for underhand manoeuvres. 
+5. Deal with the wailing gnashing of teeth. Deal with the personal attacks, threats, denial and back-stabbing. Watch out for underhand manoeuvres. 
 6. Some actual progress in the right direction.
 
 By doing this you're tapping into one of the fundamental ways in which people think. This is identified by the Nobel prize winning psychologist Daniel Kahneman in his book "Thinking fast and slow."  What's this way of thinking?
@@ -584,7 +584,7 @@ It's also important to understand that trench warfare was, at the time, an insol
 
 But one of the points made by Norman Dixon in his book "The psychology of military incompetence" is that this is unfair for two reasons. 
 
-Firstly, the selection process. This might not have been explicit, or  official.  But the process by which officers rose to the most senior ranks in the British Army was one that actively discouraged innovation. Initiative and a willingness to challenge to the status quo might be really useful in a wary. They're pretty dangerous qualities to encourage in the military in peacetime. The result was that the kind of people who were leading the British army were innovative, creative problem solvers. Indeed, they might have been exactly the opposite.
+Firstly, the selection process. This might not have been explicit, or  official.  But the process by which officers rose to the most senior ranks in the British Army was one that didn't think innovation was important. Initiative and a willingness to challenge to the status quo might be really useful in a wary. They're pretty dangerous qualities to encourage in the military in peacetime. The result was that the kind of people who were leading the British army were innovative, creative problem solvers. Indeed, they might have been exactly the opposite.
 
 Secondly, trench warfare was a hard problem.
 
@@ -661,7 +661,7 @@ Do enough research on your users and you end up with a "stakeholder map". Do eve
 
 ### Connections 
 
-"What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. They all seemed sceptical. 
+"What can a ten year old teach me?" I was sitting in an office in Athens, arguing with a Polish software developer in a room full of tech guys from all over Europe. None of them seemed convinced. 
 
 It was a European Union funded project. The first aim of the project was to design an application that used tangible user interfaces. These are interfaces that you can get hold of, pick up and move around. The second aim of the project was to use these interfaces to help school children construct discursive arguments. My organisation was doing the user research for the project. Iterative, user-centred design was in the title of the funding bid. Still, most of the software developers and search engine experts on the team were sceptical.  They didn't see the point of talking to users, especially since, in this case, our users were schoolchildren. But still, we did it.
 
@@ -1193,7 +1193,7 @@ In order to manage a project, you need transparency. When you achieve that trans
 
 What was bad about what he did was that he upset the bosses. He made them feel stupid in front of the whole team. And the result of that was that they made very sure that they didn't hear any news from him again. They appointed a "project manager" who never ever told them any bad news. Please note that this didn't mean that there was never any bad news. 
 
-What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what measures of actual progress meant for when the project would finish. Mr Two's outburst was a reaction against a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
+What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what measures of actual progress meant for when the project would finish. Mr Two's action was a reaction against a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
 
 #### What was good about what Mr Two did?
 
