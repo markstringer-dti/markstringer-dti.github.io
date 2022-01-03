@@ -11,30 +11,35 @@
 
 N big and small ideas to help you success with your software development project.
 
-The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So why did you pick up this book that has a contradiction right on the front cover. 
+The title of this book is "Delivering the impossible." But of course, you, or anyone, can only deliver possible things. So why did you pick up this book that has a contradiction right on the front cover, in its title? 
 
 Here are some reasons why you might.
 
-How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project is impossible. Someone told someone that the project would be finished by a certain date (probably Christmas). Instinctively, you know that your team can't deliver it. Maybe it's worse than that, maybe you still don't even know what needs to be delivered. Even if you do know what should be delivered, you're certain that your team can't deliver it on time.
+How about this? You are working on a project. You're a member of the project team or you're the manager, and you feel stuck. It seems like the project you've been asked to deliver is impossible. 
+
+You're not quite sure when this happened. But at some point, someone told someone that the project would be finished by a certain date (probably Christmas). Instinctively, you know that your team can't deliver it. 
+
+Maybe it's worse than that, maybe you still don't even know what needs to be delivered. People are telling you that the project needs to be finished by a certain date, but when you, or your team try to get a definitive answer of what finished would mean, you don't get the answers you need. 
+
+Even if you do know what should be delivered, you're certain that your team can't deliver it on time.
 
 In every direction, there seem to be problems that you can't solve. You have somehow found this book. You think it might be worth a read.
 
-Maybe it's that. You're the project manager. But maybe it's this, you're the project *owner*. This is your baby. This is the project that you have finally persuaded the board to fund that could be your ticket to the big time and success. You have a great group of people working on a project for you. They're burning through the budget nicely. 
+Yes, maybe it's that. You're the project manager. 
 
-But you've got this uncomfortable feeling that the project isn't going well.  And for the sake of the company or for the sake of your career, you need this project to go well. You realise, you don't know what you can do to help the project succeed. You wonder if there any useful tips in this book that you can pass on. Is there anything that *you* could do to help the project do better?
+But maybe it's this, you're the project *owner*. This is your baby. This is the project that you have finally persuaded the board to fund that could be your ticket to the big time and success. You have a great group of people working on a project for you. But they're burning through the budget at a terrifying rate and they're asking a lot of questions that you find it difficult to answer. 
 
-[Maybe a section here about team members]
+You're starting to get this uncomfortable feeling that the project isn't going well.  And for the sake of the company, well, that and the sake of your career, you need this project to go well. You realise, you don't know what you can do to help the project succeed. You wonder if there any useful tips in this book, for you, or for your team. Is there anything that *you* could do to help the project do better?
 
+Maybe you're working on a project, but you aren't any kind of boss. Maybe you're one of the people who does the work. Yes, yes, you know you're going to get paid no matter whether the project is a success or not. But maybe, you don't know where this preference comes from, you'd rather work on projects that were a success.  
 
-[This is a non-sequitor, the purpose of this next section is to show that if you see things differently, you do different things, if you do different things, you get different results]
+So, let's get right to it. How do you deliver a project that is impossible? The quick answer is that you look at it from a different point of view, you find a way of seeing it, that makes it so that it isn't impossible.
 
-[Then pick up about this book having "Impossible" in the title]
+Of course, that's another reason why you might have picked up this book. Even though you think your project is impossible, you haven't given up. 
 
-Even though you think the project is impossible, you haven't given up. And it's worth asking yourself why? If the project seems so impossible, why hasn't it been killed? Why would anybody carry on with it? 
+Well, part of the reason for not giving up is that you know that a lot of things that seem impossible do actually get fixed, given the right skills and expertise. You know this from other parts of your life. That it's not a good idea to give up immediately when things get difficult. Often things do get better if you persist. If you look at then from a different angle, if you see them through a different lens, suddenly things that seemed impossibly start to click into place. 
 
-Well, part of the reason is your inherent optimism. You know that a lot of things that seem impossible can be done, given the right skills and expertise. You know this from other parts of your life. That it's not a good idea to give up immediately when things get difficult. Often things do get better if you persist. 
-
-You also know, from other problems that you've solved in your life, that often a solution comes from seeing things in a different way. From looking at the problem from a different angle. If you can only change your point of view, things can improve dramatically. If you look at things in the right way, they get easier to solve. If you do the right things at the right time, things that used to seem impossible can turn out to be a success.
+The software pioneer Alan Kay said, "Point of view is worth 80 IQ points." If you can only figure out the right way to look at something, you can do much cleverer things. This book shows the reader a number of different ways of looking at the problem of project management.
 
 So, you might expect a book called "Delivering the Impossible" to have a bunch of different ways of looking at problem projects, even the ones that seem totally impossible.  
 
@@ -51,44 +56,45 @@ If you read this book, you'll learn how to improve your  management of impossibl
 ### Why This?
 What might be a shortened version of why you picked up this book? Because you're involved in a project and you don't know what you're doing. On the whole, in your life and your work, you would really like to feel that you *do* know what you're doing.
 
-My experience is that knowing what you're doing isn't that different from having no idea what you're doing. You're doing very similar, simple things, but being guided by the right metaphors. And that's why this book is subtitled X big and Y small ideas. Doing the right this is literally about having the right idea.
-
-The software pioneer Alan Kay is often quoted as saying "Point of view is worth 80 IQ points." Which I take to mean that if you can only figure out the right way to look at something, you can do much cleverer things. In this book I try to show the reader several different points of view. I talk about different ways of seeing project management. I talk about different ways of seeing, and thinking about, managing software development. 
+My experience is that knowing what you're doing isn't that different from having no idea what you're doing. You're doing very similar, simple things, but being guided by the right way of looking at things. And that's why this book is subtitled X big and Y small metaphors. Metaphors are ideas, ways of looking at things. Doing the right this is literally about having the right idea.
 
 The reason for describing these different points of view is to make good on Alan Kay's claim. The aim is to make you much smarter, to make you feel like you "know what you're doing" when it comes to managing projects.
 
-This isn't like most books that offer to improve your success at project management. Most books that do that suggest a particular Agile method. Like Scrum, or Extreme Programming. Other books talk about how to coach teams in the use of these methods. Other books talk about a particular part of the process. It could be writing "user stories" or running retrospectives. And obviously, there are books that focus on the technical aspects of the process. 
+And in this way, this isn't like most books that offer to improve your success at project management. Most books like that suggest a particular Agile method. For example, Scrum [Ref], or Extreme Programming [Ref]. Other books talk about how to coach teams in the use of these methods. Other books talk about a particular part of the Agile process. It could be writing "user stories" or running retrospectives. And obviously, there are books that focus on the technical aspects of the process, test driven development [Ref], Dev Ops[Ref], continuous integration[Ref]. 
 
-I want to be clear here. I'm not in any way knocking those books. Some of those books are brilliant and I've referenced some of the ones that I like best in the notes. But I don't think they're enough. 
+I'm not knocking these books. Some of those books are brilliant and I've referenced some of the ones that I like best in the bibliography. But I don't think they're enough. 
 
 Following an Agile method like Scrum is a good way of improving your chances of project success. It's what I almost always do if I'm in charge of delivering a software development project.
 
 And Scrum works best when it's combined with XP engineering practices. Some form of automated test coverage, continuous integration and continuous delivery.
 
-If you haven't done this before as a team, you are going to need some outside help.  Agile coaching from somebody who has done it before will improve your chances of success.
+And if you haven't done this before as a team, you are going to need some outside help. It is really hard just to learn it from books.  Bringing in an Agile coach, somebody who has done it before will seriously improve your chances of success.
 
-But unfortunately, this *still* isn't enough. You need to do more than this if your project has any realistic chance of doing well. You need to see things from different points of view. 
+But unfortunately, this isn't enough either. You need to do more than this if your project has any realistic chance of doing well. You need to develop the ability see things from different points of view. And, having developed that ability, you need to be able to act, and help and inspire others to act on what you see. 
 
-For example, in this book, in the second chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues. These are issues that, if they aren't dealt with, will sink your project. 
+OK, I think it's time for a real example of what I'm talking about. In the next chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues and just keep repeatedly doing something simple and safe. 
 
-Pushing this water-based metaphor, I talk about how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
+I talk about how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
 
-Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (metaphor number 2) in trench warfare. And once you're there, it's much harder, although still not impossible, to help your project do well.
+Why is it important that you tackle "pirate ship" issues as soon as you see them? Because if you don't, you and your team will end up (way of seeing number 2) in trench warfare. And once you're there, it's much harder, although still not impossible, to help your project do well.
 
-Why do you need to show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do the project? Why put working software in the hands of people who might get some value from using it as soon as you can? 
+Why do you need to show progress and call out problems as soon as you can in a project? Even in the face of hostility from the people who are paying you to do it? Why do you need to put working software in the hands of people who might get some value from using it as soon as you can? 
 
 I explain this using the Daoist idea of flowers and fruit. Flowers appeal to us straight away. But they aren't sustaining. Fruit is difficult to grow and even more difficult to make tasty.  But it feeds people.
 
-Maybe you're thinking: "My software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about metaphors." 
+Maybe you're thinking: "My software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about pirate ships and trenches, fruit and flowers." 
 
-But this book provides its readers with something, solid, nutritious, and sustaining. It sets out a number of ways of seeing projects that make successful delivery more likely. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, once you have the right idea, a lot of things that previously seemed impossible can seem a lot less so.
+But this book provides its readers with something, solid, nutritious, and sustaining. It sets out ways of seeing projects, those points of view that Alan Kay talks about. The contention of this book is that this is what you need to be able to do when your project looks impossible. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, once you have the right way of seeing, the right idea, a lot of things that previously seemed impossible can seem a lot less so.
 
+[We need some kind of connection passage here][To here]
 ### Why now?
 Well, another way of thinking about this is – "Why not *then*?" Why haven't we found better ways to think about software development since the start?
 
-We've needed better ways of thinking about software projects since the 40's. The human race has been writing software for at least 75 years. We're still not very good at it, and that is because it's very hard.
+We've needed better ways of thinking about software projects since the 40's. Humans have been writing software for at least 75 years. We're still not very good at it, and that is because it's very hard.
 
-I remember listening to an explanation of a "Waterfall" approach to project management. This was the mid nineteen nineties. I remember thinking "this will never work." And I soon saw that it didn't.
+I remember listening to an explanation of a "Waterfall" approach to project management. Waterfall is the traditional approach to project management that was regarded as the absolute best way of managing project until very, very recently. There was just one problem with it. It was hardly ever a success.
+
+ This was the mid nineteen nineties. I remember thinking "this will never work." And I soon saw that it didn't.
 
 In my first two years as a software developer, I worked on two projects. One was for a big oil company. One was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
 
