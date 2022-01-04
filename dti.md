@@ -84,25 +84,38 @@ I explain this using the Daoist idea of flowers and fruit. Flowers appeal to us 
 
 Maybe you're thinking: "My software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about pirate ships and trenches, fruit and flowers." 
 
-But this book provides its readers with something, solid, nutritious, and sustaining. It sets out ways of seeing projects, those points of view that Alan Kay talks about. The contention of this book is that this is what you need to be able to do when your project looks impossible. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, once you have the right way of seeing, the right idea, a lot of things that previously seemed impossible can seem a lot less so.
+But this book provides its readers with something, solid, nutritious, and sustaining. It sets out ways of seeing projects, those points of view that Alan Kay talks about. The contention of this book is that this is what you need when your project looks impossible - different points of view. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, once you have the right way of seeing, the right idea, a lot of things that previously seemed impossible can seem a lot less so.
 
-[We need some kind of connection passage here][To here]
 ### Why now?
-Well, another way of thinking about this is – "Why not *then*?" Why haven't we found better ways to think about software development since the start?
+Ok, you might think. OK, I get it, seeing things in a different way, is useful. But this project has some specific problems. I just want to fix them. I don't have time to kick everything up in the air and philosophise. Maybe we could do this another time. 
 
-We've needed better ways of thinking about software projects since the 40's. Humans have been writing software for at least 75 years. We're still not very good at it, and that is because it's very hard.
+Part of what I want to show you in this book is that now is the time. Well, now is way, way to late. But better late than never.
 
-I remember listening to an explanation of a "Waterfall" approach to project management. Waterfall is the traditional approach to project management that was regarded as the absolute best way of managing project until very, very recently. There was just one problem with it. It was hardly ever a success.
+We've needed better ways of thinking about software projects since the 1940's. Humans have been writing software for at least 75 years and we're still not very good at it. That is because it is very hard.
 
- This was the mid nineteen nineties. I remember thinking "this will never work." And I soon saw that it didn't.
+I remember listening to an explanation of a "Waterfall" approach to project management. Waterfall is the traditional approach to project management that was regarded as the absolute best way of managing projects until very, very recently. There was just one problem with it. It was hardly ever a success.
+
+My first job was the mid nineteen nineties. I remember thinking "this will never work." And I soon saw that it didn't.
 
 In my first two years as a software developer, I worked on two projects. One was for a big oil company. One was for the military. We managed both using the waterfall approach. This was the way nearly everybody managed software development at the time.  We worked on the project in stages. 
 
-Stage one: all the requirements for the project were carefully written down. So, at the end of this stage we had a huge requirements document. 
+Stage one: all the requirements for the project were carefully written down. So, at the end of this stage we had a huge requirements document.
 
-Stage two: we turned these requirements into a design.  First, we produced a high-level design. Then we wrote a detailed design. 
+There were two problems with this stage. Firstly, how did we know we were finished? We didn't have any way of testing when we had *all* of the requirements. Secondly in the time that it took us to write down the requirements, the world changed. What changed? All sorts of things. 
 
-After these stages, which might take months, we started to write software.  Again, that might take months or even years. Then came separate stages of first internal and then external testing by the customer. Then and only then did the software go live.
+One of these projects was for the military, one was for an oil company. Both organisations that are connected to the world of politics and world events which are difficult, if not impossible to predict. Added to that, inside big organisations like the military and big corporations, there is also politics. There is a hierarchy and the people in that hierarchy change.
+
+We were trying to write software that would work in a sea of changing events and organisations. But as we did that, guess what else was changing? The software! Both of these projects were developed at the point when Windows 95 started to be available. And this caused its own problems. Should we use the new technology? If we did, we had to deal with all of the teething troubles that came with working with something that was brand new. Should we use old, green screen, more reliable technology? If we did we had to deal with clients who were uncomfortable about paying so much for software that looked so old fashioned.  
+
+All this change was going on in the background, while we tried our best to put together a high-level design so that we could move to stage two.
+
+Stage two: we turned these high-level requirements into a detailed design.
+
+Stage three: after the first two stages, which might take months, a year or more wouldn't be unheard of, we started to write software.  Again, that might take months or even years. 
+
+Stages four and five. Then came separate stages of internal and then external "factory acceptance" testing by the customer. Then and only then did the software go live.
+
+[To here]
 
 Unfortunately, the first two projects that I worked on went through an extra stage between testing with users and launch. What was that extra stage? It was litigation.  When the customers finally got to see what they'd asked for, months, if not years earlier, it often turned out that it wasn't what they wanted. This was for a lot of different reasons. In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification document hadn't captured what the users wanted. They'd had two years to think about it and they'd changed their minds. It's also possible the users couldn't describe exactly what they wanted. At least not in one single document, what it was that they wanted. What the users had asked for had gone through several stages of work. The systems designers and developers had done their bit. That had been followed by internal testers and then finally testers working for the customer. By the time that it had got to the end of that pipe, it's not surprising that things had gone a bit wrong. But also, of course, it's possible that what the users wanted had changed.
 
