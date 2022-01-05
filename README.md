@@ -7,6 +7,9 @@
 <a href="dti.pdf"><img src="cover.png" alt="HTML5 Icon" width="400"></a>
 <br>
 
+<a href="output.png"><img src="output.png" alt="HTML5 Icon" width="400"></a>
+<br>
+
 
 ## Update History
 Update 18th December 2021 - "First post after another break."
