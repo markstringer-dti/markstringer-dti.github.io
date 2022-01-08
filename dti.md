@@ -170,39 +170,43 @@ And I really believe that some of those projects wouldn't have done well, or mig
 
 And I learned from all of them. By working on so many projects, good and bad, my thinking about what project management was and how to do it well, changed. 
 
-One of the things that I learned is that all projects are different. Another thing that I learned is that there's a lot more to learn. [To here]
+One of the things that I learned is that all projects are different. Another thing that I learned is that there's a lot more to learn. 
 
 And part of the reason why I've helped these projects is that I try to think about them in the ways I'm going to talk about in this book.
 
+OK, so that's why me. I've been doing this a long time, and I've had some success.
+
 ### Why you?
-Why you? Why should you read this book? Well, here's what's going to happen to you if you try to deliver a project and you haven't read this book.
 
-What might happen if you try to deliver a project and you haven't read this book? Well, there's a good chance that you won't spot the pirate ship (Chapter 2) until it's too late. If that happens, there's a very good chance that you'll end up in a trench warfare project (Chapter 3) . It might take you far too long to realise that there's nothing you can do about it, and that you need to leave. 
+Why you? Why should you read this book? Put simply, you should read this book if you're involved in the delivery of software. If you're managing it, if you're doing the development of it or if you're the person paying for it, who really wants the project to happen.
+ 
+What might happen if you try to deliver a project and you haven't read this book? Or, aren't aware of the ideas in this book? Well, there's a good chance that you won't spot the pirate ship (Chapter [N]) until it's too late. If that happens, there's a very good chance that you'll end up in a trench warfare project (Chapter [N]). It might take you far too long to realise that there's nothing you can do about it, and that you need to leave. 
 
-Let's say you and your team is good, or it gets lucky. Its members admit to themselves that there's a pirate ship coming. They tackle the problems that they need to tackle. If you haven't read this book you won't know about flowers and fruit (Chapter 6). And not knowing about that, you, or ytour team, might be tempted to delay putting working software in the hands of users.
+Let's say you and your team is really good, or really lucky or both. Its members can admit to themselves that there's a pirate ship coming. They alert others who need to know of the looming problem. They tackle the problems that they need to tackle. Even so, if you, or they, haven't read this book you won't know about flowers and fruit (Chapter [N]). And not knowing about that, there's a good chance that they won't push in the right direction. They'll be  they might be tempted to delay putting working software in the hands of users.
 
-If you haven't read about the swamp (Chapter 4) , there's a good chance that you won't have hired the best user research team you can find. And so you won't have a detailed map of the user and stakeholder ecosystem. Even if you tackled the pirate ship the minute you saw it, there might still be trouble. Even if you pushed working software as far as you could along the right dimensions, your project might still not go well. Without a map of the stakeholder ecosystem to influence decisions, the chances are, your project won't do as well as it could. There's less chance you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
+If you haven't read about the swamp (Chapter [N]), there's a good chance that you won't have hired the best user research team you can find. You might even be telling yourself, or agreeing with others, that you don't really need any user research. 
 
-Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. Oh, wow, I just thought of this, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
+So you won't have a detailed map of the user and stakeholder ecosystem. That means that even if you tackled the pirate ship the minute you saw it, there might still be trouble. Even if you pushed working software as far as you could along the right dimensions, your project might still not go well. Without a map of the stakeholder ecosystem to influence decisions, the chances are, your project won't do as well as it could. There's less chance that you'll have moved from "flowers" to "fruit" and you'll have no idea what that means.
 
-Why? because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project management as keeping a promise" really is and what you can do to escape its evil clutches.
+Finally, if you don't read this book, there's a good chance you're going to feel bad, even when you're doing the right things. In fact, if you don't read this book, there's a chance you're going to feel good, even when you're doing the wrong things.
 
-Ok - you might ask, so what would be so much better if I *did* read this book? Well, if you read this book, you would know about "agreed activity" because we talk about in chapter 2. This means that in the early stages of the project, as you and your team start to encounter problems, you would try to "televise" those problems. So that whoever is in the best position to solve them would be given the best opportunity. If you've read this book, you would also know about the swamp (chapter 7). So you'd have involved in your team some people who were doing not only user research, but stakeholder research. 
+Why? because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project management as keeping a promise" (Chapter [N] really is and what you can do to escape its evil clutches.
+
+Ok - you might ask, so what would be so much better if I *did* read this book? Well, if you read this book, you would know about "agreed activity" because we talk about in chapter [N]. This means that in the early stages of the project, as you and your team start to encounter problems, you would try to "televise" those problems - make them obvious to everyone who needs to know. That way, whoever is in the best position to solve them would be given the best opportunity. If you've read this book, you would also know about the swamp (chapter [N]). That means that you'd have involved in your team some people who were doing not only user research, but stakeholder research. 
 
 If you'd read this book, you would understand the importance of working software and the difference between flowers and fruit. You and your team would have been trying to "promote" working software, to get it as near as it could possibly get to hands of real users. 
 
-In chapter 2 you would read about the pirate ship and the dangers of avoiding it. That means when you do come across a big problem that the team is ignoring, there's a good chance you would tackle it. By tackling problems early, there's a much better chance that you'll avoid the pain and misery of trench warfare. If you've read this book, you'll know about the dodgy metaphor of project management as keeping of promises. You'll be able to avoid the feeling bad when what your team delivered isn't what was initially discussed. 
+In chapter [N] you would read about the pirate ship and the dangers of avoiding it. That means when you do come across a big problem that the team is ignoring, there's a good chance you would tackle it. By tackling problems early, there's a much better chance that you'll avoid the pain and misery of trench warfare. If you've read this book, you'll know about the dodgy metaphor of project management as the keeping of promises. You'll be able to avoid the feeling bad when what your team delivered isn't what was initially discussed. 
 
-And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
+And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that, they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
 
 ### A Manifesto
-To get to the point where you're reasonably confident that you can deliver in the impossible. That's going to be a long trip. And on that way, you probably need a reliable guide. That's what I'm going to try to be. So to help keep myself straight, and to reassure you somewhat. 
-
-So here's my manifesto.
+I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
 
 1. Try to tell the truth.
 2. Don't over promise.
 3. Admit that you don't know it all.
+4. Admit your sources.
 
 ## Chapter 2 - Ignoring the Pirate Ship - Agreed activity
 
@@ -2085,6 +2089,23 @@ Bullshit - Harry G Frankfurt
 The Hiding Hand 
 The Fata Morgana - Albert O. Hirschman
 On the evolutionary function of sociopaths or Sooner or later, someone needs to say "fuck it."
+
+### A Manifesto
+I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
+
+1. Tell the truth.
+2. Don't over promise.
+3. Be clear don't know it all.
+4. Point to sources and interesting things.
+
+1. There is a great temptation to try to write books like this from the point of view of an absolute expert. Why? I don't know. I'm not an absolute expert. I've been doing this a while. I have some strategies that work fairly reliably. I don't have a rigid method that I follow. 
+
+2.  Pretty much, see point 1. Obviously, I can't promise that you will deliver the impossible. The thing that you're looking at that seems impossible, may well be exactly that. I worked on a project once that all the normal hallmarks of an impossible project. It had an "aggressive" deadline. It had a strict separation between subject matter experts and the development team. There were no members of the team who were trying to talk to users or trying to talk to people in the wider organisation. But this project also had something else. It had an absolute reliance on a database that didn't exist. This was a database that was on all the architecture diagrams. This was a database that the development team had to draw up data protocols to communicate with. It didn't exist. This project was never going to succeed.
+
+3. Think about it for a second. Nobody knows it all. I'm pretty much trying to tell you everything that I know. There might even be a chance that combining that with what you know, makes you much better at managing and delivering software development than I am. 
+
+4. "There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."
+
 
 
 ## References
