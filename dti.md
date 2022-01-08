@@ -200,24 +200,6 @@ In chapter [N] you would read about the pirate ship and the dangers of avoiding 
 
 And if you've read this book. Do you know what? At some point, you might just get lucky. Yes, it still needs a lot of luck. You might manage to put working software in the hands of users. And when you and your team do that, they'll be guided by the stakeholder map that your user researchers have put together. You'll have found something that is not only valuable to the users, but also creates value for the organisation. Your project will be a success.
 
-### A Manifesto
-I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
-
-1. Tell the truth.
-2. Don't over promise.
-3. Be clear don't know it all.
-4. Point to sources and interesting things.
-
-1. There is a great temptation to try to write books like this from the point of view of an absolute expert. Why? I don't know. I'm not an absolute expert. I've been doing this a while. I have some strategies that work fairly reliably. I don't have a rigid method that I follow. 
-
-2.  Pretty much, see point 1. Obviously, I can't promise that you will deliver the impossible. The thing that you're looking at that seems impossible, may well be exactly that. I worked on a project once that all the normal hallmarks of an impossible project. It had an "aggressive" deadline. It had a strict separation between subject matter experts and the development team. There were no members of the team who were trying to talk to users or trying to talk to people in the wider organisation. But this project also had something else. It had an absolute reliance on a database that didn't exist. This was a database that was on all the architecture diagrams. This was a database that the development team had to draw up data protocols to communicate with. It didn't exist. This project was never going to succeed.
-
-3. Think about it for a second. Nobody knows it all. I'm pretty much trying to tell you everything that I know. There might even be a chance that combining that with what you know, makes you much better at managing and delivering software development than I am. 
-
-4. "There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."
-
-
-
 
 ## Chapter 2 - Ignoring the Pirate Ship - Agreed activity
 
