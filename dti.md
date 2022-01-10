@@ -1138,40 +1138,48 @@ If you're a project manager, you're in a hole. The way out of that hole is to fi
 What you should be trying to do if you're a project manager is to get pulled out of the hole. And the way to do that is to understand what the crowd are hungry for and, as soon as possible, give them samples.
 
  
-
+﻿
 ## Chapter 8 - Driving a Car or The Empirical Process
 
 >> “Seeking what is true is not seeking what is desirable.” - Albert Camus
 
-"Empirical" isn't a common word. But empirical process refers to something that we're all doing all day every day. All day every day we change what we're doing in response to what we see and experience through our other senses. And that's what the word "empirical" means. It means relating to experience in the real world. But it's an odd word that doesn't sound as down to earth and practical as it is. 
+"Empirical" isn't a common word. But empirical process refers to something that we're all doing all day every day. All day every day we change what we're doing in response to what we see and experience through our senses. And that's what the word "empirical" means. It means relating to experience in the real world. It's a slightly odd word that doesn't sound as down to earth and practical as it is. 
 
-For years I've run training courses to introduce people to Agile ideas. Because "Empirical" is such a strange word, there's an exercise that I often do where I get people too look up the word, to discuss what it means. Then we do exercises. These exercises often involve Lego. They also often not being able to build as many models in the time available as the team estimated they could build. 
+For years I've run training courses to introduce people to Agile ideas. Because "empirical" is a slightly strange word, there's an exercise that I often do where I get people to look up the word and to discuss what it means. Then we do exercises. These exercises often involve Lego. 
 
-So half-way through the exercise this forces the teams to do something different, based on this new experience. Either they reduce their estimates of the number of models they can build or, possibly simplify the models. At the end of the exercise, I come back to this word "Empirical." Based on experience.
+I give the team a bunch of Lego models and I ask them to estimate how many of the models they can build in a short, fixed spaced of time - these short, fixed amounts of time are called "iterations."
 
-To make sure that my own performance can be improved based on experience, I get feedback at the end of the courses I run. One of the questions that I ask is "What's the most important thing that you think you've learned from this course?"
+Almost always, at the end of the first iteration, the team realise that they can't do as many models in the time as they initially thought.
 
-In that box, someone had written "The importance of Imperial Progress."
+So, part-way through the exercise this forces the teams to do something different, based on this new experience. Either they reduce their estimates of the number of models they can build or, possibly simplify the models. At the end of the exercise, I come back to this word "Empirical." Empirical means based on experience.
 
-Yup. Clearly, it's a tricky concept with a funny name. Which is kind of strange, because it's also something that we all do every day of our lives, and it we didn't we wouldn't get very far, or live very long.
+That is the key point that I'm trying to get across in this exercise. Learning from experience is important, modifying what you do in light of what happens is a fundamental approach to controlling and improving your performance. 
 
-What are we doing that's so vital? What we're doing is honouring the three pillars of empirical process - transparency, inspection and adaptation. When are we doing this? All the time, but one time when we're especially doing it, is when we're driving a car. 
+And, following my own advice, I try to make sure that my own performance can be improved based on experience. I get feedback at the end of the course I run. One of question that I ask is "What's the most important thing that you think you've learned from this course?"
 
-Just think about it, when you're driving a car down the road, you need transparency. You need to be able to see out of the windscreen. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong fast.
+In that box, someone had written "The importance of Imperial Progress." Oh dear.
 
-But transparency isn't enough. If you're driving, it isn't enough for the windscreen to be clear, you need to actually look out of it. You have to look out of the windscreen and check your mirrors. If instead, say you're checking messages on your phone, or distracted and trying to brush scalding hot coffee out of your lap, that's no good. Transparency isn't enough. You need inspection. 
+Yup. Clearly, it's a tricky concept with a funny name. And there is clearly more work that I have to do to make sure that everyone is comfortable with the name, because it's an vitally important idea. It's also something that we all do every day of our lives, and if we didn't we wouldn't get very far, or live very long.
 
-We're focusing here on the visual aspects of driving. But we all know that when you're driving, you're also really checking with your other senses. If you feel an unusual vibration accompanied by a dull thudding noise. There's a good chance that you'll slow down. If you smell petrol, or burning. You'll probably slow down. If you hear police sirens, you'll check in your rear view mirror and check if the police seem to be interested in you. If they are, you'll probably speed up, if you're in the middle of committing a bank robbery. If you aren't, you'll probably slow down.
+What are we doing every day that's so vital? What we're doing is honouring what are referred to as the three pillars of empirical process - transparency, inspection and adaptation. When are we doing this? All the time, but one time when we're especially doing it, that I'm going to use as an example, is when we're driving a car. 
 
-So inspection isn't just a visual thing. It's paying attention with all the senses. Talking about slowing down and speeding up brings us to the third pillar of empirical process - adaptation. What we're doing when we slow down, is adapting. That's also what we're doing when we speed up because we see the road is clear. It's also what we do when we swerve to avoid something, or put the fog lights on. Adaptation is when we change what we're doing because of what we see, hear and feel.
+Imagine that you're driving a car. The first thing that you need is transparency. You need to be able to see out of the windscreen and you need to be able to see behind you. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong very fast.
 
-We couldn't do this without transparency - if the windscreen were covered in mud, we would not see the things that we needed to avoid. We couldn't do it without inspection. If we didn't look up from our texting and see the thing we were about to hit, we wouldn't feel the need to swerve. And finally, we wouldn't be swerving if it weren't for adaptation. Because that's what adaptation is. Adaptation is swerving, slowing down, even stopping, or speeding up, to avoid the things that you can see due to inspection. This is only possible because of transparency. Tranparency is being able to see clearly. Inspection is actually bothering to look. Adaptation is changing what you do in light of the things that you see. And these things together are empirical process.
+But transparency isn't enough. If you're driving, it isn't enough for the windscreen to be clear, you still need to look out of it. You need to look out of the windscreen and check your mirrors. If instead, say, you're checking messages on your phone, or distracted and trying to brush scalding hot coffee out of your lap, that's no good. Transparency isn't enough. You need inspection. 
 
-At this point, I might mention that I've crashed two cars, OK three. I'm far from an expert on driving. But I am an expert on what this principle of empirical process means for software development teams. What does transparency mean for software development teams? Well, there are at least three meetings where there's opportunity for transparency.
+We're focusing here on the visual aspects of driving. But we all know that when you're driving, you're also really checking with your other senses. If you feel an unusual vibration accompanied by a dull thudding sound. There's a good chance that you'll slow down. If you smell petrol, or burning. You'll probably slow down. If you hear police sirens, you'll check in your rear view mirror and check if the police seem to be interested in you. If they are, you'll probably speed up, if you're in the middle of committing a bank robbery. If you're doing nothing to be ashamed of, you'll probably slow down.
+
+So, inspection isn't just a visual thing. It's paying attention with all the senses. Talking about slowing down and speeding up brings us to the third pillar of empirical process - adaptation. What we're doing when we slow down, is adapting. That's also what we're doing when we speed up because we see the road is clear. It's also what we do when we swerve to avoid something or put the fog lights on when it's foggy. Adaptation is when we change what we're doing because of what we see, hear and feel.
+
+Notice how for these aspects of empirical control to work they have to be arranged correctly. They are dependent on each other. We drive successfully without transparency - if the windscreen were covered in mud, we would not see the things that we needed to avoid. We couldn't do it without inspection. If we didn't look up from our texting and see the thing we were about to hit, we wouldn't feel the need to swerve. And finally, we wouldn't be swerving if it weren't for adaptation. Because that's what adaptation is. Adaptation is swerving, slowing down, even stopping, or speeding up, to avoid the things that you can see due to inspection. And inspection is only possible because of transparency. Transparency is being able to see clearly. Inspection is bothering to look. Adaptation is changing what you do in the light of the things that you see. These things together are empirical process.
+
+At this point, I might mention that I've crashed two cars, OK three. I'm far from an expert on driving. But I am an expert on what this principle of empirical process means for software development teams. What does transparency mean for software development teams? Well, for software development, I'm afraid it means meetings. There are at least three meetings where there's opportunity for transparency.
+
+The stand-up is a short meeting that all the members of the team have daily. Each member of the team says what they did the previous working day, what they're going to do today and highlights anything that's blocking them. It's pretty obvious isn't it how this maps back to the driving analogy and empirical process. The stand-up has all of the elements. Transparency, members of the team are telling each other what they're doing and pointing any problems they're having doing it. Inspection, team members are (hopefully) listening to what other team members are saying and getting a better idea of how the project is going. And the stand-up is also a crucial opportunity for adaptation. [To here] 
 
 Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that they are finding. This gives everybody in the team the opportunity to know what's going on around them.
 
-In retrospectives, the teams get to look in the rear view mirror.  They get to look at the road behind them and talk about what things blocked our path. They get to talk about how they could have got around them more easily. What things they've got the hang of now, that means that next time they might be able to tackle them faster. They also get to talk about the things that they still have no idea how to handle at all.
+In retrospectives, the teams get to look in the rear-view mirror.  They get to look at the road behind them and talk about what things blocked our path. They get to talk about how they could have got around them more easily. What things they've got the hang of now, that means that next time they might be able to tackle them faster. They also get to talk about the things that they still have no idea how to handle at all.
 
 And in show and tells, demonstrations of working software show exactly how it's going. And of course, that can really be a problem.
 
@@ -2077,11 +2085,15 @@ Arlie Russell Hochschild
 
 Hungry crowd - Gary Halbert
 Childish Thinking - Marion Milner
+Journalling - Marion Milner
 Wanton go for it - Richard Bandler
 Bullshit - Harry G Frankfurt
 The Hiding Hand 
 The Fata Morgana - Albert O. Hirschman
 On the evolutionary function of sociopaths or Sooner or later, someone needs to say "fuck it."
+
+
+## Chapter 17 - Epilogue
 
 ### A Manifesto
 I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
