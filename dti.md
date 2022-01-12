@@ -1175,31 +1175,35 @@ Notice how for these aspects of empirical control to work they have to be arrang
 
 At this point, I might mention that I've crashed two cars, OK three. I'm far from an expert on driving. But I am an expert on what this principle of empirical process means for software development teams. What does transparency mean for software development teams? Well, for software development, I'm afraid it means meetings. There are at least three meetings where there's opportunity for transparency.
 
-The stand-up is a short meeting that all the members of the team have daily. Each member of the team says what they did the previous working day, what they're going to do today and highlights anything that's blocking them. It's pretty obvious isn't it how this maps back to the driving analogy and empirical process. The stand-up has all of the elements. Transparency, members of the team are telling each other what they're doing and pointing any problems they're having doing it. Inspection, team members are (hopefully) listening to what other team members are saying and getting a better idea of how the project is going. And the stand-up is also a crucial opportunity for adaptation. [To here] 
+The stand-up is a short meeting that all the members of the team have daily. Each member of the team says what they did the previous working day, what they're going to do today and highlights anything that's blocking them. It's pretty obvious isn't it how this maps back to the driving analogy and empirical process. The stand-up has all the pillars of the empirical process. It has transparency, members of the team are telling each other what they're doing and pointing out any problems that they're having doing it. It has inspection. Team members are listening to what other team members are saying and so they get a better idea of how the project is going. And the stand-up is also a crucial opportunity for adaptation. When they hear about problems, it natural for the team to change their behaviour. To adapt. Either by focussing on the problem and fixing it, or understanding that the problem can't be fixed right now (or ever) and routing round it.
 
-Members of the team can - and should - in the daily stand-up let others know what they're doing, what they're going to do and any problems that they are finding. This gives everybody in the team the opportunity to know what's going on around them.
+Members of the team should let others know what they're doing, what they're going to do in the daily stand up. And they should also point out any problems that they are experiencing. 
 
-In retrospectives, the teams get to look in the rear-view mirror.  They get to look at the road behind them and talk about what things blocked our path. They get to talk about how they could have got around them more easily. What things they've got the hang of now, that means that next time they might be able to tackle them faster. They also get to talk about the things that they still have no idea how to handle at all.
+Another meeting that implements the three pillars of empirical process is the retrospective. In retrospectives, the team gets to look in the rear-view mirror.  They get to look at the road behind them and talk about what progress they have made down it. They get to look at the things that blocked their path. They get to talk about how they could have got around them more easily. What things they've got the hang of now, that means that next time they might be able to tackle obstacles faster in the future. They also get to talk about the things that they still have no idea how to handle at all. The obstacles that are still in the way and the things that are still slowing them down.
 
-And in show and tells, demonstrations of working software show exactly how it's going. And of course, that can really be a problem.
+The final Agile meeting that implements the pillars of the empirical process, is the show and tell. I'm not sure what the reason is, but this is a meeting that goes by a lot of different names, all of which mean the same thing - "Sprint demo" or "showcase." They all mean the same thing.
 
-I didn't witness this for myself. But people who were there have confirmed that this really happened. The first ever Agile software development project that I worked on was for a publishing company. When I joined the project it had been going for over a year and had cost many millions of pounds. The way that I heard the story, a few months before I joined, there had been a show and tell meeting. The publishing company was international and had offices in London and in New York. There were people with American accents dialling in on a conference call.
+The show and tell is a regular demonstration of working software that shows exactly the real progress that the team are making. And of course, that can really be a problem.
+
+Here's an example. I didn't witness this for myself. But people who were there have confirmed that this really happened. 
+
+The first ever Agile software development project that I worked on was for a publishing company. When I joined the project it had been going for over a year and had cost many millions of pounds. The way that I heard the story, a few months before I joined, there had been a show and tell meeting. It was an international company and it had offices in London and in New York. There were people with American accents dialling in on a conference call.
 
 I don't know much about what happened in that meeting.  I do know that at some point one of the Scrum Masters said that he was going to share project progress. This was progress that had been made through "the backlog." The backlog is the Agile way of saying the list of all the requirements for the project. 
 
-He had a presentation with some slides. And there was a bit of messing about setting up the presentation - and then making sure that it was shared with the office in New York. Finally, the Scrum Master was set up and could move to the slide that showed progress of the project through the requirements. He clicked on to the slide. In the middle of the slide was a giant "2".
+He had a presentation with some slides. And there was a bit of messing about setting up the presentation - and then making sure that it was shared with the office in New York. Finally, everything was set up and the scrum master could move to the slide that showed progress of the project. He clicked on to the slide. In the middle of the slide was a giant "2".
 
 I don't know how dramatic he was at this point. I don't know if he asked anybody in the room or on the phone if they could guess what the two meant? 2 weeks to finish? 2 Months? 2 Years? But I know that at some point he did get the point across. The 2 was percent. Progress on the project, after six months and many millions of pounds was 2 percent of all the work that was in the backlog.  
 
 This is brutal transparency. Any it probably came out of desperation. Having worked on that project I can guess that someone had told the bosses in New York that the project would be finished by a certain date. Nobody had mentioned to the bosses the problems that were being found. Problems that were slowing progress to a crawl.
 
-The main result of that number 2 was that that particular Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communicate progress across the Atlantic. After that, guess what? The news was always good.
+The main result of that number 2 was that that Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communicate progress across the Atlantic. After that, guess what? The news was always good.
 
 This is what one reader said about this story:
 
 >> I was there and I remember this meeting very well. It is all true. And it was followed by an explosion of anger over the phone where the entire team (50+ people) were dressed down and told to get on with it or heads will roll.
 
-So this story that I'd heard really is true. But what does it tell us? What does it tell us about empirical process, transparency and adaptation? And in the end, what does that tell us about delivering the impossible.
+So this story is true. But what does it tell us? What does it tell us about empirical process, transparency and adaptation? And in the end, what does that tell us about delivering the impossible.
 
 OK. Let's start here. I'm going to put on my magic fortune teller's hat and I'm going to look into your project. Mmmmm. Ahhh. Mmmmm. Actually, I don't need a funny hat and a cloak, and I don't need the strange noises. If you have a project, and this project has yet to deliver its first live release and that release has a deadline, I already know one thing about it.
 
@@ -1207,25 +1211,25 @@ OK. Let's start here. I'm going to put on my magic fortune teller's hat and I'm 
 
 What's N? On a "good" project N is two or three. I've seen lots of projects where N is 7 or 8. On the project that I just told you about where the Scrum Master brought up the "2" on the screen, N was somewhere between 25 and 50!
 
-Maybe I'm wrong. Maybe your project is fine. Maybe you're reading a book called "Delivering the Impossible" out of idle curiosity.  You wonder what it would be like to work on one of those projects that seems impossible. But your project? Your project is fine! Maybe.
+But maybe I'm wrong about your project. Maybe your project is fine. Maybe you're reading a book called "Delivering the Impossible" out of idle curiosity.  You wonder what it would be like to work on one of those projects that seems impossible. But your project? Your project is fine! Maybe.
 
-But if your project isn't fine, what are you going to do about it? Telling it like it is,  as the Scrum Master in the story tried to, doesn't seem to work that well. In that case, it resulted in the hiring of someone to specifically stop the bosses in New York being told the truth. 
+But if your project isn't fine, what are you going to do about it? Telling it like it is, as the Scrum Master in the story tried to, doesn't seem to work that well. In that case, it resulted in the hiring of someone to specifically stop the bosses in New York being told the truth. 
 
 Someone senior might have well promised something that is impossible to deliver. Getting them to deliver anything near that might be a difficult process, requiring careful handling. Yes, that’s for the bosses. Diplomacy, tact, careful handling and an understanding of the politics maybe well be required.
 
-But for the team that's doing the work? It's never a bad thing for the team to know the truth as soon as possible. If you're in charge of that team, you should keep the windscreen clean. You should take every chance  to make sure things are transparent. This means making sure that the meetings which aid transparency are happening. It means that people feel free to talk in the stand-up about any problems that they're coming across. It means people feel comfortable speaking out in retrospectives about anything else that might be bothering them. It means that show and tells are honest about progress and show working software. 
+But for the team that's doing the work? It's never a bad thing for the team to know the truth as soon as possible. If you're in charge of that team, you should keep the windscreen clean. You should take every chance to make sure things are transparent. This means making sure that the meetings which aid transparency are happening. It means that people feel free to talk in the stand-up about any problems that they're coming across. It means people feel comfortable speaking out in retrospectives about anything else that might be bothering them. It means that show and tells are honest about progress and show working software. 
 
 The second thing is to understand that shouting out bad news in front of fifty people might not be the best way of communicating it.
 
-Here is where you might be a lot better at this than me. Like the guy in the "2" story, I'm not very diplomatic. Like the guy in the "2" story, I've nearly gotten fired for telling it like it is in front of the wrong audience. You might be more diplomatic, you might have a better way of dressing up bad news. 
+Here is where you might be a lot better at this than me. Like the guy in the "2" story, I'm not very diplomatic. Like the guy in the "2" story, I've nearly gotten fired for telling it like it is in front of the wrong audience. You might be more diplomatic. You might have a better way of dressing up bad news. 
 
 But here are some other things that it's important to understand.
 
-Everybody in the room knew that "Mr Two" was right. The bosses in New York heard what he said. Unfortunately, the way that "Mr Two" said it was so confrontational that their reaction was exactly the wrong one. They literally hired someone to stop him telling them the truth ever again.
+Everybody in the room knew that "Mr Two" was right. The bosses in New York heard what he said. Unfortunately, the way that "Mr Two" said it was so confrontational that their reaction was exactly the wrong one. Their response was to hire someone to stop him telling them the truth ever again.
 
 We started to talk about the rather jolly metaphor of driving a car as a way of thinking about empirical process. And by doing that, we've ended up right at the absolute nitty-gritty of project management.
 
-In order to manage a project, you need transparency. When you achieve that transparency, you get bad news. You have to do something with the bad news. What do you do with the bad news?
+To manage a project, you need transparency. When you achieve that transparency, you get bad news, almost always. Then, a s a team, you have to do something with the bad news. What do you do with the bad news?
 
 ### OK, Let's talk about Mr Two 
 
@@ -1233,7 +1237,7 @@ In order to manage a project, you need transparency. When you achieve that trans
 
 What was bad about what he did was that he upset the bosses. He made them feel stupid in front of the whole team. And the result of that was that they made very sure that they didn't hear any news from him again. They appointed a "project manager" who never ever told them any bad news. Please note that this didn't mean that there was never any bad news. 
 
-What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what measures of actual progress meant for when the project would finish. Mr Two's action was a reaction against a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
+What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what measures of actual progress meant for when the project would finish. [To here but I think this whole chapter needs a restructure - this Mr two stuff might need to go in another chapter]Mr Two's action was a reaction against a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
 
 #### What was good about what Mr Two did?
 
@@ -1245,7 +1249,7 @@ What's interesting about what Mr Two did, is to ask ourselves if there was anyth
 
 Well here are a few things he could have done. All of them are partial. But they're all powerful.
 
-He could, and should have continued to keep track of the projects progress. Even when the bosses had ignored him. Why? Because this is still useful information. Actual progress tells you not only when a project is likely to "Finish" but also how long any particular piece of work should take.
+He could, and should have continued to keep track of the project's progress. Even when the bosses had ignored him. Why? Because this is still useful information. Actual progress tells you not only when a project is likely to "Finish" but also how long any particular piece of work should take.
 
 He could have pushed more to get working software to where it finally needs to go. He could have done more to get it into the hands of real users. Because real users were the people that the bosses had to listen to. 
 
