@@ -2091,7 +2091,8 @@ Bullshit - Harry G Frankfurt
 The Hiding Hand 
 The Fata Morgana - Albert O. Hirschman
 On the evolutionary function of sociopaths or Sooner or later, someone needs to say "fuck it."
-
+Chicken Soup for the Shirt
+Journalling
 
 ## Chapter 17 - Epilogue
 
