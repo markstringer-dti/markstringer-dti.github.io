@@ -2033,7 +2033,51 @@ I'm heartened by this quote from George Orwell.
 
 It's things like this that are keeping me going at the moment. That and an idea that I got from reading an article in an online magazine about art. Great creative breakthroughs come from trying on multiple different styles one after the other. 
 
-## Chapter 16 - Conclusion
+## Chapter 16 - Bullshit
+
+### Bullshit
+You have to tell them something. And it has to be something shiny.  But those are the things that you have to care about most. You don't have to worry so much about it being true. In fact you don't have to worry at all about it being true. Bullshit isn't designed to play in the world. Bullshit is design to play in the truncated, limited resolution, limited imagination, model of the world that sits in people's heads. 
+
+### Fuck it
+What are the risks? What are the potential benefits. We need to way these carefully and then decide on a course of action. Don't we? Do we? Is this really how we decide how to behave?
+
+What if it isn't what if what we do mainly is what everyone else does? But then periodically, we have a crazy dream, or we realize that the only way out of the particular situation is to offer someone else a crazy dream. 
+Nothing happens unless at some point, someone shrugs their shoulders and says "Fuck it."
+
+### Bounded Rationality
+
+Bloodknock: You Chinese think of everything
+Grippipe Thin: But I'm not Chinese!
+Bloodknock: Then you've forgotten something.
+
+The reason that we can get away with this is something called "bounded rationality." We literally can't think of everything. At some point we have to shrug our shoulders and give it a go. Of course, this would have been stamped out as an evolutionary behaviour long ago if it was always fatal. But it occasionally pays off.
+
+### The hiding hand
+
+And as a society, as a *species* we're curiously, sometimes terrifyingly tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these project were set up in ways that made them extremely unlikely to succeed, but he noticed that, even so, the people who were working on these projects would downplay the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." Refering back to the economist Adam Smith's notion of a "guiding hand" which means that products naturall
+
+### Legibility
+
+A crucial part of this is legibility. When a project starts off, and especially when a project is in progress, it will not help support, in terms of funding from outsiders and efforts and support from the people who are working on it if everything about the project is totally clear. 
+
+### Heads I Win Tails you lose
+
+Why are some people much better at kicking off projects than others? Is it because they have better ideas? Is it because they're better at execution? Or is it because they are relatively confident that no matter what happens to the project, they will be OK?
+
+This seems like I'm being critical. But it's one explanation of the hiding hand, and it's a very good explanation of why anyone might want to carry on on a project that they regards as impossible. Why are you carrying on? Because you think you can profit from it, even if the project itself is a failure. This is a perfectly valid strategy while working inside a project.
+
+But it's also a valid strategy if you're creating projects. 
+
+1. Create a project that promises (vaguely) a great deal.
+2. Maintain contact with the project.
+3. If the project looks like it's going to be a disaster, distance yourself from it.
+4. If the project looks like it's going to be a success, make sure that you're associated with it.
+5. If the project crashes and burns, make sure that you're nowhere near it and heavily involve in the creation of another project.
+
+
+
+
+## Chapter 17 - Conclusion
 
 So, this book has discussed a lot of different ideas. A lot of different ways of looking at the world and specifically a lot of different ways of looking at projects. And, in the end, all of these different ideas boil down to a series of questions. Questions that you can ask yourself.  Questions that the team can ask itself. Questions that you could even possibly talk through with the client, if you have a close enough relationship. And the answers to these questions are mostly definite actions that can be taken to increase the chance of delivering your project.
 
@@ -2097,8 +2141,9 @@ The Fata Morgana - Albert O. Hirschman
 On the evolutionary function of sociopaths or Sooner or later, someone needs to say "fuck it."
 Chicken Soup for the Shirt
 Journalling
+Agile as a way of liberation
 
-## Chapter 17 - Epilogue
+## Chapter 18 - Epilogue
 
 ### A Manifesto
 I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
