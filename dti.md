@@ -2189,4 +2189,6 @@ Jennifer Rode , Mark Stringer , Eleanor Toye , Amanda Simpson and Alan Blackwell
 
 Gary A. Klein Sources of Power: How People Make Decisions
 
+Venkatesh Rao - The Gervais Principle
+
 Chris Voss: Never Split the Difference - Negotiating as if Your Life Depended on It.
