@@ -2050,52 +2050,90 @@ Bloodknock: You Chinese think of everything
 Grippipe Thin: But I'm not Chinese!
 Bloodknock: Then you've forgotten something.
 
-The reason that we can get away with this is something called "bounded rationality." We literally can't think of everything. At some point we have to shrug our shoulders and give it a go. Of course, this would have been stamped out as an evolutionary behaviour long ago if it was always fatal. But it occasionally pays off.
+The reason that we can get away with this is something called "bounded rationality." We literally can't think of everything. At some point we have to shrug our shoulders and give it a go. Of course, this would have been stamped out as an evolutionary behaviour long ago if it were always fatal. But it occasionally pays off.
 
 ### The hiding hand
 
-And as a society, as a *species* we're curiously, sometimes terrifyingly, tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these project were set up in ways that made them extremely unlikely to succeed, but he noticed that, even so, the people who were working on these projects would downplay the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." Refering back to the economist Adam Smith's notion of a "guiding hand" which means that products naturally find their price in a market without any particular person or organisation making the decision.
+And as a society, as a *species* we're curiously, sometimes terrifyingly, tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these projects were set up in ways that made them extremely unlikely to succeed, but he noticed that, even so, the people who were working on these projects would downplay the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." Referring back to the economist Adam Smith's notion of a "guiding hand" which means that products naturally find their price in a market without any particular person or organisation making the decision.
 
 ### Legibility
 
-A crucial part of this is legibility. When a project starts off, and especially when a project is in progress, it's not a good idea to be totally clear about the risks and costs. Clarity and legibility will not help support. Funding is unlikely to come from outsiders. And is going to be difficult to get efforts and support from the people who are working on it if everything about the project is totally clear. 
+A crucial part of this is legibility. When a project starts off, and especially when a project is in progress, it's not a good idea to be totally clear about the risks and costs. Clarity and legibility will not help garner support. Funding is unlikely to come from outsiders. And is going to be difficult to get. Efforts and support from the people who are working on it if everything about the project is totally clear. 
 
 ### Heads I Win Tails you lose
 
 Why are some people much better at kicking off projects than others? Is it because they have better ideas? Is it because they're better at execution? Or is it because they are relatively confident that no matter what happens to the project, they will be OK?
 
-This seems like I'm being critical. But it's one explanation of the hiding hand, and it's a very good explanation of why anyone might want to carry on on a project that they regards as impossible. Why are you carrying on? Because you think you can profit from it, even if the project itself is a failure. This is a perfectly valid strategy while working inside a project.
+This seems like I'm being critical. But it's one explanation of the hiding hand, and it's a very good explanation of why anyone might want to carry on on a project that they regard as impossible. Why are you carrying on? Because you think you can profit from it, even if the project itself is a failure. This is a perfectly valid strategy while working inside a project.
 
 1. Create a project that promises (vaguely) a great deal.
 2. Maintain contact with the project.
 3. If the project looks like it's going to be a disaster, distance yourself from it.
 4. If the project looks like it's going to be a success, make sure that you're associated with it.
-5. If the project crashes and burns, make sure that you're nowhere near it and heavily involve in the creation of another project.
+5. If the project crashes and burns, make sure that you're nowhere near it and heavily involved in the creation of the next project.
 
-But actually, a lot of the time, this is the same for the people working on the project, they will get paid if the project succeeds, they will get paid if the project failts.
+Of course, I forgot a step.
+
+0. Say Fuck it. 
+
+And of course, step 0 is much easier if 
+
+But a lot of the time, and this is the same for the people working on the project, they will get paid if the project succeeds and they will get paid if the project fails. And most of the time, they also have the option to jump ship and find another project. So that's what the hiding hand is, it's a lot of other people joining in and saying, "fuck it."
 
 ## Why should anybody care?
-Given that the people who kicked off the project, if they've kicked it off in the right way and are adopting a "Heads I win, tails you lose attitude" and the people who are working on the project are getting paid anyway. Why should anybody care about a project? It would seem to be a pretty dumb thing to do, to care about a project when it's irrational for anyone else? 
+Given that the people who kicked off the project, if they've kicked it off in the right way and are adopting a "Heads I win, tails you lose attitude" and the people who are working on the project are getting paid anyway. Why should anybody care about a project? That would seem to be a pretty dumb thing to do, to care about a project when it's irrational for anyone else? 
 
 The main reason is that projects can discover value. They can make people's lives better, more entertaining, easier. And of course, if they can do this, they can make money or prestige for the people who own those projects. But we might have been too cynical and cruel about the people who work on these projects, yes, they want to get paid, but most of them also want to do good work and want to be associated with a project that's a success. 
 
 And we have probably been too brutally hard on those people who said "fuck it" and got a project started when others would have worried to much about the risks and costs. They would also dearly love to be associated with a project that's a success. 
 
 ## What makes a project fly? 
-When a project delivers value that outweighs the risks and costs, it's flying. Initially that value is vague perceived value. But at some point there has be a tranistion to actual value if the project is to be a success. This is the tricky phase on all projects. Because it requires clarity and legibility. And clarity and legibility undermine and attack perceive value and perceived cost.
+When a project delivers value that outweighs the risks and costs, it's flying. Initially that value is vague perceived value. But at some point, there has be a transition to actual value. This is the tricky phase on all projects. Because it requires clarity and legibility. And clarity and legibility undermine and attack perceive value and perceived cost.
 
 
 ## Why am I so angry with the people pushing these ideas? 
-So if this is the way that projects work? Why am I so angry with people who talk in terms of the shiny dream and the values? I also like to get paid, when I start a project I've pretty much no idea whether it will succeed or not. I'm part of the hiding hand. If the project is obviously going to be a failure, I can, and have walked away.
+So, if this is the way that projects work? Why am I so angry with people who talk in terms of the shiny dream and the values? I also like to get paid. when I start a project, I've pretty much no idea whether it will succeed or not. I'm part of the hiding hand. And part of my strategy is "Heads I win, tails you lose." I haven't gone down with every failing project that I've been involved in. If the project is obviously going to be a failure, I can, and have walked away.
 
-Part of my anger is that I'm trying to get the project to "fly" to generate enough "lift" from real value that it can succeed and have a life of it's own. 
+Part of my anger is that I'm trying to get the project to "fly" to generate enough "lift" from real value that it can succeed and have a life of its own. 
 
 ## The other end of this. What about Steve?
-Steve is my friend. Steve used to be a Scrum Master like me. Steve has been kicked upstairs. He now manages literally hundreds of Agile coaches adn scrum masters. Steve said something to me that was interesting. But I didn't like it, I didn't want to hear it. Steve said that he would be more impressed with Scrum masters if any of them were delivering their own software projects. But he didn't know of any who were. Why might that be? Because they don't have the skills, connections and courage to put together the first half of the project - the bit where people are willing to invest time, effort and money in something that is just a dream. We simply don't know what they're doing and why they're doing it.
+Steve is my friend. Steve used to be a Scrum Master like me. Steve has been kicked upstairs. He now manages literally hundreds of Agile coaches and scrum masters. Steve said something to me that was interesting. But I didn't like it, I didn't want to hear it. Steve said that he would be more impressed with Scrum masters if any of them were delivering their own software projects. But he didn't know of any who were. Why might that be? Because they don't have the skills, connections and courage to put together the first half of the project - the bit where people are willing to invest time, effort and money in something that is just a dream? That don't have whatever it takes to say, "fuck it." Is that it?
 
-Or I don't.
+Another reason of course is that they're too emotionally invested in the reality end.
 
-So maybe the way through this is to get on the other end. 
+These things are in opposition in projects.
+
+Dream - reality.
+Expenditure - revenue.
+All - some.
+
+And now it's a bit more obvious why this book has such a contradictory title. Because it's trying to capture both ends of this see-saw.
+
+I think it goes the other way round.
+
+Impossible - delivery.
+
+And I want to write here "Money - sense."
+
+Because the phrase that's haunting me is the phrase by Buckminster Fuller - "you can either make money or sense."
+
+
+
+So maybe the way through this is to get on the other end.
+
+I was thinking, become a product owner. Indeed, it would be interesting to become a product owner. Because the product owner sits in the middle of this nonsense - sense contradiction. 
+
+Now I'm thinking that that isn't far enough back up the pipe. 
+
+What I'm also thinking is that maybe I need to go "Full spend-everything nonsense dreamer who wants it all and says fuck it." 
+
+Maybe I need to be that person.
+
+Another thought to blend into this mix is that the software that dominates the world at the moment, has been instigated by people who have sight of both sides of this divide. Mark Zuckerberg was a techie. Bill Gates was a techie. The two guys that built Google were techies. 
+
+
+ 
+
 
 ## Chapter 17 - Conclusion
 
