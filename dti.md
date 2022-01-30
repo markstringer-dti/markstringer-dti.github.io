@@ -2135,7 +2135,25 @@ Another thought to blend into this mix is that the software that dominates the w
  
 
 
-## Chapter 17 - Conclusion
+## Chapter 17 - Bullshit
+
+Project management is about the quality of the conversation.
+
+This is based on the work of Patsy Rhodenberg - but it also draws in probably lots of work about negotiation. 
+
+Project management is about the quality of the conversation.
+
+First circle - introspection. Either not talking, or talking to your self.
+
+Third circle - shouting pushing, presenting, performing.
+
+Second circle - genuine dialogue - each side is being changed by what the other side says.
+
+Here's what project management is about, it's about working to improve the quality of second circle conversation.
+
+And here's the really good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. 
+
+## Chapter 18 - Conclusion
 
 So, this book has discussed a lot of different ideas. A lot of different ways of looking at the world and specifically a lot of different ways of looking at projects. And, in the end, all of these different ideas boil down to a series of questions. Questions that you can ask yourself.  Questions that the team can ask itself. Questions that you could even possibly talk through with the client, if you have a close enough relationship. And the answers to these questions are mostly definite actions that can be taken to increase the chance of delivering your project.
 
@@ -2202,7 +2220,7 @@ Journalling
 Agile as a way of liberation
 You can make money or sense - Buckminster Fuller
 
-## Chapter 18 - Epilogue
+## Chapter 19 - Epilogue
 
 ### A Manifesto
 I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
