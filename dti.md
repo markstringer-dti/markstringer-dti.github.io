@@ -2162,6 +2162,7 @@ On the evolutionary function of sociopaths or Sooner or later, someone needs to 
 Chicken Soup for the Shirt
 Journalling
 Agile as a way of liberation
+You can make money or sense - Buckminster Fuller
 
 ## Chapter 18 - Epilogue
 
