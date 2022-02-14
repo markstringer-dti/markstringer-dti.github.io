@@ -2007,31 +2007,27 @@ But I've realised that it can't be avoided. Most projects simply won't get off t
 
 
 
-## Chapter 15 - Why Am I so Angry?
+## Chapter 15 - Scrum with Knobs On 
 
-So, full disclosure. I've been getting coaching. Full on Agile coaching of the don't say much and let the client work it out for themselves kind.
+### Concept
+Initially, instantiations of good ideas look a lot like each other. One car looks a lot like another. One aeroplane looks a lot like another. There's a central idea that works and everyone sticks to that. 
 
-I don't know how many sessions we've had, but it's more than ten. At the very end of my last session she asked me if she could "share" something with me. That's Agile coach speak for mentioning that she has an opinion.
+But then after a while, that central idea can be adapted in different ways. If you think of all the different kinds of cars that there can be. You can have really fast cars. Really stylish cars. You can have huge cars (like the dumper trucks that are used in quarries). The designers of cars start to realise that there are parameters that they can tweak. 
 
-And the thing she wanted to share with me was this. I'd started the coaching sessions with a problem. I still have that problem.  What was the problem. The problem was and still is that I find it difficult to talk to senior, "C-Level" people. 
+### Concrete Action
+On the projects that you work, there will be a tweaked version of Scrum, that will perform better that the "ideal" one that is generally talked about. It might be the length of the sprint. The world seems to have settled on two weeks, but the initial books talked about a month.
 
-The observation that she was making was that I had a lot of skills in project management, I had a lot of experience of project management. I clearly don't have any problem talking to her. I don't seem to have any problem talking with my team. So why do I have so much difficulty talking to "C-Level" people?
+It might be the depth of the backlog. Or the depth of the stories in the backlog. It might be how strongly you focus on finishing all the stories that were planned by the end of the sprint.
 
-And my answer, maybe it was too frank because it came then, right at the very end of an entire hour of being allowed to speak my brains was that when I'm talking to her, and most of the time when I'm talking to members of my team, I'm not angry. And almost all of the time when I'm talking to C-Level people who are involved in the projects that I'm working on, I am angry. What am I angry about?
+The team might have a huge long backlog. The team might have nearly no backlog at all.
 
-I'm not exactly sure. I think one thing that I'm annoyed about is that they don't want to listen to me, they are not doing the things that they need to do in order to make a project a success. Because of course, in a quite fundamental way, when a boss says that he or she wants a project to succeed but then does a number of things that will almost guarantee that a projectd won't succeed, they are lying.
+The team might have stories that are very detailed, with relatively strict criteria.
 
-And mixed in with the anger is shame. I'm ashamed that I'm angry.
+Another thing that might be very lax, or very tight, depending on the environment that you're in is the definition of done. 
 
-And now, writing this, mixed in with *that* is fear. Fear that there isn't any way to fix this, that this is always how I'm going to be in these situations. That there is no cure.
+### Connections
 
-What I want to be like is like Columbo. Mild mannered, polite, but gently pushing the matter towards its inevitable conclusion.
-
-I'm heartened by this quote from George Orwell. 
-
- "Writing a book is a horrible, exhausting struggle, like a long bout of some painful illness. One would never undertake such a thing if one were not driven by some demon whom one can neither resist or [sic] understand. For all one knows that demon is the same instinct that makes a baby squall for attention. And yet it is also true that one can write nothing readable unless one constantly struggles to efface one's personality. Good prose is like a window pane."  
-
-It's things like this that are keeping me going at the moment. That and an idea that I got from reading an article in an online magazine about art. Great creative breakthroughs come from trying on multiple different styles one after the other. 
+### Conclusions
 
 ## Chapter 16 - Bullshit
 
@@ -2135,7 +2131,7 @@ Another thought to blend into this mix is that the software that dominates the w
  
 
 
-## Chapter 17 - Bullshit
+## Chapter 17 - The Conversation 
 
 Project management is about the quality of the conversation.
 
@@ -2152,6 +2148,12 @@ Second circle - genuine dialogue - each side is being changed by what the other 
 Here's what project management is about, it's about working to improve the quality of second circle conversation.
 
 And here's the really good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. 
+
+But here's the really good news: if you focus on the quality of the conversation you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. Focusing on keeping the conversations as genuine dialogue. Now obviously all of the things that we've talked about investigation an understanding of the swamp, transparency, inspection, adaptation, all of these things are vital to improving the quality of that conversation.
+
+But also, it's useful to understand that in every organisation and possibly on every project the nature of this conversation will be different. In every organisation and possibly on every project you will need to start from the beginning and figure out what the language is for that conversation.
+
+
 
 ## Chapter 18 - Conclusion
 
@@ -2269,3 +2271,5 @@ Gary A. Klein Sources of Power: How People Make Decisions
 Venkatesh Rao - The Gervais Principle
 
 Chris Voss: Never Split the Difference - Negotiating as if Your Life Depended on It.
+
+Genrich Altshuller: The Innovation Algorithm: TRIZ, systematic innovation and technical creativity.
