@@ -2029,7 +2029,33 @@ Another thing that might be very lax, or very tight, depending on the environmen
 
 ### Conclusions
 
-## Chapter 16 - Bullshit
+## Chapter 16 - Why Am I so Angry?
+
+So, full disclosure. I've been getting coaching. Full on Agile coaching of the don't say much and let the client work it out for themselves kind.
+
+I don't know how many sessions we've had, but it's more than ten. At the very end of my last session she asked me if she could "share" something with me. That's Agile coach speak for mentioning that she has an opinion.
+
+And the thing she wanted to share with me was this. I'd started the coaching sessions with a problem. I still have that problem.  What was the problem. The problem was and still is that I find it difficult to talk to senior, "C-Level" people. 
+
+The observation that she was making was that I had a lot of skills in project management, I had a lot of experience of project management. I clearly don't have any problem talking to her. I don't seem to have any problem talking with my team. So why do I have so much difficulty talking to "C-Level" people?
+
+And my answer, maybe it was too frank because it came then, right at the very end of an entire hour of being allowed to speak my brains was that when I'm talking to her, and most of the time when I'm talking to members of my team, I'm not angry. And almost all of the time when I'm talking to C-Level people who are involved in the projects that I'm working on, I am angry. What am I angry about?
+
+I'm not exactly sure. I think one thing that I'm annoyed about is that they don't want to listen to me, they are not doing the things that they need to do in order to make a project a success. Because of course, in a quite fundamental way, when a boss says that he or she wants a project to succeed but then does a number of things that will almost guarantee that a projectd won't succeed, they are lying.
+
+And mixed in with the anger is shame. I'm ashamed that I'm angry.
+
+And now, writing this, mixed in with *that* is fear. Fear that there isn't any way to fix this, that this is always how I'm going to be in these situations. That there is no cure.
+
+What I want to be like is like Columbo. Mild mannered, polite, but gently pushing the matter towards its inevitable conclusion.
+
+I'm heartened by this quote from George Orwell. 
+
+ "Writing a book is a horrible, exhausting struggle, like a long bout of some painful illness. One would never undertake such a thing if one were not driven by some demon whom one can neither resist or [sic] understand. For all one knows that demon is the same instinct that makes a baby squall for attention. And yet it is also true that one can write nothing readable unless one constantly struggles to efface one's personality. Good prose is like a window pane."  
+
+It's things like this that are keeping me going at the moment. That and an idea that I got from reading an article in an online magazine about art. Great creative breakthroughs come from trying on multiple different styles one after the other. 
+
+## Chapter 17 - Bullshit
 
 ### Bullshit
 You have to tell them something. And it has to be something shiny.  But those are the things that you have to care about most. You don't have to worry so much about it being true. In fact you don't have to worry at all about it being true. Bullshit isn't designed to play in the world. Bullshit is design to play in the truncated, limited resolution, limited imagination, model of the world that sits in people's heads. 
@@ -2131,7 +2157,7 @@ Another thought to blend into this mix is that the software that dominates the w
  
 
 
-## Chapter 17 - The Conversation 
+## Chapter 18 - The Conversation 
 
 Project management is about the quality of the conversation.
 
@@ -2155,7 +2181,7 @@ But also, it's useful to understand that in every organisation and possibly on e
 
 
 
-## Chapter 18 - Conclusion
+## Chapter 19 - Conclusion
 
 So, this book has discussed a lot of different ideas. A lot of different ways of looking at the world and specifically a lot of different ways of looking at projects. And, in the end, all of these different ideas boil down to a series of questions. Questions that you can ask yourself.  Questions that the team can ask itself. Questions that you could even possibly talk through with the client, if you have a close enough relationship. And the answers to these questions are mostly definite actions that can be taken to increase the chance of delivering your project.
 
@@ -2222,7 +2248,7 @@ Journalling
 Agile as a way of liberation
 You can make money or sense - Buckminster Fuller
 
-## Chapter 19 - Epilogue
+## Chapter 20 - Epilogue
 
 ### A Manifesto
 I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
