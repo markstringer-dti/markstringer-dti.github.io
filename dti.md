@@ -2181,7 +2181,42 @@ But also, it's useful to understand that in every organisation and possibly on e
 
 
 
-## Chapter 19 - Conclusion
+## Chapter 19 - Harm Reduction - Safe drugs, safe sex, safe SAFE
+
+### Connection
+This chapter might sound a bit crazy. It's drawing parrallels between drug addiction, unsafe sexual practices and project management. That sounds crazy right? 
+
+### Concept
+If people want to do something because they like how it makes them feel, they will do it, almost no matter what the ultimate consequences. If people people want to do something because they don't like how *not* doing it makes them feel. they will do that, no matter what the long-term consequences. 
+
+Part of the reason for this is the relationship between the delayed gratification and the instant gratification.
+
+On the one hand there is the long life free form sexual disease. On the other hand, there is a quick fuck.
+
+On the one hand there is a healthy old age free from self-inflicted psychological and neurological problems. On the other hand, there is a chance to get totally out of it and forget all of your immediate problems. 
+
+On the one hand...
+
+Does this even work for software development? Am I pushing a metaphor just too far? 
+
+What's the risky behaviour? The risky behaviour is buying dreams. Persuading others to buy dreams. That doesn't sound that bad does it? 
+
+And what's the "safe" behaviour. The safe behaviour is iteratively and incrementally trying to implement those dreams. The safe behaviour is modifying the dream in light of actual experience. The safe behaviours are the things that we talked about right at the beginning of the book. Tackling the Pirate ship: Understanding what the big threats to the project are and tackling them. Understanding the swamp and the swamp dwellers. Understanding the values and needs of the people who are funding this system, the people who might regulate this system and most importantly the people who might use the system.
+
+But there are other dangerous behaviours which don't relate to the immediate moment of gratification. And as with other kinds of areas where people are tempted to behave riskily, these have to do with bad news, contraindications.
+
+If you're a senior person who has instigate a project, what do you do when that is showing signs of going wrong? Do you ignore it, and hope it will go away? Do you try to front it out with positivity? Or do you take it seriously, get tested and understand that the results of those tests might require a change in behaviour?
+
+### Concrete example
+To some degree, the project management method SAFE is about instant gratification. SAFE is design to appeal directly to senior managers. This is the message that SAFE whispers in the ears of senior managers. "If you pay lots of money for an army of SAFE-trained and certified coaches, you can have ideas for entire programmes of work and then can be implement the way that you think that programmes of work should be implemented - top down."
+
+This is the thing that it's taken me way too long, like a billion years, which his how long my project management career feels to have lasted up to this point. 
+
+You can't stop senior people engaging in "dangerous" behaviour. 
+
+### Conclusion
+
+## Chapter 20 - Conclusion
 
 So, this book has discussed a lot of different ideas. A lot of different ways of looking at the world and specifically a lot of different ways of looking at projects. And, in the end, all of these different ideas boil down to a series of questions. Questions that you can ask yourself.  Questions that the team can ask itself. Questions that you could even possibly talk through with the client, if you have a close enough relationship. And the answers to these questions are mostly definite actions that can be taken to increase the chance of delivering your project.
 
@@ -2248,7 +2283,7 @@ Journalling
 Agile as a way of liberation
 You can make money or sense - Buckminster Fuller
 
-## Chapter 20 - Epilogue
+## Chapter 21 - Epilogue
 
 ### A Manifesto
 I want to help you and me, get to the point where we're all more confident that we can deliver the seemingly impossible. That's going to be a long trip. On that way, I want to be a reliable guide. So, to help keep myself straight, and to reassure you somewhat here's my manifesto.
