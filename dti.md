@@ -2012,12 +2012,34 @@ But I've realised that it can't be avoided. Most projects simply won't get off t
 ### Concept
 Initially, instantiations of good ideas look a lot like each other. One car looks a lot like another. One aeroplane looks a lot like another. There's a central idea that works and everyone sticks to that. 
 
-But then after a while, that central idea can be adapted in different ways. If you think of all the different kinds of cars that there can be. You can have really fast cars. Really stylish cars. You can have huge cars (like the dumper trucks that are used in quarries). The designers of cars start to realise that there are parameters that they can tweak. 
+But then after a while, that central idea gets adapted in different ways. If you think of all the different kinds of cars that there can be. You can have really fast cars. Really stylish cars. You can have huge cars (like the dumper trucks that are used in quarries). The designers of cars start to realise that there are parameters that they can tweak. 
 
 ### Concrete Action
-On the projects that you work, there will be a tweaked version of Scrum, that will perform better that the "ideal" one that is generally talked about. It might be the length of the sprint. The world seems to have settled on two weeks, but the initial books talked about a month.
+On the projects that you work, there will be a tweaked version of Scrum, that will perform better that the "ideal" one that is generally talked about. It might be the length of the sprint. The world seems to have settled on two weeks, but the initial books talked about a month. For some projects the best sprint length might be a week. It's probably best if it's a whole number of weeks. I've seen projects that have tried a different number of days. An awful lot of time then ends up being spend trying to figure out when the current sprint starts and when it ends.
 
-It might be the depth of the backlog. Or the depth of the stories in the backlog. It might be how strongly you focus on finishing all the stories that were planned by the end of the sprint.
+And of course you can dispense with that "cadence" completely, or have daily sprints. I'm only really comfortable using daily sprints with teams that are working on support projects where it's possibly that urgent things might come in at any time that will need to be dealy with immediately.
+
+So, the length of sprint. That's definitely a knob on the scrum. Once you realise that it's a knob, you can talk together as a team about changing it. 
+
+Another knob that you can turn is the the depth of the backlog. What do I mean by that? I mean how long is the list of stories, issues, backlog items, whatever you want to call them. How long is the list of things that need to be done on the project? On some projects, this list will be everything that anyone can imagine being part of the project. One some projects, it will be only a list of things necessary for the project to go live. On some projects it might be a very short backlog. While the current sprint is running, what's going to go into the backlog for the next sprint is still being discussed. 
+
+And of course, both kinds of backlog have benefits. A long backlog that captures either everything that needs to be delivered, or everything that could be delivered, gives a sense of completeness. It's also relatively easy to use backlogs like this to predict when a project is going to be delivered, and to negotiate changes in deadline or changes in scope.
+
+Alternatively, working off a shortbacklog is useful for projects that are trying to negotiate uncertain times. The allow a team to change direction quickly and to incorporate new ideas.
+
+Reliability, dependablity, manoeuvrability. These are things that are valued in cars, and in projects. But in cars and in projects they're realised in *different* cars, with different parameters.
+
+There's also another knob on the backlog. Actually it might be two. That's the required depth of detail and maturity in it's stories. Sometimes this is known as the definition of ready. 
+
+How complex and detailed the definition of ready is, is something that can vary. It's a knob. On some projects the definition of ready may need to be *very* detailed indeed. Maybe all the content needs to have been combed by lawyers before it can be put in the story. Maybe a list of acceptance criteria and conditions of satisfaction need to be there so that the tests to test the story are being written at the same time as the story is being developed. Maybe the story needs to go through a whole bunch of different refinement stages (User research, design) before it's actually ready to be "developed."
+
+Maybe. But maybe a story can be a single line. Each approach has its advantages and disadvantages. There is a level of detail which is "just right" for a stroy which will mean that the story encounters the minimum of trouble as it goes through development. But the definition of ready can get so complex that no story is ever "ready." And progress grinds to a halt. The description of the story can be so vague that no one knows what it means. But lightweight descriptions can also mean that *something* gets developed quickly which users can respond to, bugs can get fixed on and genuine value can be delivered. 
+
+Beyond agreement about how detailed any given story should be, there's a separate discussion about the gradient of this detail?
+
+What? How many stories are fully detailed? How many stories are partially detailed? How many stories have no detail at all?
+
+Or the depth of the stories in the backlog. It might be how strongly you focus on finishing all the stories that were planned by the end of the sprint.
 
 The team might have a huge long backlog. The team might have nearly no backlog at all.
 
@@ -2028,6 +2050,8 @@ Another thing that might be very lax, or very tight, depending on the environmen
 ### Connections
 
 ### Conclusions
+
+When you've identified all of the knobs on a project, the collection of knobs is a control surface.
 
 ## Chapter 16 - Why Am I so Angry?
 
@@ -2208,11 +2232,13 @@ But there are other dangerous behaviours which don't relate to the immediate mom
 If you're a senior person who has instigate a project, what do you do when that is showing signs of going wrong? Do you ignore it, and hope it will go away? Do you try to front it out with positivity? Or do you take it seriously, get tested and understand that the results of those tests might require a change in behaviour?
 
 ### Concrete example
-To some degree, the project management method SAFE is about instant gratification. SAFE is design to appeal directly to senior managers. This is the message that SAFE whispers in the ears of senior managers. "If you pay lots of money for an army of SAFE-trained and certified coaches, you can have ideas for entire programmes of work and then can be implement the way that you think that programmes of work should be implemented - top down."
+To some degree, the project management method SAFE is about instant gratification. SAFE is design to appeal directly to senior managers. I have reeled in horror at the hypnotic look that senior managers get on their face when they talk about SAFE. 
+
+This is the message that SAFE whispers in the ears of senior managers. "If you pay lots of money for an army of SAFE-trained and certified coaches, you can have ideas for entire programmes of work and then can be implement the way that you think that programmes of work should be implemented - top down and waterfall."
 
 This is the thing that it's taken me way too long, like a billion years, which his how long my project management career feels to have lasted up to this point. 
 
-You can't stop senior people engaging in "dangerous" behaviour. 
+You can't stop senior people engaging in "dangerous" behaviour. And in software development, please turn off your irony metres, one of the most dangerous behavours is called "SAFE".
 
 ### Conclusion
 
