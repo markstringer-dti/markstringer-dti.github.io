@@ -2100,7 +2100,9 @@ The reason that we can get away with this is something called "bounded rationali
 
 ### The hiding hand
 
-And as a society, as a *species* we're curiously, sometimes terrifyingly, tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these projects were set up in ways that made them extremely unlikely to succeed, but he noticed that, even so, the people who were working on these projects would downplay the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." Referring back to the economist Adam Smith's notion of a "guiding hand" which means that products naturally find their price in a market without any particular person or organisation making the decision.
+And as a society, as a *species* we're curiously, sometimes terrifyingly, tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these projects were set up in ways that made them unlikely to succeed. But he noticed that, even so, the people who were working on these projects would downplay the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." This is a reference to a phrase used by an early economist, Adam Smith. His idea was that a "guiding hand" seemed to be deciding the price of products in a market. Of course this isn't really what's happening. Where there is a shortage of something, prices go up, when there's a glut prices go down. But it seems like there's a single force that's deciding the price. 
+
+Hirschman's suggestion is that something similar is happening when projects get started.
 
 ### Legibility
 
