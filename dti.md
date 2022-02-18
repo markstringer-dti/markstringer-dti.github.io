@@ -215,7 +215,7 @@ Person 1: Hello! I've brought you a cabbage.
 
 OK, now we've reached a key stage in the drama. Because Person 2 has lots of different things that they could say. Person 2 could be happy that Person 1 had brought them a cabbage. 
 
-Person 1: Oh! You remembered that this is the week that I make all my Kimchi! Oh darling! You're so thoughtful.
+Person 1: Oh! You remembered that this is the week that I make all my Kimchi! Oh my dear! You're so thoughtful.
 
 Or they can be angry that Person 2 has brought a cabbage.
 
@@ -390,7 +390,7 @@ So, what does this idea of "agreed activity" mean for our overall aim of deliver
 
 Well, it means something simple. If you work to discover the problems that your project is facing you will find them. If you then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are possible. This gives you the best chance of delivering them.
 
-This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improv shows boring? It's the same impulse that makes difficult but possible software projects impossible.
+This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improv shows boring? It's the same thinking that makes difficult but possible software projects turn into impossible projects.
 
 Why? Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of a job that they can't do? Maybe it means that someone hired the wrong people.
 
@@ -2055,7 +2055,7 @@ When you've identified all of the knobs on a project, the collection of knobs is
 
 ## Chapter 16 - Why Am I so Angry?
 
-So, full disclosure. I've been getting coaching. Full on Agile coaching of the don't say much and let the client work it out for themselves kind.
+Let me be completely open with you. I've been getting coaching. Full on Agile coaching of the don't say much and let the client work it out for themselves kind.
 
 I don't know how many sessions we've had, but it's more than ten. At the very end of my last session she asked me if she could "share" something with me. That's Agile coach speak for mentioning that she has an opinion.
 
@@ -2100,7 +2100,7 @@ The reason that we can get away with this is something called "bounded rationali
 
 ### The hiding hand
 
-And as a society, as a *species* we're curiously, sometimes terrifyingly, tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these projects were set up in ways that made them unlikely to succeed. But he noticed that, even so, the people who were working on these projects would downplay the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." This is a reference to a phrase used by an early economist, Adam Smith. His idea was that a "guiding hand" seemed to be deciding the price of products in a market. Of course this isn't really what's happening. Where there is a shortage of something, prices go up, when there's a glut prices go down. But it seems like there's a single force that's deciding the price. 
+And as a society, as a *species* we're curiously, sometimes terrifyingly, tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these projects were set up in ways that made them unlikely to succeed. But he noticed that, even so, the people who were working on these projects would play down the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." This is a reference to a phrase used by an early economist, Adam Smith. His idea was that a "guiding hand" seemed to be deciding the price of products in a market. Of course this isn't really what's happening. Where there is a shortage of something, prices go up, when there's a glut prices go down. But it seems like there's a single force that's deciding the price. 
 
 Hirschman's suggestion is that something similar is happening when projects get started.
 
@@ -2163,7 +2163,7 @@ Impossible - delivery.
 
 And I want to write here "Money - sense."
 
-Because the phrase that's haunting me is the phrase by Buckminster Fuller - "you can either make money or sense."
+Because the phrase that keeps coming back to me is by Buckminster Fuller - "you can either make money or sense."
 
 
 
