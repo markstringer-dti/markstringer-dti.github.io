@@ -2213,47 +2213,55 @@ But also, it's useful to understand that in every organisation and possibly on e
 This chapter might sound a bit crazy. It's drawing parrallels between drug addiction, unsafe sexual practices and project management. That sounds crazy right? And yes, I am being a bit dramatic. Most projects don't result in death if they go wrong. But they can result in extreme expense. And they can be very miserable to work on. 
 
 ### Concept
-If people want to do something because they like how it makes them feel, they will do it, almost no matter what the ultimate consequences. If people people want not to do something because they don't like how *not* doing it makes them feel. they will do that, no matter what the long-term consequences. 
+If people want to do something because they like how it makes them feel, they will do it, almost no matter what the ultimate consequences. If people want to avoid doing something because they don't like how doing it makes them feel, they will do that, no matter what the consequences. 
 
 Part of the reason for this is the relationship between the delayed gratification and the instant gratification.
 
-On the one hand there is the long life free form sexual disease. On the other hand, there is a quick fuck.
+On the one hand there is the long life free from sexual disease. On the other hand, there is a quick fuck.
 
 On the one hand there is a healthy old age free from self-inflicted psychological and neurological problems. On the other hand, there is a chance to get totally out of it and forget all of your immediate problems. 
 
 On the one hand...
 
-Does this even work for software development? Am I pushing a metaphor just too far? What's the huge payoff? The huge, instant payoff is in being able to pretend that your problem is solved. That this new thing will solve, if not all your problems, then a lot of them. That this new thing will make the company a lot of money, save the government department a lot of criticism and boring manual processing. Make the reputation of the CTO, allow the company to be sold off for millions.
+Does this even work for software development? Am I pushing a metaphor just too far? What's the huge payoff? The huge, instant payoff is in being able to pretend that your problem is solved. That this new thing will solve, if not all your problems, then a lot of them. That this new thing will make the company a lot of money, save the government department a lot of criticism and boring manual processing. Make the reputation of the CEO or founder, allow the company to be sold off for millions.
 
-What's the risky behaviour? The risky behaviour is buying dreams. Persuading others to buy dreams. That doesn't sound that bad does it? 
+What's the risky behaviour? The risky behaviour is buying dreams. Persuading others to buy dreams. That doesn't sound that so bad does it? 
 
 And what's the "safe" behaviour. The safe behaviour is iteratively and incrementally trying to implement those dreams. The safe behaviour is modifying the dream in light of actual experience. The safe behaviours are the things that we talked about right at the beginning of the book. Tackling the Pirate ship: Understanding what the big threats to the project are and tackling them. Understanding the swamp and the swamp dwellers. Understanding the values and needs of the people who are funding this system, the people who might regulate this system and most importantly the people who might use the system.
 
-But there are other dangerous behaviours which don't relate to the immediate moment of gratification. And as with other kinds of areas where people are tempted to behave riskily, these have to do with bad news, contraindications.
+But there are other dangerous behaviours which don't relate to the immediate moment of gratification. And as with other areas where people are tempted to behave riskily, these have to do with bad news, contraindications.
 
-If you're a senior person who has instigate a project, what do you do when that project is showing signs of going wrong? Do you ignore it, and hope it will go away? Do you try to front it out with positivity? Or do you take it seriously, get tested and understand that the results of those tests might require a change in behaviour?
+If you're a senior person who has started a project, what do you do when that project is showing signs of going wrong? Do you ignore it, and hope it will go away? Do you try to front it out with positivity? Or do you take it seriously, get tested and understand that the results of those tests might require a change in behaviour?
 
 ### Concrete example
 To some degree, the project management method SAFE is about instant gratification. SAFE is design to appeal directly to senior managers. I have seen the hypnotic look that senior managers get on their face when they talk about SAFE. 
 
-This is the message that SAFE whispers in the ears of senior managers. "If you pay lots of money for an army of SAFE-trained and certified coaches, you can have ideas for entire programmes of work and they can be implement the way that you think that programmes of work should be implemented - top down and waterfall.  You give the orders, they're obeyed."
+This is the message that SAFE whispers in the ears of senior managers. "If you pay lots of money for an army of SAFE-trained and certified coaches, you can have ideas for entire programmes of work and they can be implemented the way that you think that programmes of work should be implemented - top down and waterfall.  You give the orders, they're obeyed."
 
-This is the thing that it's taken me way too long to realise, like a billion years, which his how long my project management career feels to have lasted up to this point. 
+This is the thing that it's taken me way too long to realise, like a billion years, which is how long my project management career feels to have lasted up to this point. 
 
-You can't stop senior people engaging in "dangerous" behaviour. And in software development, please turn off your irony metres, because one of the most dangerous behavours is called "SAFE".
+You can't stop senior people engaging in "dangerous" behaviour. And in software development, please turn off your irony metres, because one of the most dangerous behaviours is called "SAFE".
 
-Why is SAFE so dangerous? Is there anything that can be done about it? SAFE is dangerous mainly, because in breing such a exquisitely fashion boardroom sales pitch, it deliberately ignores the most important thing about any agile method. Feeback. Inspection and adaptation. Responding to change instead of following a plan.
+Why is SAFE so dangerous? Is there anything that can be done about it? SAFE is dangerous mainly, because in being such an exquisitely fashion boardroom sales pitch, it deliberately ignores the most important thing about any agile method. Feeback. Inspection and adaptation. Responding to change instead of following a plan.
 
-What if you think about the organisation as a brain. Let's say for now, just to simplify things, that this brain is just controling one arm. Sure *control* consists of being able to tell the arm to move forward, lift up and crucially, to grab things. But if you're getting a robot arm to pick up something - like, say, a cup, the robot arm nees *feedback*. It needs to know when it's touched the cup. In order to pick the cup up, it needs to know when it's exerting enough pressure on the cup to get a grip and it needs to stop exerting pressure before it breaks the cup to smithereens. And as it lift the cup up, it probably doesn't want to spill whatever is in the cup, which probably means that it needs to move at a different speed, and with a different pattern of acceleration depending on how heavy the cup is, and what kind of liquid is in the cup (so now we might be thinking that it isn't enough to have pressure sensors on the fingers and weight sensors in the muscles, it also might be good to have some visual sensors).
+What if you think about the organisation as a brain. Let's say for now, just to simplify things, that this brain is just controlling one arm. Sure *control* consists of being able to tell the arm to move forward, lift up and crucially, to grab things. But if you're getting a robot arm to pick up something - like, say, a cup, the robot arm needs *feedback*. It needs to know when it's touched the cup. To pick the cup up, it needs to know when it's exerting enough pressure on the cup to get a grip and it needs to stop exerting pressure before it breaks the cup to smithereens. And as it lift the cup up, it probably doesn't want to spill whatever is in the cup, which probably means that it needs to move at a different speed, and with a different pattern of acceleration depending on how heavy the cup is, and what kind of liquid is in the cup. So now we might be thinking that it isn't enough to have pressure sensors on the fingers and weight sensors in the muscles, it also might be good to have some visual sensors. And also some high-level analysis of what we're getting from the sensors.
 
-OK, that was just one arm. Imagine that you're trying to control an octopus. Eight arms. Or a really big organisation 20 arms, 100 arms. What if you design a structure to send out instructions to those arms and this structure doesn't involve any feeback? There are no sensors, no sense of touch. No sense of smell. No proprioception. One arm, literally does not know what the other is doing. When one arm is punching into the side of the other, neither knows what's happening (no sense of touch, no sense of proprioception). When one arm knocks over a naked flame and starts a fire, the arm can't hear the noise that it's knocked something over, it can't smell the smoke and one of the other arms doesn't know that it's burning.
+OK, that was just one arm. Imagine that you're trying to control an octopus. Eight arms. Or a really big organisation 20 arms, 100 arms. What if you design a structure to send out instructions to those arms and this structure doesn't involve any feedback? There are no sensors, no sense of touch. No sense of smell. No proprioception. One arm, literally does not know what the other is doing. When one arm is punching into the side of the other, neither knows what's happening (no sense of touch, no sense of proprioception). When one arm knocks over a naked flame and starts a fire, the arm can't hear the noise that it's knocked something over, it can't smell the smoke and one of the other arms doesn't know that it's burning.
 
 SAFE, as it's advocated in the diagrams that sell SAFE, is, literally, senseless.
 
-
-
 ### Conclusion
+This is what's missing from SAFE. A discussion about feedback. Why? 
 
+Do feedback loops look scary? Do they put off the decisions makes who buy SAFE? Let's imagine for a moment that the SAFE marketing process is trance induction (and the expression that I've seen on senior manager's faces when they talk about it rather makes me think that it is). The waterfall top-down diagram is matching the senior manager's thinking about how a project should work. 
+
+If we add feedback loops to this diagram. If we suggest that the senior manager's initial idea about how a project will work might need correction. If we suggest that the direct result of trying to do things will be evidence that trying to do that thing is experiencing problems, we're bringing that senior manager out of trance. 
+
+Do you know what this reminds me of? Although, I feel slightly crazy saying it, it reminds me of the objections to condoms, that involving condoms in the "love making" process somehow spoil the moment. 
+
+I don't know anything about heroin users. But maybe there's a similar objection with heroin users. There's camaraderie to sharing needles. Going and getting clean needles from a clinic is, well, clinical and also, going and getting needles from a clinic means admitting that you have a problem.
+
+So the challenge, is to get horny people, drug takers and senior executives, to incorporate safe practices into their risk taking. 
 
 ## Chapter 20 - Conclusion
 
