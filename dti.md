@@ -19,7 +19,7 @@ How about this? You are working on a project. You're a member of the project tea
 
 You're not quite sure when this happened. But at some point, someone told someone that the project would be finished by a certain date (probably Christmas). Instinctively, you know that your team can't deliver it. 
 
-Maybe it's worse than that, maybe you still don't even know what needs to be delivered. People are telling you that the project needs to be finished by a certain date, but when you, or your team try to get a definitive answer of what finished would mean, you don't get the answers you need. 
+Maybe it's worse than that, maybe you still don't even know what needs to be delivered. People are telling you that the project needs to be finished by a certain date. But when you, or your team try to get a definitive answer of what finished would mean, you don't get the answers you need. 
 
 Even if you do know what should be delivered, you're certain that your team can't deliver it on time.
 
@@ -41,7 +41,7 @@ Well, part of the reason for not giving up is that you know that a lot of things
 
 The software pioneer Alan Kay said, "Point of view is worth 80 IQ points." If you can only figure out the right way to look at something, you can do much cleverer things. This book shows the reader a number of different ways of looking at the problem of project management.
 
-So, you might expect a book called "Delivering the Impossible" to have a bunch of different ways of looking at problem projects, even the ones that seem totally impossible.  
+So, you might expect a book called "Delivering the Impossible" to have a bunch of different ways of looking at problem projects.  You might even expect some useful ways of looking at the ones that seem totally impossible.  
 
 What you would like and expect from a book titled "Delivering the Impossible" is some kind of guide.  You'd expect some kind of handbook for dealing with projects that seem impossible.
 
@@ -60,19 +60,19 @@ My experience is that knowing what you're doing isn't that different from having
 
 The reason for describing these different points of view is to make good on Alan Kay's claim. The aim is to make you much smarter, to make you feel like you "know what you're doing" when it comes to managing projects.
 
-And in this way, this isn't like most books that offer to improve your success at project management. Most books like that suggest a particular Agile method. For example, Scrum [Ref], or Extreme Programming [Ref]. Other books talk about how to coach teams in the use of these methods. Other books talk about a particular part of the Agile process. It could be writing "user stories" or running retrospectives. And obviously, there are books that focus on the technical aspects of the process, test driven development [Ref], Dev Ops[Ref], continuous integration[Ref]. 
+And in this way, this isn't like most books that offer to improve your success at project management. Most books like that suggest a particular Agile method. For example, Scrum [Ref], or Extreme Programming [Ref]. Other books talk about how to coach teams in the use of these methods. Other books talk about a particular part of the Agile process. It could be writing "user stories" or running retrospectives. And there are books that focus on the technical aspects of the process. You can read test driven development and while you're there wonder how ofter it is "honoured more in the breach that the observance [Ref]. You can read about Dev Ops[Ref] and continuous integration[Ref]. 
 
 I'm not knocking these books. Some of those books are brilliant and I've referenced some of the ones that I like best in the bibliography. But I don't think they're enough. 
 
 Following an Agile method like Scrum is a good way of improving your chances of project success. It's what I almost always do if I'm in charge of delivering a software development project.
 
-And Scrum works best when it's combined with XP engineering practices. Some form of automated test coverage, continuous integration and continuous delivery.
+And Scrum works best when it's combined with XP engineering practices. For software development, it's not really going to work at all unless it's combined with some form of automated test coverage. And then on top of that you probably also need continuous integration and continuous delivery.
 
 And if you haven't done this before as a team, you are going to need some outside help. It is really hard just to learn it from books.  Bringing in an Agile coach, somebody who has done it before will seriously improve your chances of success.
 
 But unfortunately, this isn't enough either. You need to do more than this if your project has any realistic chance of doing well. You need to develop the ability see things from different points of view. And, having developed that ability, you need to be able to act, and help and inspire others to act on what you see. 
 
-OK, I think it's time for a real example of what I'm talking about. In the next chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to be able to notice when you and your team are agreeing to ignore the big issues and just keep repeatedly doing something simple and safe. 
+OK, I think it's time for a real example of what I'm talking about. In the next chapter, I talk about pirate ships and "agreed activity".  I talk about how you need to notice when you and your team are agreeing to ignore the big issues. You need to spot when you are all repeatedly doing something simple and safe, because in the end this can be very dangerous. 
 
 I talk about how you need to stop your team mopping the decks. Rather you need to help them to look at the horizon and face the approaching pirate ship.
 
@@ -93,7 +93,7 @@ Part of what I want to show you in this book is that now is the time. Well, now 
 
 We've needed better ways of thinking about software projects since the 1940's. Humans have been writing software for at least 75 years and we're still not very good at it. That is because it is very hard.
 
-I remember listening to an explanation of a "Waterfall" approach to project management. Waterfall is the traditional approach to project management that was regarded as the absolute best way of managing projects until very, very recently. There was just one problem with it. It was hardly ever a success.
+I remember listening to an explanation of a "Waterfall" approach to project management. Waterfall is the traditional approach to project management. It was regarded as the absolute best way of managing projects until very recently. There was just one problem with it. It was hardly ever a success.
 
 My first job was the mid nineteen nineties. I remember thinking "this will never work." And I soon saw that it didn't.
 
@@ -117,13 +117,13 @@ Stages four and five. Then came separate stages of internal and then external "f
 
 [To here]
 
-Unfortunately, the first two projects that I worked on went through an extra stage between testing with users and launch. What was that extra stage? Litigation.  
+Unfortunately, the first two projects that I worked on went through an extra stage between testing with users and launch. What was that extra stage? It was litigation.  
 
 When the customers finally got to see the final product of what they'd asked for it was months, if not years after they'd made their original request. And it often turned out that it wasn't what they wanted. 
 
 This could be for a lot of different reasons. 
 
-In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that the requirements in the specification document hadn't captured what the users wanted. In fact, it's almost impossible that what had been written in that original document had adequately captured what the customer wanted at the time.
+In the two years since they'd specified the project, it's possible the world had changed. But it's also possible that specification document hadn't captured what the users wanted. In fact, it's almost impossible that it did.
 
 But now, two years had passed. The customer had had two years to think about it and they'd almost always changed their minds. It's also possible the users couldn't describe exactly what they wanted. At least not in one single document. What the users had asked for had gone through several stages of work. The systems designers and developers had done their bit. That had been followed by internal testers and then finally testers working for the customer. By the time that it had got to the end of that pipe, it's not surprising that things had gone a bit wrong. 
 
@@ -137,7 +137,7 @@ So, one answer to the question of "Why do we need this book now" is "Because we 
 
 We could and should have been doing this right from the beginning. And in the most extreme circumstances after a lot of time and expense, under threat of legal action, we kind of were.
 
-Seventy-five years ago, it would have been great for us to have really got the hang of delivering software projects. Still, it's better late than never. Because being good at writing software has never been a more important competitive advantage for organisations, teams, even individuals. Being good at developing software that customers want, that is genuinely valuable to them, it in a timely manner has never been more valuable. Being at software development, has become a way of, literally, conquering the world.
+Seventy-five years ago, it would have been great for us to have really got the hang of delivering software projects. Still, it's better late than never. Being good at writing software has never been a more important competitive advantage. Organisations, teams, even individuals it really helps to be good at writing software. Being good at developing software that customers want, that is genuinely valuable to them, it in a timely manner has never been more valuable. Being good at software development, has become a way of, literally, conquering the world.
 
 Am I overstating things a bit? I don't think I am. As Marc Andreessen pointed out more than ten years ago, software is eating everything. And since he wrote that article, software has increased its appetite. It's taken huge bites out of sex and dating, politics, social life, music and television. Some companies are good at developing software - Amazon, Facebook, Google, Alibaba. And some of those companies are now more powerful than some governments.
 
@@ -146,7 +146,7 @@ So, if you're interested in being good at something, or world domination, gettin
 But ironically, the craft of managing software delivery doesn't seem to be so susceptible to being eaten by software. It remains a resolutely human pursuit.
 
 ### Why me?
-OK. Let's say that you believe me, that you agree that now is a good time to get very good at software development, and that that includes managing software development. Why should you listen to me? 
+OK. Let's say that you believe me. You agree that now is a good time to get very good at software development. You realise that that also includes managing software development. Why should you listen to me? 
 
 Well, I've been working in the software development industry since 1994. First as a developer, writing software for oil companies, the military and then a new-fangled thing called the internet. Then I worked as a researcher, first for Xerox, then for Cambridge University. 
 
@@ -192,7 +192,7 @@ Finally, if you don't read this book, there's a good chance you're going to feel
 
 Why? because if you don't read this book, you probably won't know about how wrong and damaging the metaphor of "Project management as keeping a promise" (Chapter [N] really is and what you can do to escape its evil clutches.
 
-Ok - you might ask, so what would be so much better if I *did* read this book? Well, if you read this book, you would know about "agreed activity" because we talk about in chapter [N]. This means that in the early stages of the project, as you and your team start to encounter problems, you would try to "televise" those problems - make them obvious to everyone who needs to know. That way, whoever is in the best position to solve them would be given the best opportunity. If you've read this book, you would also know about the swamp (chapter [N]). That means that you'd have involved in your team some people who were doing not only user research, but stakeholder research. 
+Ok - you might ask, so what would be so much better if I *did* read this book? Well, if you read this book, you would know about "agreed activity" because we talk about in chapter [N]. This means that in the early stages of the project, as you and your team start to encounter problems, you would try to "televise" those problems. You would make them obvious to everyone who needs to know. That way, whoever is in the best position to solve them would be given the best opportunity. If you've read this book, you would also know about the swamp (chapter [N]). That means that you'd have involved in your team some people who were doing not only user research, but stakeholder research. 
 
 If you'd read this book, you would understand the importance of working software and the difference between flowers and fruit. You and your team would have been trying to "promote" working software, to get it as near as it could possibly get to hands of real users. 
 
@@ -390,7 +390,7 @@ So, what does this idea of "agreed activity" mean for our overall aim of deliver
 
 Well, it means something simple. If you work to discover the problems that your project is facing you will find them. If you then work to solve those problems, you may well be able to transform projects that seem impossible into projects that are possible. This gives you the best chance of delivering them.
 
-This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improv shows boring? It's the same thinking that makes difficult but possible software projects turn into impossible projects.
+This seems so obvious as to be laughable. Why then, in project after project have I found teams that aren't articulating their problems and aren't tackling them? In improv terms the teams aren't looking at the pirate ship. Why? Why aren't they doing what needs to be done before the trouble they can see coming arrives? Why are they washing the decks? Why are they making potentially entertaining improv shows boring? The same way of behaving occurs in software development. It's a way of behaving that makes, challenging but possible projects, impossible to deliver. 
 
 Why? Because problems are scary. Problems are humbling. Problems cause the ways in which people don't agree to come to light. Professional people who are hired to do a job are supposed to be able to do it aren't they? What does it mean if they openly admit that there are parts of a job that they can't do? Maybe it means that someone hired the wrong people.
 
@@ -1147,13 +1147,13 @@ What you should be trying to do if you're a project manager is to get pulled out
 
 For years I've run training courses to introduce people to Agile ideas. Because "empirical" is a slightly strange word, there's an exercise that I often do where I get people to look up the word and to discuss what it means. Then we do exercises. These exercises often involve Lego. 
 
-I give the team a bunch of Lego models and I ask them to estimate how many of the models they can build in a short, fixed spaced of time - these short, fixed amounts of time are called "iterations."
+I give the team a bunch of Lego models. I ask them to estimate how many of the models they can build in a short, fixed spaced of time. These short, fixed amounts of time are called "iterations," in Agile.
 
 Almost always, at the end of the first iteration, the team realise that they can't do as many models in the time as they initially thought.
 
 So, part-way through the exercise this forces the teams to do something different, based on this new experience. Either they reduce their estimates of the number of models they can build or, possibly simplify the models. At the end of the exercise, I come back to this word "Empirical." Empirical means based on experience.
 
-That is the key point that I'm trying to get across in this exercise. Learning from experience is important, modifying what you do in light of what happens is a fundamental approach to controlling and improving your performance. 
+That is the key point that I'm trying to get across in this exercise. Learning from experience is important. Modifying what you do in light of what happens is a fundamental approach to controlling and improving your performance. And this doesn't just apply to your performance, it also applies to the performance of projects. 
 
 And, following my own advice, I try to make sure that my own performance can be improved based on experience. I get feedback at the end of the course I run. One of question that I ask is "What's the most important thing that you think you've learned from this course?"
 
@@ -1237,7 +1237,7 @@ To manage a project, you need transparency. When you achieve that transparency, 
 
 What was bad about what he did was that he upset the bosses. He made them feel stupid in front of the whole team. And the result of that was that they made very sure that they didn't hear any news from him again. They appointed a "project manager" who never ever told them any bad news. Please note that this didn't mean that there was never any bad news. 
 
-What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what measures of actual progress meant for when the project would finish. [To here but I think this whole chapter needs a restructure - this Mr two stuff might need to go in another chapter]Mr Two's action was a reaction against a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?"
+What was bad about the situation was that it had been allowed to reach such a point. My guess is that this wasn't the first time that "Mr Two" had tried to point out actual progress. He'd probably tried several times to make clear what measures of actual progress meant for when the project would finish. Mr Two's action was a reaction against a powerful, top-to-bottom system of agreed activity. In the end he was forced to shout out "There's a Pirate Ship! Oh my God! There's a pirate ship! Can't you see it?" The Emperor's got no clothes. But none of the adults in the story say so. They're grown ups and they're too scared of the Emperor. Only the child, who doesn't know any better is prepared to say that.
 
 #### What was good about what Mr Two did?
 
@@ -1398,7 +1398,7 @@ What that really means is that if you've done something dumb, someone is going t
 
 But this isn't just a negative thing. If you've done something that will make people's lives much easier. If you've done something that marketing have a good feeling that they can make a bomb from. You might get to know that in the show and tell. 
 
-The price for getting this valuable information is that people might say stupid things. For a form-filling application that we demonstrated. We were asked this question? "Can you make it so that users aren't allowed to submit the form, if the English has spelling or grammatical errors?"
+The price for getting this valuable information is that people might say stupid things. We demonstrated an application that helped a bunch of users fill in a big, complex form. We were asked this question? "Can you make it so that users aren't allowed to submit the form, if the English has spelling or grammatical errors?"
 
 This isn't too serious. But it can get a little wearing.
 
@@ -1861,7 +1861,7 @@ Simple. This is the first sector. Some problems are simple. They are understood.
 The type of problem that I like to use as an example in this sector is cake. Ingredients for cake are well understood. The equipment needed to make cake is well understood. And there are recipes. Also, people understand the value of cake. Cake is nice. People like it, is has straight-forward value.
 
 #### Complicated
-That's the simple sector. Next to that is the complicated sector. There are lots of kinds of problems in the complicated sector. But they have one thing in common, like the problems in the simple sector, they are understood (by some people at least) and there are solutions that can be applied. The difference between complicated problems and simple problems is that complicated problems can't be *easily* understood or *easily* solve. You will need to go on a training course, you might need to go on several training courses, those courses may take years. But if you pay attention and do well on the courses, at the end of them, you will be able to understand and solve these complicated problems. 
+That's the simple sector. Next to that is the complicated sector. There are lots of kinds of problems in the complicated sector. But they have one thing in common. Like the problems in the simple sector, they are understood (by some people at least) and there are solutions that can be applied. There is a difference between complicated problems and simple problemsi. Complicated problems can be understood and solved, like simple problems. But complicated problems can't be *easily* understood or *easily* solveid. You will need to go on a training course, you might need to go on several training courses, those courses may take years. But if you pay attention and do well on the courses, at the end of them, you will be able to understand and solve these complicated problems. 
 
 #### Complex
 OK, he's where it get's interesting. Next to the complicated sector, we have the complex sector. In the complex sector, problems aren't perfectly understood and solutions don't perfectly work. Obviously the two are connected. In the complex sector there are suggested approaches that work, a substantial proportion of the time. There is a *degree* of success. But there are some situations for which there aren't any clear solutions. 
@@ -1883,13 +1883,13 @@ What? Why? How?
 
 Reason #1 - the business is chaotic. 
 
-Software development itself isn't a chaotic activity, but software is often trying to track or profit from activities which are chaotic - a lot of entrepreneurial business is chaotic. In fact, if it weren't chaotic, it probably wouldn't be a properly entrepreneurial business.
+Software development itself isn't a chaotic activity. But software is often trying to track or profit from activities which are chaotic. A lot of entrepreneurial business is chaotic. In fact, if it weren't chaotic, it probably wouldn't be a properly entrepreneurial business.
 
 Let's say you've come up with the genius idea of social network for pets. Nobody has done this before! There might be a good reason! Is it a good idea? Who knows. The only real way to find out is to do it. 
 
 Reason #2 - misapplying a different problem space
 
-What happens if you treat flying a passenger airliner as if it's baking a cake? Bad things probably. Treating a complicated problem like it's a simple problem doesn't work that well. Similarly, treating a complex problem like software development as if it's a complicated problem (like being trained to fly a plane) doesn't work that well either. Similarly, trying to manage the chaotic space with the kinds of approaches that work in the complex space doesn't work. But I've just realised, this isn't chaos. This is what Dave Snowdon (the developer of the Cynefin framework) puts in the middle of the Cynefin diagram. It's the black hole in the middle. 
+What happens if you treat flying a passenger airliner as if it's baking a cake? Bad things probably. Treating a complicated problem like it's a simple problem doesn't work that well. Treating a complex problem like software development as if it's a complicated problem doesn't work that well either. Trying to manage the chaotic space with the kinds of approaches that work in the complex space doesn't work. But I've just realised, this isn't chaos. This is what Dave Snowdon (the developer of the Cynefin framework) puts in the middle of the Cynefin diagram. It's the black hole in the middle. 
 
 This isn't chaos, this is disorder. It isn't chaos that I'm scared of. It's disorder.
 
@@ -2102,7 +2102,7 @@ The reason that we can get away with this is something called "bounded rationali
 
 And as a society, as a *species* we're curiously, sometimes terrifyingly, tolerant, even encouraging of this. The economist Albert Hirschmann spent a lot of time observing projects in Latin America that were funded by the World Bank. Many of these projects were set up in ways that made them unlikely to succeed. But he noticed that, even so, the people who were working on these projects would play down the risks and overstate the potential benefits. Hirschmann called this "the hiding hand." This is a reference to a phrase used by an early economist, Adam Smith. His idea was that a "guiding hand" seemed to be deciding the price of products in a market. Of course this isn't really what's happening. Where there is a shortage of something, prices go up, when there's a glut prices go down. But it seems like there's a single force that's deciding the price. 
 
-Hirschman's suggestion is that something similar is happening when projects get started.
+Hirschmann is suggesting that something similar is happening with new projects. Rather than a guiding hand, there is a hiding hand. It looks like all of the people in a project are conspiring to look the other way. They are pretending to not notice the huge risks and the low liklihood of success.
 
 ### Legibility
 
@@ -2124,16 +2124,16 @@ Of course, I forgot a step.
 
 0. Say Fuck it. 
 
-And of course, step 0 is much easier if 
+This is an absolutely vital thing to understand about any project that isn't totally boring and simple. Any project of any complexity is simply too complicated for anyone to have considered all of the risks, costs and issues involved. Rationality has bounds. Like Grippipe Thin, you can't think of everything. If a project is going ahead, someone, somewhere has said fuck it.
 
 But a lot of the time, and this is the same for the people working on the project, they will get paid if the project succeeds and they will get paid if the project fails. And most of the time, they also have the option to jump ship and find another project. So that's what the hiding hand is, it's a lot of other people joining in and saying, "fuck it."
 
 ## Why should anybody care?
-Given that the people who kicked off the project, if they've kicked it off in the right way and are adopting a "Heads I win, tails you lose attitude" and the people who are working on the project are getting paid anyway. Why should anybody care about a project? That would seem to be a pretty dumb thing to do, to care about a project when it's irrational for anyone else? 
+The people who kicked off the project, if they've kicked it off in the right way and are adopting a "Heads I win, tails you lose attitudei." The people who are working on the project are getting paid anyway. Why should anybody care about a project? That would seem to be a pretty dumb thing to do, to care about a project when it's irrational for anyone else? 
 
-The main reason is that projects can discover value. They can make people's lives better, more entertaining, easier. And of course, if they can do this, they can make money or prestige for the people who own those projects. But we might have been too cynical and cruel about the people who work on these projects, yes, they want to get paid, but most of them also want to do good work and want to be associated with a project that's a success. 
+The main reason is that projects can discover value. They can make people's lives better, more entertaining, easier. And of course, if they can do this, they can make money or prestige for the people who own those projects. But have we been too cynical and cruel about the people who work on these projects? Yes, they want to get paid, but most of them also want to do good work and want to be associated with a project that's a success. 
 
-And we have probably been too brutally hard on those people who said "fuck it" and got a project started when others would have worried to much about the risks and costs. They would also dearly love to be associated with a project that's a success. 
+And we have probably been too brutally hard on those people who said "fuck it." They got the project started when others would have worried to much about the risks and costs. They would also dearly love to be associated with a project that's a success. 
 
 ## What makes a project fly? 
 When a project delivers value that outweighs the risks and costs, it's flying. Initially that value is vague perceived value. But at some point, there has be a transition to actual value. This is the tricky phase on all projects. Because it requires clarity and legibility. And clarity and legibility undermine and attack perceive value and perceived cost.
@@ -2145,21 +2145,21 @@ So, if this is the way that projects work? Why am I so angry with people who tal
 Part of my anger is that I'm trying to get the project to "fly" to generate enough "lift" from real value that it can succeed and have a life of its own. 
 
 ## The other end of this. What about Steve?
-Steve is my friend. Steve used to be a Scrum Master like me. Steve has been kicked upstairs. He now manages literally hundreds of Agile coaches and scrum masters. Steve said something to me that was interesting. But I didn't like it, I didn't want to hear it. Steve said that he would be more impressed with Scrum masters if any of them were delivering their own software projects. But he didn't know of any who were. Why might that be? Because they don't have the skills, connections and courage to put together the first half of the project - the bit where people are willing to invest time, effort and money in something that is just a dream? That don't have whatever it takes to say, "fuck it." Is that it?
+Steve is my friend. Steve used to be a Scrum Master like me. Steve has been kicked upstairs. He now manages literally hundreds of Agile coaches and scrum masters. Steve said something to me that was interesting. But I didn't like it, I didn't want to hear it. Steve said that he would be more impressed with Scrum masters if any of them were delivering their own software projects. But he didn't know of any who were. Why might that be? Possibly it's because they don't have the skills, connections and courage to put together the first half of the project. That's the bit where people are willing to invest time, effort and money in something that is just a dream. They don't have whatever it takes to say, "fuck it." Is that it?
 
 Another reason of course is that they're too emotionally invested in the reality end.
 
 These things are in opposition in projects.
 
-Dream - reality.
-Expenditure - revenue.
-All - some.
+The dream is in opposition to the reality.
+Expenditure is opposition to revenue, and ultimately profits.
+All is in opposition to some.
 
 And now it's a bit more obvious why this book has such a contradictory title. Because it's trying to capture both ends of this see-saw.
 
 I think it goes the other way round.
 
-Impossible - delivery.
+What's impossible is in opposition to what's deliverable.
 
 And I want to write here "Money - sense."
 
@@ -2177,7 +2177,7 @@ What I'm also thinking is that maybe I need to go "Full spend-everything nonsens
 
 Maybe I need to be that person.
 
-Another thought to blend into this mix is that the software that dominates the world at the moment, has been instigated by people who have sight of both sides of this divide. Mark Zuckerberg was a techie. Bill Gates was a techie. The two guys that built Google were techies. 
+There's another thought to blend into this mix. This is that the software that dominates the world at the moment has been instigated by people who have sight of both sides of this divide. Mark Zuckerberg was a techie. Bill Gates was a techie. The two guys that built Google were techies. 
 
 
  
@@ -2210,7 +2210,7 @@ But also, it's useful to understand that in every organisation and possibly on e
 ## Chapter 19 - Harm Reduction - Safe drugs, safe sex, safe SAFE
 
 ### Connection
-This chapter might sound a bit crazy. It's drawing parrallels between drug addiction, unsafe sexual practices and project management. That sounds crazy right? And yes, I am being a bit dramatic. Most projects don't result in death if they go wrong. But they can result in extreme expense. And they can be very miserable to work on. 
+This chapter might sound a bit crazy. It suggests drug addiction, unsafe sexual practices and project management have some things in common. That sounds crazy right? And yes, I am being a bit dramatic. Most projects don't result in death if they go wrong. But they can result in extreme expense. And they can be very miserable to work on. 
 
 ### Concept
 If people want to do something because they like how it makes them feel, they will do it, almost no matter what the ultimate consequences. If people want to avoid doing something because they don't like how doing it makes them feel, they will do that, no matter what the consequences. 
@@ -2227,7 +2227,7 @@ Does this even work for software development? Am I pushing a metaphor just too f
 
 What's the risky behaviour? The risky behaviour is buying dreams. Persuading others to buy dreams. That doesn't sound that so bad does it? 
 
-And what's the "safe" behaviour. The safe behaviour is iteratively and incrementally trying to implement those dreams. The safe behaviour is modifying the dream in light of actual experience. The safe behaviours are the things that we talked about right at the beginning of the book. Tackling the Pirate ship: Understanding what the big threats to the project are and tackling them. Understanding the swamp and the swamp dwellers. Understanding the values and needs of the people who are funding this system, the people who might regulate this system and most importantly the people who might use the system.
+And what's the "safe" behaviour. The safe behaviour is iteratively and incrementally trying to implement those dreams. The safe behaviour is modifying the dream in light of actual experience. The safe behaviours are the things that we talked about right at the beginning of the book. There is no way of being safe without Tackling the Pirate ship. You need to understand what the big threats to the project are and then you need to tackle them. You need to understand the swamp, its inhabitants and its landlords. You need to understand the values and needs of the people who are funding the project. And you also need to know about the people who might regulate this system, the governors. Last but not least, you need to understand the people who might use the system. If you want to practice "safe project, managaement" a lot of your activities will be focused on increasing knowledge and understanding.
 
 But there are other dangerous behaviours which don't relate to the immediate moment of gratification. And as with other areas where people are tempted to behave riskily, these have to do with bad news, contraindications.
 
@@ -2236,28 +2236,34 @@ If you're a senior person who has started a project, what do you do when that pr
 ### Concrete example
 To some degree, the project management method SAFE is about instant gratification. SAFE is design to appeal directly to senior managers. I have seen the hypnotic look that senior managers get on their face when they talk about SAFE. 
 
-This is the message that SAFE whispers in the ears of senior managers. "If you pay lots of money for an army of SAFE-trained and certified coaches, you can have ideas for entire programmes of work and they can be implemented the way that you think that programmes of work should be implemented - top down and waterfall.  You give the orders, they're obeyed."
+This is the message that SAFE whispers in the ears of senior managers. 
 
-This is the thing that it's taken me way too long to realise, like a billion years, which is how long my project management career feels to have lasted up to this point. 
+"Pay lots of money for an army of SAFE-trained and certified coaches". 
+"You can have vague ideas for entire programmes of work." 
+"They can be implemented in the way that you think that programmes of work should be implemented."
+"Top down and waterfall."
+"You give the orders, they're obeyed."
+
+This is the thing that it's taken me way too long to realise, like a billion years. That's how long my project management career feels to have lasted up to this point. 
 
 You can't stop senior people engaging in "dangerous" behaviour. And in software development, please turn off your irony metres, because one of the most dangerous behaviours is called "SAFE".
 
-Why is SAFE so dangerous? Is there anything that can be done about it? SAFE is dangerous mainly, because in being such an exquisitely fashion boardroom sales pitch, it deliberately ignores the most important thing about any agile method. Feeback. Inspection and adaptation. Responding to change instead of following a plan.
+Why is SAFE so dangerous? Is there anything that can be done about it? SAFE is dangerous mainly, because in being such an exquisitely fashion boardroom sales pitch. It deliberately ignores the most important thing about any agile method.There is nothing on its diagrams about feeback. It say s close to nothing about inspection and adaptation. It pays lip service to the idea of Agile. But then there is no real implementation of the key Agile idea of Responding to change instead of following a plan.
 
-What if you think about the organisation as a brain. Let's say for now, just to simplify things, that this brain is just controlling one arm. Sure *control* consists of being able to tell the arm to move forward, lift up and crucially, to grab things. But if you're getting a robot arm to pick up something - like, say, a cup, the robot arm needs *feedback*. It needs to know when it's touched the cup. To pick the cup up, it needs to know when it's exerting enough pressure on the cup to get a grip and it needs to stop exerting pressure before it breaks the cup to smithereens. And as it lift the cup up, it probably doesn't want to spill whatever is in the cup, which probably means that it needs to move at a different speed, and with a different pattern of acceleration depending on how heavy the cup is, and what kind of liquid is in the cup. So now we might be thinking that it isn't enough to have pressure sensors on the fingers and weight sensors in the muscles, it also might be good to have some visual sensors. And also some high-level analysis of what we're getting from the sensors.
+What if you think about the organisation as a brain. Let's say for now, just to simplify things, that this brain is just controlling one arm. Sure *control* consists of being able to tell the arm to move forward, lift up and crucially, to grab things. But if you're getting a robot arm to pick up something - like, say, a cup, the robot arm needs *feedback*. It needs to know when it's touched the cup. To pick the cup up, the robot arm needs to know when it's exerting enough pressure on the cup to get a grip. And it needs to stop exerting pressure before it breaks the cup to smithereens. And as it lifts the cup up, it doesn't want to spill whatever is in it. This means that it needs to move at a different speed, and with a different pattern of acceleration depending on how heavy the cup is. What kind of liquid is in the cup? The arm might need to move differently depending on that. So now we might be thinking that it isn't enough to have pressure sensors on the fingers and weight sensors in the muscles. It also might be good to have some visual sensors. And also some high-level analysis of what we're getting from the sensors.
 
-OK, that was just one arm. Imagine that you're trying to control an octopus. Eight arms. Or a really big organisation 20 arms, 100 arms. What if you design a structure to send out instructions to those arms and this structure doesn't involve any feedback? There are no sensors, no sense of touch. No sense of smell. No proprioception. One arm, literally does not know what the other is doing. When one arm is punching into the side of the other, neither knows what's happening (no sense of touch, no sense of proprioception). When one arm knocks over a naked flame and starts a fire, the arm can't hear the noise that it's knocked something over, it can't smell the smoke and one of the other arms doesn't know that it's burning.
+OK, that was just one arm. Imagine that you're trying to control an octopus. Eight arms. Or a really big organisation 20 arms, 100 arms. What if you design a structure to send out instructions to those arms and this structure doesn't involve any feedback? There are no sensors, no sense of touch. No sense of smell. No proprioception to sense the position of each of these arms. One arm, literally does not know what the other is doing. When one arm is punching into the side of the other, neither knows what's happening (no sense of touch, no sense of proprioception). What if one arm knocks over a naked flame and starts a fire? The arm can't hear the noise that it's knocked something over. It can't smell the smoke . One of the other arms doesn't know that it's burning.
 
 SAFE, as it's advocated in the diagrams that sell SAFE, is, literally, senseless.
 
 ### Conclusion
 This is what's missing from SAFE. A discussion about feedback. Why? 
 
-Do feedback loops look scary? Do they put off the decisions makes who buy SAFE? Let's imagine for a moment that the SAFE marketing process is trance induction (and the expression that I've seen on senior manager's faces when they talk about it rather makes me think that it is). The waterfall top-down diagram is matching the senior manager's thinking about how a project should work. 
+Do feedback loops look scary? Do they put off the decisions makes who buy SAFE? Let's imagine for a moment that the SAFE marketing process is trance induction. The expression that I've seen on senior manager's faces when they talk about it rather makes me think that it is. The waterfall top-down diagram is matching the senior manager's thinking about how a project should work. 
 
-If we add feedback loops to this diagram. If we suggest that the senior manager's initial idea about how a project will work might need correction. If we suggest that the direct result of trying to do things will be evidence that trying to do that thing is experiencing problems, we're bringing that senior manager out of trance. 
+If we add feedback loops to this diagram. What if suggest that the senior manager's idea about how a project will work might need correction? What if we mention some obvious problems that we've already found? Now we're not pacing. Now we're arguing. We're going to bring the senior manager out of trance. 
 
-Do you know what this reminds me of? Although, I feel slightly crazy saying it, it reminds me of the objections to condoms, that involving condoms in the "love making" process somehow spoil the moment. 
+Do you know what this reminds me of? Although, I feel slightly crazy saying it. It reminds me of the objections to condoms. The objection that involving condoms in the "love making" process somehow spoil the moment. 
 
 I don't know anything about heroin users. But maybe there's a similar objection with heroin users. There's camaraderie to sharing needles. Going and getting clean needles from a clinic is, well, clinical and also, going and getting needles from a clinic means admitting that you have a problem.
 
