@@ -735,7 +735,7 @@ You may lift your eyebrows the full quarter inch at a company that didn't talk t
 
 ### Criticism
 
-You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put it in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road" or even "I driven roads before, I don't need to look at this one." 
+You might say that I'm just exaggerating. Software development projects aren't that different from one another. Swamps aren't all that different from one another. You've seen one swamp, you've seen them all. Do you know what this sounds like to me? Well, let's put it in terms of the "driving a car" metaphor that we've talked about earlier. Someone who says "This project is just like this other project, I don't see why you need to do any more investigation with users." They're saying something that's the equivalent of "Yeah, I've driven cars before, there's no need for me to look at the road." 
 
 Yes, controlling the car, and managing the team might be similar from project to project. But outside of the car, or the team, the environment can be very different. And my main point in using this metaphor of the swamp is that if you look out through the windscreen, you may well find that there isn't a road.  
 
@@ -800,7 +800,7 @@ As I said a moment ago. Most projects don't have any user research *at all*. And
 
 Invite people from all over your stakeholder map to your show and tells. Remember the story about the bank and the fraud project? Just one comment might let you know something that's vital for your project. Yes, it could derail your project, but when would you rather know? Sooner or later? 
 
-2. Embrace deadlines. Yeah, I said it. Embrace deadlines as opportunities to negotiate scope and set software free. Your bosses see deadlines as opportunities to fuck with you. They want to make you and your team work longer hours while giving them time off from thinking about what a product really needs to do. But you don't have to see them like that. You can see them as terribly clumsy ways of exploring the stakeholder map. The map of the swamp. If you do try to release something, who jumps out from behind a treed and tells you that you can't? Who suddenly appears and tries to take credit? Which non-functional requirement really is a deal breaker that stops the software from going live? Software wants to be free. You should want it to be free. You should do your best to help it. 
+2. Embrace your deadlines. Yeah, I said it. Embrace deadlines as opportunities to negotiate scope and set software free. Your bosses see deadlines as opportunities to fuck with you. They want to make you and your team work longer hours while giving them time off from thinking about what a product really needs to do. But you don't have to see them like that. You can see them as terribly clumsy ways of exploring the stakeholder map. The map of the swamp. If you do try to release something, who jumps out from behind a treed and tells you that you can't? Who suddenly appears and tries to take credit? Which non-functional requirement really is a deal breaker that stops the software from going live? Software wants to be free. You should want it to be free. You should do your best to help it. 
 
 3. Exploit crisis. What if your team *does* release software that nobody wants to use? What if your team *does* release software that nobody is allowed to use because it doesn't meet regulations? Yes, it's late in the day. But that doesn't mean it's too late to start to involve a user researcher. Yes, it's late in the day, but that doesn't mean that it's too late to start releasing software incrementally.
 
@@ -1125,7 +1125,7 @@ But of course, if nobody is ever prepared to get in the hole, all of the stalls 
 
 Gary Halbert is a fabled and slightly disreputable copywriter. The book of his that you can buy from Amazon was written when he was in federal prison for fraud. But he tells a great story.
 
-Halbert talks about a "thought experiment" that he does with young budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He guarantees them, that his hamburger stand is going to be more successful than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Vegan burgers. Kangaroo burgers. Kobe beef.
+Halbert talks about a "thought experiment" that he does with budding copywriters when he teaches them the art of sales. He tells his students that they are going to open a hamburger stand, and they can have any single thing that they want to make their hamburger stand a success. He guarantees them, that his hamburger stand is going to be more successful than theirs. His students come up with all sorts of suggestions. Low prices. Artisanal bread. Vegan burgers. Burgers made from kanagaroo meet. Kobe beef.
 
 Finally, Gary Halbert tells them what he wants for his burger stand. Something that will beat anything they have come up with. A hungry crowd. They might even eat the vegan burgers.
 
@@ -2017,23 +2017,23 @@ But then after a while, that central idea gets adapted in different ways. If you
 ### Concrete Action
 On the projects that you work, there will be a tweaked version of Scrum, that will perform better that the "ideal" one that is generally talked about. It might be the length of the sprint. The world seems to have settled on two weeks, but the initial books talked about a month. For some projects the best sprint length might be a week. It's probably best if it's a whole number of weeks. I've seen projects that have tried a different number of days. An awful lot of time then ends up being spend trying to figure out when the current sprint starts and when it ends.
 
-And of course you can dispense with that "cadence" completely, or have daily sprints. I'm only really comfortable using daily sprints with teams that are working on support projects where it's possibly that urgent things might come in at any time that will need to be dealy with immediately.
+And of course you can dispense with that "cadence" completely, or have daily sprints. I'm only really comfortable using daily sprints with teams that are working on support projects.  That's when it's possibly that urgent things might come in at any time that will need to be dealt with immediately.
 
 So, the length of sprint. That's definitely a knob on the scrum. Once you realise that it's a knob, you can talk together as a team about changing it. 
 
 Another knob that you can turn is the the depth of the backlog. What do I mean by that? I mean how long is the list of stories, issues, backlog items, whatever you want to call them. How long is the list of things that need to be done on the project? On some projects, this list will be everything that anyone can imagine being part of the project. One some projects, it will be only a list of things necessary for the project to go live. On some projects it might be a very short backlog. While the current sprint is running, what's going to go into the backlog for the next sprint is still being discussed. 
 
-And of course, both kinds of backlog have benefits. A long backlog that captures either everything that needs to be delivered, or everything that could be delivered, gives a sense of completeness. It's also relatively easy to use backlogs like this to predict when a project is going to be delivered, and to negotiate changes in deadline or changes in scope.
+And of course, both kinds of backlog have benefits. A long backlog would be one that captures either everything that needs to be delivered, or everything that could be deliveredr. It gives a sense of completeness. It's also relatively easy to use backlogs to predict when a project is going to be delivered, and to negotiate changes in deadline or changes in scope.
 
 Alternatively, working off a shortbacklog is useful for projects that are trying to negotiate uncertain times. The allow a team to change direction quickly and to incorporate new ideas.
 
-Reliability, dependablity, manoeuvrability. These are things that are valued in cars, and in projects. But in cars and in projects they're realised in *different* cars, with different parameters.
+We want reliabilty and maneouvrability in both cars and projects. We'd also probably like speed. But the fastest cars aren't the most reliable, or the easiest to steer. And it's the same with projects. A project that's set up to be manouvrable probably won't be the most reliable and the fastest.
 
 There's also another knob on the backlog. Actually it might be two. That's the required depth of detail and maturity in it's stories. Sometimes this is known as the definition of ready. 
 
-How complex and detailed the definition of ready is, is something that can vary. It's a knob. On some projects the definition of ready may need to be *very* detailed indeed. Maybe all the content needs to have been combed by lawyers before it can be put in the story. Maybe a list of acceptance criteria and conditions of satisfaction need to be there so that the tests to test the story are being written at the same time as the story is being developed. Maybe the story needs to go through a whole bunch of different refinement stages (User research, design) before it's actually ready to be "developed."
+How complex and detailed the definition of ready is, is something that can vary. It's a knob. On some projects the definition of ready may need to be *very* detailed indeed. Maybe all the content needs to have been combed by lawyers before it can be put in the story. Maybe each story needs a list of acceptance criteria and conditions of satisfaction. These need to be there so that tests for the story can be written at the same time as the story is being developed. Maybe the story needs to go through severa different refinement stages before it's ready to be "developed." These could be user, research or design. For some companies, there might be also stages with risk and legal.
 
-Maybe. But maybe a story can be a single line. Each approach has its advantages and disadvantages. There is a level of detail which is "just right" for a stroy which will mean that the story encounters the minimum of trouble as it goes through development. But the definition of ready can get so complex that no story is ever "ready." And progress grinds to a halt. The description of the story can be so vague that no one knows what it means. But lightweight descriptions can also mean that *something* gets developed quickly which users can respond to, bugs can get fixed on and genuine value can be delivered. 
+Maybe. But maybe a story can be a single line. Each approach has its advantages and disadvantages. There is a level of detail which is "just right" for a story which will mean that the story encounters the minimum of trouble as it goes through development. But the definition of ready can get so complex that no story is ever "ready." And progress grinds to a halt. The description of the story can be so vague that no one knows what it means. Lightweight descriptions can also mean that *something* gets developed quicklyi. Users get to see working software. They get to use it and respond to it. They point out bugs. They are excited about some parts and bore about others. The stage is set for another, better, next iteration.
 
 Beyond agreement about how detailed any given story should be, there's a separate discussion about the gradient of this detail?
 
@@ -2063,9 +2063,9 @@ And the thing she wanted to share with me was this. I'd started the coaching ses
 
 The observation that she was making was that I had a lot of skills in project management, I had a lot of experience of project management. I clearly don't have any problem talking to her. I don't seem to have any problem talking with my team. So why do I have so much difficulty talking to "C-Level" people?
 
-And my answer, maybe it was too frank because it came then, right at the very end of an entire hour of being allowed to speak my brains was that when I'm talking to her, and most of the time when I'm talking to members of my team, I'm not angry. And almost all of the time when I'm talking to C-Level people who are involved in the projects that I'm working on, I am angry. What am I angry about?
+And my answer, maybe it was too frank because it came then, right at the very end of an entire hour of being allowed to speak my brains. But my answer was that when I'm talking to her, and most of the time when I'm talking to members of my team, I'm not angry. And almost all of the time when I'm talking to C-Level people who are involved in the projects that I'm working on, I am angry. What am I angry about?
 
-I'm not exactly sure. I think one thing that I'm annoyed about is that they don't want to listen to me, they are not doing the things that they need to do in order to make a project a success. Because of course, in a quite fundamental way, when a boss says that he or she wants a project to succeed but then does a number of things that will almost guarantee that a projectd won't succeed, they are lying.
+I'm not exactly sure. I think one thing that I'm annoyed about is that they don't want to listen to me. They are not doing the things that they need to do in order to make a project a success. When a boss says that he or she wants a project to succeedi, but then does a number of things that will almost guarantee that a projectd won't succeed are they lying?
 
 And mixed in with the anger is shame. I'm ashamed that I'm angry.
 
@@ -2191,21 +2191,19 @@ This is based on the work of Patsy Rhodenberg - but it also draws in probably lo
 
 Project management is about the quality of the conversation.
 
-First circle - introspection. Either not talking, or talking to your self.
+The first circle is going inwards, it's introspective. First circle is either not talking, or talking to oneself.
 
-Third circle - shouting pushing, presenting, performing.
+The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others.
 
-Second circle - genuine dialogue - each side is being changed by what the other side says.
+The second circle is genuine dialogue. Each side is paying attention and being changed by what the other side says.
 
 Here's what project management is about, it's about working to improve the quality of second circle conversation.
 
 And here's the really good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. 
 
-But here's the really good news: if you focus on the quality of the conversation you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. Focusing on keeping the conversations as genuine dialogue. Now obviously all of the things that we've talked about investigation an understanding of the swamp, transparency, inspection, adaptation, all of these things are vital to improving the quality of that conversation.
+But here's the really good news: if you focus on the quality of the conversation you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. Focusing on keeping the conversations as genuine dialogue. Now obviously all of the practices that we've talked about in this book are still important. It's important to understand the swap. It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems which are visible on the horison. All of these things are vital to improving the quality of the conversation.
 
-But also, it's useful to understand that in every organisation and possibly on every project the nature of this conversation will be different. In every organisation and possibly on every project you will need to start from the beginning and figure out what the language is for that conversation.
-
-
+In every organisation and possibly on every project the nature of this conversation will be different. In every organisation and possibly on every project you will need to start from the beginning. Sometimes things will be familiar enough that you can start to move pretty fast pretty soon. Sometimes everything will be strange and new and different. But in every new project and in every new organisation, there will be work that needs to be done to figure out what the language is for that conversation.
 
 ## Chapter 19 - Harm Reduction - Safe drugs, safe sex, safe SAFE
 
