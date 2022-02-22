@@ -452,7 +452,7 @@ This again reminds me of some of the ideas that Keith Johnstone talks about in h
 
 Johnstone had been trying to get the students that he was working with to have natural sounding conversations on stage.  He'd tried all kinds of things and hadn't managed to get anything to work. Finally, after another day of struggling, he went home and turned on the TV. There was a programme by the biologist and writer Desmon Morris. Morris was talking about a community of chimps. He explained that pretty much everything that chimps do - who they sit with, who they eat with, who they have sex with, can be explained as a status transaction. When one chimp grooms another, the chimp that is doing the grooming is affirming that they are lower in status than the chimp that gets groomed.
 
-The point that Morris made in the TV programme was that most of these status-based exchanges aren't huge. There are no fights involved, there is no chest beating. The exchanges are tiny, fractional indications of who is higher and lower status. Who sits highest on the tree. Who is groomed first when two near equals agree to groom each other.
+The point that Morris made in the TV programme was that most of these status exchanges aren't huge. There are no fights involved, there is no chest beating. The exchanges are tiny, fractional indications of who is higher and lower status. Who sits highest on the tree. Who is groomed first when two near equals agree to groom each other.
 
 The next day, Johnstone went back to his studio and asked his students to improvise scenes. He had only one instruction for his students. Whatever one person said, the other person should try to lift themselves, or lower themselves, just slightly, in status with their reply.
 
@@ -721,15 +721,15 @@ We can discover that there are people who live far beyond the swamp who never-th
 
 Here are some examples from other projects that I've worked on. These are situations where it turned out that people who live far beyond the swamp still cared about what happened in the swamp.
 
-This was quite possibly the coolest project that I've ever worked on. One of the guys who worked on the project was the ex-husband of a super model. 
+I don't think I've ever worked on a project that was more cool than this. One of the guys who worked on the project was the ex-husband of a super model. The project was *that* cool.
 
-I was working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website. A website that would allow customers of a bank (not cool) to upload their photographs. Pictures that they'd taken in response to a challenge set by a famous fashion photographer. This was before flickr. It seemed new and exciting.
+I was working with a startup in a disgusting warehouse in Shoreditch in London (very cool). The aim of the project was to develop a website. A website that would allow customers of a bank (not cool) to upload their photographs. Pictures that they'd taken in response to a challenge set by a well-known fashion photographer. This was before flickr. It seemed new and exciting.
 
 We didn't do any user research. We didn't try to put the working software in the hands of users. We struggled with the technology - this was around 2004. We agonised over what the user interface should look like and we finally got something to work. 
 
 But then some people jumped out from behind some trees.  We found out that any suppliers who worked for the bank had to be approved by the authorities that regulated the banks. I mean who would have thought? Getting approved by these financial authorities was a big deal and it could take years. That was the end of the project.
 
-I was working with, possibly, the second coolest company I've ever worked with. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So, it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. It was a potential business partner, in a meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
+I was working with another very cool company. I am seeing a pattern, here. I did not see this pattern before I just started writing this. This company was cool, successful, highly regarded in one business - mobile phone networks. So, it wondered if it could be the same in another area - personal loans. Yes, that was the project. Making personal loans cool. Again, this team had done a lot of work to develop a personal loan website. Then somebody pointed out something awkward. It was a potential business partner, in a meeting. They pointed out that they needed to be regulated by the very same financial authorities that had caused problems in the previous project. Yes, the one that I just talked about.
 
 You may lift your eyebrows the full quarter inch at a company that didn't talk to regulators before starting up in the money lending business. You can also see that research with users and mapping of stakeholders would make something really important very clear. There were people who lived miles from the "swamp" who cared what went on in there. And if these people weren't happy, the project would die.
 
@@ -745,7 +745,7 @@ Do you know what you should do if you're managing a team in this kind of situati
 
 And of course, generally the best way for team members with development skills to explore the swamp is with working software.
 
-Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford famously said something like "If I'd given the people what they want, I'd have given them a faster horse." When I talk about the swamp, I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
+Another criticism of my insistence on user research is what might be called the "faster horse" objection. Henry Ford said something like "If I'd given the people what they want, I'd have given them a faster horse." When I talk about the swamp, I'm not saying that you should give any of those people associated with it exactly what they ask for. What I am saying is that whatever you do do has a much greater chance of success if it's informed by what they want. 
 
 ### Confession
 
@@ -1055,7 +1055,7 @@ But this has to be an important part of what managing any project is about. All 
 
 What makes this so hard? Well, one of the things that makes it so hard is the nature of project ideas that we talked about. Often what makes people like things straight away is that they don't require much thought, but they do suggest some of these features: easy, fast, cheap, same and all.
 
-The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using one of the more "modern", Agile project management methods. One of these methods is Scrum. In Scrum, team members meet at the beginning of the day and talk about what they did the previous day. They also talk about what they're going to do today. And they talk about anything that's stopping them from doing what they want to do. They do this every working day. If they're all in the same building, they tend to do this standing up, to deter the urge to end up sitting around and chatting. This is called the "stand up."
+The problems start when anyone tries to implement the idea. This is especially a problem if someone tries to implement the idea using one of the more "modern", Agile project management methods. One of these methods is Scrum. In Scrum, team members meet at the beginning of the day and talk about what they did the previous day. They also talk about what they're going to do today. And they talk about anything that's stopping them from doing what they want to do. They do this every working day. If they're all in the same building, they tend to do this standing up. If they were sitting down people might be more tempted to just have an unfocussed chat. This meeting is called the "stand up."
 
 Once every two weeks, the team shows the work that it's been doing in the last two weeks.  The audience is made up of people in the organisation and also sometimes also users from outside who are interested. This is called the show and tell.
 
@@ -1425,7 +1425,7 @@ Yes, notionally, it's supposed to be a more forensic look at what went on in the
 
 If there are definite actions that come out of it, that's great. If there is a short list of things that need to change that can be taken to senior management, also great. 
 
-You will be able to find lots of descriptions of how to run a perfect retrospective. There is one thing that it's important to understand. If you're not willing to get it wrong by trying a bunch of different formats, you probably won't get it right.
+You will be able to find lots of descriptions of how to run a perfect retrospective. There is one thing that it's important to understand. If you're not willing to get it wrong by trying different ways of running retrospectives, you probably won't get it right.
 
 ##### Other meetings that I find helpful
 
@@ -1496,9 +1496,9 @@ Why am I not saying the "S" word? Why am I not saying stories? Not because I don
 
 A story is something that, when it's done, will result in the software doing something differently. "Add middle name to sign-up page" - for me that's a story. 
 
-Am I going to say that all stories should be of the format "As an X, I can Y, so that Z"? No, I'm not saying that. Why? 
+Am I going to say that all stories should be of the form "As an X, I can Y, so that Z"? No, I'm not saying that. Why? 
 
-Because I think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the format "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine to insist that everything is in this form. Insisting that everything  must be a story rather than just a thing that needs talking about. That's not fine. Insisting that all stories must be of the form "As an X, I can Y, so that Z." That's not fine.
+Because I think the team need to get a feel together for what constitutes a well-formed story. It's fine for them, together to agree on a story of the form: "As an X, I can Y, so that Z." It's fine for the team to come up with that as a suggestion - or for you to suggest it, if they're really struggling. It's not fine to insist on it. It's especially *not* fine to insist that everything is in this form. Insisting that everything  must be a story rather than just a thing that needs talking about. That's not fine. Insisting that all stories must be of the form "As an X, I can Y, so that Z." That's not fine.
 
 And drawing distinctions between stories and bugs. I'm also fine with this. Once you get going, this is fine. Roughly, a story is a change that the product owner wants to make to the way the software behaves to make it do something new. A bug is a change that makes it behave in the way that's expected. 
  
@@ -2183,27 +2183,48 @@ There's another thought to blend into this mix. This is that the software that d
  
 
 
-## Chapter 18 - The Conversation 
+## Chapter 18 - The Conversation
+
+ 
 
 Project management is about the quality of the conversation.
 
-This is based on the work of Patsy Rhodenberg - but it also draws in probably lots of work about negotiation. 
 
-Project management is about the quality of the conversation.
+We're all probably agreed in theory that communication is a good thing. But what *kind* of conversation is a good thing?
 
-The first circle is going inwards, it's introspective. First circle is either not talking, or talking to oneself.
+If there is a kind of conversation that's a good kind, why is there so much bad communication? Communication that isn't the right kind? And once we know what kind of communication is the right kind, what can we do to ensure that that's the the kind of communication that we have from now on?
 
-The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others.
+What kind of conversation is the good kind? These ideas are based on the work of Patsy Rhodenberg.
 
-The second circle is genuine dialogue. Each side is paying attention and being changed by what the other side says.
+Patsy Rhodenberg's idea, that she explains in her her book [Ref] is that there are three basic kinds of communication.
+
+The first circle is going inwards, it's introspective. First circle is either not talking or talking to oneself. If first circle isn't actually mumbling, it is either talking quietly, or talking in a language that only really makes send to the person who is talking. First circle is quiet, timid. First circle might look like they're listening. First circle might actually be listening. But in some fundamental way, they aren't engaging with what's been said.
+
+The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others. Third circle is telling people things as you want them to hear. Third circle is show people things you want them to see. Third circle is shouty, flamboyant, aggressive.  Third circle doesn't want to hear what other people have to say. 
+
+The second circle is genuine dialogue. Each side is paying attention and being changed by what the other side says. Each side is coming to an understanding of the other's position. Crucially, each side doesn't think that they have to accept as a true world view the opposite side's position. But they do accept that it's important to understand the other sides world view.
+
+Value landscape. By engaging in second circle, you can start to understand what's valuable to your client. When you do that, you can see if there are things that you can offer which are valuable to your client, even if these things aren't valuable to you. 
+
+Making your opponent negotiate with themselves. By revealing the current state of the through discussion, you can manage to make something magical and alchemical happen. You can get your "opponents" to negotiate, not with you, but with themselves.
 
 Here's what project management is about, it's about working to improve the quality of second circle conversation.
 
-And here's the really good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. 
+And here's the good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. 
 
-But here's the really good news: if you focus on the quality of the conversation you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. Focusing on keeping the conversations as genuine dialogue. Now obviously all of the practices that we've talked about in this book are still important. It's important to understand the swap. It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems which are visible on the horison. All of these things are vital to improving the quality of the conversation.
+But here's the really good news: if you focus on the quality of the conversation you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. Focusing on keeping the conversations as genuine dialogue. Now obviously, all the practices that we've talked about in this book are still important. It's important to understand the swamp. It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems which are visible on the horizon. These things are vital to improving the quality of the conversation.
 
-In every organisation and possibly on every project the nature of this conversation will be different. In every organisation and possibly on every project you will need to start from the beginning. Sometimes things will be familiar enough that you can start to move pretty fast pretty soon. Sometimes everything will be strange and new and different. But in every new project and in every new organisation, there will be work that needs to be done to figure out what the language is for that conversation.
+In every organisation, and maybe every project, the nature of this conversation will be different. In every organisation and possibly on every project you will need to start from the beginning. Sometimes things will be familiar enough that you can start to move fast, quickly. Sometimes everything will be strange and new and different. But in every new project and in every new organisation, there will be work that needs to be done to figure out what the language is for that conversation.
+
+So if the solution is second circle conversations, why don't people just stay in second circle conversations the whole time? If that happened wouldn't so many projects be so much more successful?
+
+The reason people don't stay in second circle the whole time is that it's dangerous and exhausting.
+
+Why is it dangerous? Because being in second circle is revealing and the more people know about you, the more likely it is that they can harm you, manipulate you, or exploit you.
+
+Why is it exhausting? Because you must think. Or you must put a lot of effort into not thinking. You can do first circle in several different ways. You can simple be quiet and not listen to what others are saying to you. You can listen to what others say, but not engage with it. You can even just accept whatever others say and cease to have any opinions yourself. None of these options involve anywhere near as much effort as engaging.
+
+Engaging means asking questions, not only of the people that you're talking to, but of yourself. Am I right? Am I seeing this straight?
 
 ## Chapter 19 - Harm Reduction - Safe drugs, safe sex, safe SAFE
 
