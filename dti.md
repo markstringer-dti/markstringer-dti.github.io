@@ -2192,7 +2192,7 @@ Project management is about the quality of the conversation.
 
 We're all probably agreed in theory that communication is a good thing. But what *kind* of conversation is a good thing?
 
-If there is a kind of conversation that's a good kind, why is there so much bad communication? Communication that isn't the right kind? And once we know what kind of communication is the right kind, what can we do to ensure that that's the the kind of communication that we have from now on?
+If there is a kind of conversation that's a good kind, why is there so much bad communication? Communication that isn't the right kind? And once we know what kind of communication is the right kind, what can we do to ensure that that's the kind of communication that we have from now on?
 
 What kind of conversation is the good kind? These ideas are based on the work of Patsy Rhodenberg.
 
@@ -2200,31 +2200,71 @@ Patsy Rhodenberg's idea, that she explains in her her book [Ref] is that there a
 
 The first circle is going inwards, it's introspective. First circle is either not talking or talking to oneself. If first circle isn't actually mumbling, it is either talking quietly, or talking in a language that only really makes send to the person who is talking. First circle is quiet, timid. First circle might look like they're listening. First circle might actually be listening. But in some fundamental way, they aren't engaging with what's been said.
 
-The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others. Third circle is telling people things as you want them to hear. Third circle is show people things you want them to see. Third circle is shouty, flamboyant, aggressive.  Third circle doesn't want to hear what other people have to say. 
+The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others. Third circle is telling people things that you want them to hear. Third circle is showing people things you want them to see. Third circle is shouty, flamboyant and possibly aggressive.  Third circle doesn't want to hear what other people have to say. 
 
-The second circle is genuine dialogue. Each side is paying attention and being changed by what the other side says. Each side is coming to an understanding of the other's position. Crucially, each side doesn't think that they have to accept as a true world view the opposite side's position. But they do accept that it's important to understand the other sides world view.
+The second circle is genuine dialogue. Each side is paying attention and being changed by what the other side says. Each side is coming to an understanding of the other's position. Crucially, each side doesn't think that they have to accept as a true world view the opposite side's position. But they do accept that it's important to understand the other side's world view.
 
 Value landscape. By engaging in second circle, you can start to understand what's valuable to your client. When you do that, you can see if there are things that you can offer which are valuable to your client, even if these things aren't valuable to you. 
 
-Making your opponent negotiate with themselves. By revealing the current state of the through discussion, you can manage to make something magical and alchemical happen. You can get your "opponents" to negotiate, not with you, but with themselves.
+Making your opponent negotiate with themselves. By revealing the current situation through discussion, you can manage to make something magical and alchemical happen. You can get your "opponents" to negotiate, not with you, but with themselves.
 
 Here's what project management is about, it's about working to improve the quality of second circle conversation.
 
-And here's the good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. 
+And here's the good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. If you focus on the quality of the conversation, you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. 
 
-But here's the really good news: if you focus on the quality of the conversation you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. Focusing on keeping the conversations as genuine dialogue. Now obviously, all the practices that we've talked about in this book are still important. It's important to understand the swamp. It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems which are visible on the horizon. These things are vital to improving the quality of the conversation.
+Focusing on keeping the conversations as genuine dialogue. Now obviously, all the practices that we've talked about in this book are still important. It's important to understand the swamp. It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems which are visible on the horizon. These things are vital to improving the quality of the conversation.
 
-In every organisation, and maybe every project, the nature of this conversation will be different. In every organisation and possibly on every project you will need to start from the beginning. Sometimes things will be familiar enough that you can start to move fast, quickly. Sometimes everything will be strange and new and different. But in every new project and in every new organisation, there will be work that needs to be done to figure out what the language is for that conversation.
+In every organisation, and maybe every project, the nature of this conversation will be different. In every organisation and possibly on every project you will need to start from the beginning. Sometimes things will be familiar enough that you can start to move fast. Sometimes everything will be strange and different. But in every new project and in every new organisation, there will be work that needs to be done to figure out what the language is for that conversation.
 
-So if the solution is second circle conversations, why don't people just stay in second circle conversations the whole time? If that happened wouldn't so many projects be so much more successful?
+So, if the solution is second circle conversations, why don't people just stay in second circle conversations the whole time? If that happened wouldn't so many projects be so much more successful?
 
-The reason people don't stay in second circle the whole time is that it's dangerous and exhausting.
+The reason people don't stay in second circle the whole time is that it can be dangerous and exhausting.
 
 Why is it dangerous? Because being in second circle is revealing and the more people know about you, the more likely it is that they can harm you, manipulate you, or exploit you.
 
-Why is it exhausting? Because you must think. Or you must put a lot of effort into not thinking. You can do first circle in several different ways. You can simple be quiet and not listen to what others are saying to you. You can listen to what others say, but not engage with it. You can even just accept whatever others say and cease to have any opinions yourself. None of these options involve anywhere near as much effort as engaging.
+Why is it exhausting? Because you must think. Or you must put a lot of effort into not thinking. You can do first circle in several different ways. You can simply be quiet and not listen to what others are saying to you. You can listen to what others say, but not engage with it. You can even just accept whatever others say and cease to have any opinions yourself. None of these options involve anywhere near as much effort as engaging.
 
 Engaging means asking questions, not only of the people that you're talking to, but of yourself. Am I right? Am I seeing this straight?
+
+This is the point where I really wish that I had a strong, clear list of actions that I could recommend. To make sure that you always stay in second circle with your client. 
+
+But I don't think I have that list. For now, I'm going to brainstorm a list.
+
+Count things and then use them as conversation pieces.
+
+Count things. Count things like what? Here are some things that have worked for me in the past. 
+
+* How long it takes for a piece of work to get from the point where it's agreed it should be worked on, to it turning up in the software.
+
+* How much work the team is completing on average in a two-week sprint, and when that means the project is likely to complete all the work that's needed.
+
+* The length of time that pieces of work have been on hold waiting for some expert opinion before they can be worked on.
+
+* The rate at which the budget for the project is being spent.
+
+If I'd come at it this way, I would have realised that all of these numbers are the kind of numbers that a Lean approach to manufacturing and development suggest that you count. 
+
+And then there are some other things, that aren't counted, but are "observed."
+
+* The thing that the team think is the limiting factor on the speed of development of the project, or the limiting factor on the chances of its success.
+
+* The most important issues that are emerging from retrospectives.
+
+* This is so huge - it should probably be more than just a bullet point. Reporting research findings about current users, possibly users, other interested parties.
+
+Discussing these things in second circle will probably increase the chances of a project being successful.
+
+But trying to discuss these things also brings with it the chance of a first circle response from the client (ignoring you) or a third circle response (shouting at you). And that in turn, I'm ashamed to admit it, but that in turn leads to similar kinds of reactions from you as a project manager, or your whole team.
+
+Here's the kind of dialogue that can happen.
+
+PM: We can't really make any more progress on the payment function until we get details of the transaction database. [ Second circle ]
+
+Client: I'm just tired of your excuses and your negativity. I thought I'd hired a team who could get things done. Maybe I need to get that team over there from X Corp to look at this, they'll probably be happy to take over the work.
+
+ 
+
+ 
 
 ## Chapter 19 - Harm Reduction - Safe drugs, safe sex, safe SAFE
 
