@@ -2185,32 +2185,38 @@ There's another thought to blend into this mix. This is that the software that d
 
 ## Chapter 18 - The Conversation
 
+>> The only successful way of rendering this disturbance inoperative is to keep on breathing quietly and unconcernedly, to enter into friendly relations with whatever appears on the scene, to accustom oneself to it, to look at it equably and at last grow weary of looking.
+
+Eugen Herrigel - Zen in the Art of Archery
+
  
+This is an idea that I've come upon. It's happened because I've been trying to write this book and trying to explain what sorts of behaviours make projects more likely to succeed and less likely to fail, even if they seem to be impossible.
 
-Project management is about the quality of the conversation.
+
+>> Project management is about the quality of the conversation.
 
 
-We're all probably agreed in theory that communication is a good thing. But what *kind* of conversation is a good thing?
+We're all probably agreed in theory that communication is a good thing. But we're also probably agreed that not all communication is just as good. As I write this, I'm reminded of a Monty Python sketch that involves performing the novel Wuthering Heights using semaphore flags. What that graphically shows is that some communication, for some things, is probably better suited than others. There are good and bad kinds of communication. But what *kind* of communication is a good thing?
 
-If there is a kind of conversation that's a good kind, why is there so much bad communication? Communication that isn't the right kind? And once we know what kind of communication is the right kind, what can we do to ensure that that's the kind of communication that we have from now on?
+If there is a kind of conversation that's a good kind, why is there so much bad communication? Communication that isn't the right kind? And once we know what kind of communication is the right kind, what can we do to ensure that that's the kind we have from now on?
 
-What kind of conversation is the good kind? These ideas are based on the work of Patsy Rhodenberg.
+What kind of conversation is the good kind? These ideas are based on the work of Patsy Rhodenberg. Part of writing this book was to go back to a lot of the books that I've read that I've found most helpful in the past and re-read them. Patsy Rodenberg's book "Presence" is one of those books.
 
-Patsy Rhodenberg's idea, that she explains in her her book [Ref] is that there are three basic kinds of communication.
+Patsy Rodenberg's idea,[Ref]is that there are three basic kinds of communication. She calls these first, second and third circle.
 
-The first circle is going inwards, it's introspective. First circle is either not talking or talking to oneself. If first circle isn't actually mumbling, it is either talking quietly, or talking in a language that only really makes send to the person who is talking. First circle is quiet, timid. First circle might look like they're listening. First circle might actually be listening. But in some fundamental way, they aren't engaging with what's been said.
+The first circle is going inwards, it's introspective. First circle is either not talking or talking to oneself. If first circle isn't actually mumbling, it is either talking quietly, or talking in a language that only really makes sense to the person who is talking. First circle is quiet, timid. First circle might look like they're listening. First circle might actually be listening. But in some fundamental way, they aren't engaging with what's been said.
 
 The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others. Third circle is telling people things that you want them to hear. Third circle is showing people things you want them to see. Third circle is shouty, flamboyant and possibly aggressive.  Third circle doesn't want to hear what other people have to say. 
 
 The second circle is genuine dialogue. Each side is paying attention and being changed by what the other side says. Each side is coming to an understanding of the other's position. Crucially, each side doesn't think that they have to accept as a true world view the opposite side's position. But they do accept that it's important to understand the other side's world view.
 
-Value landscape. By engaging in second circle, you can start to understand what's valuable to your client. When you do that, you can see if there are things that you can offer which are valuable to your client, even if these things aren't valuable to you. 
+By engaging in second circle, you can start to understand what's valuable to your client. When you do that, you can see if there are things that you can offer which are valuable to your client, even if these things aren't valuable to you. This is closely related to the discussion about the swamp that we had earlier. 
 
-Making your opponent negotiate with themselves. By revealing the current situation through discussion, you can manage to make something magical and alchemical happen. You can get your "opponents" to negotiate, not with you, but with themselves.
+By revealing the current situation through discussion, you can manage to make something magical and alchemical happen. You can get your "opponents" to negotiate, not with you, but with themselves. Again, this is closely related to something that we've already talked about - the pirate ship. There is bad news on the horizon. It needs dealing with. The crew by themselves can't deal with it. They need insight, strategy and decisive action from whoever is in charge. Whatever the problem is, it is very dangerous to ignore it and, although everybody might feel better for a while, it's also dangerous and ineffective to rail against it, and just complain that the world shouldn't be like this. 
 
 Here's what project management is about, it's about working to improve the quality of second circle conversation.
 
-And here's the good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. If you focus on the quality of the conversation, you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in 2nd circle. 
+And here's the good news about this. If you know this is your job, you can keep working at this even if the quality of the conversation is terrible. If you focus on the quality of the conversation, you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in second circle. 
 
 Focusing on keeping the conversations as genuine dialogue. Now obviously, all the practices that we've talked about in this book are still important. It's important to understand the swamp. It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems which are visible on the horizon. These things are vital to improving the quality of the conversation.
 
