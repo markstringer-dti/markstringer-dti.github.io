@@ -39,7 +39,7 @@ Of course, that's another reason why you might have picked up this book. Even th
 
 Well, part of the reason for not giving up is that you know that a lot of things that seem impossible do actually get fixed, given the right skills and expertise. You know this from other parts of your life. That it's not a good idea to give up immediately when things get difficult. Often things do get better if you persist. If you look at then from a different angle, if you see them through a different lens, suddenly things that seemed impossibly start to click into place. 
 
-The software pioneer Alan Kay said, "Point of view is worth 80 IQ points." If you can only figure out the right way to look at something, you can do much cleverer things. This book shows the reader a number of different ways of looking at the problem of project management.
+The software pioneer Alan Kay said, "Point of view is worth 80 IQ points." If you can only figure out the right way to look at something, you can do much cleverer things. What I'm trying to show in this book are different ways of looking at the problem of project management. The idea is that if we can only find the right point of view, we can be much cleverer about what we do.
 
 So, you might expect a book called "Delivering the Impossible" to have a bunch of different ways of looking at problem projects.  You might even expect some useful ways of looking at the ones that seem totally impossible.  
 
@@ -84,7 +84,7 @@ I explain this using the Daoist idea of flowers and fruit. Flowers appeal to us 
 
 Maybe you're thinking: "My software development project is in trouble. It's already cost millions of pounds. I can't any way out of this that doesn't cost millions more. The last thing that I need is some dreamy guff about pirate ships and trenches, fruit and flowers." 
 
-But this book provides its readers with something, solid, nutritious, and sustaining. It sets out ways of seeing projects, those points of view that Alan Kay talks about. The contention of this book is that this is what you need when your project looks impossible - different points of view. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, once you have the right way of seeing, the right idea, a lot of things that previously seemed impossible can seem a lot less so.
+But this book tries to provide something, solid, nutritious, and sustaining. It sets out ways of seeing projects, those points of view that Alan Kay talks about. The contention of this book is that this is what you need when your project looks impossible - different points of view. It offers the genuine possibility of knowing what you're doing. And once you know what you're doing, once you have the right way of seeing, the right idea, a lot of things that previously seemed impossible can seem a lot less so.
 
 ### Why now?
 Ok, you might think. OK, I get it, seeing things in a different way, is useful. But this project has some specific problems. I just want to fix them. I don't have time to kick everything up in the air and philosophise. Maybe we could do this another time. 
@@ -156,7 +156,7 @@ This was a really dumb phone. It had the same operating system as some sewing ma
 
 The Xerox lab closed and I found myself working for Cambridge University. This gave me my first real experience of using iterative, user centred design. We designed a system to help school kids put together discursive arguments. The European union funding was for an interface that was tangible. That means an interface that you could touch, pick up. This project taught me a lot. 
 
-It taught me that ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface. It used rfid-tagged cards with statements like "People don't like graffiti," to search the internet. When you put an rfid tag on a reader, a website associated with the statement appeared on a screen. This might have been the only piece of software that I've ever written that got "oohs" and "ahs" when we demonstrated it.
+It taught me that ideas evolve. We started out with brightly coloured boxes with topical ideas on them "People don't like graffiti." We ended up with a fancy (for its time) electronic interface. It used rfid-tagged cards with statements like "People don't like graffiti," to search the internet. When you put an rfid tag on a special tile that could read the tags, a website associated with the statement appeared on a screen. This might have been the only piece of software that I've ever written that got "oohs" and "ahs" when we demonstrated it.
 
 Taking a user centred design approach means believing that whatever you're building needs to fit in a particular situation. The situation that we were designing for was English state schools. They were at the time closely regulated. Any activity that we were going to get the kids to do with our fancy new interface would have to fit in a lesson plan. But because this was a research project, we were also trying to please our other research partners and in the end, our funders. I didn't think of it then like this, but that project was definitely a swamp, as we discuss in Chapter [N].
 
@@ -164,7 +164,7 @@ Look this is all very well, but it's starting to sound a bit "I was born at an e
 
 You should listen to me because I know how to deliver software projects. I've been doing it now for more than ten years. Mostly I've been successful. The projects that weren't successful were either "trench warfare" projects when I arrived. We'll talk about those kinds of projects in chapter [N]. Or they were projects that turned out to be things that nobody wanted. We'll talk about how to avoid those in chapters [N] and [N]. Or people wanted them, but nobody could make them pay, again - chapters [N] and [N]. For example, it turns out that users are quite keen on personal loan websites. It also turns out that most of the people who want a personal loan are exactly the kind of people to whom you probably shouldn't lend money. That was a project that would have greatly benefitted from user research up front. People need to keep re-learning that user research is a good idea.
 
-Some of these projects that were successful and made millions of pounds for their owners. Some of them weren't about money at all. They were literally about making the world a better place. They helped their users do scientific research. They helped their users make justice in courtrooms work more smoothly.
+Some of these projects that were successful and made millions of pounds for their owners. Some of them weren't about money at all. They were literally about making the world a better place. They helped their users do scientific research. They helped their users run their cases in court run more smoothly.
 
 And I really believe that some of those projects wouldn't have done well, or might not have done so well, if I hadn't been involved. That's about as much as you can ever say if you're project manager.
 
@@ -484,7 +484,7 @@ What we've established from the beginning of this chapter is that if you don't t
 
 If we all wait until we aren't scared to start tackling the pirate ship, the pirates will already have boarded and we'll be walking the plank. If we're working on the team, or if we're managing the team, we need to act, even when we're afraid. 
 
-Timothy R Clark points out this importance difference. Social friction is going to happen - arguments, fall outs - going to happen. But too much is bad for a team. It's better if the team gets along. Intellectual friction is also going to happen, and it's essential. In new situations, when dealing with new problems, we have to expect disagreements, we have to be comfortable with different points of view. Managing the psychological safety of a team is about allowing intellectual friction. At the same time we need to ease social friction.
+Timothy R Clark points out this importance difference. Social friction is going to happen - arguments, fall outs - going to happen. But too much is bad for a team. It's better if the team gets along. But another kind of friction is also going to happen. It's the kind of friction that comes from people seeing a situation differently based on their experience. This is friction caused by differences of opinion.  In new situations, when dealing with new problems we need this. We have to expect disagreements, we have to be comfortable with different points of view. Managing the psychological safety of a team is about allowing intellectual friction. At the same time we need to ease social friction.
 
 But he also points out the importance of a trade off between cover and candour. If we're one of the bosses, it's our job to reward courage. What's courage, it's doing the right thing, in spite of our fears and provide cover for candour. And in turn, that requires courage on our part as bosses, because *our* bosses might not like the truth either.
 
@@ -552,9 +552,9 @@ I'm going to use the term "trench warfare" in this chapter. And I'm going to use
 
 What I mean by trench warfare is any project that is hugely expensive in terms of money, effort and human suffering and doesn't get anywhere. A main cause of trench warfare is a refusal (or active prevention) earlier in the project to deal with the problems that it faces. The main effect of this is pretty much guaranteed failure. But on the way to that inevitable conclusion, there is more and more strident demand for "agreed" activity. Activity at almost any cost, no matter how frantic, pointless and damaging it might be.
 
-Working late. Working weekends, holidays being cancelled or frowned on.  There is an insistence on a "positive, can do attitude." These are signs that you're working on a trench warfare project. At the same  time, trying to deal with the problems that the project faces is not well received.  It's regarded as "negative" or "defeatist". 
+Working late. Working weekends, holidays being cancelled or the boss making sideways comments when team member take them.  There is an insistence on a "positive, can do attitude." These are signs that you're working on a trench warfare project. At the same  time, trying to deal with the problems that the project faces is not well received.  It's regarded as "negative" or "defeatist". 
 
-Staff leaving drinks every Friday? Staff being signed off long-term sick? Or with stress? Ex members of staff bringing lawsuits against the company? These are also signs.
+Leaving drinks every Friday? People on your team being signed off long-term sick? Or with stress? Ex members of the team bringing lawsuits against the company? These are also signs.
 
 I must confess, I still haven't found a way of remaining calm when I get a certain kind of complaint from senior management. The complaint is that the team isn't looking stressed enough.
 
@@ -905,7 +905,7 @@ From that point on, the nature of the project changed. It wasn't about deliverin
 
 There was another very interesting thing about getting some working software in front of the people who might use it. By doing this we both asked and then started to answer the two questions that I've already talked about. "Can we do this?" and "Who is going to jump out and stop us if we do?" 
 
-To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. This was blocked because of a dispute. The price of providing and supporting the servers was not included in the contract. But the client was arguing, that they shouldn't have to commission the servers. Neither should they pay for them or support them. This became a much harder argument to make once people in their own company were asking for the software. Suddenly the people who were trying to negotiate free stuff were in the way. Now they weren't helping the company by being tough on costs. Rather they were stopping people who worked for their organisation from getting something they wanted. Something that could make their lives easier. Suddenly the servers appeared, and then money for staff to support them appeared. A real roll-out of the software started to happen.
+To the first question, the answer at first was "No." We didn't have any server space where we could deploy a live service. This was blocked because of a dispute. The price of providing and supporting the servers was not included in the contract. But the client was arguing, that they shouldn't have to commission the servers. Neither should they pay for them or support them. This became a much harder argument to make once people in their own company were asking for the software. Suddenly the people who were trying to negotiate free stuff were in the way. Now they weren't helping the company by being tough on costs. Rather they were stopping people who worked for their organisation from getting something they wanted. Something that could make their lives easier. Suddenly the servers appeared, and then money for people to support the servers appeared. A real roll-out of the software started to happen.
 
 To the second question "If we try to do this, is anybody going to jump out from behind a tree and stop me?" The answer was "yes." In fact two people jumped out. An accessibility guy and a security guy. The accessibility guy claimed the there was no way the software could be released until it met an extra set of requirements. The client claimed that we should have known about these requirements right from the start and so we should pay for them. 
 
@@ -1199,7 +1199,7 @@ This is brutal transparency. Any it probably came out of desperation. Having wor
 
 The main result of that number 2 was that that Scrum Master was never allowed to speak at a show and tell again. The bosses in New York hired a "traditional project manager" to communicate progress across the Atlantic. After that, guess what? The news was always good.
 
-This is what one reader said about this story:
+This is what one friend of mine who read the chapter said about this story:
 
 >> I was there and I remember this meeting very well. It is all true. And it was followed by an explosion of anger over the phone where the entire team (50+ people) were dressed down and told to get on with it or heads will roll.
 
@@ -1257,7 +1257,7 @@ And he shouldn't have taken it personally. It's easy to say that. From my experi
 
 Mmph. Right now I'm feeling like an impostor. I think I've managed to persuade you that I'm an authority on this problem, this contradiction. But I'm not sure I can convince you I'm an authority on the solution.
 
-Let's go back to the car metaphor and see if it can give us any help. This is essentially what happened with "Mr Two." Mr Two turned around and told the people in the back seat that they were moving very slowly and weren't likely to get where they needed to go for years.  Here's what the people in the back seat did. They rolled up that divide that you see in cars that have drivers. 
+Let's go back to the car metaphor and see if it can give us any help. This is what happened with "Mr Two." Mr Two turned around and told the people in the back seat that they were moving very slowly and weren't likely to get where they needed to go for years.  Here's what the people in the back seat did. They rolled up that divide that you see in cars that have drivers. 
 
 Well, in terms of this metaphor, what he needs to do is to keep his windscreen clean - maintain transparency. He also needs to keep looking out of it. He needs to keep inspecting. And yes, he needs to keep adapting to the road conditions. 
 
@@ -1366,7 +1366,7 @@ A long time ago I read a book called "Sources of Power" by Gary Klein. Klein spe
 
 Of course, experts weren't born magically knowing what they're capable of. They had to learn over time. And it's the same with teams. 
 
-Teams, including the product owner will initially tend to plan too much. Of course, it's essential for this to be clear at the end of every sprint. "We planned thirty things. We finished twenty things. Do you think there's much point in planning more than about twenty-five things this sprint?"
+Teams, including the product owner will initially tend to plan too much. Of course, it's to make this clear at the end of every sprint. "We planned thirty things. We finished twenty things. Do you think there's much point in planning more than about twenty-five things this sprint?"
 
 Here's something I hope that all the people involved with the team can understand. This include the developers and the product owner. Let's look back to the previous planning meeting. When we got to the point where were discussing issues number 21, 22, 23, but especially when we were discussing numbers 26, 27, 28, we were just wasting our time. Because we were talking about things that just weren't going to happen in that sprint. 
 
@@ -1520,13 +1520,13 @@ I've found that roadmaps can be very useful. They don't have to be perfect to st
 
 Any kind of tool that can be used to make a Kanban board (Trello or even Jira) works for this. All you need is a list of the big things that need to go into the product. They you need a way of ordering them so that some of these things are being dealt with "Now." Then some of them are "Next." Finally, some of them are "Later." You might also have a column for "Done."
 
-As I said, this is fine also, so long as it's maintained. If it's written once and then never looked at, it's just been thrown in the information oubliette, it's a waste of time.
+As I said, this is fine also, so long as it's maintained. If it's written once and then never looked at, it's just been thrown in the bin, it's a waste of time.
 
-One occasion that I've found works well, is the mid-sprint check. I don't know quite why I've found that this works, but it does. After checking how things are going in the current sprint, the team looks at the roadmap. Actually, what the team does with the roadmap leads me on to my nearly final artefact "Maybe a burnup."
+One occasion that I've found works well, for looking at the roadmap, is the mid-sprint check. I don't know quite why I've found that this works, but it does. After checking how things are going in the current sprint, the team looks at the roadmap. Actually, what the team does with the roadmap leads me on to my nearly final artefact "Maybe a burnup."
 
 ##### Maybe a burnup
 
-It's interesting that this might be a bit of "Agile" practice that I'm most proud of. It's the bit that has worked best for me. But it's also the bit that I'm a bit ashamed of and a bit nervous about. It's also something that I feel might get me drummed out of the Scrum Master guild or whatever the secret society of Scrum Masters would be called.
+It's interesting that this might be a bit of "Agile" practice that I like best. It's the bit that has worked well for me. But it's also the bit that I'm a bit ashamed of and a bit nervous about. It's also something that I feel might get me drummed out of the Scrum Master guild or whatever the secret society of Scrum Masters would be called.
 
 Here's the situation. We were six or seven months into a greenfield, brand new, project. There'd been some vague discussions at the beginning of the project about deadlines, but no definite date had been mentioned. Then, all of a sudden, there was an absolutely definite date. Fortunately, it was about twelve months away. But by that date we had to have a system that could do enough of what the existing system did to turn the old system off and the new system on. 
  
@@ -1598,7 +1598,7 @@ Now what I do, is I just keep counting. Another two weeks you have another data 
 
 And that's when the anger will come in. Why are you being so negative? Why didn't you tell me about this before? "I thought I'd hired professional people who knew what they were doing. Clearly if this is going to take twice as long as I want it to you can't possibly know what you're doing."
 
-There might also at this point be an attempt to change the way that you count things so that things look better than they are. It's quite important to resist this. How do I know? Because I've failed to resist it and seen the consequences.
+There might also at this point be an attempt to change the way that you count things so that things look better than they are. It's quite important to resist this. How do I know? Because I've failed to resist it and then I've seen what happens when you don't.
 
 It was a long time after my first attempt at this manoeuvre that I read "Never Split the Difference," by Chris Voss.
 
@@ -1641,7 +1641,7 @@ What about a definition of ready? I don't have one. That is, I don't insist on o
 
 The idea of the definition of ready is that it's a checklist of things that need to be in a story before it's ready to be planned in a sprint.
 
-Trouble is, I don't have a degree in computer science, I have a degree in philosophy. Philosophers start with Plato. There are others before him, like there are other rock and roll singers before Elvis, but you get the idea. The problem is that when you read Plato, you get to see the trouble that he gets himself into trying to think about very basic ideas like "truth" and "justice." A lot of that trouble comes from trying to solve the problem by coming up with definitions.
+Trouble is, I don't have a degree in computer science, I have a degree in philosophy. Philosophers start with Plato. There are others before him, like there are other rock and roll singers before Elvis, but you get the idea. The problem is that when you read Plato, you get to see the trouble that he gets himself into trying to think about very basic ideas like "true" and "good." A lot of that trouble comes from trying to solve the problem by coming up with definitions.
 
 Here's the too long, didn't read version of the entire philosophical career of Socrates (Plato's ventriloquist's dummy). You set out to figure out what "good" was. You thought you were making some progress. You managed to convince yourself that nothing around was real. The real world was made of things that you couldn't see. You ended up killing yourself by drinking Hemlock. This doesn't sound like a great strategy. 
 
@@ -1737,7 +1737,7 @@ Oof. This is a bit of a confession. This has often bothered me. I'm sure that th
 
 And here's the mistake that I've made repeatedly. I've used bad news as a way of trying to lower the status of the client. And let's just think about this in doctor or lawyer terms. Do you think that that would work? Of course, it doesn't work. It's a disaster. It makes the entire discussion about the client reasserting their authority. 
 
-What's the solution? Never use how bad things are as a way of elevating your status. It will depend on the boss and the circumstances, what status they will tolerate from you. Some bosses very definitely want staff, all the time, they never relax. Some bosses want their staff to be almost like equals. It will take some experimentation to know exactly where the right point is with any given boss. What's always going to be difficult if you're a project manager and you're doing the job right is this. The right point for doing good things for the project is different from the "safe" point. Which is forlock tugging and just doing as you're told. That's the same as mopping the deck. It's the same safe-feeling but actually dangerous behaviour that we talked about when we talked about agreed activity.
+What's the solution? Never use how bad things are as a way of elevating your status. It will depend on the boss and the circumstances, what status they will tolerate from you. Some bosses very definitely want the people who work for them to behave like people who work for them, all the time. They never relax. Some bosses want the the people who work for them to be almost like equals. It will take some experimentation to know exactly where the right point is with any given boss. What's always going to be difficult if you're a project manager and you're doing the job right is this. The right point for doing good things for the project is different from the "safe" point. Which is forlock tugging and just doing as you're told. That's the same as mopping the deck. It's the same safe-feeling but actually dangerous behaviour that we talked about when we talked about agreed activity.
 
 ## Timing
 I'm in the timing business. Delivering things on time. That's what I do. Right? Well. Right and wrong. Just because I'm in the timing business, doesn't mean that I can force my timings on the bosses. To force my timings on the bosses will always be seen by them as an attempt to lower their status. 
@@ -1809,7 +1809,7 @@ You're just saying this because you're old and you don't have the balls to take 
 You're just saying this because you're young and inexperienced.
 If you're not up to the job, just say, I'm sure I can find somebody else who is.
 If you're saying this, I'm wondering if you're competent.
-That's exactly what a conman who's taking all my money would say.
+That's exactly what someone who's trying to take all my money would say.
 Why are you always so negative?
 You can't possibly know that.
 I heard from somebody else that this was going fine.
@@ -1990,7 +1990,7 @@ Here's why. What I was always going to have to do was explore the swamp. In orde
 
 When me and my team started exploring the swamp, we found stuff that we could never have imagined would be a problem. Or maybe, when we started exploring the swamp, we found stuff that the customer already knew was a problem.  They knew it was a problem, but they kept quiet about until after we'd made our commitment.
 
-So, I don't agree with this statement. By agreeing to do this project, we essentially agreed to encounter problems. By agreeing to this project, we essentially agreed to the possibility that we wouldn't be able to do what we said we were going to do because of those problems.
+So, I don't agree with this statement. By agreeing to do this project, we agreed to encounter problems. We might not have said that out loud. But we did. By agreeing to this project, we agreed to the possibility that we wouldn't be able to do what we said we were going to do because of those problems.
 
 ### Confessions
 It still hurts. I can tell myself all I want that being attacked by some senior manager for not "delivering what was promised" shouldn't affect me. But it does.
@@ -2278,7 +2278,7 @@ Client: I'm just tired of your excuses and your negativity. I thought I'd hired 
 This chapter might sound a bit crazy. It suggests drug addiction, unsafe sexual practices and project management have some things in common. That sounds crazy right? And yes, I am being a bit dramatic. Most projects don't result in death if they go wrong. But they can result in extreme expense. And they can be very miserable to work on. 
 
 ### Concept
-If people want to do something because they like how it makes them feel, they will do it, almost no matter what the ultimate consequences. If people want to avoid doing something because they don't like how doing it makes them feel, they will do that, no matter what the consequences. 
+If people want to do something because they like how it makes them feel, they will do it, almost no matter what. They will ignore what bad things will happen as a result. If people want to avoid doing something because they don't like how doing it makes them feel, they will do that, no matter what. They won't think about the bad things that will happen. 
 
 Part of the reason for this is the relationship between the delayed gratification and the instant gratification.
 
