@@ -31,7 +31,7 @@ But maybe it's this, you're the project *owner*. This is your baby. This is the 
 
 You're starting to get this uncomfortable feeling that the project isn't going well.  And for the sake of the company, well, that and the sake of your career, you need this project to go well. You realise, you don't know what you can do to help the project succeed. You wonder if there any useful tips in this book, for you, or for your team. Is there anything that *you* could do to help the project do better?
 
-Maybe you're working on a project, but you aren't any kind of boss. Maybe you're one of the people who does the work. Yes, yes, you know you're going to get paid no matter whether the project is a success or not. But maybe, you don't know where this preference comes from, you'd rather work on projects that were a success.  
+Maybe you're working on a project, but you aren't any kind of boss. Maybe you're one of the people who does the work. Yes, yes, you know you're going to get paid no matter whether the project is a success or not. But still, you'd rather work on projects that are a success.  
 
 So, let's get right to it. How do you deliver a project that is impossible? The quick answer is that you look at it from a different point of view, you find a way of seeing it, that makes it so that it isn't impossible.
 
@@ -312,7 +312,7 @@ And so on.
 
 Why am I telling you this? Because, of course, this idea of agreed activity is useful, not just in improvised theatre, but also in project management. On a software development project, when a team comes across something that's the equivalent of a pirate ship, there's a strong tendency to avoid it. 
 
-People who work on a software development project will often prefer agreed activity to moving the action forward.  They will fill their days with simple problems that they know how to fix rather than tackling big, complex problems. Like improvisers, they do this as a way of avoiding having to think or needing to change. Often this "decision" to avoid tackling the problems is taken without much discussion, or even conscious thinking. It is instinctive. Just as it is with improvisers on stage.
+People who work on a software development project will often choose agreed activity rather than moving the action forward.  They will fill their days with simple problems that they know how to fix rather than tackling big, complex problems. Like improvisers, they do this as a way of avoiding having to think or needing to change. Often this "decision" to avoid tackling the problems is taken without much discussion, or even conscious thinking. It is instinctive. Just as it is with improvisers on stage.
 
 You might think what I'm saying here is that it's the nature of software development teams to be lazy and cowardly. I am not saying that. Not at all.
 
@@ -1163,7 +1163,7 @@ Yup. Clearly, it's a tricky concept with a funny name. And there is clearly more
 
 What are we doing every day that's so vital? What we're doing is honouring what are referred to as the three pillars of empirical process - transparency, inspection and adaptation. When are we doing this? All the time, but one time when we're especially doing it, that I'm going to use as an example, is when we're driving a car. 
 
-Imagine that you're driving a car. The first thing that you need is transparency. You need to be able to see out of the windscreen and you need to be able to see behind you. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. Preferably, you'd like to also be able to see behind you through your mirrors - so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong very fast.
+Imagine that you're driving a car. The first thing that you need is transparency. You need to be able to see out of the windscreen and you need to be able to see behind you. If the windscreen is covered in mud, or being washed with buckets of rain, or frosted up with ice, that's bad. And it isn't just looking forward that's important. You'd like to see behind you through your mirrors. so the wing mirrors need to be there and the back windscreen needs to also be clear. When you're driving, before you even start moving, you need transparency.  And if you don't have it, things can go wrong very fast.
 
 But transparency isn't enough. If you're driving, it isn't enough for the windscreen to be clear, you still need to look out of it. You need to look out of the windscreen and check your mirrors. If instead, say, you're checking messages on your phone, or distracted and trying to brush scalding hot coffee out of your lap, that's no good. Transparency isn't enough. You need inspection. 
 
@@ -1508,7 +1508,7 @@ The only other thing that you *really* need is a list of things to do. This is o
 
 What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint backlog. These are the things that the team is going to do in this sprint.
 
-And where do you put this list of things to do? To be honest, I've got my preferences, but I try not to force them on the team. This is tricky because most of these things are proprietary and will involve some outlay and commitment. But I think the team should figure out all together what kind of thing they should use to communicate. 
+And where do you put this list of things to do? To be honest, I've got a way that I like to do it. But I try not to force them on the team. This is tricky because most of these tools aren't free. They involve signing up to something and spending money. But I think the team should figure out all together what kind of thing they should use to communicate. 
 
 They might want to start out with a spreadsheet, but somebody will probably find out quite soon that that's too difficult to maintain. They might want to start out with a physical wall, but in these days of everyone working from home, I'm not sure how you could make that work. 
 
@@ -1911,7 +1911,7 @@ If you're in a chaotic space, you're there for the chaos. You're there because y
 >> Ralph Waldo Emerson
 
 ### Concept
-In general, as human beings, we like to keep our promises. When we say we're going to do something, we like to honour the commitment. We also prefer not to be all over the place in our behaviour. If we tell people that we're vegetarian, we prefer not to be caught eating a chicken burger the size of our head. 
+In general, as human beings, we like to keep our promises. When we say we're going to do something, we like to honour the commitment. We don't like our behaviour to look like it's all over the place. We want to appear consistent. If we tell people that we're vegetarian, we don't want to be caught eating a chicken burger the size of our head. 
 
 This is one of the most powerful principles that controls our behaviour - it's known as commitment and consistency. We like to keep our promises - commitment. We like to behave in a way that looks like it's in line with what we believe - consistency. 
 
