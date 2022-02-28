@@ -2268,6 +2268,49 @@ PM: We can't really make any more progress on the payment function until we get 
 
 Client: I'm just tired of your excuses and your negativity. I thought I'd hired a team who could get things done. Maybe I need to get that team over there from X Corp to look at this, they'll probably be happy to take over the work.
 
+This is third circle. It's angry and shouting. And the purpose of it, isn't to solve the problem, it's to stop you talking about the problem. 
+
+The mistake that I've made in the past with this kind of response is to deal with the content. 
+
+PM: I think if you asked X Corp, they would say the same thing.
+
+Also, I would get angry. I would get angry at the threat to take the work away, and I would get angry at the suggestion that me and my team are either being dishonest, or don't know what they're talking about.
+
+Now, I think I would try to keep the conversation in second circle. I would do my best not to get angry. 
+
+PM: We can't see how we're going to solve this problem without access to that database. I think if we could just talk to somebody from the team that is building the transaction database, we can get a better idea of when it's likely to be ready. And if that's going to be a long time, we can maybe start to talk about what we can do without it.
+
+I don't expect the client to behave well or rationally in response to this. I don't think it's impossible that the client will go and talk to X corp. I think it's absolutely likely that if the client does this, X corp with tell them that the project can totally be done without the database and they're willing to start tomorrow.
+
+This brings together a bunch of things that we've been talking about all the way through this book.
+
+1. Daniel Kahneman's principle - what you see is all there is.
+2. Ignoring the pirate ship. 
+3. First, second and third circle communication.
+4. The difference between flowers (the dream) and fruit (the reality).
+5. Commitment and consistency.
+
+Here's where I'm going to admit that this - this second circle communication with clients - actually, it's with everyone - is not something that I'm that good at. The thing I'm probably most good at is spotting the pirate ships on the horizon and insisting that they get talked about, rather than ignored. 
+
+There are always going to be people who are better at having difficult conversations than me.
+
+Maybe you are a natural at having these kinds of conversations (the evidence that we see from most projects is that most people aren't). Maybe you work with people who are better at having those kinds of conversation than you are. Maybe you all find it hard and you need to work between you to make sure that these conversations happen. Maybe you need to inspect and adapt as a team to get better at these kinds of conversations.
+
+But let's be absolutely clear - as a team, you need to have these conversations with your client. Not just once, but repeatedly throughout the project.
+
+You also need to be clear that for those of you who do this communication, it might be very difficult. The responses that you get from the client may well be third circle. What are some third circle responses that you might get from the client? 
+
+They might shout at you to go faster. They might complain that your team isn't looking ill enough and stressed enough. They might point out (whether it's true or not) that you promised to do a certain thing, my a certain time and you haven't.
+
+These are all third circle responses. And to a degree they may work. You may find yourself angry at the idea that you clients wants to physically and psychologically harm your team. You might feel anger and shame at the suggestion that you haven't kept your promises. 
+
+And it's important to have those emotions, because if you don't, they will "have" you. They will stop you thinking clearly and they will prevent you from talking to you client in second circle. And guess what? That's what accusing you and your team of being incompetent, dishonest or lazy is designed to do. This might not be conscious on the part of the client, but it's exactly what's going on. Most people when they are attacked like this will either shut up (first circle), or be stung into a bout of frenzied agreed activity. Looked at in this way, agreed activity is a kind of manic, performative agreed activity. Some people are stupid enough to argue back. 
+
+In the past, I've been stupid enough to argue back. What they don't want, what they don't expect is continued discussion in second cirle.
+
+How to deal with third circle declarations. 
+ 
+
  
 
  
