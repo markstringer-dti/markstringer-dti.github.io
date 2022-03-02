@@ -2310,7 +2310,24 @@ And it's important to have those emotions, because if you don't, they will "have
 In the past, I've been stupid enough to argue back. What they don't want, what they don't expect is continued discussion in second cirle.
 
 How to deal with third circle declarations. 
- 
+
+Do the "positive" thing in front of everyone. 
+
+But then, in private, have the second circle conversation.
+
+So this pulls us back to the Taiichi Ohno question - what business are you in?  Yes, you're in the business of keeping the channels of communication open. But how exactly do you do that? The Agile meetings are part of that. And this is also the reason that the success of a project is so often directly related to the quality of the relationship that the product owner has with the client. Counting things, showing progress. Another good strategy is a dedicated risks and issues meeting.
+
+This is a strategy that's worked very well for me recently. We were working on a project in a big organisation. The product owner told me that we needed to submit a risks and issues log to some programme level governance function. I was skeptical. I hadn't had a lot of luck. It occurs to me now that as a project manager I should in general be a lot less skeptical about suggestions for anything that changes what people see - because what you see is all there is. 
+
+But the product owner came back with a suggestion - and the holy Agile name of Mike Cohn. The suggestion was for a kanban-style board showing all the risks but then, providing each risk with a score. How did we calculate the risk score? Very roughly. The score was the cost of fixing a risk if it became a genuine issue. This was in terms of days for the whole team. So for example the risk was "We can't find a rich text editor plugin that meets our needs" the cost of that might be three months of work for the whole team - 60 days. And the likelihood of this might be low - 20 percent. So the total score for that risk would be 20 times 60 - 1200. This meant that we could do several things that were really important. 
+
+Firstly and most importantly, we could have a fortnightly meeting where we discussed each of risks - starting with the column which had the risks which scored the most and we could discuss if the score on the risk had changed. This is by far the most important aspect of having the risks board. Because changes in score tended to indicate changes in understanding of the project and changes in political weather within the organisation. Talking about risk scores turned out to be a very good way of getting into a second circle coversation with the client about what is going on in the organisation.
+
+One of the risks that we had on that project, that we talked about every two weeks, was "The project isn't delivered on time." Another was "We don't get funding to continue." But tracking these risks, and scoring them, allowed for a secondary benefit.
+
+We could plot of the overall risk score over time. We could see when the risks were sky high, which at one point they were. There was a high chance of not delivering and a high chance of not getting the money to deliver. But over time, the risks reduced. 
+
+
 
  
 
