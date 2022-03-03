@@ -2309,11 +2309,29 @@ And it's important to have those emotions, because if you don't, they will "have
 
 In the past, I've been stupid enough to argue back. What they don't want, what they don't expect is continued discussion in second cirle.
 
-How to deal with third circle declarations. 
+How to deal with show trials and loyalty declarations? 
 
-Do the "positive" thing in front of everyone. 
+I'd been working on the project about two months. We were supposed to be going live at Easter. The obsessions with clients to launch software to cooincide with Christian festivals made a bit more sense this time. It was a product that was mostly used by university students. It made sense to deliver when they were taking a vacation. I don't know what kind of promises my boss had made to the board guaranteeing that we would deliver before Easter eggs went on sale. But he's certainly promised something. And the result of that promise was that he wanted everyone working on the project (and that was around 70 people) to tell him on a scale of one to five how sure they were that we would deliver for Easter. 
 
-But then, in private, have the second circle conversation.
+To start with he picked his favourites. The people that he knew would be most likely to say "Five." And sure enough, by the time he got around to people who actually knew the state of the project, there was an immense and building pressure to say "Five." Every time a team member said "Five" he would beam. Occasionally a brave soul would say "four" and this would bring about a period of gruff interrogation. This would pretty much ensure the next few team members got the message and would cheerfully trot out "five." Then it came to me. "Two." Yes, that's right. I was the guy who'd replaced Mr Two and look at me now. 
+
+My bosses face clouded. "Why two?" 
+"As you know we've got things that we've guaranteed. Things that we've said we have some chance of delivering. And things that we've said we'll deliver if we have time. Current progess suggests that we won't quite make the things that we've guaranteed. And I think a lot of the board think they're going to get all of the things that we've mentioned. I've heard some of them say that."
+
+When the "meeting" was over, I had the inevitable one-on-one with my boss. 
+
+"Why did you embarrass me in front of the whole team."
+"Because they weren't going to tell you the truth, and it was unfair to ask them."
+"Never embarrass me in front of the team like that."
+"OK, never ask such a stupid question of the team and there's a good chance I won't."
+
+Could I have handled it better? I'd be astounded if there wasn't a better way. But I'm still not exactly sure what it would be.
+
+I think I should have probably said "four" in front of the team. Then I should have asked for the one to one. 
+
+I should have walked through all the things that I was "assuming" would be fine that had allowed me to talk about a four. But I should have also tried to understand what the background and motivations were for him doing what he'd done. Making everyone say out loud that they were certain, or almost certain that the project could be delivered on time was, of course, aggressive third circle communication.
+
+Encouraging public declarations like this are of course calculated to avoid any kind of dissent, or discussion. And they're always a sign of certain kind of desperation. 
 
 So this pulls us back to the Taiichi Ohno question - what business are you in?  Yes, you're in the business of keeping the channels of communication open. But how exactly do you do that? The Agile meetings are part of that. And this is also the reason that the success of a project is so often directly related to the quality of the relationship that the product owner has with the client. Counting things, showing progress. Another good strategy is a dedicated risks and issues meeting.
 
