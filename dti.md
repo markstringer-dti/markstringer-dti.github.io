@@ -1189,11 +1189,11 @@ Here's an example. I didn't witness this for myself. But people who were there h
 
 The first ever Agile software development project that I worked on was for a publishing company. When I joined the project it had been going for over a year and had cost many millions of pounds. The way that I heard the story, a few months before I joined, there had been a show and tell meeting. It was an international company and it had offices in London and in New York. There were people with American accents dialling in on a conference call.
 
-I don't know much about what happened in that meeting.  I do know that at some point one of the Scrum Masters said that he was going to share project progress. This was progress that had been made through "the backlog." The backlog is the Agile way of saying the list of all the requirements for the project. 
+I don't know much about what happened in that meeting.  I do know that at some point one of the Scrum Masters said that he was going to share project progress. This was progress that had been made through "the backlog." The backlog is the Agile way of saying the list of all the requirements for the project. But I'm not going to use it that word any more through out the whole of this book. Simply because it's one of those words which is used in Agile in a specific way but seems to cause more confusion and difficulty than it does clarity and progress. So from now on, I'm going to use the prase "To do list." And for each of the items in the "To do list." I'm going to use "To do list items." 
 
 He had a presentation with some slides. And there was a bit of messing about setting up the presentation - and then making sure that it was shared with the office in New York. Finally, everything was set up and the scrum master could move to the slide that showed progress of the project. He clicked on to the slide. In the middle of the slide was a giant "2".
 
-I don't know how dramatic he was at this point. I don't know if he asked anybody in the room or on the phone if they could guess what the two meant? 2 weeks to finish? 2 Months? 2 Years? But I know that at some point he did get the point across. The 2 was percent. Progress on the project, after six months and many millions of pounds was 2 percent of all the work that was in the backlog.  
+I don't know how dramatic he was at this point. I don't know if he asked anybody in the room or on the phone if they could guess what the two meant? 2 weeks to finish? 2 Months? 2 Years? But I know that at some point he did get the point across. The 2 was percent. Progress on the project, after six months and many millions of pounds was 2 percent of all the work that was in the to do list.  
 
 This is brutal transparency. Any it probably came out of desperation. Having worked on that project I can guess that someone had told the bosses in New York that the project would be finished by a certain date. Nobody had mentioned to the bosses the problems that were being found. Problems that were slowing progress to a crawl.
 
@@ -1459,10 +1459,10 @@ Of course, the scores are (almost) complete hokum.
 
 But having a short meeting every fortnight where we discussed what was worrying the senior stakeholders? That was useful. And that's what this meeting allowed us to do. It was also a way of us gently raising our own concerns.
 
-###### Backlog refinement
-There are lots of different ways of doings this. And again, I really want this to evolve through the course of a project. There is the "Three Amigos" approach. Several members of the team maybe a designer, a developer and a user researcher, get together once a week. They look at the backlog. They discuss from the point of view of their discipline what might be the challenges with items in the backlog.  Technically, is this possible? What else to we need to know? From a user research point of view, what might we need to explore before we develop it? From a design point of view, is there anything new and different? And of course, from a business point of view, why is this important? 
+###### To do list refinement
+There are lots of different ways of doings this. And again, I really want this to evolve through the course of a project. There is the "Three Amigos" approach. Several members of the team maybe a designer, a developer and a user researcher, get together once a week. They look at the project to do list. They discuss from the point of view of their discipline what might be the challenges with items in the to do list.  Technically, is this possible? What else to we need to know? From a user research point of view, what might we need to explore before we develop it? From a design point of view, is there anything new and different? And of course, from a business point of view, why is this important? 
 
-In my experience, this might be needed early on. So that these points of view are made clear to the other "amigos." But over time, this can be streamlined, and the reviews of the backlog might only need the product owner and the Scrum Master. Maybe. Think about it this way. Part of the work that you're doing on a project is figuring out what shape the work is. Where does the work need detail and specification up front? Where can it be left to be figured out as it's picked up to be developed.
+In my experience, this might be needed early on. So that these points of view are made clear to the other "amigos." But over time, this can be streamlined, and the reviews of the project to do list might only need the product owner and the Scrum Master. Maybe. Think about it this way. Part of the work that you're doing on a project is figuring out what shape the work is. Where does the work need detail and specification up front? Where can it be left to be figured out as it's picked up to be developed.
 
 Which bits need to be explored using user research and testing? How much? Where? With whom? Which bits need a lot of design thinking and input. Which bits can be developed without much design input? 
 
@@ -1481,13 +1481,13 @@ So, you've got your four meetings. What else do you need?
 
 For me there are two, (ok, maybe three or four) artefacts.
 
-1. Backlog items.
-2. A collection of backlog items
+1. To do list items.
+2. The to do list
 3. Maybe a roadmap
 4. Maybe a burnup chart
 5. An emerging definition of ready and done
 
-##### Backlog items
+##### To do list items
 At the beginning of a project, I'm very happy to start collecting a list of any things that need doing.
 
 And I don't want to be too prescriptive about what kinds of things are allowed to go on that list.
@@ -1503,10 +1503,10 @@ Because I think the team need to get a feel together for what constitutes a well
 And drawing distinctions between stories and bugs. I'm also fine with this. Once you get going, this is fine. Roughly, a story is a change that the product owner wants to make to the way the software behaves to make it do something new. A bug is a change that makes it behave in the way that's expected. 
  
 
-##### A collection of backlog items - the backlog
-The only other thing that you *really* need is a list of things to do. This is often called the backlog.
+##### The project to do list
+The only other thing that you *really* need is a list of things to do.
 
-What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint backlog. These are the things that the team is going to do in this sprint.
+What you do in planning is that you look at that list of things to do with the team and the product owner and decide, all together, on a shorter list. The sprint to do list. These are the things that the team is going to do in this sprint.
 
 And where do you put this list of things to do? To be honest, I've got a way that I like to do it. But I try not to force them on the team. This is tricky because most of these tools aren't free. They involve signing up to something and spending money. But I think the team should figure out all together what kind of thing they should use to communicate. 
 
@@ -1568,7 +1568,7 @@ So, what you end up with at the end of this session is a wall (real, or virtual)
 
 Grouped under Fibonacci series numbers.
 
-This is the really important bit you add up the total of the scores on all of the tickets. This gives you an overall number for the size of the backlog. 
+This is the really important bit you add up the total of the scores on all of the tickets. This gives you an overall number for the size of the to do list. 
 
 This is important number #1.
 
@@ -1647,7 +1647,7 @@ Here's the too long, didn't read version of the entire philosophical career of S
 
 So, I'm fine with a definition of ready. I just don't want it to be written down. Or if it is, I want the word draft written across it and I want to revisit regularly. I want it to emerge through practice. For anyone interested, this is a Wittgensteinian approach rather than a Platonic one. 
 
-I mean, I'm not going to forbid anybody from writing things down. But if the team notice that they don't have anything to plan.  And the reson for this is because none of the items in the backlog are "ready". According to the definition at least. I might suggest they don't focus so much on the definition of ready. Rather they just have a chat about the things that are most ready. What would need to happen to them for them to be ready? 
+I mean, I'm not going to forbid anybody from writing things down. But if the team notice that they don't have anything to plan.  And the reson for this is because none of the items in the to do list are "ready". According to the definition at least. I might suggest they don't focus so much on the definition of ready. Rather they just have a chat about the things that are most ready. What would need to happen to them for them to be ready? 
 And so you might have already figured out what I'm going to say about "definition of done"? Something very similar. 
 
 ### Concrete Practice
@@ -2021,15 +2021,15 @@ And of course you can dispense with that "cadence" completely, or have daily spr
 
 So, the length of sprint. That's definitely a knob on the scrum. Once you realise that it's a knob, you can talk together as a team about changing it. 
 
-Another knob that you can turn is the the depth of the backlog. What do I mean by that? I mean how long is the list of stories, issues, backlog items, whatever you want to call them. How long is the list of things that need to be done on the project? On some projects, this list will be everything that anyone can imagine being part of the project. One some projects, it will be only a list of things necessary for the project to go live. On some projects it might be a very short backlog. While the current sprint is running, what's going to go into the backlog for the next sprint is still being discussed. 
+Another knob that you can turn is the the depth of the to do list. What do I mean by that? I mean how long is the list of stories, issues, to do items, whatever you want to call them. How long is the list of things that need to be done on the project? On some projects, this list will be everything that anyone can imagine being part of the project. One some projects, it will be only a list of things necessary for the project to go live. On some projects it might be a very short to do list. While the current sprint is running, what's going to go into the to do list for the next sprint is still being discussed. 
 
-And of course, both kinds of backlog have benefits. A long backlog would be one that captures either everything that needs to be delivered, or everything that could be deliveredr. It gives a sense of completeness. It's also relatively easy to use backlogs to predict when a project is going to be delivered, and to negotiate changes in deadline or changes in scope.
+And of course, both kinds of to do list have benefits. A long to do list would be one that captures either everything that needs to be delivered, or everything that could be deliveredr. It gives a sense of completeness. It's also relatively easy to use to do lists to predict when a project is going to be delivered, and to negotiate changes in deadline or changes in scope.
 
-Alternatively, working off a shortbacklog is useful for projects that are trying to negotiate uncertain times. The allow a team to change direction quickly and to incorporate new ideas.
+Alternatively, working off a short to do list is useful for projects that are trying to negotiate uncertain times. The allow a team to change direction quickly and to incorporate new ideas.
 
 We want reliabilty and maneouvrability in both cars and projects. We'd also probably like speed. But the fastest cars aren't the most reliable, or the easiest to steer. And it's the same with projects. A project that's set up to be manouvrable probably won't be the most reliable and the fastest.
 
-There's also another knob on the backlog. Actually it might be two. That's the required depth of detail and maturity in it's stories. Sometimes this is known as the definition of ready. 
+There's also another knob on the to do list. Actually it might be two. That's the required depth of detail and maturity in it's stories. Sometimes this is known as the definition of ready. 
 
 How complex and detailed the definition of ready is, is something that can vary. It's a knob. On some projects the definition of ready may need to be *very* detailed indeed. Maybe all the content needs to have been combed by lawyers before it can be put in the story. Maybe each story needs a list of acceptance criteria and conditions of satisfaction. These need to be there so that tests for the story can be written at the same time as the story is being developed. Maybe the story needs to go through severa different refinement stages before it's ready to be "developed." These could be user, research or design. For some companies, there might be also stages with risk and legal.
 
@@ -2039,9 +2039,9 @@ Beyond agreement about how detailed any given story should be, there's a separat
 
 What? How many stories are fully detailed? How many stories are partially detailed? How many stories have no detail at all?
 
-Or the depth of the stories in the backlog. It might be how strongly you focus on finishing all the stories that were planned by the end of the sprint.
+Or the depth of the stories in the to do list. It might be how strongly you focus on finishing all the stories that were planned by the end of the sprint.
 
-The team might have a huge long backlog. The team might have nearly no backlog at all.
+The team might have a huge long to do list. The team might have nearly no to do list at all.
 
 The team might have stories that are very detailed, with relatively strict criteria.
 
