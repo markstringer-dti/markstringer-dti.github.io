@@ -2192,29 +2192,33 @@ Eugen Herrigel - Zen in the Art of Archery
  
 Project management is all about improving the quality of the conversation.
 
-This is the realisation that I've come to. I've had hints of it in the past, but writing this book, working to communication what I know about project management, has made me much more certain.
+This is the realisation that I've come to. I've had hints of it in the past, but writing this book, working to communicate what I know about project management, has made me much more certain.
 
-We're all probably agreed in theory that communication is a good thing. But we're also probably agreed that not all communication is of the same quality. As I write this, I'm reminded of a Monty Python sketch that involves performing the novel Wuthering Heights using semaphore flags. What that graphically shows is that some communication, for some things, is probably better suited than others. There are good and bad kinds of communication. But for project management, what *kind* of communication is a good thing? What characterises it and how can we make sure that that's the kind that we use in our projects.
+We're all probably agreed in theory that communication is a good thing. But we're also probably agreed that not all communication is of the same quality. There's a Monty Python sketch that involves performing the novel Wuthering Heights using semaphore flags. What that graphically shows is that some communication, for some things, is probably better suited than others. There are good and bad kinds of communication. But for project management, what *kind* of communication is a good thing? What characterises it and how can we make sure that that's the kind that we use in our projects.
 
 If there is a kind of conversation that's a good kind, why is there so much bad communication? 
 
-What kind of conversation is the good kind? These ideas are based on the work of Patsy Rhodenberg. Part of writing this book was to go back to a lot of the books that I've found most helpful in the past and re-read them. Patsy Rodenberg's book "Presence" is one of those books.
+What kind of conversation is good communication? These ideas are based on the work of Patsy Rhodenberg and her book "Presence."
 
 Rodenberg's idea,[Ref]is that there are three basic kinds of communication. She calls these first, second and third circle.
 
-The first circle is going inwards, it's introspective. First circle is either not talking or talking to oneself. If first circle isn't actually mumbling, it is either talking quietly, or talking in a language that only really makes sense to the person who is talking. First circle is quiet, timid. First circle might look like they're listening.  But in some fundamental way, they aren't engaging with what's been said.
+The first circle is going inwards, it's introspective. First circle is either not talking or talking to oneself. If first circle isn't mumbling, it is either talking quietly, or talking in a language that only really makes sense to the person who is talking. First circle is quiet, timid. Someone who is in first circle might look like they're listening.  But in some fundamental way, they aren't. They aren't engaging with what's been said.
 
-The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others.It is telling people things that you want them to hear. It is showing people things you want them to see. Third circle is shouty, flamboyant and possibly aggressive. It doesn't want to hear what other people have to say. 
+The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others. It is telling people things that you want them to hear. It is showing people things you want them to see. Third circle is loud, it shouts. It is flamboyant and possibly aggressive. It doesn't want to hear what other people have to say. In fact, as we'll see, that's a large part of the reason for third circle. 
 
-The second circle is genuine dialogue. Each side is paying attention. They are being changed by what the other side says. Each side is coming to an understanding of the other's position. That doesn't mean that they have to accept the other side's position as true or right. But if two sides are in second circle, they at least accept that it is the other side's position.
+The second circle is genuine dialogue. Each side is paying attention. They are being changed by what the other side says. Each side is coming to an understanding of the other's position. That doesn't mean that everyone in second circle accepts that the other side's position as right or true. But if two sides are in second circle, they at least accept that it is the other side's position.
 
 From the point of view of project management, by engaging in second circle, you can start to understand what's valuable to your client. When you do that, you can see if there are things that you can offer, even if these things aren't valuable to you. This is closely related to the discussion about the swamp that we had earlier. 
 
-By revealing the current situation through discussion, you can manage to make something magical and alchemical happen. You can get your "opponents" to negotiate, not with you, but with themselves. Again, this is closely related to something that we've already talked about - the pirate ship. There is bad news on the horizon. It needs dealing with. The crew by themselves can't deal with it. They need insight, strategy and decisive action from whoever is in charge. Whatever the problem is, it is very dangerous to ignore it. Although everybody might feel better for a while, it's also dangerous and ineffective to rail against it, and just complain that the world shouldn't be like this. 
+By revealing the current situation through discussion, you can manage to make something magical and alchemical happen. You can get your "opponents" to negotiate, not with you, but with themselves. Again, this is closely related to something that we've already talked about - the pirate ship. There is bad news on the horizon. It needs dealing with. The crew by themselves can't deal with it. They need insight, strategy and decisive action from whoever is in charge. 
 
-Here's what project management is about, it's about working to improve the quality of second circle conversation.
+Whatever the problem is, it is very dangerous to ignore it. And, although everybody might feel better for a while, it's also dangerous and ineffective to rail against it, and just complain that the world shouldn't be like this. 
 
-Understand and accepting this can be good news if you're a project manager. If you accept this, your job description changes. You job is no longer about delivering the impossible. It's about improving the conversation between the people who are asking for something that's impossible and the people who are trying to deliver it. Of course, there's a secondary goal of trying to improve the communication enough that the what's being asked for starts to be something that's possible. But since the only way to do that is to keep improving - and maintaining second circle conversation, that really isn't the main consideraion. If you focus on the quality of the conversation, you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in second circle. 
+So here's my thesis about what project management is about about: it's about working to improve the quality of second circle conversation.
+
+Understand and accepting this can be good news if you're a project manager. Because if you accept this, your job description changes. You job is no longer about delivering the impossible. It's about improving the conversation between the people who are asking for something that's impossible and the people who are trying to deliver it. Of course, there's a secondary goal of trying to improve the communication enough that the what's being asked for starts to be something that's possible. But since the only way to do that is to keep improving - and maintaining second circle conversation, that really isn't the main concern. 
+
+My conclusion is that if you focus on the quality of the conversation, you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in second circle. 
 
 Projects will only work if there's genuine dialogue between the team and the client. Now obviously, all the practices that we've talked about in this book are still important. It's important to understand the swamp, who owns this area? Who's interested in this area? Who lives in it? Who works in it? Who regulates it? 
 
@@ -2228,19 +2232,27 @@ The reason people don't stay in second circle the whole time is that it can be d
 
 Why is it dangerous? Because being in second circle is revealing and the more people know about you, the more likely it is that they can use what they know to harm you. 
 
-Why is it exhausting? Because, when you're in a genuine give and take dialogue, you have to think. You can do first circle in several different ways. You can simply be quiet and not listen to what others are saying to you. You can listen to what others say, but not engage with it. You can even just accept whatever others say and cease to have any opinions yourself. None of these options involve anywhere near as much effort as engaging.
+Why is it exhausting? Because, when you're in a genuine give and take dialogue, you have to think. You can do first circle in several different ways. You can simply be quiet and not listen to what others are saying to you. You can listen to what others say, but not engage with it. You can even just accept whatever others say and cease to have any opinions yourself. None of these options involve anywhere near as much effort as trying to remain in second circle and engaging.
 
-Engaging means asking questions, not only of the people that you're talking to, but of yourself. Questions like, am I right? Am I seeing this straight? Are my intuitions valid in this situation? What can we do about these issues that seem to make this project impossible? What can we do with the contradictory behaviour from the client? How can we deal with their insistence that progress on the project needs to be faster whilst at the same time they are refusing to help us remove the brick without straw problems?
+Engaging means asking questions, not only of the people that you're talking to, but of yourself. Questions like, am I right? Am I seeing this straight? Are my intuitions valid in this situation? What can we do about these issues that seem to make this project impossible? What can we do with the contradictory behaviour from the client? How can we deal with their insistence that progress on the project needs to be faster whilst at the same time they are refusing to help us remove the "brick without straw" problems?
 
-This is the point where I really wish that I had a strong, clear list of actions that I could recommend. To make sure that you always stay in second circle with your client. 
+Ok, let's say you're with me to this point. So what the concrete actions that we can take to make sure that we're talking reasonably in second circle with our clients and not yelling or mumbling?
 
-But I don't think I have that list. For now, I'm going to brainstorm a list.
+First all, it's important to understand that all of the Agile ceremonies create opportunities for second circle conversation. Notice that I say that they create opportunities. They don't guarantee it.
+
+What they do do is throw up opportunities for conversation. Blockers that come up in stand up? Opportunities for conversation. 
+
+Questions from the product owner why the team haven't planned as much as they had imagined? An opportunity for conversation.
+
+Surprise, shock or (feigned?) horror at a demonstration of working software. This is certainly an opportunity for conversation.
+
+A recurring theme in retrospectives about some infrastructural, some "bricks without straw problem?" This is certainly an opportunity for a second circle conversation. 
 
 Count things and then use them as conversation pieces.
 
-Count things. Count things like what? Here are some things that have worked for me in the past. 
+Count things? Count things like what? Here are some things that have worked for me in the past. 
 
-Here's an example. How long does it take for a piece of work to get from the point where it's agreed that it should be worked on, to the point where it is in the software?
+How long does it take for a piece of work to get from the point where it's agreed that it should be worked on, to the point where it is in the software?
 
 How much work is the team completing on average in a two-week period? When does that mean the project is likely to complete all the work that's needed?
 
@@ -2250,13 +2262,7 @@ What's the rate at which the budget is being spent?
 
 All these numbers are the kind of numbers that a Lean approach to manufacturing and development suggest that you count. 
 
-And then there are some other things, that aren't counted, but are "observed."
-
-* The thing that the team think is the limiting factor on the speed of development of the project, or the limiting factor on the chances of its success.
-
-* The most important issues that are emerging from retrospectives.
-
-* This is so huge - it should probably be more than just a bullet point. Reporting research findings about current users, possible users and other interested parties.
+Reporting research findings about current users, possible users and other interested parties.
 
 Discussing these things in second circle will probably increase the chances of a project being successful.
 
@@ -2280,7 +2286,7 @@ Now, I think I would try to keep the conversation in second circle. I would do m
 
 PM: We can't see how we're going to solve this problem without access to that database. I think if we could just talk to somebody from the team that is building the transaction database, we can get a better idea of when it's likely to be ready. And if that's going to be a long time, we can maybe start to talk about what we can do without it.
 
-I don't expect the client to behave well or rationally in response to this. I don't think it's impossible that the client will go and talk to X corp. I think it's absolutely likely that if the client does this, X corp with tell them that the project can totally be done without the database and they're willing to start tomorrow.
+I don't expect the client to behave well or rationally in response to this. I don't think it's impossible that the client will go and talk to X corp. I think it's likely that if the client does this, X corp with tell them that the project can totally be done without the database and they're willing to start tomorrow.
 
 This brings together a bunch of things that we've been talking about all the way through this book.
 
@@ -2290,41 +2296,41 @@ This brings together a bunch of things that we've been talking about all the way
 4. The difference between flowers (the dream) and fruit (the reality).
 5. Commitment and consistency.
 
-Here's where I'm going to admit that this - this second circle communication with clients - actually, it's with everyone - is not something that I'm that good at. The thing I'm probably most good at is spotting the pirate ships on the horizon and insisting that they get talked about, rather than ignored. 
+Here's where I'm going to admit that this - this second circle communication with clients - actually, it's with everyone - is not something that I'm that good at. The thing I'm probably best at is spotting the pirate ships on the horizon and insisting that they get talked about, rather than ignored. 
 
 There are always going to be people who are better at having difficult, second circle, conversations than me.
 
 Maybe you are a natural at having these kinds of conversations (the evidence that we see from most projects is that most people aren't). Maybe you work with people who are better at having those kinds of conversation than you are. Maybe you all find it hard, and you need to work together to make sure that these conversations happen. Maybe you need to inspect and adapt as a team to get better at these kinds of conversations.
 
-But let's be absolutely clear - as a team, you need to have these conversations with your client. Not just once, but repeatedly throughout the project.
+But let's be clear - as a team, you need to have these conversations with your client. Not just once, but repeatedly throughout the project.
 
 You also need to be clear that for those of you who do this communication, it might be very difficult. The responses that you get from the client may well be third circle. What are some third circle responses that you might get from the client? 
 
-They might shout at you to go faster. They might complain that your team isn't looking ill enough and stressed enough. They might point out (whether it's true or not) that you promised to do a certain thing, by a certain time and you haven't.
+They might shout at you to go faster. They might complain that your team isn't looking ill enough and stressed enough. They might point out (whether it's true or not) that you promised to do a certain thing, by a certain time and you haven't. They will cast doubt on your ability and your professionalism. A lot of what's said in these situations isn't about solving any of the problems on the project. It's about making you shut up. 
 
 These are all third circle responses. And to a degree they may work. You may find yourself angry at the idea that you clients want to physically and psychologically harm you and your team. You might feel anger and shame at the suggestion that you haven't kept your promises. 
 
-And it's important to have those emotions, because if you don't, they will "have" you. They will stop you thinking clearly and they will prevent you from talking to you client in second circle. And guess what? That's what accusing you and your team of being incompetent, dishonest or lazy is designed to do. This might not be conscious on the part of the client, but it's exactly what's going on. Most people when they are attacked like this will either shut up (first circle) or be stung into a bout of frenzied agreed activity. Looked at in this way, agreed activity is a kind of manic, performative agreed activity. Or in the worst, career threatening cases, answer third circle attacks with a third circle response. 
+And it's important to have those emotions, because if you don't, they will "have" you. They will stop you thinking clearly and they will prevent you from talking to you client in second circle. And guess what? That's what accusing you and your team of being incompetent, dishonest or lazy is designed to do. This might not be conscious on the part of the client, but it's exactly what's going on. Most people when they are attacked like this will either shut up (first circle) or be stung into a bout of frenzied agreed activity. Looked at in this way, agreed activity is a kind of manic, performative first circle. Or in the worst, career threatening cases, answer third circle attacks with a third circle response. 
 
 In the past, I've been stupid enough to argue back. What they don't want, what they don't expect is continued discussion in second circle.
 
 How to deal with show trials and loyalty declarations? 
 
-I'd been working on the project about two months. We were supposed to be going live at Easter. The obsessions with clients to launch software to coincide with Christian festivals made a bit more sense this time. It was a product that was mostly used by university students. It made sense to deliver when they were taking a vacation. I don't know what kind of promises my boss had made a promise that a certain list of functions would be delivered before Easter eggs started to get "reduced price" stickers in the shops. 
+I'd been working on the project about two months. We were supposed to be going live at Easter. The obsessions with clients to launch software to coincide with Christian festivals made a bit more sense this time. It was a product that was used by university students. It made sense to deliver when they were taking a vacation. My boss had promised a certain list of functions would be delivered before Easter. 
 
 And the result of that promise was that he wanted everyone working on the project (and that was around 70 people) to tell him on a scale of one to five how sure they were that we would deliver for Easter. 
 
-To start with he picked his favourites. The people that he knew would be most likely to say "Five." And sure enough, by the time he got around to people who were more independent minded and knew the state of the project, there was an immense and building pressure more everyone to say "Five." Every time a team member said "Five" he would beam. Occasionally a brave soul would say "four" and this would bring about a period of gruff interrogation. This would pretty much ensure the next few team members got the message and would cheerfully trot out "five." Then it came to me. "Two." Yes, that's right. I was the guy who'd replaced Mr Two and look at me now. 
+To start with he picked his favourites. The people that he knew would be most likely to say "Five." And sure enough, by the time he got around to people who were more independent minded and knew the state of the project, there was an immense and building pressure more everyone to say "Five." Every time a team member said "five" he would beam. Occasionally a brave soul would say "four" and this would bring about a period of gruff interrogation. Sometimes this even resulted in the poor soul changing their score to "five." Even if that didn't happen, it would pretty much ensure the next few team members got the message and would cheerfully trot out "five." Then it came to me. "Two." Yes, that's right. I was the guy who'd replaced Mr Two and look at me now. 
 
 My bosses face clouded. "Why two?" 
-"As you know we've got things that we've guaranteed. Things that we've said we have some chance of delivering. And things that we've said we'll deliver if we have time. Current progress suggests that we won't quite make the things that we've guaranteed. And I think a lot of the board think they're going to get all of the things that we've mentioned. I've heard some of them say that."
+"As you know we've got things that we've guaranteed. Things that we've said we have a reasonable chance of delivering. And we've also got things that we've said we'll deliver if we have time. Current progress suggests that we won't quite make the things that we've guaranteed. And I think a lot of the board think they're going to get all of the things that we've mentioned. I've heard some of them say that."
 
 When the "meeting" was over, I had the inevitable one-on-one with my boss. 
 
 "Why did you embarrass me in front of the whole team."
 "Because they weren't going to tell you the truth, and it was unfair to ask them."
 "Never embarrass me in front of the team like that."
-"OK, never ask such a stupid question of the team and there's a good chance I won't."
+"OK, never ask such a question like that in front of the team and there's a good chance I won't."
 
 Could I have handled it better? I'd be astounded if there weren't at least a dozen better ways. But I'm still not exactly sure what it would be.
 
