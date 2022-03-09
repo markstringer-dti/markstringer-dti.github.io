@@ -2354,9 +2354,17 @@ We could plot the overall risk score over time. We could see when the risks were
 
 Words and music. Something that occurs to me when thinking about these instances of third circle barrages is that the main mistake is to engage directly with the content, rather than the fact that it's a third circle barrage. Nothing useful can be done until we've acknowledged that it was a third-circle attack. Once you've noticed that it's third circle attack, your next move shouldn't be to engage with the content of the third circle attack, it should be to look for some way to have a second circle conversation.
 
- 
+And, in general, that should be the approach that you're taking the whole way through a project. You need to be looking for the places where there are "conversations" happening in first circle. These of course might be conversations that aren't happening at all. This is the agreed activity of scrubbing the deck while the pirate ship is on the horizon. But they also might be conversations that are happening very quietly. It's quite surprising how someone can get away with mumbling essentially the same update in stand-up. It can happen for days, sometimes weeks.
 
- 
+At the same time, it's important to be looking for situations which are in the third circle or are turning into third circle. Again, this can happen in stand up. The client can decide that the stand up is the meeting which he needs to use to take the opportunity to shout at the team and tell them to go faster. The client can decide that he wants to use show and tell to talk about how great the software *will* be rather than show how it currently is.
+
+And it can happen with planning. For years, I've known what a good planning sounds like and I've struggled to express it. Finally, by thinking about second circle, I think I've got a way of expressing it. A good planning is absolutely about entering into second circle. The product owner walks through what they'd like to get done in the next two weeks.
+
+The team ask questions. Sometimes they suggest that something is too small and it can be bundled in with something else. Sometimes they point out that something is huge and will either take several sprints or will need breaking down into smaller bits. Sometimes there's heated discussion. That's a second circle planning. 
+
+But, as with all the other opportunities for second circle discussion, it can go wrong in lots of ways. The product owner can think that planning is about telling the team what they are going to do. It can even go wrong the other way. The team can start telling the product owner what they're going to do, ignoring the product owners to do list.
+
+But by far the most common way that planning slips out of second circle is that it becomes a discussion between the product owner and the lead developer. They might be in second circle with each other. Of course, that's better than the product owner lecturing the developer, or the other way round. But it the rest of the team are saying nothing. This is still bad.
 
 ## Chapter 19 - Harm Reduction - Safe drugs, safe sex, safe SAFE
 
