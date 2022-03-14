@@ -2190,21 +2190,21 @@ There's another thought to blend into this mix. This is that the software that d
 Eugen Herrigel - Zen in the Art of Archery
 
  
-Project management is all about improving the quality of the conversation.
+Project management is all about improving the quality of the conversation. That's the idea that I want you to passionately believe by the end of this chapter.
 
 This is the realisation that I've come to. I've had hints of it in the past, but writing this book, working to communicate what I know about project management, has made me much more certain.
 
-We're all probably agreed in theory that communication is a good thing. But we're also probably agreed that not all communication is of the same quality. There's a Monty Python sketch that involves performing the novel Wuthering Heights using semaphore flags. What that graphically shows is that some communication, for some things, is probably better suited than others. There are good and bad kinds of communication. But for project management, what *kind* of communication is a good thing? What characterises it and how can we make sure that that's the kind that we use in our projects.
+We're all probably agreed in theory that communication is a good thing. But we're also probably agreed that not all communication is of the same quality. There's a Monty Python sketch that involves performing the novel Wuthering Heights using semaphore flags. What that graphically shows is that some communication, for some things, is probably better suited than others. There are good and bad kinds of communication. But for project management, what *kind* of communication is a good thing? What characterises it and how can we make sure that that's the kind that we use in our projects?
 
-If there is a kind of conversation that's a good kind, why is there so much bad communication? 
+And there's another, related question. If there is a kind of conversation that's a good kind, why is there so much bad communication? 
 
-What kind of conversation is good communication? These ideas are based on the work of Patsy Rhodenberg and her book "Presence."
+What kind of conversation is good communication? The idead that I'm going to talk about mainly in this chapter are based on the work of Patsy Rhodenberg and her book "Presence."
 
 Rodenberg's idea, is that there are three basic kinds of communication. She calls these first, second and third circle.
 
-The first circle is going inwards, it's introspective. First circle is either not talking or talking to yourself. If first circle isn't mumbling, it is either talking quietly, or using a language that only really makes sense to the person who is talking. First circle is quiet, timid. Someone who is in first circle might look like they're listening.  But in some fundamental way, they aren't. They aren't engaging with what's been said.
+The first circle is going inwards, it's introspective. First circle is either not talking or talking to yourself. If first circle is talk at all, it's probably mumbling. It's either talking quietly, or using a language that only really makes sense to the person who is talking. First circle is quiet, timid. Someone who is in first circle might look like they're listening.  But in some fundamental way, they aren't. They aren't engaging with what's been said.
 
-The third circle is extrovert.  It's shouting and pushing. It's presenting and performing to others. It is telling people things that you want them to hear. It is showing people things you want them to see. Third circle is loud, it shouts. It is flamboyant and possibly aggressive. It doesn't want to hear what other people have to say. In fact, as we'll see, that's a large part of the reason for third circle. 
+The opposite of first circle is third circle. Third circle is extrovert. It's shouting and pushing. It's presenting and performing to others. It is telling people things that you want them to hear. It is showing people things you want them to see. Third circle is loud, it is flamboyant and possibly aggressive, possibly aggressively friendly. It doesn't want to hear what other people have to say. In fact, as we'll see, that's a large part of the reason for third circle. 
 
 The second circle is genuine dialogue. Each side is paying attention. They are being changed by what the other side says. Each side is coming to an understanding of the other's position. That doesn't mean that everyone in second circle accepts that the other side's position as right or true. But if two sides are in second circle, they at least accept that the other side has a position.
 
@@ -2214,17 +2214,19 @@ By revealing the current situation through discussion, you can manage to make so
 
 Whatever the problem is, it is very dangerous to ignore it. And, although everybody might feel better for a while, it's also dangerous and ineffective to rail against it, and just complain that the world shouldn't be like this. 
 
-So here's my thesis about what project management is about: it's about working to improve the quality of second circle conversation.
+So, here's my thesis about what project management is about: it's about working to improve the quality of second circle conversation.
 
-Understanding and accepting this can be good news if you're a project manager. Because if you accept this, your job description changes. You job is no longer about delivering the impossible. It's about improving the conversation between the people who are asking for something that's impossible and the people who are trying to deliver it. Of course, there's a secondary goal of trying to improve the communication enough so that what's being asked for starts to be something that's possible, and so deliverable, and so actually capable of delivering value in the real world. But since the only way to do that is to keep improving - and maintaining second circle conversation, that really isn't the main concern. 
+Understanding and accepting this can be good news if you're a project manager. Because if you accept this, your job description changes. Your job is no longer about delivering the impossible. It's about improving the conversation between the people who are asking for something that's, on the face of it, impossible and the people who are trying to deliver it. Of course, there's a secondary goal of trying to improve the communication enough so that what's being asked for starts to be something that's possible. Because possible things are deliverable, and so actually capable of delivering value in the real world. But since the only way to do that is to keep improving - and maintaining second circle conversation, that really isn't the *main* concern. 
 
 My conclusion is that if you focus on the quality of the conversation, you can be comfortable working on seemingly impossible projects. Why? Because what you are doing when you're working on these projects is focusing on keeping the conversations in second circle. 
 
-Projects will only work if there's genuine dialogue between the team and the client. Now obviously, all the practices that we've talked about in this book are still important. It's important to understand the swamp, who owns this area? Who's interested in this area? Who lives in it? Who works in it? Who regulates it? 
+Projects will only work if there's genuine dialogue between the team and the client. Now obviously, all the practices that we've talked about in this book are still important. It's important to understand the swamp. Who owns this area? Who's interested in this area? Who lives in it? Who works in it? Who regulates it? What unexpected value have you unearthed through exploration.
 
-It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems which are visible on the horizon. These things are vital to improving the quality of the conversation.
+It's important to work in a way that encourages transparency, inspection and adaptation. It's important to call out the problems, the pirate ships, which are visible on the horizon. These things are vital to improving the quality of the conversation.
 
-In every organisation, and maybe every project, the nature of this conversation will be different. You will need to start from the beginning. Sometimes things will be familiar enough from other projects that you can start to pick up speed. Sometimes everything will be strange and different. But in every new project and in every new organisation, there will always be work that needs to be done. There will always be effort to figure out how and when it's best to have this kind of dialogue.
+In every organisation, and maybe every project, the nature of this conversation will be different. You will need to start from the beginning. Sometimes things will be familiar enough from other projects that you can start to pick up speed. Sometimes everything will be strange and different. Sometimes, it will seem like nobody will want to talk to you?
+
+But in every new project and in every new organisation, there will always be work that needs to be done. There will always be effort to figure out how and when it's best to have dialogue, second circle conversation.
 
 So, if the solution is second circle conversations, why don't people just stay in those kinds of conversations the whole time? If that happened wouldn't so many projects be so much more successful?
 
@@ -2238,17 +2240,17 @@ Engaging means asking questions, not only of the people that you're talking to, 
 
 Ok, let's say you're with me to this point. So, what are the concrete actions that we can take to make sure that we're talking reasonably in second circle with our clients and not yelling or mumbling?
 
-First of all, it's important to understand that all of the Agile ceremonies create opportunities for second circle conversations. Notice that I say that they create opportunities. They don't guarantee it.
+First of all, it's important to understand that all of the Agile ceremonies create opportunities for second circle conversations. Notice that I say that they create opportunities. They don't guarantee it. In the chapter where I talk about "Fried egg Agile" I would say that most of the ways that I've modified the way that I do Agile are connected with improving the conversation, or creating artefacts that can be used to improve the conversation.
 
-What they do do is throw up opportunities for conversation. Blockers that come up in stand up? Opportunities for conversation. 
+It's a very good way of seeing the Agile meetings - as opportunities for conversation. Blockers that come up in stand up? Opportunities for conversation. 
 
 Questions from the product owner why the team haven't planned as much as they had imagined? An opportunity for conversation.
 
-Surprise, shock or (feigned?) horror at a demonstration of working software. This is certainly an opportunity for conversation.
+Surprise, shock or (feigned?) horror at a demonstration of working software? This is certainly an opportunity for conversation.
 
-A recurring theme in retrospectives about some infrastructural, some "bricks without straw problem?" This is also a chance to have that talk. 
+A recurring theme in retrospectives about some infrastructural, "bricks without straw problem?" This is also a chance to have that talk. 
 
-Count things and then use them as conversation pieces.
+Count things and then use the numbers as conversation pieces.
 
 Count things? Count things like what? Here are some things that have worked for me in the past. 
 
@@ -2267,6 +2269,16 @@ Of course, carrying out user research at any stage in the project is actively ha
 Discussing these things in second circle will probably increase the chances of a project being successful. I'm putting this mildly. It will dramatically increase the chances of the project being successful. In fact, it's probably the only chance.
 
 But trying to discuss these things also brings with it the chance of a first circle response from the client (ignoring you) or a third circle response (shouting at you). And that in turn, I'm ashamed to admit it, but that in turn leads to similar kinds of reactions from you as a project manager, or your whole team.
+
+I've reacted many times to first circle reactions from the client with third circle responses, asking awkward, angry questions in meetings, putting the pirate ship issue that the client doesn't want to hear in reports with a wider audience.
+
+I've also lost my temper when either me, or my team have been addressed in shouty third circle. Many times. And I don't feel guilty about these reactions. I feel shame. A more powerful emotion. Guilt is about what you've done. Shame is about who you are. And when I think about these things, in the past, I've felt shame at who I am. I'm the kind of childish, uncontrolled individual who reacts emotionally to attacks. 
+
+But two things have started to make me feel better about the responses I've made in the past. Seeing these things through the lens of first and third circle helps a lot. It has helped me to progress to feeling, not shame, not even guilt, just a kind of old fighter's acknowledgement of when my opponent made a move that, in my naivete couldn't counter.
+
+The second thing that has helped, is to realise that when I've reacted with anger (third circle) or silence (second circle) to some kind of response from the client, I'm doing what they want me to do. I'm responding in a way that is fine with them. Almost always, in these situations, the way that they want me, and my team to respond is by shutting up and not bothering them with the problems that they need to give some attention.  Sometimes they want us to respond by faking an "agreed activity" of running around and looking busy and getting visibly stressed i.e. "working hard."  
+
+Because you're the supplier and they're the client, because they're senior and you're junior, they don't expect you to get angry. But it's really no skin of their nose if you do.  
 
 Here's the kind of dialogue that can happen.
 
