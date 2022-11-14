@@ -1,8 +1,6 @@
 # Delivering the Impossible
 
-## [Delivering the Impossible - pdf](dti.pdf)
-
-## [Delivering the Impossible - raw text](dti.md)
+[CHAPTER STREAMS](CHAPTER_STREAMS.md)
 
 <a href="dti.pdf"><img src="cover.png" alt="HTML5 Icon" width="400"></a>
 <br>
@@ -12,6 +10,8 @@
 
 
 ## Update History
+OMG this is embarrasing - a *year* later - my current task is to look at the chapters in order 
+
 Update 18th December 2021 - "First post after another break."
 
 Update 13th November 2021 - "First post after a break"
