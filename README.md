@@ -4,7 +4,7 @@
 
 [CHAPTER STREAMS](CHAPTER_STREAMS.md)
 
-<<img src="cover.png" alt="HTML5 Icon" width="400">
+<img src="cover.png" alt="HTML5 Icon" width="400">
 <br>
 
 ## Update History
