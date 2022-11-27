@@ -1,11 +1,15 @@
 # Delivering the Impossible
 
+[CHAPTER_SWAMP](CHAPTER_SWAMP.md)
+
 [CHAPTER STREAMS](CHAPTER_STREAMS.md)
 
 <<img src="cover.png" alt="HTML5 Icon" width="400">
 <br>
 
 ## Update History
+Update 27th November 2022 - CHAPTER_SWAMP.md
+
 Update 14th November 2022 - OMG this is embarrasing - a *year* later - my current task is to look at the chapters in order 
 
 Update 18th December 2021 - "First post after another break."
