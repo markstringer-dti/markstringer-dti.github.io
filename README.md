@@ -2,15 +2,11 @@
 
 [CHAPTER STREAMS](CHAPTER_STREAMS.md)
 
-<a href="dti.pdf"><img src="cover.png" alt="HTML5 Icon" width="400"></a>
+<<img src="cover.png" alt="HTML5 Icon" width="400">
 <br>
-
-<a href="output.png"><img src="output.png" alt="HTML5 Icon" width="400"></a>
-<br>
-
 
 ## Update History
-OMG this is embarrasing - a *year* later - my current task is to look at the chapters in order 
+Update 14th November 2022 - OMG this is embarrasing - a *year* later - my current task is to look at the chapters in order 
 
 Update 18th December 2021 - "First post after another break."
 

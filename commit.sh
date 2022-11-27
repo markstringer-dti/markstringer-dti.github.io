@@ -6,6 +6,7 @@ fi
 cp ../DTI/dti.md .
 cp ../DTI/dti.pdf .
 cp ../DTI/cover.png .
-git add dti.md dti.pdf README.md
+cp ../DTI/output.png .
+git add dti.md dti.pdf README.md *.yml *.png
 git commit -m "${@}"
 git push
