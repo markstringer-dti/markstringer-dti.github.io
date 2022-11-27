@@ -1,3 +1,5 @@
+CHAPTER_SWAMP_START
+
 ## Chapter SWAMP - The Swamp
 ==============================
 
@@ -192,26 +194,28 @@ research sessions so that they also made sense as national
 curriculum-focused lessons.
 
 A long time later, I found myself working on software development
-project . This company was successful and highly regarded in one area of
-business - mobile phone service provision. So, some of the senior people
-there wondered if they could succeed in another area - personal loans.
-Yes, that was the project. Making personal loans cool. Again, this team
-had done a lot of work to develop a personal loan website and they'd
-done lots of research with users. Then a potential business partner
-mentioned a potential problem. They pointed out that any company that
-lends money needs to be regulated by the financial authorities.
+project. This company was successful and highly regarded in one area of
+business - mobile phone service provision. In the world of mobile phone
+service provision it had a pretty cool image. So some of the senior
+people there wondered if they could succeed in another area - personal
+loans. Yes, that was the project. Making personal loans cool. Again,
+this team had done a lot of work to develop a personal loan website and
+they'd done lots of research with users. Then a potential business
+partner mentioned a possible problem. They pointed out that any company
+that lends money needs to be regulated by the financial authorities.
 
-You may lift your eyebrows the full quarter inch at a company didn't
-talk to the regulators before starting up in the money-lending business.
-You can also see that research with users and mapping of stakeholders
-would make something as important as that very clear, very quickly. User
-research is great, and both of these projects would have seriously
-benefitted from user research. But the point I'm making here is that it
-isn't enough to do research with users. You also have to find all these
-other people. To come back to the swamp metaphor, these are people who
-don't live in the swamp. These are people who live miles from the
-"swamp" and who will never visit it. But they still care what goes on
-in there. And if these people aren't happy, the project will die.
+You may lift your eyebrows slightly at a company that didn't talk to
+the regulators before starting up in the money-lending business. You can
+also see that research with users and mapping of stakeholders would have
+made something as important as that very clear, very quickly. User
+research is great, and this project would have seriously benefitted from
+user research. But the point I'm making here is that it isn't enough to
+do research with users. You also have to find all these other people,
+regulators, investors, commentators on the ethics of your industry. To
+come back to the swamp metaphor, these are people who don't live in the
+swamp. These are people who live miles from the "swamp" and who will
+never visit it. But they still care what goes on in there. And if these
+people aren't happy, sometimes, they can kill a project.
 
 You might say that I'm just exaggerating. Software development projects
 aren't that different from one another. Swamps aren't all that
@@ -219,13 +223,13 @@ different from one another. You've seen one swamp you've seen them
 all. Do you know what this sounds like to me? Well, it sounds like
 ignoring the pirate ship, for a start [Chapter SHIP].
 
-In later chapter [Chapter Ref] we're going to talk about driving a car
-as a metaphor for managing a project. And here's just an early view of
-that way of seeing things. Some people might say "One project is pretty
-much just like any other, I don't see why you need to do any more
-investigation with users." They're saying something that's the
-equivalent of "Yeah, I've driven cars before, there's no need for me
-to look at the road."
+But also, in later chapter [Chapter Ref] we're going to talk about
+driving a car as a metaphor for managing a project. And here's just an
+early view of that way of seeing things. Some people might say "One
+project is pretty much just like any other, I don't see why you need to
+do any more investigation with users." They're saying something
+that's the equivalent of "Yeah, I've driven cars before, there's no
+need for me to look at the road."
 
 Yes, controlling the car, and managing the team might be similar from
 project to project. But outside of the car, or the team, the environment
@@ -237,26 +241,27 @@ but if you do, you will get a massive fine or, actually, in some cases
 get sent to jail.
 
 Lots of people will say that user research is a waste of time. Actually,
-more often they will agree with you. Yes, yes, user research is very
-important, but it just isn't needed on this project. Actually, they
-won't even bother saying it, they just won't put any budget for it in
-their projects and they won't hire people to do it. Lots of people will
-see a software development project as merely that - a matter of software
-development.
+more often than not, they won't say that. They will agree with you. Yes,
+yes, user research is very important, but it just isn't needed on this
+project. Or they won't bother making any argument, they just won't put
+any budget for it in their projects. They won't hire people to do it.
+Lots of people will see a software development project as merely that -
+a matter of software development.
 
 Do you know what you should do if you're managing a team in this kind
 of situation? You should do user research anyway. If you don't have
 somebody on the team who's a dedicated user researcher, you should
-still do some user research. You should do user research with the people
-in the team that you have. OK, it won't be anywhere near as good as
-user research done by professionals. But one of the main aims of doing
-this research should be to find out surprising stuff. Then maybe, you
-can take what you find back to whoever is paying for the project. Maybe
-you can show them what you found and use it as a case for more user and
-stakeholder research.
-
-And of course, generally the best way for team members with development
-skills to explore the swamp is with working software.
+still do some user research. You should do "user research" with the
+people in the team that you have -- on the basis that they're sentient
+humans and their responses to user interfaces will still be interesting
+and useful. And you should still push to talk to users, or, where
+possible include a user as a product owner or business analyst. OK, it
+won't be anywhere near as good as a full programme of user research
+done by professionals. But one of the main aims of doing this research
+should be to find out surprising stuff. Then maybe, you can take what
+you find back to whoever is paying for the project. Maybe you can show
+them what you found and use it as a case for more user and stakeholder
+research.
 
 Another criticism of my insistence on user research is what might be
 called the "faster horse" objection. Henry Ford said something like
@@ -267,14 +272,19 @@ What I *am* saying is that whatever you do has a much greater chance
 of success if it's informed by what they've asked for.
 
 I've worked on lots of projects where we either haven't done any user
-research or haven't done anywhere near enough. I described a project
-earlier. The one where we did research with children in the classroom.
-That project was described as "iterative user-centred design" and that
-is pretty much what we did. But I still didn't really put together how
-important this was. I still didn't quite realise how important for the
-success of a project it is that you do iterative design and development,
-and that it should be user centred. The only way to do that is to keep
-talking to users and keep putting working software in their hands.
+research or haven't done anywhere near enough. And, if I'm being
+totally honest, on most of those projects, it didn't bother me that
+much.
+
+I described a project earlier. The one where we did research with
+children in the classroom. That project was described as "iterative
+user-centred design" and that is pretty much what we did. I should have
+learned from that project how important user research is. But I still
+didn't really put it together. I still didn't quite realise how
+important for the success of a project it is that you do iterative
+design and development, and that it should be user centred. The only way
+to do that is to keep talking to users and keep putting working software
+in their hands.
 
 Now that I've seen it really work, I'm convinced that it's one of the
 best ways of reducing the risk on a project. But it's still going to be
@@ -284,23 +294,25 @@ beginning. They need people talking to users and potential users all the
 way through. It's even harder than getting support for development of
 working software.
 
-There's something I feel I should own up to here. I don't know how to
-combine user research and the early development of working software
-without creating disagreements and arguments.
+There's something I feel I should own up to here. I'm convinced of the
+value of continuing user research through a software product development
+project. But I don't know how to combine user research and the early
+development of working software without creating disagreements and
+arguments.
 
 Research on users and stakeholders needs to keep going all the way
 through a project. And what the researchers find out needs to inform
 software development. Then that software needs to be put in the hands of
-users. Then the team needs to listen to the feedback that comes back
-from users. This feedback needs to be considered and incorporated into
-future versions of the software.
+users. This is what we'll talk about more in [CHAPTER ESCAPE]. Then
+the team needs to listen to the feedback that comes back from users.
+This feedback needs to be considered and incorporated into future
+versions of the software.
 
 Making sure that the team is well-informed is important. The best chance
 of success for a project is when the team are aware of what the users
-and stakeholder want. The chances get even better if the team can put
-working software into the users' hands. And even better still if
-feedback from users starts to guide future iterations. But it isn't an
-easy ride.
+and stakeholders want. The chances get even better if the team can put
+working software into users' hands. And even better still if feedback
+from users starts to guide future iterations. But it isn't an easy ride.
 
 When the interests of all, or some of the interested parties in the
 swamp are discovered, it's very unlikely that they'll all be compatible.
@@ -321,27 +333,69 @@ as a project manager. You need to look after the psychological safety of
 the team. Reassure your team that conflicts that are emerging as a
 result of doing research are good, healthy conflicts. You may not get
 things right initially. But if you're setting up an iterative process,
-you don't have to. At every stage, if you get something very wrong,
-further user research will pick it up and allow you to correct it.
+you don't have to. At every stage, even if you get something very
+wrong, further user research will pick it up and allow you to correct
+it.
 
-And this is the important thing to remember - most projects don't have
-any user research *at all*. And yours might be one of those projects.
-It can be bad. It can be catastrophically dumb. But even when it is,
-there's still stuff you can do.
+What if your project has no budget at all for user research? There are
+still things that you can do.
+
+Talk to your stakeholders about risks.
+
+This is something you should do even if your project has a full
+complement of user researchers. I'd worked on many projects that had a
+"risk register." My experience was that this was a document that got
+written at the very beginning of a project and then ignored. As a
+result, my opinion of risk registers was that they weren't very useful.
+Then, at the very beginning of another project, the product owner
+informed me that the organisation mandated that we have a risk register.
+I told him that I didn't think that they were a good idea. But he came
+back with a suggestion he had found on the internet for an "Agile" risk
+register. This was a Kanban -- style board with three columns. At the
+beginning of the project, we got together. Who was we? It was me -- the
+delivery manager, the product owner, the product owner's boss and a few
+additional senior stakeholders. In a one-off workshop, we came up with a
+list of risks. We added them to the "Kanban" board and then scored them.
+
+The idea of the score was that it was a combination of the "cost" to the
+project of fixing the fallout of the risk if it actually became an
+eventuality. We expressed that it, days of work for the team. For
+example. A full security breach might take the whole team a month to
+fix. So, we would give that risk a cost of 20. Then, we also gave each
+risk a probability as a percentage. As a group, we thought that there
+was a small, but not insignificant chance of this happening, so we gave
+it a probability score of 5. Then the overall score of the risk was 100
+(20 x 5).
+
+Once we'd done this for all the risks that we'd identified, we ended up
+with a three-column board. One column had "High risks" (>1000 points).
+Another had "medium risks" (>500, <1000) and another had "small
+risks". And we also had a total -- the sum of scores on all the tickets.
+
+Every two weeks, this same group of people took another look at the risk
+board. We talked through the risks, from highest to lowest and changed
+the scores. And we added any new risks that anyone in the group
+identified.
+
+In one sense, none of this discussion about scores on the risks
+mattered. But in another sense, it was a life saver for the project.
+Because what became obvious was that, when we talked about the risks and
+changes to the risks' scores, pertinent news about what was going on in
+the broader organisation got discussed.
 
 Do show and tells.
 
 Scrum is the most popular Agile framework. And "Show and tell" is the
-Scrum phrase to describe a meeting where the team demonstrate working
-software to stakeholders. If you're doing user research, it's also an
-opportunity to talk about the findings that you got from doing user
-research. Demonstrate to yourselves and to anyone who will watch and
-listen. Talk through the findings of your user research. Walk through
-the designs that have been created as a result of that user research.
-Demonstrate the working software that your team has been working on that
-week. The development team are often reluctant to do this, especially if
-what they're working on doesn't have an obvious UI. It's still
-important that you insist that they do it.
+Scrum name for a meeting where the team demonstrate working software to
+stakeholders. If you're doing user research, it's also an opportunity to
+talk about the findings that you got from doing user research.
+Demonstrate to yourselves and to anyone who will watch and listen. Talk
+through the findings of your user research. Walk through the designs
+that have been created as a result of that user research. Demonstrate
+the working software that your team has been working on that week. The
+development team are often reluctant to do this, especially if what
+they're working on doesn't have an obvious UI. It's still important
+that you insist that they do it.
 
 Invite people from all over your stakeholder map to your show and tells.
 Remember the story about the bank and the fraud project? Just one
@@ -352,26 +406,27 @@ Sooner or later?
 Embrace your deadlines.
 
 Yeah, I said it. Embrace deadlines as opportunities to negotiate scope
-and set software free. Your bosses see deadlines as opportunities to
+and set software free. Some bosses see deadlines as opportunities to
 mess with you. They want to make you and your team work longer hours
 while giving them time off from thinking about what a product really
-needs to do. But you don't have to see them like that. You can see them
-as powerful, if a little clumsy, ways of exploring the stakeholder map.
-The map of the swamp. If you do try to release something, who jumps out
-from behind a tree and tells you that you can't? Who suddenly appears
-and tries to take credit? Who objects to you doing *anything* on the
-grounds of security, accessibility, secrecy? Which non-functional
-requirement really is a deal breaker that stops the software from going
-live? Software wants to be free. You should want it to be free. You
-should do your best to help it. We'll talk more about this in the next
-chapter [Chapter ESCAPE]
+needs to do. Some bosses just see the promise of delivering for a
+deadline as a way of getting *their* boss of *their* back. But you
+don't have to see them like that. You can see them as powerful, if a
+little clumsy, ways of exploring the stakeholder map. The map of the
+swamp. If you do try to release something, who jumps out and tells you
+that you can't? Who suddenly appears and tries to take credit? Who
+objects to you doing *anything* on the grounds of security,
+accessibility, secrecy? Which non-functional requirement really is a
+deal breaker that stops the software from going live? Software wants to
+be free. You should want it to be free. You should do your best to help
+it. We'll talk more about this in the next chapter [Chapter ESCAPE]
 
 Exploit the crisis.
 
 What if your team does release software that nobody wants to use? What
 if your team does release software that nobody is allowed to use because
 it doesn't meet regulations? One way to think of this is that all
-successful software becomes iterative and incremental sooner or later.
+successful software becomes iterative and incremental, sooner or later.
 All successful software incorporates feedback from its users sooner or
 later.
 
@@ -382,7 +437,7 @@ it will rarely talk about it in such terms. It's not clear what's hidden
 in the waters of the swamp. It might be untold riches. It might be a
 virulent disease. But whatever is found there, lots of people are going
 have an opinion about it. The people who already live there, the people
-who want to live there they have opinions, they have things that they
+who want to live there they have opinions. They have things that they
 value. The same with the people who will never live there but still have
 opinions and interests. This is because they are in power, or because
 they want to preserve some aspect of the environment or possibly for
@@ -399,3 +454,5 @@ interact -- or conflict. Find out as much as you can about the lie of
 the land. And the way you do this most effectively is to bring into the
 team professional surveyors, user researchers who can can talk to the
 interested parties.
+
+CHAPTER_SWAMP_END
