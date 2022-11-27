@@ -1,4 +1,3 @@
-CHAPTER_SWAMP_START
 
 ## Chapter SWAMP - The Swamp
 ==============================
@@ -455,4 +454,3 @@ the land. And the way you do this most effectively is to bring into the
 team professional surveyors, user researchers who can can talk to the
 interested parties.
 
-CHAPTER_SWAMP_END
