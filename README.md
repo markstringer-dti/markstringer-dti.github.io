@@ -10,6 +10,7 @@
 <br>
 
 [Delivering the Impossible - PDF](dti.pdf)
+
 [Delivering the Impossible - markdown](dti.md)
 
 ## Update History
