@@ -9,9 +9,9 @@
 <img src="cover.png" alt="HTML5 Icon" width="400">
 <br>
 
-[Delivering the Impossible - PDF](dti.pdf)
+* [Delivering the Impossible - PDF](dti.pdf)
 
-[Delivering the Impossible - markdown](dti.md)
+* [Delivering the Impossible - markdown](dti.md)
 
 ## Update History
 Update 28th November 2022 - CHAPTER_ESCAPE.md
