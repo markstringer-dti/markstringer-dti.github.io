@@ -3041,6 +3041,45 @@ what you're doing is moving the software nearer to going live with live
 data and being used by real users, then you're starting to make this
 project look possible.
 
+Do you know what? I think we might be nearly at the end of part one of
+this book. Now might be time for a re-cap.
+
+We started out by making it clear that this book is intended to help
+project managers. Not all project managers. The focus is project
+managers who are helping teams build projects that involve software
+development.
+
+We admitted the challenging fact that lots of projects either start out
+looking impossible or, because of various twists, turns and unexpected
+events, end up looking impossible. But then we tried to cheer ourselves
+us with a quote from the software pioneer Alan Kay -- "Point of view is
+worth 90 IQ points." I'm making no claims for the wholesomeness of IQ
+points, but this is difference between being of average intelligence and
+being a genius. This gave us just a tiny glimmer of hope. What if we
+could look at the projects that we're trying to manage in a different
+way? Or maybe *several different ways*. Maybe we can make some of
+these seemingly impossible projects that we're working on seem possible?
+
+And so on to our first point of view. The pirate ship. Or rather the
+point of view of an ordinary ship that's being approached by a pirate
+ship. What should the crew do when they see a pirate ship on the
+horizon? Well, they should admit that there's a pirate ship. What should
+the captain and his officers do? They should thank the crew and try to
+all work together to figure out how to deal with the approaching
+catastrophe. What shouldn't the crew do? They shouldn't scrub the decks
+and pretend that the pirate ship isn't there? What shouldn't the captain
+do? They should never, ever tell the crew off for pointing out pirate
+ships. Even if some of these "ships" turn out to be mirages. Because if
+they do, all they'll get from that moment on from the crew is head down
+deck scrubbing. Right up to the point where the captain is either forced
+to walk the plan or go down with their ship.
+
+Where do ideas come from? Nobody's really sure. They're like springs
+that suddenly gush out of the ground as if apparently from nowhere. Of
+course, we know that there must be a source be we're not sure we'll ever
+no where it is. Where do successful products come from? Successful
+products come from a value stream.
+
 CHAPTER_ESCAPE_END
 
 ## Chapter CAR - Driving a Car or The Empirical Process
