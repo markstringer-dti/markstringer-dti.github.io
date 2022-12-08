@@ -14,6 +14,8 @@
 * [Delivering the Impossible - markdown](dti.md)
 
 ## Update History
+Update 8th December - Feeling better about this - but don't know if the direction to the next chapter needs to be a separate chapter.
+
 Update 3rd December - still working on CHAPTER_ESCAPE.md
 
 Update 29th November 2022 - Trying to put it all together, but still struggling with the spring, stream fruit flower idea reality
