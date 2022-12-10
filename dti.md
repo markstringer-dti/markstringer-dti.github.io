@@ -2417,13 +2417,9 @@ CHAPTER_ESCAPE_START
 ## Chapter ESCAPE - Working Software
 ======================================
 
-> ###Working software is magical. Users interact with working
-> software in ways that can never be imagined from mocked up designs, or
-> a list of specifications. Working software helps you discover value
-> and create "pull" from users. Getting working software in the hands of
-> users will give us the best chance of success. But for many reasons,
-> it's often a struggle.
->
+### Working software is magical. Users interact with working software in ways that can never be imagined from mocked up designs, or a list of specifications. Working software helps you discover value and create "pull" from users. Getting working software in the hands of users will give us the best chance of success. But for many reasons, it's often a struggle.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 > >>"sufficiently advanced technology is indistinguishable from magic"
 >
 > Arthur C. Clarke
@@ -2488,36 +2484,41 @@ you started the project, the world has changed.
 They might also have seen the huge benefits of getting working software
 early.
 
-So, what is it about working software that make it so important?
+So, what is it about working software that makes it so important?
 
-You can sum up what's so important about software with these three
-ideas. Magic, discovered value (leading to pull), discovered trouble.
-[I don't know if we need this -- do I keep this promise? Do I talk
-about discovered value and discovered trouble?]
-
-Let's just think back to the quote at the beginning of this chapter. If
-there's anything that counts as "sufficiently advanced technology,"
-working software is it. People definitely respond to it as if it is
-magic. People respond to working software. They respond instantly. They
-respond automatically and with emotions. When they press a button, or
-click on a picture, they have an expectation of what will happen.
-Working software creates needs, expectations and it evokes emotions:
-delight, joy, frustration and anger. This is a very different response
-than a checklist of functionality in a requirements document. That means
-that pretty much the only way to find out how users are going to
-respond, is to put actual working software in their hands.
+One thing about working software is that it's magic. Let's just think
+back to the quote at the beginning of this chapter. If there's anything
+that counts as "sufficiently advanced technology," working software is
+it. People definitely respond to it as if it is magic. People respond to
+working software. They respond instantly. They respond automatically and
+with emotions. When they press a button, or click on a picture, they
+have an expectation of what will happen. Working software creates needs,
+expectations and it evokes emotions: delight, joy, frustration and
+anger. This is a very different response that the one you get from a
+checklist of functionality in a requirements document. That means that
+pretty much the only way to find out how users are going to respond, is
+to put actual working software in their hands.
 
 And when you do put software in their hands, users will find ways of
 using it that you didn't expect, users will value aspects of the
 software that you didn't expect. Remember the swamp? When you build
 things in the swamp, you will start to discover value, people will use
-what you've built in unexpected ways. When people like something, they
-want more of it. And this leads to something called "pull".
+what you've built in unexpected ways. You thought these were ornamental
+ponds. People are swimming in them. You thought these buildings you put
+up were just fishing huts. People are living in them all year round.
+When you dig a hole in a place that isn't well understood, you will find
+things that you didn't expect. People will react to your software in
+ways that you didn't expect, and they'll want it to do more than it
+currently does in directions that you didn't expect. When people like
+something, they want more of it. And this leads to something called
+"pull".
 
-Up to the point where users find some way of using your software that
-they like, that helps them get done what they want or need to do, your
-project has been in "push" mode. The sole driver for the functionality
-in your software was the stakeholders who had originated the project.
+Pull is the second powerful thing about putting working software in the
+hands of users. Up to the point where users find something in your
+software that they like, that helps them get done what they want or need
+to do, your project has been in "push" mode. The sole driver for the
+functionality in your software was the stakeholders who had originated
+the project.
 
 Now you have users, and they have things that they want. You are in
 "pull mode". This doesn't mean necessarily that you should give users
@@ -2532,8 +2533,8 @@ for success, but it's certainly one of the most important.
 And this is one of the most important reasons for making working
 software available as soon as possible. When we make working software
 available early, we're giving it the opportunity of connecting with its
-audience. We're tryingto create "pull". to be guided by the people who
-are using it in how as to how to make it deliver more and more value.
+audience. We're trying to create "pull". to be guided by the people who
+are using it in how to make it deliver more and more value.
 
 But there other very good reasons for making your software available as
 soon as possible. And one of them is perhaps best explained using a
@@ -2541,11 +2542,9 @@ joke.
 
 > You will never be alone if you take with you everywhere the
 > ingredients and equipment to make a martini. Even if you think you are
-> completely desolate and stranded on a desert island. Because minute
-> that you start to make the dry martini, someone will jump out from
-> behind a tree and say, "that's not how you make a martini." [I think
-> we need to dump this martini analogy -- we need to stick with he
-> swamp]
+> completely desolate and stranded on a desert island. Because the
+> minute that you start to make the dry martini, someone will jump out
+> from behind a tree and say, "that's not how you make a martini."
 
 Something like this is true of developing working software. Ideally, you
 want your software to be in the environments where it will finally be
@@ -2564,7 +2563,7 @@ out there in no man's land, and that's to try to set them off.
 
 OK, I'm mixing metaphors. Let's stick with the man behind a tree for a
 moment. Most of those things that the man who jumps out from behind a
-tree will bring up are "non-functional requirements." These are
+tree will bring up are called "non-functional requirements." These are
 requirements that the software needs to meet but which aren't strictly
 about the thing that it does. The software needs to be accessible to
 users with visual impairments. The software needs to be secure. The
@@ -2580,20 +2579,21 @@ can guess that the framers of the Agile manifesto had had similar
 experiences.
 
 When you're trying to list these requirements without a piece of working
-software, you're only dealing with "known knowns" and you can to some
-degree draw a circle around "known unknowns". When you try to get some
-working software as far as you can through the barbed wire to the
-outside world, you soon start to be surprised by "unknown unknowns". You
-knew there would be other security measures out there in no man's land,
-but you didn't know what they were.
+software, you're only dealing "known knowns" and you can to some degree
+draw a circle around "known unknowns". When you try to get some working
+software as far as you can through the barbed wire to the outside world,
+you soon start to be surprised by "unknown unknowns". You knew there
+would be other security measures out there in no man's land, but you
+didn't know what they were. And for some of those things, there really
+was only one way to find out.
 
-This is the counter-intuitive thing I'm trying to tell you that is so
-important that the founding fathers of Agile put it number two in their
-manifesto. You should try to get working software as near as you can to
-live. Why? Because if you do a man will jump out from behind a tree and
-tell you why you can't. The only real way to find out what there is in
-no-man's land, or man jumping out from behind a tree land, is to go
-there.
+This is the counter-intuitive thing that I'm trying to tell you that is
+so important that the founding fathers of Agile put it number two in
+their manifesto. You should try to get working software as near as you
+can to live. Why? Because if you do a man will jump out from behind a
+tree and tell you why you can't. The only real way to find out what
+there is in no-man's land, or "man jumping out from behind a tree" land,
+is to go there.
 
 By actually getting your software into the hands of users, you will
 certainly here from those who try to stop you. But you will also get the
@@ -2609,6 +2609,12 @@ Does the technology that you've decided to use work?
 Is the organisation that you're working for capable and willing to pay
 for the servers, people and set-up that you need to deploy this
 software?
+
+Does the organisation that you're working for have any better idea of
+what constitutes "secure" that just that word? Do they have, not only a
+process for assessing that a piece of software is secure, but also a
+process for agreeing that something is secure so that it can be
+released?
 
 I worked on a project for an organisation that was still doing pretty
 much all of its business using paper documents. This was a huge
@@ -2626,8 +2632,8 @@ Even so, to start with the project had a tough time. We couldn't get
 servers to put the software on. The open-source document package we'd
 chosen wasn't as mature as we thought. But we pushed on through some
 early design iterations. We dealt with a load of technical problems.
-Finally, we got to one show and tell where the team had working software
-that they could show.
+Finally, we got to one show and tell where the team had "working
+software" that they could show.
 
 It was an odd turning point in the project. Because that first demo was
 so terrible. We'd managed to pare down the demo to a view of a
@@ -2652,12 +2658,13 @@ The product owner seemed a little bit more relaxed.
 Not too many "show and tells" after that, the product owner had a
 question. "Can I get this on a laptop so I can show it to the clerks?"
 
-The short answer to that question was "no" because all of this nearly
+The short answer to that question was "no," because all of this nearly
 half a million pounds worth of software was deployed only on developer
 laptops. But the product owner's request to have a version that she
-could take around the country and to show off was a powerful help. If we
-could actually do it, it provided a good extra reason to negotiate with
-the people who were supposed to be giving us server space.
+could take around the country and to show off was a powerful step in the
+right direction. If we could actually do it, it provided a good extra
+reason to negotiate with the people who were supposed to be giving us
+server space.
 
 Once the software was on her laptop, the product owner went on the road.
 The demo still wasn't much. The demo still had bugs. We still had some
@@ -2668,14 +2675,15 @@ something that could make their lives a lot easier.
 
 She came back with a list of problems she'd come across while using the
 demo. She also had a list of suggestions for features that had come from
-the clerks. But she also came back with one important questions - "When
+the clerks. But she also came back with one important question - "When
 will it be ready?"
 
 From that point on, the nature of the project changed. It wasn't about
 delivering on a list of functions. It was about rolling out to the
 clerks all across the country the tiny bit of working software that the
 product owner had shown them. Suddenly the road of what we needed to do
-rolled out before us, with the people we delivering to cheering us on.
+rolled out before us, with the people we were delivering to cheering us
+on.
 
 There was another very interesting thing about getting some working
 software in front of the people who might use it. By doing this we both
@@ -2686,10 +2694,10 @@ us if we do?"
 To the first question, the answer at first was "No." We didn't have any
 server space where we could deploy a live service. This was blocked
 because of a dispute. The price of providing and supporting the servers
-was not included in the contract. But the client argued, that they
-shouldn't have to commission the servers. Neither should they pay for
-them or support them. This became a much harder argument to make once
-people in their own company were asking for the software.
+was not included in the original contract. But the client argued, that
+they shouldn't have to commission the servers. Neither should they pay
+for them or support them. This became a much harder argument to make
+once people in their own company were asking for the software.
 
 Suddenly the people who were trying to negotiate free stuff were in the
 way of their own colleagues. Now they weren't helping the company by
@@ -2739,14 +2747,17 @@ some others still being looked at.
 
 Putting bad software that just about worked in front of real users
 completely changed the project. Why? Because it started to put together
-the "virtuous" value stream that we talked about in chapter "STREAMS."
-Putting real working software in front of real users created pull. And
-that completely changed the dynamic (and control) of the project.
+the "virtuous" value stream that we talked about in [chapter
+"STREAMS."] Putting real working software in front of real users
+created pull. And that completely changed the dynamic (and control) of
+the project.
 
 Please pay attention to this because it's important. This is how you
 deliver the impossible. This is how you make a project that seems
-impossible, possible. You build something that starts to deliver value
-for your customers.
+impossible, possible. You build something, you put in it the hands of
+users, you start to get pull. From that point on, the dynamic of the
+project has completely change. Your project is starting shift from being
+a dream to being a reality.
 
 How do you do this on your project? Every project is a little bit
 different. But I'm going to arbitrarily invent a rule of sixths. This
@@ -2784,19 +2795,19 @@ Yes, delivering software is a bit like that. It's a bit like climbing a
 rock face (and it's like escaping a prison camp, and there's a guy
 jumping out from behind a tree, I know, I know, too many metaphors). The
 odd thing is how many people think that you can get to the top without a
-rope. Even odder are the people who somehow imaging that you can get to
+rope. Even odder are the people who somehow imagine that you can get to
 the top of the cliff in one single bound.
 
-Gradually developing working software in all of those directions
-(environment, security, audience) is the careful and effective way to
-deliver something. Especially if that something seems impossible. And if
-the thing that you're doing is in any way useful or interesting to the
-people who will use it, at some point you will start to get "pull".
-Obviously, you'd like this sooner rather than later. But at some point,
-you will start to get demand for the software. And then you will start
-to get demand for functionality from the software. Not from the people
-who sold the idea -- that's "push" - but from the people who are likely
-to use it - magical "pull".
+Gradually developing working software in all of those directions -
+environment, security, audience, reality of data - is the careful and
+effective way to deliver something. Especially if that something seems
+impossible. And if the thing that you're doing is in any way useful or
+interesting to the people who will use it, at some point you will start
+to get "pull". Obviously, you'd like this sooner rather than later. But
+at some point, you will start to get demand for the software. And then
+you will start to get demand for more functionality from the software.
+Not from the people who sold the idea -- that's "push" - but from the
+people who are likely to use it - magical "pull".
 
 And of course, gradually developing software in these directions will
 also result in people jumping out from behind trees. They will ask you
@@ -2806,11 +2817,11 @@ certified. How do you get certified? Oh that, they don't know.
 
 You will need to negotiate these obstacles before your software can
 finally escape and live free in the real world. Push working software as
-far as you can towards being live with real users. It's the most
-powerful secret to actually delivering things that seem impossible. But
-everybody, or nearly everybody, it will feel like everybody, will try to
-stop you doing it, even people you thought were your friends, colleagues
-and allies
+far as you can towards being live with real users with real data. It's
+the most powerful secret to actually delivering things that seem
+impossible. But everybody, or nearly everybody, it will feel like
+everybody, will try to stop you doing it, even people you thought were
+your friends, colleagues and allies
 
 Yes, that's right. Incrementally delivering working software is the
 thing that you need to do. It's the thing that's most likely to help
@@ -2830,7 +2841,7 @@ chunks.
 How? Stakeholders will tell you that there's no point troubling users
 with small bits of functionality. They'll tell you that users only want
 to see the whole, finished, journey. They'll tell you that showing them
-anything sooner is a waste of time and money and users wouldn't
+anything sooner is a waste of time and money, and users wouldn't
 understand.
 
 How? Some users will tell you that there's no point looking at the new
@@ -2849,31 +2860,35 @@ don't think it's important what order it gets done in."
 
 But why? Why don't people want working software?
 
-Why? I don't the reason people don't want working software is the reason
-that they say they don't want it. The reason people don't want working
-software is something we've already talked about. It's the same reason
-that the improvisers that we talked about in [Chapter ref] don't want
-to deal with the pirate ship. Without having to think about it, people
-know that dealing with working software, or with the pirate ship that
-just appeared on the horizon, will mean that they have to *change*. They
-will have to change what they think. They also might have to change what
-they do. We are all automatically, and subconsciously resistant to
-change. Even if we work in managing projects, which is manifestly the
-business of bringing about change.
+Why? I don't think the reasons people don't want working software are
+the reason that they say they don't want it. At least, those aren't the
+most important reason. The reason people don't want working software is
+something we've already talked about. It's the same reason that the
+improvisers that we talked about in [Chapter SHIP]. They don't want to
+deal with the pirate ship. Without having to think about it, people know
+that dealing with working software, or with the pirate ship that just
+appeared on the horizon, will mean that they have to *change*. They will
+have to change what they think. They also might have to change what they
+do. We are all automatically, and subconsciously resistant to change.
+Even if we work in managing projects or work in teams developing
+software, or work as the manager of a software product, we instinctively
+avoid change. Even though of course we are manifestly the business of
+bringing about change.
 
-Why? Trying to get even a tiny bit of software working tends to
-undermine some aspects of the idea. The "flower" that we talk about in
-[Chapter STREAMS]. The thing that has instant appeal. Suddenly that
-appeal is being examined. The point where a team demonstrates working
-software for the first time is quite possibly the point with the most
-tension, it's the point that puts the idea of the project under the most
-stress. It's awkward for the people who had the idea. If just getting
-*something* to work takes so long, and that something is so slow and has
-cost "*how much?"* money? Suddenly the idea doesn't look so shiny and
-appealing. It's also embarrassing for the people who are delivering the
-software. After all the effort of project setup, after all the fuss of
-setting up servers, arranging meetings this tiny little thing is the
-first piece of working software.
+Why? There's another important reason. Trying to get even a tiny bit of
+software working tends to undermine some aspects of the idea. The
+"flower" that we talk about in [Chapter STREAMS]. The thing that has
+instant appeal. Suddenly that appeal is being examined. The point where
+a team demonstrates working software for the first time is quite
+possibly the point with the most stress and tension for the people who
+got funding for the idea. It's the point that puts the idea of the
+project under the most stress. It's awkward for the people who had the
+idea. If just getting *something* to work takes so long, and that
+*something* is so slow and has cost a lot of money. Suddenly the idea
+doesn't look so shiny and appealing. It's also embarrassing for the
+people who are delivering the software. After all the effort of project
+setup, after all the fuss of setting up servers, arranging meetings this
+tiny little thing is the first piece of working software.
 
 Why? Another reason that people don't want to let software be free are
 the "tree people". The people who jump out from behind trees and tell
@@ -2882,8 +2897,8 @@ deal with whatever extra requirements and regulations they place on your
 project. The people who came up with the original idea don't want this
 it's embarrassing for them if there are regulations that they hadn't
 thought about. The team who are doing the development don't want this,
-it's embarrassing for them if there are regulations that haven't met.
-It's utterly exhausting, dispiriting and Kafkaesque to be asked to
+it's embarrassing for them if there are regulations that they haven't
+met. It's utterly exhausting, dispiriting and Kafkaesque to be asked to
 comply with regulations that nobody can find, or nobody can understand.
 
 Moving towards working software does a whole lot of things that in
@@ -2904,8 +2919,9 @@ will see other people being persuaded by them. At this point it's really
 important that you understand these reasons why you should carry on.
 
 At any given point in a project and especially the first time that a
-project does it, there are always good reasons *not* to release any.
-So it's absolutely important the even better reasons why you should.
+project does it, there are always good reasons *not* to release
+anything. So, it's absolutely important to understand the even better
+reasons why you should.
 
 ### You're going to have to do it sooner or later
 
@@ -2934,7 +2950,9 @@ that exploration of the swamp, is complimented by the early and frequent
 delivery of working software. All of the things that we wanted to know
 about the swamp are further informed by the delivery of working
 software. Who values this project? How is it seen in the rest of the
-organisation? Who wants to stop it? Who wants to regulate it?
+organisation? Who wants to stop it? Who wants to regulate it? Who is
+this person who has suddenly started to turn up in your meetings who is
+taking credit for it?
 
 ### You create "pull"
 
@@ -2952,11 +2970,11 @@ things differently.
 
 And having users object to your software, or even hate it, isn't
 actually the worst response they can give. The worst response is utter
-indifference. But even such a non-response is useful earlier rather than
-later. Again, it's worth asking yourself, when would you, or your
-sponsors like to find out that nobody cares about your project? Now,
-when you've spent less than a quarter of the time and money that you'd
-budgeted? Or later?
+indifference. And even such a non-response as that is useful earlier
+rather than later. Again, it's worth asking yourself, when would you, or
+your sponsors like to find out that nobody cares about your project?
+Now, when you've spent less than a quarter of the time and money that
+you'd budgeted? Or later?
 
 Of course, there's another response that you're hoping for if you put
 small amounts of working software in the hands of users. If you're lucky
@@ -3047,7 +3065,7 @@ walk the plan or go down with their ship.
 Where do ideas come from? Nobody's really sure. They're like springs
 that suddenly gush out of the ground as if apparently from nowhere. Of
 course, we know that there must be a source be we're not sure we'll ever
-no where it is. Where do successful products come from? Successful
+know where it is. Where do successful products come from? Successful
 products come from a value stream.
 
 CHAPTER_ESCAPE_END
