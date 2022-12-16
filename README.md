@@ -14,6 +14,10 @@
 * [Delivering the Impossible - markdown](dti.md)
 
 ## Update History
+Update 16th December - Software wants to be free (as in not in jail)
+
+Update 10th December - Getting there with Chapter Escape
+
 Update 8th December - Feeling better about this - but don't know if the direction to the next chapter needs to be a separate chapter.
 
 Update 3rd December - still working on CHAPTER_ESCAPE.md
