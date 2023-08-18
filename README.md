@@ -12,7 +12,6 @@ I'll post the exact GPS of where I'm standing on the day.
 * Saturday 19th August 12pm, The Meadows
 * Saturday 19th August 12:30pm The Meadows
 * Saturday 19th August 1:00pm The Meadows
-
 * Sunday 20th August 12pm, The Meadows
 * Sunday 20th August 12:30pm The Meadows
 * Sunday 20th August 1:00pm The Meadows
