@@ -8,7 +8,7 @@ https://m.facebook.com/the.mark.stringer
 
 New, unlisted fringe performance
 
-## Venue Lates
+## Venue Latest
 I NEED A VENUE
 I still don't have a venue, so I'm doing open air free performances on the Meadows for the time being
 
