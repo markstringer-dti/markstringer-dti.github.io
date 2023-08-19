@@ -1,11 +1,14 @@
 # Delivering the Impossible
 mark.stringer@gmail.com
+
 tiktok @mark_stringer1969
+
 facebook https://m.facebook.com/the.mark.stringer
 
 New, unlisted fringe performance
 
-## Venue Latest
+## Venue Lates
+I NEED A VENUE
 I still don't have a venue, so I'm doing open air free performances on the Meadows for the time being
 
 I'll post the exact GPS of where I'm standing on the day.
