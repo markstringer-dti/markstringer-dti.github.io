@@ -1,9 +1,10 @@
 # Delivering the Impossible
+## email
 mark.stringer@gmail.com
-
-tiktok @mark_stringer1969
-
-facebook https://m.facebook.com/the.mark.stringer
+## tiktok
+@mark_stringer1969
+## facebook
+https://m.facebook.com/the.mark.stringer
 
 New, unlisted fringe performance
 
