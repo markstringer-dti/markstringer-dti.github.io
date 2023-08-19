@@ -27,3 +27,6 @@ Check this site on the day for exact GPS location
 <img src="cover.png" alt="HTML5 Icon" width="400">
 <br>
 
+ <a href='https://www.free-counters.org/'>https://www.free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=e7bbf3132718a9b35a58a29dac7bc8dab49852d0'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1064077/t/2"></script>
+
