@@ -21,12 +21,11 @@ I still don't have a venue (I managed to borrow one for last night), so I'm doin
 
 ## Free Open - Air Taster Performances
 Check this site on the day for exact GPS location
-### Tuesday 22nd August 12pm, The Meadows
-### Tuesday 22nd August 12:30pm, The Meadows
-### Tuesday 22nd August 1:00pm, The Meadows
 ### Wednesday 23rd August 12:pm, The Meadows
-### Wednesday 23rd Augsut 12:30pm, The Meadows
-### Wednesday 23rd Augsut 1:00pm, The Meadows
+### Wednesday 23rd August 12:30pm, The Meadows
+### Thursday 24th August 12:00pm, The Meadows
+### Thursday 24th August 12:30pm, The Meadows
+### Thursday 24th August 1:00pm, The Meadows
 
 
 <img src="cover.png" alt="HTML5 Icon" width="400">
