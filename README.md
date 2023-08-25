@@ -1,5 +1,12 @@
 # Delivering the Impossible
 
+I'm sorry, I'm not doing shows today because of illness.
+
+Here's a video of the first full show that I did.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEoKQSURzbc?si=-2ZHSw9ybSktzu5r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## location
 [I'm here](https://goo.gl/maps/N3XDJCQLympGNWLHA)
 
@@ -21,9 +28,9 @@ I still don't have a venue (I managed to borrow one for last night), so I'm doin
 
 ## Free Open - Air Taster Performances
 Check this site on the day for exact GPS location
-### Friday 25th August 12:00pm, The Meadows
-### Friday 25th August 12:30pm, The Meadows
-### Friday 25th August 1:00pm, The Meadows
+### Saturday 26th August 12:00pm, The Meadows
+### Saturday 26th August 12:30pm, The Meadows
+### Saturday 26th August 1:00pm, The Meadows
 
 
 <img src="cover.png" alt="HTML5 Icon" width="400">
