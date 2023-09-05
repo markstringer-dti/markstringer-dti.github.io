@@ -49,3 +49,5 @@ The is something that the writer Venkatesh Rao calls “Heads I win, tails you l
 Some people have a way of looking at projects, which means that if a project is a success, they will be around to take the credit, and if a project isn’t a success they will be nowhere to be seen.
 
 Of course, this changes the “Risk profile” of the kinds of projects that are likely get funded and developed. What kind of projects will someone try to get funded? If this someone knows that they can take the credit if the project goes well, but be nowhere to be seen if the project doesn’t go well? These could be very risky projects indeed.  
+
+And understanding that the project that you're working on has profound consequences. It certainly has profound consequences for the idea of projects management being about keeping promises.
