@@ -24,19 +24,28 @@ What this means is that someone has behaved recklessly. But very often it’s di
 
 ### The hiding hand
 The economist Albert Hirschmann coined the term “hiding hand” as a reference to another economist, Adam Smith’s term the “guiding hand.” Hirschmann worked on a number of projects for the world bank, many of which were obviously risky and unlikely to succeed, or pay off in the way that they suggested they would. He noticed that many of the people involved in the projects, even though they could see what he could see, contrived to avoid noticing that the projects were doomed, or would not deliver the value that they promised.
+
 This is closely connected to the idea of “Agreed Activity” that we talked about when we talked about the Pirate ship. At the beginning of a project many of the people involved are strongly incentivised to avoid seeing the potential problems.  The people who are going to work on the project don’t want to point out any glaring problems because they would like the work. The people who have funded the project don’t want to hear that they’ve just sunk their money into something that’s going to be a disaster, and the people who got the project funded definitely don’t want anybody to hear that the idea that they’ve got everybody to support and work on is flawed in some way.
-Project management theatre
+
+### Project management theatre
+[Something here] 
+
+### Commitment and consistency Jujitsu
 
 
-Because no one wants to admit that what’s going on is a bet, projects indulge in large amounts of 
-
-Commitment and consistency Jujitsu
-Heads I win tails you lose
+### Heads I win tails you lose
 Why would anybody ever make risky bets? There are actually lots of reasons.
+
 One reason is that some bets pay off, it may be very difficult to figure out the risks of the project failing but there is an obvious benefit that is in plain sight. For example. What if a competitor is showing that they have a clear advantage because they have a particular piece of technology? What if the competitor isn’t managing to use this technology ? But it looks like your organisation might be in a position to use it? Is now the time to carefully examine all the possible risks of trying to do the same thing? Or is now the time to draw the bounds of rationality relatively tightly. Is now the time to shrug and say “Fuck it?”
+
 But there’s another aspect to the betting and risk taking surrounding projects. When a gambler makes a bet, if they win, they get the reward. But the down side of this of course is that if a gambler makes a bet and doesn’t win, they have to deal with the losses.
-This isn’t exactly the case with projects, especially in big organisations.
+
+This isn’t mostly the case with projects, especially in big organisations.
+
 Here’s the simple fact. People can start projects, those projects might be a gamble, those projects will very probably be a gamble. But if the project goes wrong, the people who started the project don’t have to be around to suffer the losses.
+
 The is something that the writer Venkatesh Rao calls “Heads I win, tails you lose.” 
+
 Some people have a way of looking at projects, which means that if a project is a success, they will be around to take the credit, and if a project isn’t a success they will be nowhere to be seen.
+
 Of course, this changes the “Risk profile” of the kinds of projects that are likely get funded and developed. What kind of projects will someone try to get funded? If this someone knows that they can take the credit if the project goes well, but be nowhere to be seen if the project doesn’t go well? These could be very risky projects indeed.  
