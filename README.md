@@ -1,53 +1,44 @@
+You know this "Secrets" handle? "6 secrets of...", "The secret to..."
 
+Just marketing hype, right? I thought so too. But I think I might have discovered a secret. Or at least said it out loud for the first time.
 
-# Chapter Bet
-## Every project is a bet. Nearly all the people involved in a project may go to great lengths to conceal it, but that’s what it is. Understanding that every project is a bet can make managing it much easier.
+Yesterday, I did an online talk. Nobody showed up. 
 
->> “I long ago came to the conclusion that all life is 6 to 5 against.” – Damon Runyan.
+I talked anyway. I talked about the first chapter of my book.
 
-I don’t bet on horse races (or anything else, in the conventional sense). So, I’m not perfectly certain what Damon Runyan is trying to say in this quote. Some research on the internet makes me think he’s saying that nothing in life has a probability of greater than 0.45. That’s slightly worse odds than the toss of a coin. 
+The book is called "Delivering the Impossible."
 
-This chapter is closely connected to another later chapter, [Chapter COMMITMENT]. Rather appropriately because we’re talking about odds, they’re two sides of the same coin. 
+The first chapter is called "Between two streams."
 
-The commitment chapter talks about the fundamental human principle that is a powerful driver of our behaviour as humans which is called “Commitment and consistency.” This is the idea that we like to keep our promises and be consistent with our values, for the simple reason that not keeping our promises and not being consistent with our values makes us look mad or bad.
+Here's the basic argument. 
 
-If we’re trying to behave in a way that avoids us looking mad or bad, then we might be tempted to only make promises that we can keep. If we only make promises about things we understand sufficiently well that there is no chance that we won’t be able to deliver on our promises. This would seem like a recipe for a wonderfully quiet life.
+Existing products have a value stream, a way of putting them together that makes them valuable and audience of consumers who want that value (e.g. Cars).
 
-But there’s a catch. Most of those kinds of tasks, the ones that are so simple and predictable that when we do them, we can easily keep our promises, aren’t well paid. They’re simple tasks. They’re done either by low-skilled people nearby who we can’t possibly compete with on price, or they’re outsourced to people in other countries. 
+Products that haven't been invented yet don't have the value stream. Part of creating a new product is figuring out how to put together things of value and how to connect them with people who want them. With a new product, you have to build the value stream.
+But there’s a complication. 
+There’s another value stream in the mix. The idea value stream. 
+Value attaches to the idea value stream in a radically different way than it does to the “real value stream.” With many projects, the reasons why a particular idea has got funding and support behind it are opaque.
+Often part of what makes an idea attractive is it’s broad, vague language e.g. “doesn’t what the old system did but faster and cheaper,” or “uses the latest technology” or “allows us to keep pace with the competition.”
+And now there’s another complication.
+Trying to build the “real” value stream, interferes with, conflicts with, undermines and attacks the idea value stream. 
+Starting to build something involves understanding what’s technically feasible. Maybe that shiny new technology that everybody is getting excited about doesn’t actually work yet.
 
-From the point of view of the people who want these tasks done, there’s another complication. Simple tasks have simple, small rewards.  The big rewards, whether it be in terms of money, status, kudos or reputation, come from delivering risky projects. But a fundamental part of what makes a project risky is that it’s difficult to assess all of its potential benefits and liabilities.
+Starting to build something can (should) involve talking to potential users.  Maybe they don’t want the things that the people who had the idea imagined they want.
+Staring to build something costs. And extrapolating those costs and plotting them against progress can start to show that there’s no way the idea is deliverable by a particular deadline, or that it’s going to cost way more than was first imagined.
+BIG SECRET #1
+Here’s what I thought, until yesterday, was the big secret, the big reveal about all this thinking about value streams.
+This conflicted space, this struggle between the idea value stream and real value stream, which you’re trying to build, but which doesn’t yet exist, this is where project management always lives. 
 
-The economist and philosopher Herb Simon coined the phrase “bounded rationality.” What he meant was that with any sufficiently complex endeavour, there’s a point where it’s no longer worth trying to consider all of the possible ins and outs. Examining all of the possible consequences would go on forever. At some point it becomes rational to draw a boundary around the thinking and either say “forget it,” or “fuck it.”
+This is why project management always feels so bad. 
+All these unrealistic expectations. All these obstacles that weren’t imagine in the initial idea that stop the project in its tracks. Those aren’t misfortunes, those aren’t bad luck. They’re built into the way that the process of getting ideas for projects and then funding them, and then implementing them, works.
+But just while I was talking yesterday, then I also realised.
+BIG SECRET #2 Part 1
+There’s no easy way out of this bind. And actually, the easy ways out of it are disastrous.
+You can’t pander too much to the dream. This is the mistake that you see most often. You can’t completely pretend that everything’s fine. If the technology doesn’t work, it doesn’t work. If the project is cost five times what it was budgeted to cost, maybe that can be looked at, but it can’t be ignored. If the users hate it, they hate it.
+BIG SECRET #2 Part 2
+But also – and this is the revelation, the real revelation that’s been floating about in the back of my head for a while but came out while I was talking yesterday.
+You can’t use reality to punch the idea in the face. When you can see what’s going on, this is so tempting, even intuitive. You can totally see that this technology isn’t out of the alpha phase, you can see that the users want an entirely different, obvious, useful set of functions. Yes, it can be delivered by Christmas, but not *this* Christmas.
+And I’ve done this way too many times. And it’s caused so much trouble. 
+A project is a negotiation between the idea and the reality. There are some solid things you can do to improve this negotiation. Talking to potential users; building working software; and better understanding the environment in which this product is being produced.  And once you’ve connected real software, with real users in a way that’s viable in this particular environment, then it’s a whole different ball game.
+But until you do, you have to be gentle with the idea and not punch it in the face.
 
-This means that on every project that has finally gotten the go ahead and has been funded, someone has done that. Someone has drawn a ring around all of the rational thought, stopped counting the potential costs, stopped identifying the risks and said, “fuck it.”
-What this means is that someone has behaved recklessly. But very often it’s difficult to spot this, even at the moment that it’s happened, because almost immediately that this reckless act has occurred, a bunch of simultaneous operations leap in to action to cover it up.
-
-### The hiding hand
-The economist Albert Hirschmann coined the term “hiding hand” as a reference to another economist, Adam Smith’s term the “guiding hand.” Hirschmann worked on a number of projects for the world bank, many of which were obviously risky and unlikely to succeed, or pay off in the way that they suggested they would. He noticed that many of the people involved in the projects, even though they could see what he could see, contrived to avoid noticing that the projects were doomed, or would not deliver the value that they promised.
-
-This is closely connected to the idea of “Agreed Activity” that we talked about when we talked about the Pirate ship. At the beginning of a project many of the people involved are strongly incentivised to avoid seeing the potential problems.  The people who are going to work on the project don’t want to point out any glaring problems because they would like the work. The people who have funded the project don’t want to hear that they’ve just sunk their money into something that’s going to be a disaster, and the people who got the project funded definitely don’t want anybody to hear that the idea that they’ve got everybody to support and work on is flawed in some way.
-
-### Project management theatre
-[Something here] 
-
-### Commitment and consistency Jujitsu
-
-
-### Heads I win tails you lose
-Why would anybody ever make risky bets? There are actually lots of reasons.
-
-One reason is that some bets pay off, it may be very difficult to figure out the risks of the project failing but there is an obvious benefit that is in plain sight. For example. What if a competitor is showing that they have a clear advantage because they have a particular piece of technology? What if the competitor isn’t managing to use this technology ? But it looks like your organisation might be in a position to use it? Is now the time to carefully examine all the possible risks of trying to do the same thing? Or is now the time to draw the bounds of rationality relatively tightly. Is now the time to shrug and say “Fuck it?”
-
-But there’s another aspect to the betting and risk taking surrounding projects. When a gambler makes a bet, if they win, they get the reward. But the down side of this of course is that if a gambler makes a bet and doesn’t win, they have to deal with the losses.
-
-This isn’t mostly the case with projects, especially in big organisations.
-
-Here’s the simple fact. People can start projects, those projects might be a gamble, those projects will very probably be a gamble. But if the project goes wrong, the people who started the project don’t have to be around to suffer the losses.
-
-The is something that the writer Venkatesh Rao calls “Heads I win, tails you lose.” 
-
-Some people have a way of looking at projects, which means that if a project is a success, they will be around to take the credit, and if a project isn’t a success they will be nowhere to be seen.
-
-Of course, this changes the “Risk profile” of the kinds of projects that are likely get funded and developed. What kind of projects will someone try to get funded? If this someone knows that they can take the credit if the project goes well, but be nowhere to be seen if the project doesn’t go well? These could be very risky projects indeed.  
-
-And understanding that the project that you're working on has profound consequences. It certainly has profound consequences for the idea of projects management being about keeping promises.
