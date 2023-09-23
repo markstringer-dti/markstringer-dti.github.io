@@ -32,6 +32,7 @@ Starting to build something can (should) involve talking to potential users.  Ma
 Staring to build something costs. And extrapolating those costs and plotting them against progress can start to show that there’s no way the idea is deliverable by a particular deadline, or that it’s going to cost way more than was first imagined.
 
 BIG SECRET #1
+
 Here’s what I thought, until yesterday, was the big secret, the big reveal about all this thinking about value streams.
 This conflicted space, this struggle between the idea value stream and real value stream, which you’re trying to build, but which doesn’t yet exist, this is where project management always lives. 
 
@@ -41,11 +42,13 @@ All these unrealistic expectations. All these obstacles that weren’t imagine i
 But just while I was talking yesterday, then I also realised.
 
 BIG SECRET #2 Part 1
+
 There’s no easy way out of this bind. And actually, the easy ways out of it are disastrous.
 
 You can’t pander too much to the dream. This is the mistake that you see most often. You can’t completely pretend that everything’s fine. If the technology doesn’t work, it doesn’t work. If the project is cost five times what it was budgeted to cost, maybe that can be looked at, but it can’t be ignored. If the users hate it, they hate it.
 
 BIG SECRET #2 Part 2
+
 But also – and this is the revelation, the real revelation that’s been floating about in the back of my head for a while but came out while I was talking yesterday.
 
 You can’t use reality to punch the idea in the face. When you can see what’s going on, this is so tempting, even intuitive. You can totally see that this technology isn’t out of the alpha phase, you can see that the users want an entirely different, obvious, useful set of functions. Yes, it can be delivered by Christmas, but not *this* Christmas.
