@@ -33,6 +33,7 @@ Staring to build something costs. And extrapolating those costs and plotting the
 
 BIG SECRET #1
 
+
 Here’s what I thought, until yesterday, was the big secret, the big reveal about all this thinking about value streams.
 This conflicted space, this struggle between the idea value stream and real value stream, which you’re trying to build, but which doesn’t yet exist, this is where project management always lives. 
 
@@ -42,6 +43,7 @@ All these unrealistic expectations. All these obstacles that weren’t imagine i
 But just while I was talking yesterday, then I also realised.
 
 BIG SECRET #2 Part 1
+
 
 There’s no easy way out of this bind. And actually, the easy ways out of it are disastrous.
 
