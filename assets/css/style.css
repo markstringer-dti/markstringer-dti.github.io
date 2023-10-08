@@ -32,6 +32,8 @@ h6 {
     font-size:0.5em;
     margin-left: 120px;
     white-space: pre-line;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
 }
 
 /* Style for H8 which doesn't officially exist */
@@ -39,4 +41,6 @@ h6 {
     font-size:0.45em;
     margin-left: 140px;
     white-space: pre-line;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
 }
