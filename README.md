@@ -1,3 +1,6 @@
+<link href="style. css" rel="stylesheet"></link> 
+
+
 ==============
 
 Detailed Outline
