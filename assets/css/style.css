@@ -28,13 +28,14 @@ h6 {
   margin-left: 100px; /* Indent h6 by 100px (or adjust as needed) */
 }
 /* Style for H7 which doesn't officially exist */
-h7 {
+.h7 {
     font-size:0.5em;
     margin-left: 120px;
 }
 
 /* Style for H8 which doesn't officially exist */
-h8 {
+.h8 {
     font-size:0.45em;
+    display: block;
     margin-left: 140px;
 }

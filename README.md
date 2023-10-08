@@ -247,11 +247,11 @@ Chapter 3 - Escape
 
 ###### Almost no one else wants early working software
 
-<h7 role="heading" aria-level="7">Users want a fully formed system</h7>
+<h7 class="h7">Users want a fully formed system</h7>
 
-<h7 role="heading" aria-level="7">Sponsors don't want to be embarrassed</h7>
+<h7 class="h7">Sponsors don't want to be embarrassed</h7>
 
-<h7 role="heading" aria-level="7">Developers don't want to be embarrassed</h7>
+<h7 class="h7">Developers don't want to be embarrassed</h7>
 
 Chapter 4 -- The pirate ship
 ----------------------------
@@ -321,7 +321,7 @@ Chapter 5 -- Everything is a bet
 
 ###### It's a good idea to do \*some\* investigation before starting a project
 
-<h7 role="heading" aria-level="7">This should be fixed length, fix resources because...</h7>
+<h7 class="h7">This should be fixed length, fix resources because...</h7>
 
 ###### There's a real danger of never being able to escape this phase and getting stuck in "analysis paralysis."
 
@@ -367,13 +367,13 @@ Chapter 5 -- Everything is a bet
 
 ###### User research
 
-<h7 role="heading" aria-level="7">Doing user research can discover value</h7>
+<h7 class="h7">Doing user research can discover value</h7>
 
 ###### Incremental delivery of working software
 
-<h7 role="heading" aria-level="7">Incremental delivering is a series of "small bets"</h7>
+<h7 class="h7">Incremental delivering is a series of "small bets"</h7>
 
-<h7 role="heading" aria-level="7">Feedback from these "small bets" informs future increments</h7>
+<h7 class="h7">Feedback from these "small bets" informs future increments</h7>
 
 Part 2 -- Unhelpful ways of looking at projects
 -----------------------------------------------
@@ -459,7 +459,7 @@ Chapter 6 -- Keeping a promise
 
 ###### Strong, strong temptation for "agreed activity"
 
-<h7 role="heading" aria-level="7">Reporting progress as expenditure</h7>
+<h7 class="h7">Reporting progress as expenditure</h7>
 
 #### Build trust
 
@@ -628,7 +628,7 @@ Chapter 9 -- All
 
 ###### Very often pull will completely re-organise the project's priorities
 
-<h7 role="heading" aria-level="7">Story about large project at publishing company</h7>
+<h7 class="h7">Story about large project at publishing company</h7>
 
 Part 3 -- Practical Suggestions
 -------------------------------
@@ -668,19 +668,19 @@ Chapter 10 -- Chapter CAR
 
 ###### Looking only inside the car isn't good
 
-<h7 role="heading" aria-level="7">But check the instruments</h7>
+<h7 class="h7">But check the instruments</h7>
 
-<h7 role="heading" aria-level="7">Check a map (if it's safe)</h7>
+<h7 class="h7">Check a map (if it's safe)</h7>
 
 ###### Looking only at the horizon isn't good
 
-<h7 role="heading" aria-level="7">But check</h7>
+<h7 class="h7">But check</h7>
 
-<h8 role="heading" aria-level="8">Weather</h8>
+<h8 class="h8">Weather</h8>
 
-<h8 role="heading" aria-level="8">Obvious signs of an obstruction</h8>
+<h8 class="h8">Obvious signs of an obstruction</h8>
 
-<h8 role="heading" aria-level="8">Signposts</h8>
+<h8 class="h8">Signposts</h8>
 
 ###### Mainly look at the road immediately ahead
 
@@ -783,9 +783,9 @@ Chapter 13 -- Advice for senior stakeholders
 
 ###### But you need to understand that 
 
-<h7 role="heading" aria-level="7">"All unhappy families are different"</h7>
+<h7 class="h7">"All unhappy families are different"</h7>
 
-<h7 role="heading" aria-level="7">And there are no happy organisations</h7>
+<h7 class="h7">And there are no happy organisations</h7>
 
 ### The Bet
 
@@ -795,7 +795,7 @@ Chapter 13 -- Advice for senior stakeholders
 
 ###### You can use HIWTYL 
 
-<h7 role="heading" aria-level="7">Everybody else will!</h7>
+<h7 class="h7">Everybody else will!</h7>
 
 ###### You can "lay off" the massive bet by allowing a series of smaller ones
 
