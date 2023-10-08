@@ -1,0 +1,30 @@
+/* Style for h1 */
+h1 {
+  margin-left: 0; /* Reset margin for h1 */
+}
+
+/* Style for h2 */
+h2 {
+  margin-left: 20px; /* Indent h2 by 20px (or adjust as needed) */
+}
+
+/* Style for h3 */
+h3 {
+  margin-left: 40px; /* Indent h3 by 40px (or adjust as needed) */
+}
+
+/* Style for h4 */
+h4 {
+  margin-left: 60px; /* Indent h4 by 60px (or adjust as needed) */
+}
+
+/* Style for h5 */
+h5 {
+  margin-left: 80px; /* Indent h5 by 80px (or adjust as needed) */
+}
+
+/* Style for h6 */
+h6 {
+  margin-left: 100px; /* Indent h6 by 100px (or adjust as needed) */
+}
+

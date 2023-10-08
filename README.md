@@ -1,5 +1,4 @@
-<link href="style. css" rel="stylesheet"></link> 
-
+<link rel="stylesheet" href="/assets/css/style.css">
 
 ==============
 
