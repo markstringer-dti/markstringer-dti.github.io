@@ -31,12 +31,12 @@ h6 {
 .h7 {
     font-size:0.5em;
     margin-left: 120px;
-    display: block;
+    white-space: pre-line;
 }
 
 /* Style for H8 which doesn't officially exist */
 .h8 {
     font-size:0.45em;
-    display: block;
     margin-left: 140px;
+    white-space: pre-line;
 }
