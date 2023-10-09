@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="../assets/css/style.css">
-
 ==============
 
 Detailed Outline
@@ -247,11 +245,11 @@ Chapter 3 - Escape
 
 ###### Almost no one else wants early working software
 
-<div class="h7">Users want a fully formed system</div>
+<div class="h7"> Users want a fully formed system</div>
 
-<div class="h7">Sponsors don't want to be embarrassed</div>
+<div class="h7"> Sponsors don't want to be embarrassed</div>
 
-<div class="h7">Developers don't want to be embarrassed</div>
+<div class="h7"> Developers don't want to be embarrassed</div>
 
 Chapter 4 -- The pirate ship
 ----------------------------
@@ -321,7 +319,7 @@ Chapter 5 -- Everything is a bet
 
 ###### It's a good idea to do \*some\* investigation before starting a project
 
-<div class="h7">This should be fixed length, fix resources because...</div>
+<div class="h7"> This should be fixed length, fix resources because...</div>
 
 ###### There's a real danger of never being able to escape this phase and getting stuck in "analysis paralysis."
 
@@ -367,13 +365,13 @@ Chapter 5 -- Everything is a bet
 
 ###### User research
 
-<div class="h7">Doing user research can discover value</div>
+<div class="h7"> Doing user research can discover value</div>
 
 ###### Incremental delivery of working software
 
-<div class="h7">Incremental delivering is a series of "small bets"</div>
+<div class="h7"> Incremental delivering is a series of "small bets"</div>
 
-<div class="h7">Feedback from these "small bets" informs future increments</div>
+<div class="h7"> Feedback from these "small bets" informs future increments</div>
 
 Part 2 -- Unhelpful ways of looking at projects
 -----------------------------------------------
@@ -459,7 +457,7 @@ Chapter 6 -- Keeping a promise
 
 ###### Strong, strong temptation for "agreed activity"
 
-<div class="h7">Reporting progress as expenditure</div>
+<div class="h7"> Reporting progress as expenditure</div>
 
 #### Build trust
 
@@ -628,7 +626,7 @@ Chapter 9 -- All
 
 ###### Very often pull will completely re-organise the project's priorities
 
-<div class="h7">Story about large project at publishing company</div>
+<div class="h7"> Story about large project at publishing company</div>
 
 Part 3 -- Practical Suggestions
 -------------------------------
@@ -668,19 +666,19 @@ Chapter 10 -- Chapter CAR
 
 ###### Looking only inside the car isn't good
 
-<div class="h7">But check the instruments</div>
+<div class="h7"> But check the instruments</div>
 
-<div class="h7">Check a map (if it's safe)</div>
+<div class="h7"> Check a map (if it's safe)</div>
 
 ###### Looking only at the horizon isn't good
 
-<div class="h7">But check</div>
+<div class="h7"> But check</div>
 
-<div class="h8">Weather</div>
+<div class="h8"> Weather</div>
 
-<div class="h8">Obvious signs of an obstruction</div>
+<div class="h8"> Obvious signs of an obstruction</div>
 
-<div class="h8">Signposts</div>
+<div class="h8"> Signposts</div>
 
 ###### Mainly look at the road immediately ahead
 
@@ -783,9 +781,9 @@ Chapter 13 -- Advice for senior stakeholders
 
 ###### But you need to understand that 
 
-<div class="h7">"All unhappy families are different"</div>
+<div class="h7"> "All unhappy families are different"</div>
 
-<div class="h7">And there are no happy organisations</div>
+<div class="h7"> And there are no happy organisations</div>
 
 ### The Bet
 
@@ -795,7 +793,7 @@ Chapter 13 -- Advice for senior stakeholders
 
 ###### You can use HIWTYL 
 
-<div class="h7">Everybody else will!</div>
+<div class="h7"> Everybody else will!</div>
 
 ###### You can "lay off" the massive bet by allowing a series of smaller ones
 
@@ -841,4 +839,58 @@ Chapter 13 -- Advice for senior stakeholders
 
 Chapter 14 -- Conclusion
 ------------------------
+
+### Tension is built into the way that projects originate
+
+### Throughout most of a project we can't relieve that tension completely
+
+#### But we can
+
+##### Talk to the people who are going to use the software
+
+##### Understand the swamp, it's inhabitants and other stakeholders
+
+##### Connect working software as soon as possible.
+
+##### And if we do these things, we can discover...
+
+### Hope
+
+#### There are other ways of looking at projects
+
+##### These aren't the onese that you thought of first
+
+#### If you look at projects in these way
+
+##### Increase the chances of the project being a success
+
+##### Reduces the chances of you being hard on yourself or others
+
+### Joy
+
+#### If you and your team get it right, sometimes it sings
+
+##### You have a feeling that the team is working with maximum effectiveness
+
+##### Even for brief period the obstacles that slow the project down are out of the way
+
+#### You deliver something of genuine value for you and your organisation
+
+##### Share prices go up
+
+##### Customer satisfaction rates go up
+
+##### You do real good in the world
+
+###### You help people buy reliable second hand mobile phones
+
+###### You help undergraduates study for an exam -- real project
+
+###### You help cure cancer and fight COVID-19 -- real project
+
+#### Arthur C Clarke "Sufficiently advanced technology is indistinguishable from magic."
+
+##### When things go right
+
+###### You've delivered some magic:
 
