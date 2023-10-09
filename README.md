@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="../assets/css/style.css">
 
-
 ============
 
 Detailed Outline
