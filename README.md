@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="../assets/css/style.css">
 
+
 ============
 
 Detailed Outline
@@ -571,7 +572,9 @@ Chapter 8 -- Faster
 
 ##### Burning man
 
-#### Develop an understanding in the team of what theyr're capable of
+###### But celebrate success
+
+#### Develop an understanding in the team of what they're capable of
 
 Chapter 9 -- All
 ----------------
@@ -704,6 +707,72 @@ Chapter 10 -- Chapter CAR
 
 Chapter 11 -- Fried Egg Agile
 -----------------------------
+
+### My fried egg
+
+#### Meetings
+
+##### Keep to time
+
+##### Same time
+
+##### Same place
+
+##### Battle "entouraging."
+
+##### The meetings
+
+###### Standup
+
+###### Planning
+
+###### Mid-sprint check
+
+###### Show and Tell
+
+###### Retrospective
+
+###### Risks and Issues
+
+##### Create artefacts for side-by-side discussion
+
+###### Burn up charts
+
+<div class="h7"> My heretic approach to estimation</div>
+
+###### Risk charts
+
+###### Weekly reports
+
+### Knobs
+
+#### Original idea has been shown to be a success
+
+##### Lots of variations
+
+###### Cadence
+
+###### Backlog depth
+
+###### Story depth
+
+###### Frequency of release
+
+##### Variations are different settings for the parameters
+
+###### You're in a swamp
+
+###### You might need to set the parameter differently
+
+##### Remember, it's a lightweight methodology 
+
+###### Nearly nothing is mandated
+
+##### You're the drummer
+
+###### Find the rhythm
+
+###### Keep it going
 
 Chapter 12 -- Tips from Negotiation
 -----------------------------------
