@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="../assets/css/style.css">
 
 
-============
 
-Detailed Outline
+Delivering the Impossible - Detailed Outline
 ================
 
 Introduction
