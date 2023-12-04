@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="../assets/css/style.css">
+
+# The nonsense 
+
 So this is my quandary. I want to write about the difficulty i've had working on projects that make no sense. I've worked on several. For example the DQ project. The aim of the project was to "digitize" a multi-stage administrative process. But the project was nonsense for a lot of reasons.
 1. There was an insistence that all the software development be done on a remote development environment - for reasons of security.
 2. That was an insistence that all the code that was written should go through a code checking program as part of the build. Some of the rules that the code quality checker used weren't relevant to what we were writing. But we couldn't get permission to change the file that contained the rules.
