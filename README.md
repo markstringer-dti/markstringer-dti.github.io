@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/css/style.css">
-# All projects are bets
 
+# All projects are bets
 
 This is what I've been writing about for the last two months.
 
