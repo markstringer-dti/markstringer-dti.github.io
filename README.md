@@ -1,1 +1,1 @@
-![ Delivering the Impossible ](cover.png)
+![ Delivering the Impossible ](/cover.png)
