@@ -1,9 +1,8 @@
 title: '' 
-description: Seven Metaphors for Successful Software Development
+description: A Short Talk About How to Rule the World
 google_analytics: G-345WL7CESW 
 remote_theme: 
   pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 sass_dir: assets/css/
-baseurl: /markstringer-dti.github.io
